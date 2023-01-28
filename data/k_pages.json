@@ -1,0 +1,604 @@
+[
+    {
+        "id": 24,
+        "date": "2023-01-20T12:26:19",
+        "date_gmt": "2023-01-20T17:26:19",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=24"
+        },
+        "modified": "2023-01-24T13:14:23",
+        "modified_gmt": "2023-01-24T18:14:23",
+        "slug": "team-schedule",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/team-schedule/",
+        "title": {
+            "rendered": "Team Schedule"
+        },
+        "content": {
+            "rendered": "\n<p>Coach Meeting: Monday 3:30 pm &#8211; 4:00 pm<br>Team Meeting: Tuesday 12:30 pm &#8211; 2:00 pm </p>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Coach Meeting: Monday 3:30 pm &#8211; 4:00 pmTeam Meeting: Tuesday 12:30 pm &#8211; 2:00 pm</p>\n",
+            "protected": false
+        },
+        "author": 13800,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/24"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/13800"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=24"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/24/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 89,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/24/revisions/89"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=24"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "date": "2023-01-20T12:24:22",
+        "date_gmt": "2023-01-20T17:24:22",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=36"
+        },
+        "modified": "2023-01-24T13:11:05",
+        "modified_gmt": "2023-01-24T18:11:05",
+        "slug": "related-links",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/related-links/",
+        "title": {
+            "rendered": "Related Links"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" data-type=\"URL\" data-id=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">Micromoment Activities Masterlist</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Micromoment Activities Masterlist</p>\n",
+            "protected": false
+        },
+        "author": 6693,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/36"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/6693"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=36"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/36/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 84,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/36/revisions/84"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=36"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "date": "2023-01-20T12:24:02",
+        "date_gmt": "2023-01-20T17:24:02",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=33"
+        },
+        "modified": "2023-01-24T13:13:48",
+        "modified_gmt": "2023-01-24T18:13:48",
+        "slug": "journal",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/journal/",
+        "title": {
+            "rendered": "Journal"
+        },
+        "content": {
+            "rendered": "\n<h6>Team Meeting #1 (Jan 24, 2023)</h6>\n\n\n\n<ul>\n<li>Going forward, team meetings are on Tuesdays at 12:30</li>\n\n\n\n<li>Updated website with actual project information (Project Introduction, Related Links pages)</li>\n\n\n\n<li>Emailed client to introduce ourselves + ask for his availability</li>\n\n\n\n<li>Updated Journal with team meeting notes</li>\n\n\n\n<li>Brainstormed questions for client\n<ul>\n<li>Due to the time/resource constraint, we may not be able to develop the app for both iOS and Android. What platform would you prefer we focus on?</li>\n\n\n\n<li>Are there any specific technologies or languages that you prefer we use?</li>\n\n\n\n<li>Is there a typo on the website related to question frenzy being repeated so often?</li>\n\n\n\n<li>Ask more specific details about Curiosity, Connections, Creating Value. What distinguishes them from each other?</li>\n\n\n\n<li>When users are searching for activities, what will they be able to filter the search based on? (theme, time, name?)</li>\n\n\n\n<li>Specific Style Guide. UI preferences. Font. Colors. Also will he provide the logo file in some diff formats (svg, png, etc)?</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #1 (Jan 23, 2023)</h6>\n\n\n\n<ul>\n<li>Action items:\n<ul>\n<li>Update website with actual project information</li>\n\n\n\n<li>Schedule meeting with client</li>\n\n\n\n<li>Update Journal for team meeting #1</li>\n\n\n\n<li>Brainstorm questions for client</li>\n\n\n\n<li>Work on next week&#8217;s deliverables (spec, user stories)</li>\n</ul>\n</li>\n\n\n\n<li>Advice:\n<ul>\n<li>Take a look at Trello</li>\n\n\n\n<li>Try to use kanban</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Team Meeting #1 (Jan 24, 2023) Coach Meeting #1 (Jan 23, 2023)</p>\n",
+            "protected": false
+        },
+        "author": 6693,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/6693"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=33"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 88,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions/88"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=33"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "date": "2023-01-20T12:21:52",
+        "date_gmt": "2023-01-20T17:21:52",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=26"
+        },
+        "modified": "2023-01-24T13:12:20",
+        "modified_gmt": "2023-01-24T18:12:20",
+        "slug": "introduction",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/",
+        "title": {
+            "rendered": "Project Introduction"
+        },
+        "content": {
+            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material.</p>\n\n\n\n<p>In line with this initiative, our team is developing an teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Micromoment Card Deck As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material. In line with this initiative, our team is developing an teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teamk2023/\">Continue reading <span class=\"screen-reader-text\">Project Introduction</span></a></p>\n",
+            "protected": false
+        },
+        "author": 999,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/999"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=26"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 12,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 86,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/86"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=26"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "date": "2023-01-20T12:18:00",
+        "date_gmt": "2023-01-20T17:18:00",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=19"
+        },
+        "modified": "2023-01-20T12:30:40",
+        "modified_gmt": "2023-01-20T17:30:40",
+        "slug": "contact-info",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/contact-info/",
+        "title": {
+            "rendered": "Contact Information"
+        },
+        "content": {
+            "rendered": "\n<p>Edward Feng (efeng@live.unc.edu)</p>\n\n\n\n<p>William Mao (willmao1@live.unc.edu)</p>\n\n\n\n<p>Claire Liang (kelei@live.unc.edu)</p>\n\n\n\n<p>Eric Yoo (ericyoo@live.unc.edu)</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Edward Feng (efeng@live.unc.edu) William Mao (willmao1@live.unc.edu) Claire Liang (kelei@live.unc.edu) Eric Yoo (ericyoo@live.unc.edu)</p>\n",
+            "protected": false
+        },
+        "author": 6693,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/19"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/6693"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=19"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 7,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/19/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 49,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/19/revisions/49"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=19"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "date": "2023-01-20T12:16:30",
+        "date_gmt": "2023-01-20T17:16:30",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=14"
+        },
+        "modified": "2023-01-20T12:26:56",
+        "modified_gmt": "2023-01-20T17:26:56",
+        "slug": "team-roles",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/team-roles/",
+        "title": {
+            "rendered": "Team Roles"
+        },
+        "content": {
+            "rendered": "\n<p>Client Manager &#8211; Claire Liang</p>\n\n\n\n<p>Project Manager &#8211; Edward Feng</p>\n\n\n\n<p>Tech Lead &#8211; William Mao</p>\n\n\n\n<p>Design Lead &#8211; Eric Yoo</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Client Manager &#8211; Claire Liang Project Manager &#8211; Edward Feng Tech Lead &#8211; William Mao Design Lead &#8211; Eric Yoo</p>\n",
+            "protected": false
+        },
+        "author": 6693,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/14"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/6693"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=14"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/14/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 44,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/14/revisions/44"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=14"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "date": "2023-01-20T12:16:14",
+        "date_gmt": "2023-01-20T17:16:14",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=9"
+        },
+        "modified": "2023-01-24T12:44:10",
+        "modified_gmt": "2023-01-24T17:44:10",
+        "slug": "team-rules",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/team-rules/",
+        "title": {
+            "rendered": "Team Rules"
+        },
+        "content": {
+            "rendered": "\n<ol>\n<li>Keep Tuesdays 12:30 &#8211; 2pm open for meetings.</li>\n\n\n\n<li>Respond to messages within 24 hours.\n<ul>\n<li>Main Media: email, group text</li>\n</ul>\n</li>\n\n\n\n<li>If a team member will be late or cannot attend a meeting, notify ASAP, preferably at least 24 hours in advance.\n<ul>\n<li>If a team member cannot attend a meeting, they should send a progress update in advance and read meeting notes afterward.</li>\n</ul>\n</li>\n\n\n\n<li>Update regularly regarding task progress and timeline.</li>\n\n\n\n<li>All team members should be transparent about what they&#8217;re currently working on to avoid multiple team members creating the same feature.</li>\n</ol>\n\n\n\n<h2>Coding Practices</h2>\n\n\n\n<ol>\n<li>Create modules, classes, functions, variables, etc. with meaningful names.</li>\n\n\n\n<li>Create docstrings for complex functions.</li>\n\n\n\n<li>Keep pull requests small (preferably &lt;200 lines).</li>\n\n\n\n<li>All pull requests should have at least one approval by another team member before merging.</li>\n\n\n\n<li>Always following existing naming conventions from the rest of the codebase for variables, methods, classes, file names, etc.\n<ul>\n<li>If a team member wishes to refactor to a new system, discuss with the rest of the team first.</li>\n</ul>\n</li>\n</ol>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Coding Practices</p>\n",
+            "protected": false
+        },
+        "author": 6693,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/9"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/6693"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=9"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 18,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/9/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 69,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/9/revisions/69"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=9"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

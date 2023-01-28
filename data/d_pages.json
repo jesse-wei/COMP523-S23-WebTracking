@@ -1,0 +1,432 @@
+[
+    {
+        "id": 52,
+        "date": "2023-01-13T13:38:36",
+        "date_gmt": "2023-01-13T18:38:36",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=52"
+        },
+        "modified": "2023-01-27T23:09:37",
+        "modified_gmt": "2023-01-28T04:09:37",
+        "slug": "team-rules",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/team-rules/",
+        "title": {
+            "rendered": "Team rules"
+        },
+        "content": {
+            "rendered": "\n<ol>\n<li>Treat each other with respect.</li>\n\n\n\n<li>Communicate in a timely manner.\n<ul>\n<li>Discord and Zoom for async/sync team communication</li>\n\n\n\n<li>Zoom, Slack, and email for client communication</li>\n\n\n\n<li>Perhaps other platforms (maybe Trello) as needs are more clearly defined</li>\n</ul>\n</li>\n\n\n\n<li>Meet roughly once per week for 15-30 min.\n<ul>\n<li>We will decide between M/W (whichever will be more productive/convenient) on a weekly basis.</li>\n</ul>\n</li>\n\n\n\n<li>If one of us will be late to or can&#8217;t attend a team meeting, then we&#8217;ll notify the team as soon as possible.</li>\n\n\n\n<li>We&#8217;re all expected to attend all client and coach meetings. If extenuating circumstances come up, then we&#8217;ll try to notify the team ASAP and provide the information that would have been shared at the meeting.</li>\n\n\n\n<li>Follow code standards. If borrowing code, cite the source.</li>\n\n\n\n<li>Try to have feature branches instead of pushing directly to the main branch (at least as things are more developed).</li>\n</ol>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=52"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 130,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52/revisions/130"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=52"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "date": "2023-01-13T13:35:09",
+        "date_gmt": "2023-01-13T18:35:09",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=50"
+        },
+        "modified": "2023-01-27T23:17:24",
+        "modified_gmt": "2023-01-28T04:17:24",
+        "slug": "schedule",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/schedule/",
+        "title": {
+            "rendered": "Schedule"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Client meetings: Wednesdays 10:15 am, usually Zoom</li>\n\n\n\n<li>Coach meetings: Tuesdays 4:00 pm, Zoom</li>\n\n\n\n<li>Team meetings: Mondays or Wednesdays, in-person</li>\n</ul>\n\n\n\n\n<!-- iframe plugin v.4.5 wordpress.org/plugins/iframe/ -->\n<iframe src=\"https://calendar.google.com/calendar/embed?src=4c3965fbeb7ce26c36c8d3aac16a097ab79580a83b564211aead71b7b82617c8%40group.calendar.google.com&#038;ctz=America%2FNew_York\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" 0=\"scrolling=&quot;no”\" scrolling=\"yes\" class=\"iframe-class\"></iframe>\n\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=50"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 132,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50/revisions/132"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=50"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "date": "2023-01-13T12:33:00",
+        "date_gmt": "2023-01-13T17:33:00",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=37"
+        },
+        "modified": "2023-01-27T23:04:55",
+        "modified_gmt": "2023-01-28T04:04:55",
+        "slug": "journal",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/journal/",
+        "title": {
+            "rendered": "Journal"
+        },
+        "content": {
+            "rendered": "\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project. Our notes contain enough information for the project concept and user stories.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>1/27/23 (Client in-person) 1/24/23 (Team Discord) 1/24/23 (Coach Zoom) 1/20/23 (Team async discussion) 1/18/23 (Team Zoom) 1/11/23 (Team in-person)</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=37"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 20,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 128,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/128"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=37"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "date": "2023-01-13T12:17:33",
+        "date_gmt": "2023-01-13T17:17:33",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=28"
+        },
+        "modified": "2023-01-24T19:50:35",
+        "modified_gmt": "2023-01-25T00:50:35",
+        "slug": "homepage",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/",
+        "title": {
+            "rendered": "Our project"
+        },
+        "content": {
+            "rendered": "\n<p>Implementation of a tool/app (for macOS and/or Linux) that allows the automatic/semi-automatic computation of the head circumference measure from an MR Image. Prior code for the computation exists and might need conversion/adaption. An intuitive user-interface made for biomedical users is a major need.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Implementation of a tool/app (for macOS and/or Linux) that allows the automatic/semi-automatic computation of the head circumference measure from an&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=28"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 104,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions/104"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=28"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "date": "2023-01-11T10:13:30",
+        "date_gmt": "2023-01-11T15:13:30",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=7"
+        },
+        "modified": "2023-01-27T21:35:46",
+        "modified_gmt": "2023-01-28T02:35:46",
+        "slug": "team",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/team/",
+        "title": {
+            "rendered": "Contact"
+        },
+        "content": {
+            "rendered": "\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:u1643364@cs.unc.edu,hankhe@ad.unc.edu,madiali@ad.unc.edu,jesse@cs.unc.edu\">Email all</a></div>\n</div>\n\n\n\n<ul>\n<li>Eric Schneider (Tech Lead) (<a href=\"mailto:u1643364@live.unc.edu\">u1643364@live.unc.edu</a> or <a href=\"mailto:u1643364@cs.unc.edu\">u1643364@cs.unc.edu</a>)</li>\n\n\n\n<li>Peifeng He (Tech Lead) (<a href=\"mailto:hankhe@ad.unc.edu\">hankhe@ad.unc.edu</a>)</li>\n\n\n\n<li>Madison Lester (Design Lead) (<a href=\"mailto:madiali@ad.unc.edu\">madiali@ad.unc.edu</a>)</li>\n\n\n\n<li>Jesse Wei (Client Manager) (<a href=\"mailto:jesse@cs.unc.edu\" data-type=\"mailto\" data-id=\"mailto:jesse@cs.unc.edu\">jesse@cs.unc.edu</a>)</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1369,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/7"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/1369"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=7"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 11,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/7/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 121,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/7/revisions/121"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=7"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

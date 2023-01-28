@@ -1,0 +1,776 @@
+[
+    {
+        "id": 65,
+        "date": "2023-01-16T19:47:04",
+        "date_gmt": "2023-01-17T00:47:04",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=65"
+        },
+        "modified": "2023-01-23T12:09:30",
+        "modified_gmt": "2023-01-23T17:09:30",
+        "slug": "rules",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/rules/",
+        "title": {
+            "rendered": "Rules"
+        },
+        "content": {
+            "rendered": "\n<ol>\n<li>Be nice to one another and maintain a healthy team environment.</li>\n\n\n\n<li>Communication will be done primarily through GroupMe.</li>\n\n\n\n<li>If someone is unable to attend a team/coach/client meeting they must notify the team ASAP.</li>\n\n\n\n<li>Meetings will be done once a week for approximately 30 minutes.</li>\n\n\n\n<li>Code will be managed through GitHub.\n<ul>\n<li>Pull requests will be used to merge code and must be reviewed before merging</li>\n</ul>\n</li>\n</ol>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13687,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/65"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/13687"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=65"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/65/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 98,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/65/revisions/98"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=65"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "date": "2023-01-16T19:46:32",
+        "date_gmt": "2023-01-17T00:46:32",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=58"
+        },
+        "modified": "2023-01-16T19:46:32",
+        "modified_gmt": "2023-01-17T00:46:32",
+        "slug": "client",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/client/",
+        "title": {
+            "rendered": "Client"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=58"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 62,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions/62"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=58"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "date": "2023-01-16T19:46:32",
+        "date_gmt": "2023-01-17T00:46:32",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=57"
+        },
+        "modified": "2023-01-16T19:46:32",
+        "modified_gmt": "2023-01-17T00:46:32",
+        "slug": "contact",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/contact/",
+        "title": {
+            "rendered": "Contact"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/57"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=57"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/57/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 61,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/57/revisions/61"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=57"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "date": "2023-01-16T19:27:32",
+        "date_gmt": "2023-01-17T00:27:32",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=39"
+        },
+        "modified": "2023-01-16T19:37:12",
+        "modified_gmt": "2023-01-17T00:37:12",
+        "slug": "home",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/",
+        "title": {
+            "rendered": "Welcome!"
+        },
+        "content": {
+            "rendered": "\n<p>Paragraph 1: Project Intro</p>\n\n\n\n<p>Paragraph 2: Project Intro Cont.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Paragraph 1: Project Intro Paragraph 2: Project Intro Cont.</p>\n",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=39"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 52,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/52"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=39"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "date": "2023-01-16T19:25:57",
+        "date_gmt": "2023-01-17T00:25:57",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=25"
+        },
+        "modified": "2023-01-16T19:25:57",
+        "modified_gmt": "2023-01-17T00:25:57",
+        "slug": "resources",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/resources/",
+        "title": {
+            "rendered": "Resources"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/25"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=25"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/25/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 32,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/25/revisions/32"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=25"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "date": "2023-01-16T19:25:57",
+        "date_gmt": "2023-01-17T00:25:57",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=23"
+        },
+        "modified": "2023-01-24T21:02:57",
+        "modified_gmt": "2023-01-25T02:02:57",
+        "slug": "journal",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/journal/",
+        "title": {
+            "rendered": "Journal"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Tues Jan 24, 2023\n<ul>\n<li>Agenda\n<ul>\n<li>Created google doc with questions to ask client during meeting.</li>\n\n\n\n<li>Confirmed availability for client meeting.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Meet with client.</li>\n\n\n\n<li>Update website with project info.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Mon Jan 23, 2023\n<ul>\n<li>Coach Meeting</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Look into Trello and git hooks for project.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Fri Jan 20, 2023\n<ul>\n<li>Agenda\n<ul>\n<li>Made projects’ preference list.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Get the assigned project.</li>\n\n\n\n<li>Meet with Client.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Mon Jan 16, 2023\n<ul>\n<li>Agenda\n<ul>\n<li>Set up the website and edited content.</li>\n\n\n\n<li>Scheduled weekly team meetings.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Update the website.</li>\n\n\n\n<li>Decide on team project preference.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=23"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 101,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions/101"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=23"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "date": "2023-01-16T19:25:57",
+        "date_gmt": "2023-01-17T00:25:57",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=22"
+        },
+        "modified": "2023-01-16T19:25:57",
+        "modified_gmt": "2023-01-17T00:25:57",
+        "slug": "deliverables",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/deliverables/",
+        "title": {
+            "rendered": "Deliverables"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=22"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 29,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22/revisions/29"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=22"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "date": "2023-01-16T19:25:57",
+        "date_gmt": "2023-01-17T00:25:57",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=21"
+        },
+        "modified": "2023-01-23T12:03:38",
+        "modified_gmt": "2023-01-23T17:03:38",
+        "slug": "meetings",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/meetings/",
+        "title": {
+            "rendered": "Meetings"
+        },
+        "content": {
+            "rendered": "\n<div class=\"is-layout-constrained wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<p><strong>TEAM MEETINGS:</strong></p>\n\n\n\n<p>Every Monday or Wednesday from 10:00 A.M. &#8211; 10:30 A.M. </p>\n\n\n\n<p><strong>COACH MEETINGS:</strong></p>\n\n\n\n<p>Every Monday from 5:30 P.M. &#8211; 6:00 P.M.</p>\n\n\n\n<p><strong>CLIENT MEETINGS: TBD</strong></p>\n</div></div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>TEAM MEETINGS: Every Monday or Wednesday from 10:00 A.M. &#8211; 10:30 A.M. COACH MEETINGS: Every Monday from 5:30 P.M. &#8211;&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/21"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=21"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/21/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 96,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/21/revisions/96"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=21"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "date": "2023-01-16T19:25:57",
+        "date_gmt": "2023-01-17T00:25:57",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=20"
+        },
+        "modified": "2023-01-20T16:34:10",
+        "modified_gmt": "2023-01-20T21:34:10",
+        "slug": "team",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/team/",
+        "title": {
+            "rendered": "Team"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-table\"><table><thead><tr><th>Name</th><th>Email</th><th>Role</th></tr></thead><tbody><tr><td>Jianghao Wu</td><td><a href=\"jianghao.wu@unc.edu\">jianghao.wu@unc.edu</a></td><td>Role A</td></tr><tr><td>Kevin McCabe</td><td><a href=\"mailto:kmccab1@email.unc.edu\">kmccab1@email.unc.edu</a></td><td>Role B</td></tr><tr><td>Guillermo Saez</td><td><a href=\"mailto:guisaez@ad.unc.edu\">guisaez@ad.unc.edu</a></td><td>Role C</td></tr><tr><td>Yuchen Bai</td><td><a href=\"mailto:yuchencc@email.unc.edu\">yuchencc@email.unc.edu</a></td><td>Role D</td></tr></tbody></table></figure>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\">Contact the team</a></div>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Name Email Role Jianghao Wu jianghao.wu@unc.edu Role A Kevin McCabe kmccab1@email.unc.edu Role B Guillermo Saez guisaez@ad.unc.edu Role C Yuchen Bai&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=20"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 81,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions/81"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=20"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,432 @@
+[
+    {
+        "id": 12,
+        "date": "2023-01-25T12:03:41",
+        "date_gmt": "2023-01-25T17:03:41",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=12"
+        },
+        "modified": "2023-01-25T22:02:38",
+        "modified_gmt": "2023-01-26T03:02:38",
+        "slug": "contact-information",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/contact-information/",
+        "title": {
+            "rendered": "Contact Information"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"mailto:lucymac@live.unc.edu; adam1415@live.unc.edu; xdantong@unc.edu; krishna.sudhir@unc.edu\">Team email</a></p>\n\n\n\n<p>Lucy Conway || Phone: +1(914)-953-053 || Email: <a href=\"mailto:lucymac@live.unc.edu\">lucymac@live.unc.edu</a>   </p>\n\n\n\n<p>Adam McMillan || Email: <a href=\"mailto:adam1415@live.unc.edu\">adam1415@live.unc.edu</a></p>\n\n\n\n<p>Dantong Xiang || Phone: +1(984)-758-3199 || Email: <a href=\"mailto:xdantong@unc.edu\">xdantong@unc.edu</a></p>\n\n\n\n<p>Krishna Sudhir || Email: <a href=\"mailto:krishna.sudhir@unc.edu\">krishna.sudhir@unc.edu</a></p>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Team email Lucy Conway || Phone: +1(914)-953-053 || Email: lucymac@live.unc.edu Adam McMillan || Email: adam1415@live.unc.edu Dantong Xiang || Phone: +1(984)-758-3199 || Email: xdantong@unc.edu Krishna Sudhir || Email: krishna.sudhir@unc.edu</p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=12"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 59,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12/revisions/59"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=12"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 40,
+        "date": "2023-01-24T15:49:50",
+        "date_gmt": "2023-01-24T20:49:50",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=40"
+        },
+        "modified": "2023-01-25T12:03:04",
+        "modified_gmt": "2023-01-25T17:03:04",
+        "slug": "homepage",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/",
+        "title": {
+            "rendered": "AcademicLife OS"
+        },
+        "content": {
+            "rendered": "\n<p><strong>AcademicLife OS </strong>is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of options and flexibility, it is purposely restrictive. </p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>AcademicLife OS is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/\">Continue reading <span class=\"screen-reader-text\">AcademicLife OS</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1119,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=40"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 48,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions/48"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=40"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "date": "2023-01-18T16:42:54",
+        "date_gmt": "2023-01-18T21:42:54",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=18"
+        },
+        "modified": "2023-01-25T12:45:54",
+        "modified_gmt": "2023-01-25T17:45:54",
+        "slug": "journal",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/journal/",
+        "title": {
+            "rendered": "Journal"
+        },
+        "content": {
+            "rendered": "\n<p class=\"has-yellow-background-color has-background\"><strong>1/25/2023 &#8211; Team Meeting: </strong>Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal.  </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/24/2023 &#8211; First Coach Meeting: </strong>Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.</p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/18/2023 &#8211; Project Preferences/Website</strong> : Discussed all client project proposals, ranked our preferences and communicated with Professor Stotts. Also began creating our project site. </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/13/2023 &#8211; Initial team meeting</strong>: Introduced ourselves and our experience prior to the class. High level discussed basic rules and expectations.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>1/25/2023 &#8211; Team Meeting: Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal. 1/24/2023 &#8211; First Coach Meeting: Met with Coach Louie for the first time. Discussed upcoming deliverables, and project. 1/18/2023 &#8211; Project Preferences/Website : Discussed all client&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/journal/\">Continue reading <span class=\"screen-reader-text\">Journal</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1119,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=18"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 52,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions/52"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=18"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "date": "2023-01-18T16:41:33",
+        "date_gmt": "2023-01-18T21:41:33",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=14"
+        },
+        "modified": "2023-01-25T12:46:20",
+        "modified_gmt": "2023-01-25T17:46:20",
+        "slug": "meeting-schedule",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/meeting-schedule/",
+        "title": {
+            "rendered": "Meeting Schedule"
+        },
+        "content": {
+            "rendered": "\n<p>Coach Meetings: 3:30-4:00 PM Tuesdays</p>\n\n\n\n<p>Team Meetings: 12:00-2:00 PM Mondays</p>\n\n\n\n<p>Client Meetings: TBD</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Coach Meetings: 3:30-4:00 PM Tuesdays Team Meetings: 12:00-2:00 PM Mondays Client Meetings: TBD</p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=14"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 53,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions/53"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=14"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "date": "2023-01-18T16:38:35",
+        "date_gmt": "2023-01-18T21:38:35",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=16"
+        },
+        "modified": "2023-01-18T16:38:35",
+        "modified_gmt": "2023-01-18T21:38:35",
+        "slug": "team-rules",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/team-rules/",
+        "title": {
+            "rendered": "Team Rules"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Communicate scheduling changes effectively and clearly with group members. </li>\n\n\n\n<li>Approve new changes with team. </li>\n\n\n\n<li>Meet deadlines, and update members on progress.</li>\n\n\n\n<li>Come prepared to all meetings. </li>\n\n\n\n<li>Respond to members, client, and coach in a timely fashion.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1119,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/16"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=16"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/16/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 30,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/16/revisions/30"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=16"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

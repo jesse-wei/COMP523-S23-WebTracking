@@ -1,0 +1,690 @@
+[
+    {
+        "id": 95,
+        "date": "2023-01-23T09:10:38",
+        "date_gmt": "2023-01-23T14:10:38",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=95"
+        },
+        "modified": "2023-01-23T09:10:38",
+        "modified_gmt": "2023-01-23T14:10:38",
+        "slug": "prime-description",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/prime-description/",
+        "title": {
+            "rendered": "PRIME description"
+        },
+        "content": {
+            "rendered": "\n<p>FROM: Daniel Richardson (UNC Lineberger Cancer Center)<br>daniel_richardson@med.unc.edu<br></p>\n\n\n\n<p>Background: I am an oncologist who sees patients with leukemia, an aggressive blood cancer. I lead a research group involving PhD students, medical fellows, and medical students. Our research group has developed a prototype electronic patient-facing values clarification tool for older adults with leukemia called “PRIME” (Preference Reporting to Improve Management and Experience) using Adobe XD. We used a participatory co-design process involving patients, caregivers, and clinicians to develop PRIME. Our formational studies demonstrate that patients and clinicians find PRIME acceptable, and that it may be effective at improving treatment decisions. PRIME uses best-worst scaling (BWS), a simple yet robust values clarification method, to capture patient values. We engaged over 800 patients, caregivers, and oncologists to create and refine a blood cancer specific BWS measure that is used in PRIME. Our goal is that PRIME would generate a personalized values dashboard in real-time to inform shared decision-making between oncologists and patients about chemotherapy.</p>\n\n\n\n<p>Unfortunately, survival is tragically short for most patients with leukemia. It is critical that decisions about chemotherapy are aligned to patient preferences. Choosing the “best” treatment option often depends on what each patient values most: quality of life or living longer. Patients with leukemia differ substantially in their preference for prioritizing these outcomes. Therefore, accurately clarifying patient values is essential to inform treatment decisions and limit unnecessary suffering. This currently is done very poorly as patients and oncologists often do not have the tools to adequately discuss patient preferences and incorporate them into treatment decisions. Currently, no tools have been developed to assist in this process.</p>\n\n\n\n<p>The objective of this proposal is to build upon our current prototype to develop a mHealth application that is able to deliver the BWS measure (and other surveys) to patients and to produce real-time visualizations of their results. We plan to use this tool as part of a randomized clinical trial to improve treatment decision-making among older patients with leukemia. This tool needs to have the following functionality:</p>\n\n\n\n<ol>\n<li>Deliver the BWS measure (similar to a survey) to patients electronically along with other patient-reported outcome measures (electronic consent would be ideal)</li>\n\n\n\n<li>Analyze the results of the BWS measure in real-time.</li>\n\n\n\n<li>Generate a personalized visualization of the results of the BWS (see examples in attached PDFs) for patients including longitudinal results if they have taken the BWS measure more than once.</li>\n\n\n\n<li>Send results of the BWS survey to the treating oncologist.</li>\n\n\n\n<li>Be HIPPA compliant / secure</li>\n</ol>\n\n\n\n<p>Other non-essential functionality would include: &#8211; Incorporate educational videos for patients to orient them to the tool and the study</p>\n\n\n\n<ul>\n<li>Interact with existing electronic health record systems (EPIC, UNC MyChart)</li>\n\n\n\n<li>Securely store all data for all participants</li>\n\n\n\n<li>Incorporate the functionality/usability of our current prototype</li>\n</ul>\n\n\n\n<p>We envision either a web-based platform or an app, either would be appropriate.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>FROM: Daniel Richardson (UNC Lineberger Cancer Center)daniel_richardson@med.unc.edu Background: I am an oncologist who sees patients with leukemia, an aggressive blood cancer. I lead a research group involving PhD students, medical fellows, and medical students. Our research group has developed a prototype electronic patient-facing values clarification tool for older adults with leukemia called “PRIME” (Preference Reporting&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teama/prime-description/\">Continue reading <span class=\"screen-reader-text\">PRIME description</span></a></p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/95"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=95"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/95/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 96,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/95/revisions/96"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=95"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "date": "2023-01-11T12:01:42",
+        "date_gmt": "2023-01-11T17:01:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=48"
+        },
+        "modified": "2023-01-11T12:01:42",
+        "modified_gmt": "2023-01-11T17:01:42",
+        "slug": "links",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/links/",
+        "title": {
+            "rendered": "Links"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/48"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=48"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/48/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 54,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/48/revisions/54"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=48"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "date": "2023-01-11T12:01:42",
+        "date_gmt": "2023-01-11T17:01:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=46"
+        },
+        "modified": "2023-01-23T09:12:30",
+        "modified_gmt": "2023-01-23T14:12:30",
+        "slug": "journal",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/journal/",
+        "title": {
+            "rendered": "Journal"
+        },
+        "content": {
+            "rendered": "<ul class=\"wp-block-latest-posts__list has-dates has-author is-style-twentytwentyone-latest-posts-borders wp-block-latest-posts\"><li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/25/team-meeting-01-25-23/\">Team Meeting 01/25/23</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-25T14:55:37-05:00\" class=\"wp-block-latest-posts__post-date\">January 25, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>code: 589 367 9107</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>link: <a href=\"https://unc.zoom.us/j/5893679107\">https://unc.zoom.us/j/5893679107</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>We want to do a website &#8211; but the client mentions APP. App may be more difficult, but we have to stay open to it if thats what he wants.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>There is a prototype mentioned, so we need to ask the client about the prototype and to what extent the prototype.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>REACT is what we want to use, and to pair it with typescript, maybe ESLint and Husky (for Linting and GitHooks).</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We may want to use A.W.S towards the end with HIPPA compliance.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We have a wide range of experience, and all open to learning new things. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Questions for client. We have some written on our google doc, but we also want to ask about the 5 points (really 4 without HIPPA guidelines). </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>When we talk to the client, we should think about the definite, perhaps, improbable. HIPPA may be something that&#8217;s required for the app to be used at all. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Stotts possibly said that HIPPA compliance isn&#8217;t as important.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>May need 2 sign ins, one for provider and one for patient. However, we need to keep in mind that older folks may be using the app and to keep that as simple as possible (maybe look at existing systems).</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Coach mentioned concurrency (and functional questions) &#8211;  how quick the app works and communications, how many people are going to use the app at a time, general speed. need questions for that. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Structuring meeting with the client &#8211; introductions, general questions, user stories, functional specs.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Regular meetings with team &#8211; Wednesdays after class (in person if we have class, Zoom meetings if we do not). </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Roles &#8211; figure it out more when we meet the client.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/24/coach-meeting-01-24-23/\">Coach Meeting 01/24/23</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-24T09:58:43-05:00\" class=\"wp-block-latest-posts__post-date\">January 24, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>We had our first Coach Meeting today with Louie. Here&#8217;s what we went over</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Went over agile, and what Louie will be doing for us each meeting and each week as our coach</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>First order of business is to schedule a meeting with our client in the next week and a half</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We need a project description, project proposal/plan by the end of next week</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>From Louie&#8217;s perspective, HIPPA compliance will be our biggest challenge</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>He says to ask about the 5 points with the client (what does real-time mean, what is BWS and how should we research it, etc.), as well as UI questions. Focus on the first 4 in the first meeting. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>In the proof of concept, thinking about HIPPA may not be critical, but the final product would need to be (in other words, HIPPA isn&#8217;t something we need to discuss with them early).</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We need to discuss when we will deploy the software and how, if it is on our side or their side in the deploying process.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Louie&#8217;s final suggestion: play with Trello to keep organized, maintain a Kanban Board. Up to us whether we use GitHub, Bitbucket, etc. Linting and GitHooks can also help us keep our code clean.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/23/coach-meeting/\">Scheduled: Coach Meeting</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-23T10:59:03-05:00\" class=\"wp-block-latest-posts__post-date\">January 23, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>Our weekly coaching meetings will be held on Tuesdays from 9:30 AM to 10:00 AM <a href=\"https://unc.zoom.us/my/louielu\">here</a>.</p>\n<!-- /wp:paragraph --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/23/project-assigned/\">Project Assigned</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-23T09:08:59-05:00\" class=\"wp-block-latest-posts__post-date\">January 23, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>Our team was given a project &#8211; PRIME. The description can be found <a href=\"https://tarheels.live/teama/prime-description/\">here.</a></p>\n<!-- /wp:paragraph --></div></li>\n</ul>",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/46"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=46"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/46/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 99,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/46/revisions/99"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=46"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "date": "2023-01-11T12:01:42",
+        "date_gmt": "2023-01-11T17:01:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=45"
+        },
+        "modified": "2023-01-11T12:01:42",
+        "modified_gmt": "2023-01-11T17:01:42",
+        "slug": "assignments",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/assignments/",
+        "title": {
+            "rendered": "Assignments"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=45"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 52,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions/52"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=45"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 44,
+        "date": "2023-01-11T12:01:42",
+        "date_gmt": "2023-01-11T17:01:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=44"
+        },
+        "modified": "2023-01-11T12:01:42",
+        "modified_gmt": "2023-01-11T17:01:42",
+        "slug": "deliverables",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/deliverables/",
+        "title": {
+            "rendered": "Deliverables"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/44"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=44"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/44/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 51,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/44/revisions/51"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=44"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "date": "2023-01-11T12:01:42",
+        "date_gmt": "2023-01-11T17:01:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=43"
+        },
+        "modified": "2023-01-11T12:01:42",
+        "modified_gmt": "2023-01-11T17:01:42",
+        "slug": "schedule",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/schedule/",
+        "title": {
+            "rendered": "Schedule"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/43"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=43"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/43/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 50,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/43/revisions/50"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=43"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "date": "2023-01-11T12:01:42",
+        "date_gmt": "2023-01-11T17:01:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=42"
+        },
+        "modified": "2023-01-11T16:42:04",
+        "modified_gmt": "2023-01-11T21:42:04",
+        "slug": "team",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/team/",
+        "title": {
+            "rendered": "Team"
+        },
+        "content": {
+            "rendered": "\n<h2>Team Members</h2>\n\n\n\n<p>Email All : <a href=\"mailto:smellis@live.unc.edu,wigalex@live.unc.edu,jess53@live.unc.edu,andyking@live.unc.edu\" data-type=\"mailto\" data-id=\"mailto:smellis@live.unc.edu,wigalex@live.unc.edu,jess53@live.unc.edu,andyking@live.unc.edu\">click here</a></p>\n\n\n\n<p>Ellis Kay (role) : <a href=\"mailto:smellis@live.unc.edu\">smellis@live.unc.edu</a>  </p>\n\n\n\n<p>Andy King (role) : <a href=\"mailto:andyking@live.unc.edu\">andyking@live.unc.edu</a></p>\n\n\n\n<p>Jess Lynch (role) : <a href=\"mailto:jess53@live.unc.edu\">jess53@live.unc.edu</a>  </p>\n\n\n\n<p>Alex Wigger (role) : <a href=\"mailto:wigalex@live.unc.edu\">wigalex@live.unc.edu</a>  </p>\n\n\n\n<p></p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Each team member is expected to be at all mentor meetings</li>\n\n\n\n<li>Team members should message at least a few hours in advance if they cannot attend a planned group meeting (excluding emergencies)</li>\n\n\n\n<li>Something else</li>\n\n\n\n<li>Something else</li>\n\n\n\n<li>Something else</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Team Members Email All : click here Ellis Kay (role) : smellis@live.unc.edu Andy King (role) : andyking@live.unc.edu Jess Lynch (role) : jess53@live.unc.edu Alex Wigger (role) : wigalex@live.unc.edu Team Rules</p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=42"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/42/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 77,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/42/revisions/77"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=42"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "date": "2023-01-11T11:58:13",
+        "date_gmt": "2023-01-11T16:58:13",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=38"
+        },
+        "modified": "2023-01-23T09:07:09",
+        "modified_gmt": "2023-01-23T14:07:09",
+        "slug": "home",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/",
+        "title": {
+            "rendered": "Home"
+        },
+        "content": {
+            "rendered": "\n<p class=\"has-huge-font-size\">Home</p>\n\n\n\n<p>Welcome to PRIME!</p>\n\n\n\n<p>Our mission is to create ____ in order to solve ______</p>\n\n\n\n<p></p>\n\n\n\n<h2>General summary</h2>\n\n\n\n<p>1st paragraph intro</p>\n\n\n\n<p>2nd paragraph goes here</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Home Welcome to PRIME! Our mission is to create ____ in order to solve ______ General summary 1st paragraph intro 2nd paragraph goes here</p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=38"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 10,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 92,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions/92"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=38"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": 16,
+        "date": "2023-01-16T21:18:00",
+        "date_gmt": "2023-01-17T02:18:00",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?p=16"
+        },
+        "modified": "2023-01-16T21:18:00",
+        "modified_gmt": "2023-01-17T02:18:00",
+        "slug": "group-fs-project",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/sp23comp523teamf/2023/01/16/group-fs-project/",
+        "title": {
+            "rendered": "Group F&#8217;s Project"
+        },
+        "content": {
+            "rendered": "\n<p>We are group F and this is our project website!</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>We are group F and this is our project website!</p>\n",
+            "protected": false
+        },
+        "author": 13252,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/posts/16"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/13252"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=16"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/posts/16/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 17,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/posts/16/revisions/17"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=16"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/categories?post=16"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/tags?post=16"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
