@@ -663,14 +663,14 @@
             ],
             "version-history": [
                 {
-                    "count": 7,
+                    "count": 8,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 112,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/112"
+                    "id": 121,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/121"
                 }
             ],
             "wp:attachment": [
