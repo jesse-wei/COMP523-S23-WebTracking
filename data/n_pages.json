@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupn/?page_id=37"
         },
-        "modified": "2023-01-18T19:57:40",
-        "modified_gmt": "2023-01-19T00:57:40",
+        "modified": "2023-01-30T12:39:15",
+        "modified_gmt": "2023-01-30T17:39:15",
         "slug": "homepage",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<p>Welcome!</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>An overview of our project</p>\n",
+            "rendered": "\n<h2>About the STARx Program</h2>\n\n\n\n<p>The STARx (Successful Transition to Adulthood with Rx=treatment) Program, founded by Dr.<strong> </strong>Maria E. Díaz-González de Ferris and her team in 2006, serves adolescents and young adults who have chronic physical and/or mental health conditions by helping them develop and improve self-management skills and disease knowledge. It also prepares parents and caregivers to &#8220;let go&#8221; of responsibilities to manage their children&#8217; health management, going from &#8220;active manager&#8221; to &#8220;coaches&#8221;. The program provides the self-administered STARx Questionnaire for patients and parents and the provider-administered TRxANSITION Index to measure the overall transition readiness.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>This project is an extension of the STARx Survey Platform. The STARx Survey Platform is a tool, developed and maintained by a previous UNC team (led by Amelia Paulsen), that digitizes the self-administered STARx Questionnaire and makes it publicly accessible from the UNC School of Medicine website. The primary goal of this project is to build upon the existing survey platform and add additional functionalities. Specifically, we seek to develop a more attractive, sensitive, and comprehensive score reporting system with graphic visualization, a data collection system that gathers and stores HIPAA-compliant responses to the UNC hosted database, and potentially a new online questionnaire for the TRxANSITION Index. We also plan to host the platform on the Carolina CouldApps for users around the globe and add support for more languages other than English and Spanish.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Welcome! Project Overview An overview of our project</p>\n",
+            "rendered": "<p>About the STARx Program The STARx (Successful Transition to Adulthood with Rx=treatment) Program, founded by Dr. Maria E. Díaz-González de Ferris&#8230;</p>\n",
             "protected": false
         },
         "author": 13743,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/37/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 42,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/37/revisions/42"
+                    "id": 72,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/37/revisions/72"
                 }
             ],
             "wp:attachment": [
