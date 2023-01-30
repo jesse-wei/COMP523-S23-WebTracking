@@ -350,8 +350,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=37"
         },
-        "modified": "2023-01-29T23:24:41",
-        "modified_gmt": "2023-01-30T04:24:41",
+        "modified": "2023-01-30T11:52:22",
+        "modified_gmt": "2023-01-30T16:52:22",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -360,7 +360,7 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h3>1/30/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
+            "rendered": "\n<h3>1/30/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>Discussed potential project technologies.</li>\n\n\n\n<li>Made progress on <a href=\"https://tarheels.live/comp523teamd/specifications/\">D1. Specifications</a> deliverable.</li>\n\n\n\n<li>Prepared for this week&#8217;s coach and client meeting.</li>\n\n\n\n<li>Wrote <a href=\"https://tarheels.live/comp523teamd/\">concept</a> statement for website.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -405,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 26,
+                    "count": 28,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 167,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/167"
+                    "id": 184,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/184"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=28"
         },
-        "modified": "2023-01-24T19:50:35",
-        "modified_gmt": "2023-01-25T00:50:35",
+        "modified": "2023-01-30T11:41:34",
+        "modified_gmt": "2023-01-30T16:41:34",
         "slug": "homepage",
         "status": "publish",
         "type": "page",
@@ -446,11 +446,11 @@
             "rendered": "Our project"
         },
         "content": {
-            "rendered": "\n<p>Implementation of a tool/app (for macOS and/or Linux) that allows the automatic/semi-automatic computation of the head circumference measure from an MR Image. Prior code for the computation exists and might need conversion/adaption. An intuitive user-interface made for biomedical users is a major need.</p>\n",
+            "rendered": "\n<blockquote class=\"wp-block-quote\">\n<p></p>\n\n\n\n<p></p>\n<cite>A program that allows you to calculate head circumference from MRI data.</cite></blockquote>\n\n\n\n<p>The measurement of head circumference is an important part of biomedical research. The data related to our project will be applied to the early prediction study of ASD. In the past, however, researchers measured head circumference manually using tape rulers, which was inaccurate and imprecise. A previous tool that no longer runs correctly instead computed head circumference more systematically from MRI images. Our aim is to fix and improve the Head Circumference Tool.</p>\n\n\n\n<p>Our users are primarily biomedical researchers or students who require a “point-and-click,” simple GUI interface. They will be able to modify settings, choose one 3D image at a time to work on, rotate its orientation, and compute its head circumference. A few users will have developer experience and will instead interface with the tool through the command line to process a batch of images at a time.</p>\n\n\n\n<p>By using our tool, users will receive an output that contains a text file with head circumference measurements and a log of user choices in an easily parsable format (i.e. JSON) in the output, thus users will have a chance to copy or adjust a single measurement by modifying the choices and parameters they inputted.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Implementation of a tool/app (for macOS and/or Linux) that allows the automatic/semi-automatic computation of the head circumference measure from an&#8230;</p>\n",
+            "rendered": "<p>A program that allows you to calculate head circumference from MRI data. The measurement of head circumference is an important&#8230;</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -491,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 8,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 104,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions/104"
+                    "id": 183,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions/183"
                 }
             ],
             "wp:attachment": [
