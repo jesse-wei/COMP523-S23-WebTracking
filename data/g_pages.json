@@ -350,8 +350,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=39"
         },
-        "modified": "2023-01-30T13:48:34",
-        "modified_gmt": "2023-01-30T18:48:34",
+        "modified": "2023-01-30T15:54:38",
+        "modified_gmt": "2023-01-30T20:54:38",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -360,7 +360,7 @@
             "rendered": "Project Description"
         },
         "content": {
-            "rendered": "\n<p style=\"font-size:14px\">&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.&#8221; &#8211; Bhargav Bompalli, Blue Sky Innovations</p>\n\n\n\n<p>Paragraph 2: Project Intro Cont.</p>\n",
+            "rendered": "\n<p style=\"font-size:14px\">&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.&#8221; &#8211; Bhargav Bompalli, Blue Sky Innovations</p>\n\n\n\n<p>Volumetric Capture Processor, or VCP, creates 3D models of humans using AI. These 3D models are built from video and data sources, and will be used for virtual reality, augmented reality, and Metaverse applications. Currently, these models are run one step at a time and require human intervention to complete the 3D model. Our team&#8217;s goal is to continue developing the interface for automating this process, which will reduce the need for human intervention and chance of errors.</p>\n",
             "protected": false
         },
         "excerpt": {
@@ -405,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 6,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 111,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/111"
+                    "id": 113,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/113"
                 }
             ],
             "wp:attachment": [
