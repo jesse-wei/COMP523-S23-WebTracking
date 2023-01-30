@@ -1,5 +1,91 @@
 [
     {
+        "id": 104,
+        "date": "2023-01-30T13:30:09",
+        "date_gmt": "2023-01-30T18:30:09",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=104"
+        },
+        "modified": "2023-01-30T13:30:09",
+        "modified_gmt": "2023-01-30T18:30:09",
+        "slug": "specifications",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/specifications/",
+        "title": {
+            "rendered": "Specifications"
+        },
+        "content": {
+            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Requirements</strong></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Stories Requirements</p>\n",
+            "protected": false
+        },
+        "author": 2157,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=104"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 105,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions/105"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=104"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 65,
         "date": "2023-01-16T19:47:04",
         "date_gmt": "2023-01-17T00:47:04",
@@ -264,21 +350,21 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=39"
         },
-        "modified": "2023-01-16T19:37:12",
-        "modified_gmt": "2023-01-17T00:37:12",
+        "modified": "2023-01-30T13:48:34",
+        "modified_gmt": "2023-01-30T18:48:34",
         "slug": "home",
         "status": "publish",
         "type": "page",
         "link": "https://tarheels.live/comp523groupg/",
         "title": {
-            "rendered": "Welcome!"
+            "rendered": "Project Description"
         },
         "content": {
-            "rendered": "\n<p>Paragraph 1: Project Intro</p>\n\n\n\n<p>Paragraph 2: Project Intro Cont.</p>\n",
+            "rendered": "\n<p style=\"font-size:14px\">&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.&#8221; &#8211; Bhargav Bompalli, Blue Sky Innovations</p>\n\n\n\n<p>Paragraph 2: Project Intro Cont.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Paragraph 1: Project Intro Paragraph 2: Project Intro Cont.</p>\n",
+            "rendered": "<p>&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation&#8230;</p>\n",
             "protected": false
         },
         "author": 3104,
@@ -319,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 52,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/52"
+                    "id": 111,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/111"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +522,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=23"
         },
-        "modified": "2023-01-24T21:02:57",
-        "modified_gmt": "2023-01-25T02:02:57",
+        "modified": "2023-01-30T13:28:17",
+        "modified_gmt": "2023-01-30T18:28:17",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -446,7 +532,7 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<ul>\n<li>Tues Jan 24, 2023\n<ul>\n<li>Agenda\n<ul>\n<li>Created google doc with questions to ask client during meeting.</li>\n\n\n\n<li>Confirmed availability for client meeting.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Meet with client.</li>\n\n\n\n<li>Update website with project info.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Mon Jan 23, 2023\n<ul>\n<li>Coach Meeting</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Look into Trello and git hooks for project.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Fri Jan 20, 2023\n<ul>\n<li>Agenda\n<ul>\n<li>Made projects’ preference list.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Get the assigned project.</li>\n\n\n\n<li>Meet with Client.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Mon Jan 16, 2023\n<ul>\n<li>Agenda\n<ul>\n<li>Set up the website and edited content.</li>\n\n\n\n<li>Scheduled weekly team meetings.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Update the website.</li>\n\n\n\n<li>Decide on team project preference.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li><strong>Jan 24, 2023 &#8211; Team Meeting</strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Created google doc with questions to ask client during meeting.</li>\n\n\n\n<li>Confirmed availability for client meeting.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Meet with client.</li>\n\n\n\n<li>Update website with project info.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 23, 2023 &#8211; Coach Meeting</strong>\n<ul>\n<li>TO-DO\n<ul>\n<li>Look into Trello and git hooks for project.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 20, 2023 &#8211; Team Meeting</strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Made projects’ preference list.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Get the assigned project.</li>\n\n\n\n<li>Meet with Client.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 16, 2023 &#8211; Team Meeting</strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Set up the website and edited content.</li>\n\n\n\n<li>Scheduled weekly team meetings.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Update the website.</li>\n\n\n\n<li>Decide on team project preference.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -491,14 +577,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 101,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions/101"
+                    "id": 103,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions/103"
                 }
             ],
             "wp:attachment": [
