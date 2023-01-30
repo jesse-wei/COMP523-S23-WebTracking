@@ -264,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamk2023/?page_id=26"
         },
-        "modified": "2023-01-24T13:12:20",
-        "modified_gmt": "2023-01-24T18:12:20",
+        "modified": "2023-01-30T10:34:07",
+        "modified_gmt": "2023-01-30T15:34:07",
         "slug": "introduction",
         "status": "publish",
         "type": "page",
@@ -274,7 +274,7 @@
             "rendered": "Project Introduction"
         },
         "content": {
-            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material.</p>\n\n\n\n<p>In line with this initiative, our team is developing an teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n",
+            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material.</p>\n\n\n\n<p>In line with this initiative, our team is developing an teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally, the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n",
             "protected": false
         },
         "excerpt": {
@@ -325,8 +325,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 86,
-                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/86"
+                    "id": 90,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/90"
                 }
             ],
             "wp:attachment": [
