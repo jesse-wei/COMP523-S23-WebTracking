@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=135"
         },
-        "modified": "2023-01-29T20:24:13",
-        "modified_gmt": "2023-01-30T01:24:13",
+        "modified": "2023-01-30T07:31:57",
+        "modified_gmt": "2023-01-30T12:31:57",
         "slug": "d1-specifications",
         "status": "publish",
         "type": "page",
@@ -16,7 +16,7 @@
             "rendered": "D1. Specifications"
         },
         "content": {
-            "rendered": "\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As a</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As an</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -67,8 +67,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 153,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions/153"
+                    "id": 154,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions/154"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=29"
         },
-        "modified": "2023-01-29T15:09:59",
-        "modified_gmt": "2023-01-29T20:09:59",
+        "modified": "2023-01-30T08:57:12",
+        "modified_gmt": "2023-01-30T13:57:12",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -446,11 +446,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p style=\"font-size:30px\">D1. Specifications</p>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As an</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>D1. Specifications User Stories: Requirements: Functional: Non-functional: Interface:</p>\n",
             "protected": false
         },
         "author": 13632,
@@ -491,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 144,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions/144"
+                    "id": 171,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions/171"
                 }
             ],
             "wp:attachment": [
@@ -694,8 +694,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=2"
         },
-        "modified": "2023-01-29T15:16:02",
-        "modified_gmt": "2023-01-29T20:16:02",
+        "modified": "2023-01-30T09:04:12",
+        "modified_gmt": "2023-01-30T14:04:12",
         "slug": "sample-page",
         "status": "publish",
         "type": "page",
@@ -704,11 +704,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>We will develop software to integrate the existing forecast model in AWS, enabling senior executives to create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application. The Figma design is available and needs to be coded using JavaScript. The existing Excel model may also need to be replicated using Python code.</p>\n",
+            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>Kinetik is start-up company developing forecasting model which underpins enterprise revenue growth through our go-to market optimization software.</p>\n\n\n\n<h2>Project Description</h2>\n\n\n\n<p>Many large enterprises struggle to grow the business because they lack insight into the constraining factors in their go-to market models. Go-to market models cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. For example Tech companies often have multiple opportunity identification sources, seller communities and roles, marketing campaigns and tactics, target segments and product families. The permutations through the go-to market model can quickly surpass a billion. Enterprises try to deal with this complexity by adding reporting resources, expanding the attributes associated with the opportunity records in their CRM system and increasing the frequency of sales cadences.</p>\n\n\n\n<p>Kinetik solution provides scenario analysis to support go-to market optimization through a proprietary set of pipeline velocity metrics, sophisticated predictive analytics and simulation, and a user experience that combines animated simulation results and dynamic visualization of the model. The proprietary opportunity velocity metrics are calculated through the comparison of opportunity states in an automated comparison of historical weekly views extracted from leading CRM systems including Salesforce, Microsoft, and SugarCRM.<br><br>The model produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) with similar opportunity progression profiles. These clusters &#8220;traunches&#8221; become the foundation of the forecasting engine and a unique go-to market profile is developed through an automated machine learning method that assessed week by week changes of a series of historical pipeline snapshots. The solution support executive level dashboards and simulation visualizations that allow scenario analysis to be executed in real-time without requiring a detailed understanding of the underlying data science and velocity statistics.</p>\n\n\n\n<p>The user experience is essential and built around visual components (e.g. sliders, knobs, incremental improvement inputs), so <strong>we will develop a software to integrate the existing forecast model in AWS, enabling senior executives to create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application. The Figma design is available and needs to be coded using JavaScript. The existing Excel model may also need to be replicated using Python code.</strong></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview We will develop software to integrate the existing forecast model&#8230;</p>\n",
+            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview Kinetik is start-up company developing forecasting model which underpins enterprise&#8230;</p>\n",
             "protected": false
         },
         "author": 8114,
@@ -749,14 +749,14 @@
             ],
             "version-history": [
                 {
-                    "count": 10,
+                    "count": 15,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 147,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/147"
+                    "id": 174,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/174"
                 }
             ],
             "wp:attachment": [
