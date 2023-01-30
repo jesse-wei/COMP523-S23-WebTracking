@@ -694,8 +694,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=2"
         },
-        "modified": "2023-01-30T09:04:12",
-        "modified_gmt": "2023-01-30T14:04:12",
+        "modified": "2023-01-30T15:52:35",
+        "modified_gmt": "2023-01-30T20:52:35",
         "slug": "sample-page",
         "status": "publish",
         "type": "page",
@@ -704,11 +704,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>Kinetik is start-up company developing forecasting model which underpins enterprise revenue growth through our go-to market optimization software.</p>\n\n\n\n<h2>Project Description</h2>\n\n\n\n<p>Many large enterprises struggle to grow the business because they lack insight into the constraining factors in their go-to market models. Go-to market models cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. For example Tech companies often have multiple opportunity identification sources, seller communities and roles, marketing campaigns and tactics, target segments and product families. The permutations through the go-to market model can quickly surpass a billion. Enterprises try to deal with this complexity by adding reporting resources, expanding the attributes associated with the opportunity records in their CRM system and increasing the frequency of sales cadences.</p>\n\n\n\n<p>Kinetik solution provides scenario analysis to support go-to market optimization through a proprietary set of pipeline velocity metrics, sophisticated predictive analytics and simulation, and a user experience that combines animated simulation results and dynamic visualization of the model. The proprietary opportunity velocity metrics are calculated through the comparison of opportunity states in an automated comparison of historical weekly views extracted from leading CRM systems including Salesforce, Microsoft, and SugarCRM.<br><br>The model produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) with similar opportunity progression profiles. These clusters &#8220;traunches&#8221; become the foundation of the forecasting engine and a unique go-to market profile is developed through an automated machine learning method that assessed week by week changes of a series of historical pipeline snapshots. The solution support executive level dashboards and simulation visualizations that allow scenario analysis to be executed in real-time without requiring a detailed understanding of the underlying data science and velocity statistics.</p>\n\n\n\n<p>The user experience is essential and built around visual components (e.g. sliders, knobs, incremental improvement inputs), so <strong>we will develop a software to integrate the existing forecast model in AWS, enabling senior executives to create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application. The Figma design is available and needs to be coded using JavaScript. The existing Excel model may also need to be replicated using Python code.</strong></p>\n",
+            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>Kinetik is a start-up company developing a forecasting model which underpins enterprise revenue growth through go-to market optimization software.</p>\n\n\n\n<h2>Project Description</h2>\n\n\n\n<p>Many large enterprises struggle to grow their business because they lack insight into the constraining factors in their go-to market models. Go-to market models cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. Kinetik&#8217;s solution provides scenario analysis to support go-to market optimization through a proprietary set of pipeline velocity metrics, sophisticated predictive analytics and simulation, and a user experience that combines animated simulation results and dynamic visualization of the model. The proprietary opportunity velocity metrics are calculated through the comparison of opportunity states in an automated comparison of historical weekly views extracted from leading CRM systems including Salesforce, Microsoft, and SugarCRM.<br><br>The model produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) with similar opportunity progression profiles. These clusters, &#8220;traunches,&#8221; become the foundation of the forecasting engine and a unique go-to market profile is developed through an automated machine learning method that assesses week by week changes of a series of historical pipeline snapshots. The solution additionally supports executive level dashboards and simulation visualizations that allow scenario analysis to be executed in real-time without requiring a detailed understanding of the underlying data science and velocity statistics.</p>\n\n\n\n<p>The user experience is essential and is built around visual components (e.g. sliders, knobs, incremental improvement inputs), so <strong>we will develop a software to integrate the existing forecast model in AWS, enabling senior executives to create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application. The Figma design is available and needs to be coded using JavaScript. The existing Excel model may also need to be replicated using Python code.</strong></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview Kinetik is start-up company developing forecasting model which underpins enterprise&#8230;</p>\n",
+            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview Kinetik is a start-up company developing a forecasting model which&#8230;</p>\n",
             "protected": false
         },
         "author": 8114,
@@ -749,14 +749,14 @@
             ],
             "version-history": [
                 {
-                    "count": 16,
+                    "count": 17,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 182,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/182"
+                    "id": 183,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/183"
                 }
             ],
             "wp:attachment": [
