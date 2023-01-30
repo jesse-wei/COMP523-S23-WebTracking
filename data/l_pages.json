@@ -1,13 +1,99 @@
 [
     {
+        "id": 135,
+        "date": "2023-01-29T14:46:38",
+        "date_gmt": "2023-01-29T19:46:38",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=135"
+        },
+        "modified": "2023-01-29T20:24:13",
+        "modified_gmt": "2023-01-30T01:24:13",
+        "slug": "d1-specifications",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/d1-specifications/",
+        "title": {
+            "rendered": "D1. Specifications"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As a</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Stories: Requirements: Functional: Non-functional: Interface:</p>\n",
+            "protected": false
+        },
+        "author": 5771,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/5771"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=135"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 153,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions/153"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=135"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 87,
         "date": "2023-01-20T15:34:14",
         "date_gmt": "2023-01-20T20:34:14",
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=87"
         },
-        "modified": "2023-01-20T16:41:28",
-        "modified_gmt": "2023-01-20T21:41:28",
+        "modified": "2023-01-29T15:14:24",
+        "modified_gmt": "2023-01-29T20:14:24",
         "slug": "roles",
         "status": "publish",
         "type": "page",
@@ -16,7 +102,7 @@
             "rendered": "Roles &amp; Contact"
         },
         "content": {
-            "rendered": "\n<p style=\"font-size:16px\"><strong>Project Manager</strong></p>\n\n\n\n<p>Todd Huang<br><a href=\"mailto:thuang@unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">thuang@unc.edu</a></p>\n\n\n\n<p style=\"font-size:16px\"><strong>Client Coordinator</strong></p>\n\n\n\n<p style=\"font-size:16px\">Terrence Kapur <br><a href=\"mailto:tjkapur@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">tjkapur@live.unc.edu</a></p>\n\n\n\n<p style=\"font-size:16px\"><strong>Design Lead</strong></p>\n\n\n\n<p style=\"font-size:16px\">Kadhir Patchamuthu<br><a rel=\"noreferrer noopener\" href=\"mailto:kadhirp@live.unc.edu\" target=\"_blank\">kadhirp@live.unc.edu</a>  </p>\n\n\n\n<p><strong>Technical Lead</strong></p>\n\n\n\n<p>Luke Duckworth<br><a href=\"mailto:lukeduck@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">lukeduck@live.unc.edu</a></p>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:teaml523@office.unc.edu\">Email Us</a></div>\n</div>\n",
+            "rendered": "\n<p><strong>Project Manager</strong></p>\n\n\n\n<p>Todd Huang<br><a href=\"mailto:thuang@unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">thuang@unc.edu</a></p>\n\n\n\n<p><strong>Client Coordinator</strong></p>\n\n\n\n<p>Terrence Kapur <br><a href=\"mailto:tjkapur@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">tjkapur@live.unc.edu</a></p>\n\n\n\n<p><strong>Design Lead</strong></p>\n\n\n\n<p>Kadhir Patchamuthu<br><a rel=\"noreferrer noopener\" href=\"mailto:kadhirp@live.unc.edu\" target=\"_blank\">kadhirp@live.unc.edu</a>  </p>\n\n\n\n<p><strong>Technical Lead</strong></p>\n\n\n\n<p>Luke Duckworth<br><a href=\"mailto:lukeduck@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">lukeduck@live.unc.edu</a></p>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:teaml523@office.unc.edu\">Email Us</a></div>\n</div>\n",
             "protected": false
         },
         "excerpt": {
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 8,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/87/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 116,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/87/revisions/116"
+                    "id": 146,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/87/revisions/146"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=33"
         },
-        "modified": "2023-01-20T16:02:53",
-        "modified_gmt": "2023-01-20T21:02:53",
+        "modified": "2023-01-29T14:28:37",
+        "modified_gmt": "2023-01-29T19:28:37",
         "slug": "journals",
         "status": "publish",
         "type": "page",
@@ -188,7 +274,7 @@
             "rendered": "Journals"
         },
         "content": {
-            "rendered": "\n<ul>\n<li>01/20/2023<br>\n<ul>\n<li>Change one of our project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>01/18/2023 (<strong>Group Meeting 2</strong>)<br>\n<ul>\n<li>Discuss team rules</li>\n\n\n\n<li>Assign team roles</li>\n\n\n\n<li>Discuss every member&#8217;s skill stack</li>\n\n\n\n<li>Read through all projects together and select projects 6 project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>01/13/2023 (<strong>Group Meeting 1</strong>)<br>\n<ul>\n<li>First group meeting!</li>\n\n\n\n<li>Created our group website</li>\n\n\n\n<li>Discuss every member&#8217;s availability and assign weekly meeting time</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li>01/26/2023 (<strong>First In-Person Client Meeting</strong>)\n<ul>\n<li>Meet with our client Mr. David Hughes</li>\n\n\n\n<li>Mr. Hughes introduces his kinetik project to us</li>\n\n\n\n<li>Weekly in-person client meeting at Launch Chapel Hill on Thursday at 3:30 pm</li>\n\n\n\n<li>Define 10 technical sprints for the project\n<ul>\n<li>Upload file to AWS through kinetik.solutions</li>\n\n\n\n<li>Convert Figma design to AWS Amplify interface</li>\n\n\n\n<li>Validate forecasting model with UNC Statistics professor or grad student</li>\n\n\n\n<li>Review excel model and replicate functionality in Python (test Jeff’s code)</li>\n\n\n\n<li>Publish code to AWS from GitHub</li>\n\n\n\n<li>Meet with Amazon Development team weekly</li>\n\n\n\n<li>Meet with K-F MBA team to hear market feedback</li>\n\n\n\n<li>Natural Language Processing model for sales and marketing issues, best practices and optimization methods</li>\n\n\n\n<li>Recruit technical mentors (Data Science, Statistics / Monte Carlo, AWS)</li>\n\n\n\n<li>Determine JavaScript vs. TypeScript (https://www.toptal.com/typescript/typescript-vs-javascript-guide)</li>\n</ul>\n</li>\n\n\n\n<li>Created an iMessage group chat with Mr. Hughes</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/20/2023\n<ul>\n<li>Change one of our project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/18/2023 (<strong>Group Meeting 2</strong>)<br>\n<ul>\n<li>Discuss team rules</li>\n\n\n\n<li>Assign team roles</li>\n\n\n\n<li>Discuss every member&#8217;s skill stack</li>\n\n\n\n<li>Read through all projects together and select projects 6 project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>01/13/2023 (<strong>Group Meeting 1</strong>)<br>\n<ul>\n<li>First group meeting!</li>\n\n\n\n<li>Created our group website</li>\n\n\n\n<li>Discuss every member&#8217;s availability and assign weekly meeting time</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -233,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 98,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions/98"
+                    "id": 132,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions/132"
                 }
             ],
             "wp:attachment": [
@@ -350,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=29"
         },
-        "modified": "2023-01-15T21:24:32",
-        "modified_gmt": "2023-01-16T02:24:32",
+        "modified": "2023-01-29T15:09:59",
+        "modified_gmt": "2023-01-29T20:09:59",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -360,11 +446,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "\n<p>About to come&#8230;</p>\n",
+            "rendered": "",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>About to come&#8230;</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 13632,
@@ -405,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 2,
+                    "count": 3,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 63,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions/63"
+                    "id": 144,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions/144"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +522,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=24"
         },
-        "modified": "2023-01-20T16:39:27",
-        "modified_gmt": "2023-01-20T21:39:27",
+        "modified": "2023-01-29T14:31:53",
+        "modified_gmt": "2023-01-29T19:31:53",
         "slug": "schedule",
         "status": "publish",
         "type": "page",
@@ -446,11 +532,11 @@
             "rendered": "Meeting Schedule"
         },
         "content": {
-            "rendered": "\n<p>Team Meetings: <strong>In Person</strong> Weekly <strong><mark class=\"has-inline-color has-orange-color\">Monday at 11:30 AM &#8211; 1:00 PM</mark></strong></p>\n\n\n\n<p>Coach Meetings: Weekly <strong><mark class=\"has-inline-color has-orange-color\">Monday at 4:00 pm &#8211; 4:30 PM</mark></strong></p>\n\n\n\n<p>Client Meetings: TBD</p>\n",
+            "rendered": "\n<p>Team Meetings: <strong>In Person</strong> Weekly <strong><mark class=\"has-inline-color has-orange-color\">Monday from 11:30 AM &#8211; 1:00 PM</mark></strong></p>\n\n\n\n<p>Coach Meetings: Weekly <strong><mark class=\"has-inline-color has-orange-color\">Monday from 4:00 pm &#8211; 4:30 PM</mark></strong></p>\n\n\n\n<p>Client Meetings: Weekly <strong><mark class=\"has-inline-color has-orange-color\">Thursday from 3:30 PM &#8211; 4:30 PM</mark></strong></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Team Meetings: In Person Weekly Monday at 11:30 AM &#8211; 1:00 PM Coach Meetings: Weekly Monday at 4:00 pm &#8211;&#8230;</p>\n",
+            "rendered": "<p>Team Meetings: In Person Weekly Monday from 11:30 AM &#8211; 1:00 PM Coach Meetings: Weekly Monday from 4:00 pm &#8211;&#8230;</p>\n",
             "protected": false
         },
         "author": 13632,
@@ -491,14 +577,14 @@
             ],
             "version-history": [
                 {
-                    "count": 9,
+                    "count": 10,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/24/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 114,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/24/revisions/114"
+                    "id": 133,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/24/revisions/133"
                 }
             ],
             "wp:attachment": [
@@ -608,8 +694,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=2"
         },
-        "modified": "2023-01-20T16:38:29",
-        "modified_gmt": "2023-01-20T21:38:29",
+        "modified": "2023-01-29T15:16:02",
+        "modified_gmt": "2023-01-29T20:16:02",
         "slug": "sample-page",
         "status": "publish",
         "type": "page",
@@ -618,11 +704,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>We are in the process of choosing projects&#8230;</p>\n\n\n\n<p>Will be updated this page when we have more information.</p>\n",
+            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>We will develop software to integrate the existing forecast model in AWS, enabling senior executives to create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application. The Figma design is available and needs to be coded using JavaScript. The existing Excel model may also need to be replicated using Python code.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview We are in the process of choosing projects&#8230; Will be&#8230;</p>\n",
+            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview We will develop software to integrate the existing forecast model&#8230;</p>\n",
             "protected": false
         },
         "author": 8114,
@@ -663,14 +749,14 @@
             ],
             "version-history": [
                 {
-                    "count": 8,
+                    "count": 10,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 121,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/121"
+                    "id": 147,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/147"
                 }
             ],
             "wp:attachment": [
