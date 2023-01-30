@@ -264,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=13"
         },
-        "modified": "2023-01-21T21:11:56",
-        "modified_gmt": "2023-01-22T02:11:56",
+        "modified": "2023-01-30T09:22:56",
+        "modified_gmt": "2023-01-30T14:22:56",
         "slug": "about-the-team",
         "status": "publish",
         "type": "page",
@@ -274,7 +274,7 @@
             "rendered": "About The Team"
         },
         "content": {
-            "rendered": "\n<p><strong>Roles TBD</strong><br>Alice Yu<br>Han Lim<br>Arja Kaushal<br>Adrian Bruno</p>\n\n\n\n<p class=\"has-blue-background-color has-background has-medium-font-size\"><strong>Team Rules</strong></p>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications&nbsp;.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hr in advance.</li>\n\n\n\n<li>Attend regular team, coach, client meeting on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask help early. Be timely about letting other group members know if you are struggling with your portion.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
+            "rendered": "\n<p><strong>Roles TBD</strong><br>Alice Yu<br>Han Lim<br>Arja Kaushal<br>Adrian Bruno</p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hours in advance.</li>\n\n\n\n<li>Attend regular team, coach, and client meetings on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask for help early. Be timely about letting other group members know if you are struggling with your assigned work.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -319,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 8,
                     "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 47,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/47"
+                    "id": 56,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/56"
                 }
             ],
             "wp:attachment": [
