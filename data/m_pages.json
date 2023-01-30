@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=12"
         },
-        "modified": "2023-01-25T22:02:38",
-        "modified_gmt": "2023-01-26T03:02:38",
+        "modified": "2023-01-30T12:53:08",
+        "modified_gmt": "2023-01-30T17:53:08",
         "slug": "contact-information",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Contact Information"
         },
         "content": {
-            "rendered": "\n<p><a href=\"mailto:lucymac@live.unc.edu; adam1415@live.unc.edu; xdantong@unc.edu; krishna.sudhir@unc.edu\">Team email</a></p>\n\n\n\n<p>Lucy Conway || Phone: +1(914)-953-053 || Email: <a href=\"mailto:lucymac@live.unc.edu\">lucymac@live.unc.edu</a>   </p>\n\n\n\n<p>Adam McMillan || Email: <a href=\"mailto:adam1415@live.unc.edu\">adam1415@live.unc.edu</a></p>\n\n\n\n<p>Dantong Xiang || Phone: +1(984)-758-3199 || Email: <a href=\"mailto:xdantong@unc.edu\">xdantong@unc.edu</a></p>\n\n\n\n<p>Krishna Sudhir || Email: <a href=\"mailto:krishna.sudhir@unc.edu\">krishna.sudhir@unc.edu</a></p>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p><a href=\"mailto:lucymac@live.unc.edu; adam1415@live.unc.edu; xdantong@unc.edu; krishna.sudhir@unc.edu\">Team email</a></p>\n\n\n\n<p>Lucy Conway (Full stack developer)|| Phone: +1(914)-953-053 || Email: <a href=\"mailto:lucymac@live.unc.edu\">lucymac@live.unc.edu</a>   </p>\n\n\n\n<p>Adam McMillan (Full stack developer) || Email: <a href=\"mailto:adam1415@live.unc.edu\">adam1415@live.unc.edu</a></p>\n\n\n\n<p>Dantong Xiang (Full stack developer)|| Phone: +1(984)-758-3199 || Email: <a href=\"mailto:xdantong@unc.edu\">xdantong@unc.edu</a></p>\n\n\n\n<p>Krishna Sudhir (Full stack developer)|| Email: <a href=\"mailto:krishna.sudhir@unc.edu\">krishna.sudhir@unc.edu</a></p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Team email Lucy Conway || Phone: +1(914)-953-053 || Email: lucymac@live.unc.edu Adam McMillan || Email: adam1415@live.unc.edu Dantong Xiang || Phone: +1(984)-758-3199 || Email: xdantong@unc.edu Krishna Sudhir || Email: krishna.sudhir@unc.edu</p>\n",
+            "rendered": "<p>Team email Lucy Conway (Full stack developer)|| Phone: +1(914)-953-053 || Email: lucymac@live.unc.edu Adam McMillan (Full stack developer) || Email: adam1415@live.unc.edu Dantong Xiang (Full stack developer)|| Phone: +1(984)-758-3199 || Email: xdantong@unc.edu Krishna Sudhir (Full stack developer)|| Email: krishna.sudhir@unc.edu</p>\n",
             "protected": false
         },
         "author": 4809,
@@ -67,8 +67,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 59,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12/revisions/59"
+                    "id": 67,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12/revisions/67"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=18"
         },
-        "modified": "2023-01-25T12:45:54",
-        "modified_gmt": "2023-01-25T17:45:54",
+        "modified": "2023-01-30T12:54:16",
+        "modified_gmt": "2023-01-30T17:54:16",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -188,11 +188,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p class=\"has-yellow-background-color has-background\"><strong>1/25/2023 &#8211; Team Meeting: </strong>Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal.  </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/24/2023 &#8211; First Coach Meeting: </strong>Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.</p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/18/2023 &#8211; Project Preferences/Website</strong> : Discussed all client project proposals, ranked our preferences and communicated with Professor Stotts. Also began creating our project site. </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/13/2023 &#8211; Initial team meeting</strong>: Introduced ourselves and our experience prior to the class. High level discussed basic rules and expectations.</p>\n",
+            "rendered": "\n<p><strong>1/30/2023 &#8211; Team Meeting:</strong></p>\n\n\n\n<ul>\n<li>Updated team roles</li>\n\n\n\n<li>Drafted User stories and project concept</li>\n\n\n\n<li>Discussed using MVC design pattern as well as implementation of front end and back end.  \n<ul>\n<li>Front end: React, HTML, CSS</li>\n\n\n\n<li>Webserver: Springboot (Java)</li>\n\n\n\n<li>Database: MongoDB (chose a no-SQL database for easier and more flexible data storage. </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>1/27/2023 &#8211; Client Meeting: </strong></p>\n\n\n\n<ul>\n<li>Discussed preemptive architectural diagrams and brainstormed overall project goals </li>\n\n\n\n<li>Determined highest priority features/dashboards for most viable product. </li>\n\n\n\n<li>Discussed implementation ideas and what kind of database management system to use (RDBMS vs No-SQL) </li>\n</ul>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/25/2023 &#8211; Team Meeting: </strong>Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal.  </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/24/2023 &#8211; First Coach Meeting: </strong>Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.</p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/18/2023 &#8211; Project Preferences/Website</strong> : Discussed all client project proposals, ranked our preferences and communicated with Professor Stotts. Also began creating our project site. </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/13/2023 &#8211; Initial team meeting</strong>: Introduced ourselves and our experience prior to the class. High level discussed basic rules and expectations.</p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>1/25/2023 &#8211; Team Meeting: Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal. 1/24/2023 &#8211; First Coach Meeting: Met with Coach Louie for the first time. Discussed upcoming deliverables, and project. 1/18/2023 &#8211; Project Preferences/Website : Discussed all client&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/journal/\">Continue reading <span class=\"screen-reader-text\">Journal</span></a></p>\n",
+            "rendered": "<p>1/30/2023 &#8211; Team Meeting: 1/27/2023 &#8211; Client Meeting: 1/25/2023 &#8211; Team Meeting: Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal. 1/24/2023 &#8211; First Coach Meeting: Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/journal/\">Continue reading <span class=\"screen-reader-text\">Journal</span></a></p>\n",
             "protected": false
         },
         "author": 1119,
@@ -233,14 +233,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 6,
                     "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 52,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions/52"
+                    "id": 68,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions/68"
                 }
             ],
             "wp:attachment": [
