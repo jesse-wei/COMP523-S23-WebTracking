@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=135"
         },
-        "modified": "2023-01-30T07:31:57",
-        "modified_gmt": "2023-01-30T12:31:57",
+        "modified": "2023-01-30T12:46:13",
+        "modified_gmt": "2023-01-30T17:46:13",
         "slug": "d1-specifications",
         "status": "publish",
         "type": "page",
@@ -16,7 +16,7 @@
             "rendered": "D1. Specifications"
         },
         "content": {
-            "rendered": "\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As an</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As an</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>Upload file to AWS through kinetik.solutions</li>\n\n\n\n<li>Convert Figma design to AWS Amplify interface</li>\n</ul>\n\n\n\n<ul>\n<li>Review excel model and replicate functionality in Python (test Jeff’s code)</li>\n\n\n\n<li>Publish code to AWS from GitHub</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>Natural Language Processing model for sales and marketing issues, best practices and optimization methods</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>Meet with Amazon Development team weekly</li>\n\n\n\n<li>Meet with K-F MBA team to hear market feedback</li>\n\n\n\n<li>Recruit technical mentors (Data Science, Statistics / Monte Carlo, AWS)</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 10,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 154,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions/154"
+                    "id": 181,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions/181"
                 }
             ],
             "wp:attachment": [
@@ -319,7 +319,7 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions"
                 }
             ],
@@ -491,7 +491,7 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions"
                 }
             ],
