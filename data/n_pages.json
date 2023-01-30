@@ -1,5 +1,91 @@
 [
     {
+        "id": 74,
+        "date": "2023-01-30T14:44:50",
+        "date_gmt": "2023-01-30T19:44:50",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=74"
+        },
+        "modified": "2023-01-30T14:44:50",
+        "modified_gmt": "2023-01-30T19:44:50",
+        "slug": "specifications",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/specifications/",
+        "title": {
+            "rendered": "Specifications"
+        },
+        "content": {
+            "rendered": "\n<h2>Functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be able to collect data from HIPAA-compliant responses to the STARx Questionnaire and store them in the UNC-hosted database for longitudinal tracking and analytical purposes</li>\n\n\n\n<li>The questionnaire will be able to generate an attractive and sensitive score report upon completion for each respondent. This includes automated score calculation and generation of graphic visualization</li>\n\n\n\n<li>This web application will be hosted on the Carolina CloudApps for global users</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>There will be a new online survey for the TRxANSITION Index</li>\n\n\n\n<li>There will be support for printable PDF report of the patients’ or parents’ responses to be used in the patients’ health records</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>Non-functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>The web application will support additional languages other than English and Spanish</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong></li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>User Stories</h2>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Functional Requirements Non-functional Requirements User Stories</p>\n",
+            "protected": false
+        },
+        "author": 13743,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=74"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 75,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions/75"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=74"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 37,
         "date": "2023-01-18T19:54:13",
         "date_gmt": "2023-01-19T00:54:13",
