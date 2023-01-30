@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=78"
         },
-        "modified": "2023-01-11T19:10:36",
-        "modified_gmt": "2023-01-12T00:10:36",
+        "modified": "2023-01-30T09:19:45",
+        "modified_gmt": "2023-01-30T14:19:45",
         "slug": "about",
         "status": "publish",
         "type": "page",
@@ -16,7 +16,7 @@
             "rendered": "About"
         },
         "content": {
-            "rendered": "\n<h3>Our Mission</h3>\n\n\n\n<p>This semester, our goal is to create our first project, in collaboration with another company in hopes of giving us preparation for work experience outside at the job market!…</p>\n\n\n\n<p></p>\n",
+            "rendered": "\n<h3>Our Mission</h3>\n\n\n\n<p>This semester, our goal is to create our first project, in collaboration with another company in hopes of giving us preparation for work experience outside at the job market!</p>\n\n\n\n<p>_____________________________________________________________________________________</p>\n\n\n\n<h2>Fidelity Spreadsheet Client-given Description:</h2>\n\n\n\n<p><a href=\"https://youtu.be/E08buCGiEto\">(VIDEO)</a></p>\n\n\n\n<p>Penny Liles ( Institute for Best Practices, UNC Med School )<br><a href=\"mailto:penny_liles@med.unc.edu\">penny_liles@med.unc.edu</a><br>I will try to explain what the students did for us this semester.</p>\n\n\n\n<p>We want to create an online portal for behavioral health providers to input or upload data when a group of Institute and DHHS staff evaluate their team. We use this data to rate items based on a fidelity scale. Teams currently submit a spreadsheet with a lot of data and we make calculations on the data. The online portal would allow the evaluators to see the data in one spot and make calculations for ratings. We also use a consensus spreadsheet for ratings which we would like to add to the online portal (if feasible during the semester). Long-term we would like to add the report template to the portal. I have attached all 3 documents.</p>\n\n\n\n<p>The Fall 2022 students took the spreadsheet and created code for the tabs on the spreadsheet. It was a huge project and the students did all they could during the semester. The code needs additional work and calculations added to it.</p>\n\n\n\n<p>I have a Teams channel set up where the students added a video about what they used and how they set up the code. We also recorded our last session together where the students described the final project in Teams. I took screenshots of a platform my supervisor uses for a visual. I will add the new students to the Teams account so they can access the documents and videos and for communication. I have a GitHub account where they transferred the code to me.</p>\n\n\n\n<p><strong>Other Info</strong><br><a href=\"http://www.cs.unc.edu/~stotts/COMP523-s23/vids/liles1.xlsx\">(spreadsheet)</a><br><a href=\"http://(doc)\">(doc)</a><br><a href=\"http://(spreadsheet)\">(spreadsheet)</a></p>\n",
             "protected": false
         },
         "excerpt": {
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 2,
+                    "count": 5,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 82,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions/82"
+                    "id": 128,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions/128"
                 }
             ],
             "wp:attachment": [
@@ -497,7 +497,7 @@
             ],
             "version-history": [
                 {
-                    "count": 7,
+                    "count": 6,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34/revisions"
                 }
             ],

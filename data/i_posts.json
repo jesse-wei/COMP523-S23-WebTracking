@@ -1,19 +1,223 @@
 [
     {
+        "id": 118,
+        "date": "2023-01-30T09:10:24",
+        "date_gmt": "2023-01-30T14:10:24",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?p=118"
+        },
+        "modified": "2023-01-30T09:15:07",
+        "modified_gmt": "2023-01-30T14:15:07",
+        "slug": "fidelity-spreadsheet-client-given-description",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teami523/2023/01/30/fidelity-spreadsheet-client-given-description/",
+        "title": {
+            "rendered": "1/31/23 client meeting placeholder"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13593,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/118"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13593"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=118"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/118/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 124,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/118/revisions/124"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=118"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/categories?post=118"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/tags?post=118"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 113,
+        "date": "2023-01-30T09:03:48",
+        "date_gmt": "2023-01-30T14:03:48",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?p=113"
+        },
+        "modified": "2023-01-30T09:04:24",
+        "modified_gmt": "2023-01-30T14:04:24",
+        "slug": "january-30th-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teami523/2023/01/30/january-30th-2023/",
+        "title": {
+            "rendered": "January 30th, 2023:"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Updated group website to be project-specific</li>\n\n\n\n<li>Contacted client and set up a meeting date (1/31 @ 3-4pm)</li>\n\n\n\n<li>Joined client Microsoft Teams for access of material</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13593,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/113"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13593"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=113"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/113/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 117,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/113/revisions/117"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=113"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/categories?post=113"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/tags?post=113"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 108,
         "date": "2023-01-20T12:19:59",
         "date_gmt": "2023-01-20T17:19:59",
         "guid": {
             "rendered": "https://tarheels.live/teami523/?p=108"
         },
-        "modified": "2023-01-20T12:19:59",
-        "modified_gmt": "2023-01-20T17:19:59",
+        "modified": "2023-01-30T09:02:04",
+        "modified_gmt": "2023-01-30T14:02:04",
         "slug": "january-20th-2022",
         "status": "publish",
         "type": "post",
         "link": "https://tarheels.live/teami523/2023/01/20/january-20th-2022/",
         "title": {
-            "rendered": "January 20th, 2022:"
+            "rendered": "January 20th, 2023:"
         },
         "content": {
             "rendered": "\n<ul>\n<li>Finalized project preferences</li>\n\n\n\n<li>Completed group website</li>\n</ul>\n",
@@ -65,14 +269,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/108/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 109,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/108/revisions/109"
+                    "id": 115,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/108/revisions/115"
                 }
             ],
             "wp:attachment": [
@@ -108,14 +312,14 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?p=106"
         },
-        "modified": "2023-01-20T12:19:27",
-        "modified_gmt": "2023-01-20T17:19:27",
+        "modified": "2023-01-30T09:01:47",
+        "modified_gmt": "2023-01-30T14:01:47",
         "slug": "january-13th-2022",
         "status": "publish",
         "type": "post",
         "link": "https://tarheels.live/teami523/2023/01/20/january-13th-2022/",
         "title": {
-            "rendered": "January 13th, 2022:"
+            "rendered": "January 13th, 2023:"
         },
         "content": {
             "rendered": "\n<ul>\n<li>Started group website</li>\n\n\n\n<li>Set expectations and rules</li>\n</ul>\n",
@@ -167,14 +371,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/106/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 107,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/106/revisions/107"
+                    "id": 114,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/posts/106/revisions/114"
                 }
             ],
             "wp:attachment": [
