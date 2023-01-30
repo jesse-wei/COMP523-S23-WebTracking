@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupn/?page_id=74"
         },
-        "modified": "2023-01-30T14:44:50",
-        "modified_gmt": "2023-01-30T19:44:50",
+        "modified": "2023-01-30T14:48:51",
+        "modified_gmt": "2023-01-30T19:48:51",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -16,7 +16,7 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<h2>Functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be able to collect data from HIPAA-compliant responses to the STARx Questionnaire and store them in the UNC-hosted database for longitudinal tracking and analytical purposes</li>\n\n\n\n<li>The questionnaire will be able to generate an attractive and sensitive score report upon completion for each respondent. This includes automated score calculation and generation of graphic visualization</li>\n\n\n\n<li>This web application will be hosted on the Carolina CloudApps for global users</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>There will be a new online survey for the TRxANSITION Index</li>\n\n\n\n<li>There will be support for printable PDF report of the patients’ or parents’ responses to be used in the patients’ health records</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>Non-functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>The web application will support additional languages other than English and Spanish</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong></li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>User Stories</h2>\n",
+            "rendered": "\n<h2>Functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be able to collect data from HIPAA-compliant responses to the STARx Questionnaire and store them in the UNC-hosted database for longitudinal tracking and analytical purposes</li>\n\n\n\n<li>The questionnaire will be able to generate an attractive and sensitive score report upon completion for each respondent. This includes automated score calculation and generation of graphic visualization</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>There will be a new online survey for the TRxANSITION Index</li>\n\n\n\n<li>There will be support for printable PDF report of the patients’ or parents’ responses to be used in the patients’ health records</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>Non-functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be hosted on the Carolina CloudApps for global users</li>\n\n\n\n<li>The web application will support additional languages other than English and Spanish</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong></li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>User Stories</h2>\n",
             "protected": false
         },
         "excerpt": {
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 75,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions/75"
+                    "id": 78,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions/78"
                 }
             ],
             "wp:attachment": [
