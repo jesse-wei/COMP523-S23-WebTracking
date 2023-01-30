@@ -178,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=52"
         },
-        "modified": "2023-01-27T23:09:37",
-        "modified_gmt": "2023-01-28T04:09:37",
+        "modified": "2023-01-29T20:48:49",
+        "modified_gmt": "2023-01-30T01:48:49",
         "slug": "team-rules",
         "status": "publish",
         "type": "page",
@@ -188,7 +188,7 @@
             "rendered": "Team rules"
         },
         "content": {
-            "rendered": "\n<ol>\n<li>Treat each other with respect.</li>\n\n\n\n<li>Communicate in a timely manner.\n<ul>\n<li>Discord and Zoom for async/sync team communication</li>\n\n\n\n<li>Zoom, Slack, and email for client communication</li>\n\n\n\n<li>Perhaps other platforms (maybe Trello) as needs are more clearly defined</li>\n</ul>\n</li>\n\n\n\n<li>Meet roughly once per week for 15-30 min.\n<ul>\n<li>We will decide between M/W (whichever will be more productive/convenient) on a weekly basis.</li>\n</ul>\n</li>\n\n\n\n<li>If one of us will be late to or can&#8217;t attend a team meeting, then we&#8217;ll notify the team as soon as possible.</li>\n\n\n\n<li>We&#8217;re all expected to attend all client and coach meetings. If extenuating circumstances come up, then we&#8217;ll try to notify the team ASAP and provide the information that would have been shared at the meeting.</li>\n\n\n\n<li>Follow code standards. If borrowing code, cite the source.</li>\n\n\n\n<li>Try to have feature branches instead of pushing directly to the main branch (at least as things are more developed).</li>\n</ol>\n",
+            "rendered": "\n<ol>\n<li>Treat each other with respect.</li>\n\n\n\n<li>Communicate in a timely manner.\n<ul>\n<li>Discord and Zoom for async/sync team communication</li>\n\n\n\n<li>Zoom, Slack, and email for client communication</li>\n\n\n\n<li>Perhaps other platforms (maybe Trello) as needs are more clearly defined</li>\n</ul>\n</li>\n\n\n\n<li>Meet roughly once per week for 15-30 min.\n<ul>\n<li>We will decide between M/W (whichever will be more productive/convenient) on a weekly basis.</li>\n</ul>\n</li>\n\n\n\n<li>If one of us will be late to or can&#8217;t attend a team meeting, then we&#8217;ll notify the team as soon as possible.</li>\n\n\n\n<li>We&#8217;re all expected to attend all client and coach meetings. If extenuating circumstances come up, then we&#8217;ll try to notify the team ASAP and provide the information that would have been shared at the meeting.</li>\n\n\n\n<li>Follow code standards. If borrowing code, cite the source. Run autoformatters.</li>\n\n\n\n<li>Try to have feature branches instead of pushing directly to the main branch (at least as things are more developed).</li>\n</ol>\n",
             "protected": false
         },
         "excerpt": {
@@ -239,8 +239,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 130,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52/revisions/130"
+                    "id": 166,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52/revisions/166"
                 }
             ],
             "wp:attachment": [
@@ -319,7 +319,7 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50/revisions"
                 }
             ],
@@ -350,8 +350,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=37"
         },
-        "modified": "2023-01-29T08:06:03",
-        "modified_gmt": "2023-01-29T13:06:03",
+        "modified": "2023-01-29T19:28:52",
+        "modified_gmt": "2023-01-30T00:28:52",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -360,11 +360,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
+            "rendered": "\n<h3>1/29/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>1/27/23 (Client in-person) 1/24/23 (Team Discord) 1/24/23 (Coach Zoom) 1/20/23 (Team async discussion) 1/18/23 (Team Zoom) 1/11/23 (Team in-person) 1/9/23</p>\n",
+            "rendered": "<p>1/29/23 (Team in-person) 1/27/23 (Client in-person) 1/24/23 (Team Discord) 1/24/23 (Coach Zoom) 1/20/23 (Team async discussion) 1/18/23 (Team Zoom) 1/11/23&#8230;</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -405,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 23,
+                    "count": 25,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 160,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/160"
+                    "id": 165,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/165"
                 }
             ],
             "wp:attachment": [
