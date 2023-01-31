@@ -1,26 +1,112 @@
 [
     {
+        "id": 152,
+        "date": "2023-01-30T20:28:37",
+        "date_gmt": "2023-01-31T01:28:37",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=152"
+        },
+        "modified": "2023-01-30T21:46:27",
+        "modified_gmt": "2023-01-31T02:46:27",
+        "slug": "journal-2",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/journal-2/",
+        "title": {
+            "rendered": "Journal"
+        },
+        "content": {
+            "rendered": "\n<h2>January 31st, 2023:</h2>\n\n\n\n<p></p>\n\n\n\n<h2>January 30th, 2023:</h2>\n\n\n\n<ul>\n<li>Updated group website to be project-specific</li>\n\n\n\n<li>Contacted client and set up a meeting date (1/31 @ 3-4pm)</li>\n\n\n\n<li>Joined client Microsoft Teams for access of material</li>\n\n\n\n<li>Brainstormed questions for client for user stories before our first client meeting</li>\n</ul>\n\n\n\n<h2>January 20th, 2023:</h2>\n\n\n\n<ul>\n<li>Finalized project preferences</li>\n\n\n\n<li>Completed group website</li>\n</ul>\n\n\n\n<h2>January 13th, 2023:</h2>\n\n\n\n<ul>\n<li>Started group website</li>\n\n\n\n<li>Set expectations and rules</li>\n</ul>\n\n\n\n<h2>First Meeting: Getting to Know Each Other</h2>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>January 31st, 2023: January 30th, 2023: January 20th, 2023: January 13th, 2023: First Meeting: Getting to Know Each Other</p>\n",
+            "protected": false
+        },
+        "author": 5701,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/5701"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=152"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 166,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions/166"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=152"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 78,
         "date": "2023-01-11T19:00:16",
         "date_gmt": "2023-01-12T00:00:16",
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=78"
         },
-        "modified": "2023-01-30T09:19:45",
-        "modified_gmt": "2023-01-30T14:19:45",
+        "modified": "2023-01-30T19:19:18",
+        "modified_gmt": "2023-01-31T00:19:18",
         "slug": "about",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/teami523/about/",
+        "link": "https://tarheels.live/teami523/",
         "title": {
             "rendered": "About"
         },
         "content": {
-            "rendered": "\n<h3>Our Mission</h3>\n\n\n\n<p>This semester, our goal is to create our first project, in collaboration with another company in hopes of giving us preparation for work experience outside at the job market!</p>\n\n\n\n<p>_____________________________________________________________________________________</p>\n\n\n\n<h2>Fidelity Spreadsheet Client-given Description:</h2>\n\n\n\n<p><a href=\"https://youtu.be/E08buCGiEto\">(VIDEO)</a></p>\n\n\n\n<p>Penny Liles ( Institute for Best Practices, UNC Med School )<br><a href=\"mailto:penny_liles@med.unc.edu\">penny_liles@med.unc.edu</a><br>I will try to explain what the students did for us this semester.</p>\n\n\n\n<p>We want to create an online portal for behavioral health providers to input or upload data when a group of Institute and DHHS staff evaluate their team. We use this data to rate items based on a fidelity scale. Teams currently submit a spreadsheet with a lot of data and we make calculations on the data. The online portal would allow the evaluators to see the data in one spot and make calculations for ratings. We also use a consensus spreadsheet for ratings which we would like to add to the online portal (if feasible during the semester). Long-term we would like to add the report template to the portal. I have attached all 3 documents.</p>\n\n\n\n<p>The Fall 2022 students took the spreadsheet and created code for the tabs on the spreadsheet. It was a huge project and the students did all they could during the semester. The code needs additional work and calculations added to it.</p>\n\n\n\n<p>I have a Teams channel set up where the students added a video about what they used and how they set up the code. We also recorded our last session together where the students described the final project in Teams. I took screenshots of a platform my supervisor uses for a visual. I will add the new students to the Teams account so they can access the documents and videos and for communication. I have a GitHub account where they transferred the code to me.</p>\n\n\n\n<p><strong>Other Info</strong><br><a href=\"http://www.cs.unc.edu/~stotts/COMP523-s23/vids/liles1.xlsx\">(spreadsheet)</a><br><a href=\"http://(doc)\">(doc)</a><br><a href=\"http://(spreadsheet)\">(spreadsheet)</a></p>\n",
+            "rendered": "\n<h3>Our Mission</h3>\n\n\n\n<p>We look forward to creating our project in collaboration with Department of Psychiatry at UNC-Chapel Hill in hopes of giving us preparation for work experience outside at the job market!</p>\n\n\n\n<h3>Project Overview </h3>\n\n\n\n<p>Our ultimate goal is to create an online portal for behavioral health providers in the Department of Psychiatry at UNC-Chapel Hill to help them evaluate their team based on a fidelity scale. The data would help the Department of Psychiatry interpret employment data to find employment for people struggling with mental health disorders.&nbsp;</p>\n\n\n\n<p>Changing the current spreadsheet format with calculated data, the online portal would allow the evaluators to see the data in one spot and make calculations for ratings. The portal would further include a consensus spreadsheet for ratings. Overall, the web application would provide a data management process to support a user friendly data interpretation process.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Our Mission This semester, our goal is to create our first project, in collaboration with another company in hopes of&#8230;</p>\n",
+            "rendered": "<p>Our Mission We look forward to creating our project in collaboration with Department of Psychiatry at UNC-Chapel Hill in hopes&#8230;</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 7,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 128,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions/128"
+                    "id": 134,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions/134"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=37"
         },
-        "modified": "2023-01-18T16:08:26",
-        "modified_gmt": "2023-01-18T21:08:26",
+        "modified": "2023-01-30T21:54:59",
+        "modified_gmt": "2023-01-31T02:54:59",
         "slug": "team",
         "status": "publish",
         "type": "page",
@@ -188,7 +274,7 @@
             "rendered": "Team Strategy Lineup"
         },
         "content": {
-            "rendered": "\n<h4 class=\"has-blue-color has-cool-to-warm-spectrum-gradient-background has-text-color has-background\">Staff Roles:</h4>\n\n\n\n<ul>\n<li>Client Manager: Wid Alsadoon</li>\n\n\n\n<li>Project Manager: Janet Mbugua</li>\n\n\n\n<li>Tech Lead: /Janet Mbugua</li>\n\n\n\n<li>Research Leader:</li>\n</ul>\n\n\n\n<h4 class=\"has-green-color has-luminous-dusk-gradient-background has-text-color has-background\">Team Rules</h4>\n\n\n\n<ul>\n<li>Proper, effective communication</li>\n\n\n\n<li>Come to pre-planned group meetings (mostly) on time (5-10 min late exceptions)</li>\n\n\n\n<li>Respond to group messages within 24 hours</li>\n\n\n\n<li>Notify team in the event of work/deliverable delay</li>\n</ul>\n",
+            "rendered": "\n<h4 class=\"has-black-color has-light-gray-background-color has-text-color has-background\">Staff Roles:</h4>\n\n\n\n<ul>\n<li>Client Manager: Wid Alsadoon</li>\n\n\n\n<li>Project Manager: Janet Mbugua</li>\n\n\n\n<li>Tech Lead: Fariha Marzan</li>\n\n\n\n<li>Research Leader: Natalie Yuziuk</li>\n</ul>\n\n\n\n<h4 class=\"has-black-color has-light-gray-background-color has-text-color has-background\">Team Rules</h4>\n\n\n\n<ul>\n<li>Proper, effective communication</li>\n\n\n\n<li>Come to pre-planned group meetings (mostly) on time (5-10 min late exceptions)</li>\n\n\n\n<li>Respond to group messages within 24 hours</li>\n\n\n\n<li>Notify team in the event of work/deliverable delay</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -196,7 +282,7 @@
             "protected": false
         },
         "author": 13539,
-        "featured_media": 58,
+        "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
         "comment_status": "closed",
@@ -239,14 +325,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 101,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/37/revisions/101"
-                }
-            ],
-            "wp:featuredmedia": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media/58"
+                    "id": 141,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/37/revisions/141"
                 }
             ],
             "wp:attachment": [
@@ -356,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=35"
         },
-        "modified": "2023-01-18T11:00:55",
-        "modified_gmt": "2023-01-18T16:00:55",
+        "modified": "2023-01-30T20:44:22",
+        "modified_gmt": "2023-01-31T01:44:22",
         "slug": "schedule",
         "status": "publish",
         "type": "page",
@@ -366,11 +446,11 @@
             "rendered": "Schedule"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table aligncenter is-style-stripes\"><table><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark style=\"background-color:#00d084\" class=\"has-inline-color\">Date</mark></td><td>Time</td><td>Parties</td><td>Objective</td><td>Important Notes</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/23/2023</td><td>05:00 PM</td><td>&#8211; TA<br>&#8211; Wid <br>&#8211; Natalie<br>&#8211; Fariha<br>&#8211; Janet</td><td>&#8211; Understanding how to start the project </td><td></td></tr></tbody></table></figure>\n",
+            "rendered": "\n<figure class=\"wp-block-table aligncenter is-style-stripes has-small-font-size\"><table class=\"has-fixed-layout\"><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark style=\"background-color:#00d084\" class=\"has-inline-color\">Date</mark></td><td>Time</td><td class=\"has-text-align-center\" data-align=\"center\">Parties</td><td class=\"has-text-align-center\" data-align=\"center\">Objective</td><td>Important Notes</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/23/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\">Understanding how to start the project </td><td></td></tr></tbody></table></figure>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Date Time Parties Objective Important Notes 01/23/2023 05:00 PM &#8211; TA&#8211; Wid &#8211; Natalie&#8211; Fariha&#8211; Janet &#8211; Understanding how to&#8230;</p>\n",
+            "rendered": "<p>Date Time Parties Objective Important Notes 01/23/2023 05:00 PM TAWid NatalieFarihaJanet Understanding how to start the project</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -411,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 5,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 100,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions/100"
+                    "id": 158,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions/158"
                 }
             ],
             "wp:attachment": [
@@ -442,8 +522,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=34"
         },
-        "modified": "2023-01-18T10:46:14",
-        "modified_gmt": "2023-01-18T15:46:14",
+        "modified": "2023-01-30T19:21:44",
+        "modified_gmt": "2023-01-31T00:21:44",
         "slug": "contact",
         "status": "publish",
         "type": "page",
@@ -452,11 +532,11 @@
             "rendered": "Contact"
         },
         "content": {
-            "rendered": "\n<div class=\"is-layout-constrained wp-block-group alignwide\"><div class=\"wp-block-group__inner-container\">\n<div class=\"is-layout-flex wp-container-3 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"1023\" height=\"681\" src=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-3.jpg\" alt=\"\" class=\"wp-image-64\" srcset=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-3.jpg 1023w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-3-300x200.jpg 300w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-3-768x511.jpg 768w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-3-640x426.jpg 640w\" sizes=\"(max-width: 1023px) 100vw, 1023px\" /></figure>\n\n\n\n<h3>Development Team Contact</h3>\n\n\n\n<p><a href=\"mailto:wid@live.unc.edu,nasyyu@live.unc.edu, mbuguaj@live.unc.edu, ridita@live.unc.edu\">Email the Team!</a></p>\n\n\n\n<p>Wid Alsadoon: wid@live.unc.edu</p>\n</div>\n\n\n\n<div class=\"is-layout-flow wp-block-column\">\n<h3 class=\"has-text-align-right\">Clientele Contact Information</h3>\n\n\n\n<ul>\n<li>Number:</li>\n\n\n\n<li>Email:</li>\n\n\n\n<li>Hours:</li>\n</ul>\n\n\n\n<figure class=\"wp-block-image size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-4.jpg\" alt=\"\" class=\"wp-image-88\" width=\"333\" height=\"187\" srcset=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-4.jpg 640w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/01/se-stock-im-4-300x169.jpg 300w\" sizes=\"(max-width: 333px) 100vw, 333px\" /></figure>\n</div>\n</div>\n</div></div>\n\n\n\n<p>Fariha Marzan: ridita@live.unc.edu</p>\n\n\n\n<p>Janet Mbugua: mbuguaj@live.unc.edu</p>\n\n\n\n<p>Natalie Yuziuk: nasyyu@live.unc.edu</p>\n",
+            "rendered": "\n<div class=\"is-layout-constrained wp-block-group alignwide\"><div class=\"wp-block-group__inner-container\">\n<div class=\"is-layout-flex wp-container-2 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p><a href=\"mailto:wid@live.unc.edu,nasyyu@live.unc.edu, mbuguaj@live.unc.edu, ridita@live.unc.edu\">Email the Team!</a></p>\n\n\n\n<p><strong>Wid Alsadoon:</strong> wid@mbuguaj</p>\n</div>\n</div>\n</div></div>\n\n\n\n<p></p>\n\n\n\n<p><strong>Fariha Marzan: </strong>ridita@live.unc.edu</p>\n\n\n\n<p><strong>Janet Mbugua: </strong>mbuguaj@live.unc.edu</p>\n\n\n\n<p><strong>Natalie Yuziuk:</strong> nasyyu@live.unc.edu</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Development Team Contact Email the Team! Wid Alsadoon: wid@live.unc.edu Clientele Contact Information Fariha Marzan: ridita@live.unc.edu Janet Mbugua: mbuguaj@live.unc.edu Natalie Yuziuk:&#8230;</p>\n",
+            "rendered": "<p>Email the Team! Wid Alsadoon: wid@mbuguaj Fariha Marzan: ridita@live.unc.edu Janet Mbugua: mbuguaj@live.unc.edu Natalie Yuziuk: nasyyu@live.unc.edu</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -497,14 +577,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 9,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 96,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34/revisions/96"
+                    "id": 137,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34/revisions/137"
                 }
             ],
             "wp:attachment": [
