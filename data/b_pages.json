@@ -688,8 +688,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamb2023/?page_id=73"
         },
-        "modified": "2023-01-25T11:06:02",
-        "modified_gmt": "2023-01-25T16:06:02",
+        "modified": "2023-01-31T08:57:49",
+        "modified_gmt": "2023-01-31T13:57:49",
         "slug": "user-stories",
         "status": "publish",
         "type": "page",
@@ -698,7 +698,7 @@
             "rendered": "User Stories"
         },
         "content": {
-            "rendered": "\n<h6>People with food allergies:</h6>\n\n\n\n<ul>\n<li>As a person with a food allergy, I want to be able to access food options that are specific to me so that I can eat in a safe and easy way.</li>\n\n\n\n<li>As a person with a food allergy, I want to know where the accessible food options are in proximity to my location.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to sort my allergy-friendly food options by lowest price.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to create a profile to save my allergies so I can see food that is specific to me every time I open the app.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to order the food recommended to me.</li>\n</ul>\n\n\n\n<h6>Administrator:</h6>\n\n\n\n<ul>\n<li>As an administrator, I want to make sure I am accessing accurate menu data from restaurants.</li>\n\n\n\n<li>As an administrator, I want to interact with existing online ordering systems or programs so that customers can order the food that is recommended to them.</li>\n\n\n\n<li>As an administrator, I want to have a dashboard of restaurants that are available on our application.</li>\n\n\n\n<li>As an administrator, I want to have a dashboard of existing profiles and the allergies associated with each profile. </li>\n</ul>\n\n\n\n<h6>Restaurant Vendors</h6>\n\n\n\n<ul>\n<li>As a restaurant vendor, I want to increase my client base by making my menu accessible to people with food allergies. </li>\n\n\n\n<li>As a restaurant vendor, I want to provide the most up-to-date menus to the application so that there is no miscommunication between me and my customers.</li>\n</ul>\n",
+            "rendered": "\n<h6>People with food allergies:</h6>\n\n\n\n<ul>\n<li>As a person with a food allergy, I want to be able to access food options that are specific to me so that I can eat in a safe and easy way.</li>\n\n\n\n<li>As a person with a food allergy, I want to know where the accessible food options are in proximity to my location.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to sort my allergy-friendly food options by lowest price.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to create a profile to save my allergies so I can see food that is specific to me every time I open the app.</li>\n\n\n\n<li>As a person with a food allergy, I want to be given ordering options from other existing online ordering systems (DoorDash, UberEats, Grubhub, etc.) so that I can order the food recommended to me.</li>\n</ul>\n\n\n\n<h6>Administrator:</h6>\n\n\n\n<ul>\n<li>As an administrator, I want to make sure I am accessing accurate menu data from restaurants.</li>\n\n\n\n<li>As an administrator, I want to interact with existing online ordering systems or programs (DoorDash, UberEats, Grubhub, etc.) so that customers can order the food that is recommended to them.</li>\n\n\n\n<li>As an administrator, I want to have a dashboard of restaurants that are available on our application.</li>\n\n\n\n<li>As an administrator, I want to have a dashboard of existing profiles and the allergies associated with each profile.&nbsp;</li>\n</ul>\n\n\n\n<h6>Restaurant Vendors</h6>\n\n\n\n<ul>\n<li>As a restaurant vendor, I want to increase my client base by making my menu accessible to people with food allergies.&nbsp;</li>\n\n\n\n<li>As a restaurant vendor, I want to provide the most up-to-date menus to the application so that there is no miscommunication between me and my customers.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -743,14 +743,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/73/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 132,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/73/revisions/132"
+                    "id": 146,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/73/revisions/146"
                 }
             ],
             "wp:attachment": [
