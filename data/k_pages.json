@@ -1,5 +1,177 @@
 [
     {
+        "id": 98,
+        "date": "2023-01-31T12:34:19",
+        "date_gmt": "2023-01-31T17:34:19",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=98"
+        },
+        "modified": "2023-01-31T13:14:21",
+        "modified_gmt": "2023-01-31T18:14:21",
+        "slug": "user-stories",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/user-stories/",
+        "title": {
+            "rendered": "User Stories"
+        },
+        "content": {
+            "rendered": "\n<h2>Teachers</h2>\n\n\n\n<ul>\n<li>As a teacher, I want to filter activities by theme so that I can quickly pick a relevant micromoment.</li>\n\n\n\n<li>As a teacher, I want to search activities by name so that I can find a certain micromoment quickly.</li>\n\n\n\n<li>As a teacher, I want to sort activities by duration so that I can pick one that fits my lecture length.</li>\n\n\n\n<li>As a teacher, I want to view more details about each micromoment so that I can consistently execute the same activity.</li>\n\n\n\n<li>As a teacher, I want the app available as a website so I can use it on my laptop and my phone regardless of OS.</li>\n</ul>\n\n\n\n<h2>General Users</h2>\n\n\n\n<ul>\n<li>As a user, I want an option to review micromoments so that they improve in the future.</li>\n\n\n\n<li>As a user, I want the option to add contact information to my reviews so that project faculty coordinators can contact me for further help.</li>\n\n\n\n<li>As a user, I want a minimal “main page” interface so I can have a simple overview of available activities.</li>\n</ul>\n\n\n\n<h2>Project Faculty Coordinators</h2>\n\n\n\n<ul>\n<li>As a project faculty coordinator, I want the option to edit existing micromoments so I address faculty feedback.</li>\n\n\n\n<li>As a project faculty coordinator, I want the option to add new micromoments so I can continuously incorporate new ideas into the app.</li>\n\n\n\n<li>As a project faculty coordinator, I want the option to add tags/labels to each micromoment so that the micromoments can be filtered by time duration/type of activity.</li>\n\n\n\n<li>As a project faculty coordinator, I want the interface for changing micromoments to be available as a website so that I’m not restricted to typing activities through my phone.</li>\n</ul>\n\n\n\n<h2>Parent Organization</h2>\n\n\n\n<ul>\n<li>As a member of the parent organization, I want my logo and company information within the app so that users can find more details on the app’s underlying ideas about education.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Teachers General Users Project Faculty Coordinators Parent Organization</p>\n",
+            "protected": false
+        },
+        "author": 999,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/98"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/999"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=98"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/98/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 115,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/98/revisions/115"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=98"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 95,
+        "date": "2023-01-31T12:33:57",
+        "date_gmt": "2023-01-31T17:33:57",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=95"
+        },
+        "modified": "2023-01-31T12:36:24",
+        "modified_gmt": "2023-01-31T17:36:24",
+        "slug": "deliverables",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/deliverables/",
+        "title": {
+            "rendered": "Deliverables"
+        },
+        "content": {
+            "rendered": "\n<p>Documents to report progress as the course progresses.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Documents to report progress as the course progresses.</p>\n",
+            "protected": false
+        },
+        "author": 999,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/95"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/999"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=95"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/95/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 103,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/95/revisions/103"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=95"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 24,
         "date": "2023-01-20T12:26:19",
         "date_gmt": "2023-01-20T17:26:19",
@@ -92,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamk2023/?page_id=36"
         },
-        "modified": "2023-01-24T13:11:05",
-        "modified_gmt": "2023-01-24T18:11:05",
+        "modified": "2023-01-31T12:46:45",
+        "modified_gmt": "2023-01-31T17:46:45",
         "slug": "related-links",
         "status": "publish",
         "type": "page",
@@ -102,11 +274,11 @@
             "rendered": "Related Links"
         },
         "content": {
-            "rendered": "\n<p><a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" data-type=\"URL\" data-id=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">Micromoment Activities Masterlist</a></p>\n",
+            "rendered": "\n<p><a rel=\"noreferrer noopener\" href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" data-type=\"URL\" data-id=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\">Micromoment Activities Masterlist</a></p>\n\n\n\n<p><a href=\"https://engineeringunleashed.com/\">Engineering Unleashed Website</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Micromoment Activities Masterlist</p>\n",
+            "rendered": "<p>Micromoment Activities Masterlist Engineering Unleashed Website</p>\n",
             "protected": false
         },
         "author": 6693,
@@ -147,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/36/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 84,
-                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/36/revisions/84"
+                    "id": 110,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/36/revisions/110"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +350,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamk2023/?page_id=33"
         },
-        "modified": "2023-01-24T13:13:48",
-        "modified_gmt": "2023-01-24T18:13:48",
+        "modified": "2023-01-31T12:39:08",
+        "modified_gmt": "2023-01-31T17:39:08",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -188,11 +360,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h6>Team Meeting #1 (Jan 24, 2023)</h6>\n\n\n\n<ul>\n<li>Going forward, team meetings are on Tuesdays at 12:30</li>\n\n\n\n<li>Updated website with actual project information (Project Introduction, Related Links pages)</li>\n\n\n\n<li>Emailed client to introduce ourselves + ask for his availability</li>\n\n\n\n<li>Updated Journal with team meeting notes</li>\n\n\n\n<li>Brainstormed questions for client\n<ul>\n<li>Due to the time/resource constraint, we may not be able to develop the app for both iOS and Android. What platform would you prefer we focus on?</li>\n\n\n\n<li>Are there any specific technologies or languages that you prefer we use?</li>\n\n\n\n<li>Is there a typo on the website related to question frenzy being repeated so often?</li>\n\n\n\n<li>Ask more specific details about Curiosity, Connections, Creating Value. What distinguishes them from each other?</li>\n\n\n\n<li>When users are searching for activities, what will they be able to filter the search based on? (theme, time, name?)</li>\n\n\n\n<li>Specific Style Guide. UI preferences. Font. Colors. Also will he provide the logo file in some diff formats (svg, png, etc)?</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #1 (Jan 23, 2023)</h6>\n\n\n\n<ul>\n<li>Action items:\n<ul>\n<li>Update website with actual project information</li>\n\n\n\n<li>Schedule meeting with client</li>\n\n\n\n<li>Update Journal for team meeting #1</li>\n\n\n\n<li>Brainstorm questions for client</li>\n\n\n\n<li>Work on next week&#8217;s deliverables (spec, user stories)</li>\n</ul>\n</li>\n\n\n\n<li>Advice:\n<ul>\n<li>Take a look at Trello</li>\n\n\n\n<li>Try to use kanban</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<h6>Team Meeting #2 (Jan 31, 2023)</h6>\n\n\n\n<ul>\n<li>Deliverables for the week are completed:\n<ul>\n<li>Project concept completed (seen on Project Introduction page)</li>\n\n\n\n<li>Deliverables page created</li>\n\n\n\n<li>User Stories completed</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #2 (Jan 30, 2023)</h6>\n\n\n\n<ul>\n<li>Add Louie to Trello or Github when we set that up\n<ul>\n<li>Github: @mlouielu</li>\n\n\n\n<li>Trello: louielu@cs.unc.edu</li>\n\n\n\n<li><a href=\"https://github.com/mlouielu/COMP523-S23-WebTracking/tree/main/data\">https://github.com/mlouielu/COMP523-S23-WebTracking/tree/main/data</a> &#8211; tool Louie uses to check our progress on wordpress website updates</li>\n</ul>\n</li>\n\n\n\n<li>Update website journal with client meeting notes</li>\n\n\n\n<li>Project concept + user stories due at next coach meeting\n<ul>\n<li>Project concept is done</li>\n\n\n\n<li>User stories (+ functional requirements)\n<ul>\n<li>Take a look at previous teams’ examples</li>\n</ul>\n</li>\n\n\n\n<li>Add a deliverables tab to the website</li>\n</ul>\n</li>\n\n\n\n<li>Decide on a more solid tech stack</li>\n\n\n\n<li>Try to implement proof of concept ASAP to share with client and start iterating on it</li>\n</ul>\n\n\n\n<h6>Client Meeting #1 (Jan 30, 2023)</h6>\n\n\n\n<ul>\n<li>Wants to decide between a web app or mobile app that can be used on both iOS or android -&gt; probably should just make a web app&nbsp;</li>\n\n\n\n<li>Need a backend where all the card data is stored with some way for teachers to add more cards in the future</li>\n\n\n\n<li>Wants it to interact with a database (google or sql)</li>\n\n\n\n<li>Regularly give him testing code (every 2 weeks)</li>\n\n\n\n<li>Make sure the code is organized and well documented</li>\n\n\n\n<li>Implement a Filter function (via tags, class time, )</li>\n\n\n\n<li>Give feedback (can be google forms/allow the client to be able to access it)\n<ul>\n<li>Names but no need to create users&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Have the engineering unleashed logo and the grant somewhere (doesn’t need to be prominent tho maybe put in about page)</li>\n\n\n\n<li>Theme can be whatever we want, we can copy the style of the master list but it is up to us</li>\n</ul>\n\n\n\n<h6>Team Meeting #1 (Jan 24, 2023)</h6>\n\n\n\n<ul>\n<li>Going forward, team meetings are on Tuesdays at 12:20</li>\n\n\n\n<li>Updated website with actual project information (Project Introduction, Related Links pages)</li>\n\n\n\n<li>Emailed client to introduce ourselves + ask for his availability</li>\n\n\n\n<li>Updated Journal with team meeting notes</li>\n\n\n\n<li>Brainstormed questions for client\n<ul>\n<li>Due to the time/resource constraint, we may not be able to develop the app for both iOS and Android. What platform would you prefer we focus on?</li>\n\n\n\n<li>Are there any specific technologies or languages that you prefer we use?</li>\n\n\n\n<li>Is there a typo on the website related to question frenzy being repeated so often?</li>\n\n\n\n<li>Ask more specific details about Curiosity, Connections, Creating Value. What distinguishes them from each other?</li>\n\n\n\n<li>When users are searching for activities, what will they be able to filter the search based on? (theme, time, name?)</li>\n\n\n\n<li>Specific Style Guide. UI preferences. Font. Colors. Also will he provide the logo file in some diff formats (svg, png, etc)?</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #1 (Jan 23, 2023)</h6>\n\n\n\n<ul>\n<li>Action items:\n<ul>\n<li>Update website with actual project information</li>\n\n\n\n<li>Schedule meeting with client</li>\n\n\n\n<li>Update Journal for team meeting #1</li>\n\n\n\n<li>Brainstorm questions for client</li>\n\n\n\n<li>Work on next week&#8217;s deliverables (spec, user stories)</li>\n</ul>\n</li>\n\n\n\n<li>Advice:\n<ul>\n<li>Take a look at Trello</li>\n\n\n\n<li>Try to use kanban</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Team Meeting #1 (Jan 24, 2023) Coach Meeting #1 (Jan 23, 2023)</p>\n",
+            "rendered": "<p>Team Meeting #2 (Jan 31, 2023) Coach Meeting #2 (Jan 30, 2023) Client Meeting #1 (Jan 30, 2023) Team Meeting #1 (Jan 24, 2023) Coach Meeting #1 (Jan 23, 2023)</p>\n",
             "protected": false
         },
         "author": 6693,
@@ -233,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 7,
+                    "count": 11,
                     "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 88,
-                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions/88"
+                    "id": 106,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions/106"
                 }
             ],
             "wp:attachment": [
@@ -264,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamk2023/?page_id=26"
         },
-        "modified": "2023-01-30T10:34:07",
-        "modified_gmt": "2023-01-30T15:34:07",
+        "modified": "2023-01-31T12:52:38",
+        "modified_gmt": "2023-01-31T17:52:38",
         "slug": "introduction",
         "status": "publish",
         "type": "page",
@@ -274,11 +446,11 @@
             "rendered": "Project Introduction"
         },
         "content": {
-            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material.</p>\n\n\n\n<p>In line with this initiative, our team is developing an teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally, the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n",
+            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material.</p>\n\n\n\n<p>In line with this initiative, our team is developing a teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp the relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally, the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"770\" height=\"228\" src=\"https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1.png\" alt=\"\" class=\"wp-image-112\" srcset=\"https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1.png 770w, https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1-300x89.png 300w, https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1-768x227.png 768w\" sizes=\"(max-width: 770px) 100vw, 770px\" /></figure>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Micromoment Card Deck As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material. In line with this initiative, our team is developing an teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teamk2023/\">Continue reading <span class=\"screen-reader-text\">Project Introduction</span></a></p>\n",
+            "rendered": "<p>Micromoment Card Deck As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material. In line with this initiative, our team is developing a teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teamk2023/\">Continue reading <span class=\"screen-reader-text\">Project Introduction</span></a></p>\n",
             "protected": false
         },
         "author": 999,
@@ -319,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 12,
+                    "count": 14,
                     "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 90,
-                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/90"
+                    "id": 101,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/101"
                 }
             ],
             "wp:attachment": [
