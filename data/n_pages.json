@@ -436,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupn/?page_id=10"
         },
-        "modified": "2023-01-20T13:39:22",
-        "modified_gmt": "2023-01-20T18:39:22",
+        "modified": "2023-01-31T00:38:41",
+        "modified_gmt": "2023-01-31T05:38:41",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -446,11 +446,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h2> January 19, 2023, Team meeting</h2>\n\n\n\n<ul>\n<li>Discussed about the client proposals and selected a list of 6 most prefered ones</li>\n\n\n\n<li>Completed contact information and set up team rules</li>\n</ul>\n",
+            "rendered": "\n<h2>January 26, 2023, Client Meeting</h2>\n\n\n\n<ul>\n<li>The leader of the previous team Amelia Paulsen introduced us to the survey application they made, specifically on existing functionalities and technologies they used and what we should be looking to achieve this semester</li>\n\n\n\n<li>Introduced each of us to the client Dr. Ferris: talked about who we are and why we chose the project individually and as a team</li>\n\n\n\n<li>Scheduled the next meeting with Dr. Ferris</li>\n</ul>\n\n\n\n<h2>January 24, 2023, Coach Meeting</h2>\n\n\n\n<ul>\n<li>Analyzed the project proposal with TA, identifying things that are manageable and things that are potentially difficult to deal with</li>\n\n\n\n<li>Went over tasks we should complete over the next week: setting up first client meeting, completing project introduction, requirements and user stories</li>\n\n\n\n<li>TA introduced us to various helpful resources </li>\n</ul>\n\n\n\n<h2> January 19, 2023, Team Meeting</h2>\n\n\n\n<ul>\n<li>Discussed about the client proposals and selected a list of 6 most prefered ones</li>\n\n\n\n<li>Completed contact information and set up team rules</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>January 19, 2023, Team meeting</p>\n",
+            "rendered": "<p>January 26, 2023, Client Meeting January 24, 2023, Coach Meeting January 19, 2023, Team Meeting</p>\n",
             "protected": false
         },
         "author": 13743,
@@ -491,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 6,
                     "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 69,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10/revisions/69"
+                    "id": 80,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10/revisions/80"
                 }
             ],
             "wp:attachment": [
