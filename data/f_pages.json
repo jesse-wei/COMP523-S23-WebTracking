@@ -270,8 +270,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=33"
         },
-        "modified": "2023-01-30T21:30:50",
-        "modified_gmt": "2023-01-31T02:30:50",
+        "modified": "2023-01-31T08:56:59",
+        "modified_gmt": "2023-01-31T13:56:59",
         "slug": "meeting-journal",
         "status": "publish",
         "type": "page",
@@ -280,11 +280,11 @@
             "rendered": "Meeting Journal"
         },
         "content": {
-            "rendered": "\n<p class=\"has-medium-font-size\">1/21/23 &#8211; Team meeting #1 </p>\n\n\n\n<ul>\n<li>Determined when to hold weekly meetings.</li>\n\n\n\n<li>Solidified general team rules</li>\n\n\n\n<li>Sent an email to the client to introduce ourselves and schedule a meeting </li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\">1/30/23 &#8211; Coach meeting #2</p>\n\n\n\n<ul>\n<li>Discussed what changes we need to make to update the team site. (Project description, Journal, and Deliverables)</li>\n\n\n\n<li>Action items: \n<ul>\n<li>Brainstorm user stories questions for the client</li>\n\n\n\n<li>Update project site</li>\n</ul>\n</li>\n\n\n\n<li>Advice: \n<ul>\n<li>Begin identifying tech specs </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\">1/30/23 &#8211; Team meeting #2 </p>\n\n\n\n<ul>\n<li>Brainstormed questions for clients \n<ul>\n<li>What features should we prioritize? (UI/admin features/email automation/etc) </li>\n\n\n\n<li>What would the admin page look like? (dashboard/drop-down menu/etc) What tasks should be completed with admin access?</li>\n\n\n\n<li>Is there a specific style guide for UI? (logos/color/font/etc)</li>\n\n\n\n<li>what differentiates this product from other volunteer managing applications? </li>\n\n\n\n<li>Are there additional features you want to add to improve the product?</li>\n</ul>\n</li>\n\n\n\n<li>Updated project site with current information </li>\n\n\n\n<li>Detailed team roles and responsibilities </li>\n</ul>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p class=\"has-medium-font-size\"><strong>1/30/23 &#8211; Team meeting #2 </strong></p>\n\n\n\n<ul>\n<li>Brainstormed questions for clients \n<ul>\n<li>What features should we prioritize? (UI/admin features/email automation/etc) </li>\n\n\n\n<li>What would the admin page look like? (dashboard/drop-down menu/etc) What tasks should be completed with admin access?</li>\n\n\n\n<li>Is there a specific style guide for UI? (logos/color/font/etc)</li>\n\n\n\n<li>what differentiates this product from other volunteer managing applications? </li>\n\n\n\n<li>Are there additional features you want to add to improve the product?</li>\n</ul>\n</li>\n\n\n\n<li>Updated project site with current information </li>\n\n\n\n<li>Detailed team roles and responsibilities </li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>1/30/23 &#8211; Coach meeting #2</strong></p>\n\n\n\n<ul>\n<li>Discussed what changes we need to make to update the team site. (Project description, Journal, and Deliverables)</li>\n\n\n\n<li>Action items: \n<ul>\n<li>Brainstorm user stories questions for the client</li>\n\n\n\n<li>Update project site</li>\n</ul>\n</li>\n\n\n\n<li>Advice: \n<ul>\n<li>Begin identifying tech specs </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>1/21/23 &#8211; Team meeting #1 </strong></p>\n\n\n\n<ul>\n<li>Determined when to hold weekly meetings.</li>\n\n\n\n<li>Solidified general team rules</li>\n\n\n\n<li>Sent an email to the client to introduce ourselves and schedule a meeting </li>\n</ul>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>1/21/23 &#8211; Team meeting #1 1/30/23 &#8211; Coach meeting #2 1/30/23 &#8211; Team meeting #2</p>\n",
+            "rendered": "<p>1/30/23 &#8211; Team meeting #2 1/30/23 &#8211; Coach meeting #2 1/21/23 &#8211; Team meeting #1</p>\n",
             "protected": false
         },
         "author": 13252,
@@ -325,14 +325,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 6,
                     "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 115,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions/115"
+                    "id": 133,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions/133"
                 }
             ],
             "wp:attachment": [
@@ -442,8 +442,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=13"
         },
-        "modified": "2023-01-30T20:53:59",
-        "modified_gmt": "2023-01-31T01:53:59",
+        "modified": "2023-01-31T09:16:20",
+        "modified_gmt": "2023-01-31T14:16:20",
         "slug": "about-the-team",
         "status": "publish",
         "type": "page",
@@ -452,7 +452,7 @@
             "rendered": "About The Team"
         },
         "content": {
-            "rendered": "\n<p>&lt;ROLE&gt; <strong>Alice Yu</strong>: yuualice@live.unc.edu<br>&lt;ROLE&gt;<strong> Han Lim</strong>: hansl@unc.edu<br>&lt;ROLE&gt; <strong>Arja Kaushal:</strong>  akaushal@live.unc.edu<br>&lt;ROLE&gt; <strong>Adrian Bruno</strong>: abruno@email.unc.edu</p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hours in advance.</li>\n\n\n\n<li>Attend regular team, coach, and client meetings on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask for help early. Be timely about letting other group members know if you are struggling with your assigned work.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
+            "rendered": "\n<p>&lt;ROLE&gt; <strong>Alice Yu</strong>:  yuualice@live.unc.edu<br>&lt;ROLE&gt;<strong> Han Lim</strong>:  hansl@unc.edu<br>&lt;ROLE&gt; <strong>Arja Kaushal:</strong>  akaushal@live.unc.edu<br>&lt;ROLE&gt; <strong>Adrian Bruno</strong>:  abruno@email.unc.edu</p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hours in advance.</li>\n\n\n\n<li>Attend regular team, coach, and client meetings on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask for help early. Be timely about letting other group members know if you are struggling with your assigned work.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -503,8 +503,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 99,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/99"
+                    "id": 136,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/136"
                 }
             ],
             "wp:attachment": [
