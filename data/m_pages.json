@@ -1,5 +1,183 @@
 [
     {
+        "id": 72,
+        "date": "2023-02-01T20:37:03",
+        "date_gmt": "2023-02-02T01:37:03",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=72"
+        },
+        "modified": "2023-02-01T20:39:18",
+        "modified_gmt": "2023-02-02T01:39:18",
+        "slug": "specifications",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/deliverables/specifications/",
+        "title": {
+            "rendered": "Specifications"
+        },
+        "content": {
+            "rendered": "\n<p>User Stories</p>\n\n\n\n<p>Requirements</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Stories Requirements</p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 70,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=72"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 73,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions/73"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=72"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 70,
+        "date": "2023-02-01T20:35:44",
+        "date_gmt": "2023-02-02T01:35:44",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=70"
+        },
+        "modified": "2023-02-01T20:38:52",
+        "modified_gmt": "2023-02-02T01:38:52",
+        "slug": "deliverables",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/deliverables/",
+        "title": {
+            "rendered": "Deliverables"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=70"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 71,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70/revisions/71"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=70"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 12,
         "date": "2023-01-25T12:03:41",
         "date_gmt": "2023-01-25T17:03:41",
@@ -92,21 +270,21 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=40"
         },
-        "modified": "2023-01-25T12:03:04",
-        "modified_gmt": "2023-01-25T17:03:04",
+        "modified": "2023-02-01T20:44:56",
+        "modified_gmt": "2023-02-02T01:44:56",
         "slug": "homepage",
         "status": "publish",
         "type": "page",
         "link": "https://tarheels.live/teamm/",
         "title": {
-            "rendered": "AcademicLife OS"
+            "rendered": "Home"
         },
         "content": {
             "rendered": "\n<p><strong>AcademicLife OS </strong>is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of options and flexibility, it is purposely restrictive. </p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>AcademicLife OS is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/\">Continue reading <span class=\"screen-reader-text\">AcademicLife OS</span></a></p>\n",
+            "rendered": "<p>AcademicLife OS is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/\">Continue reading <span class=\"screen-reader-text\">Home</span></a></p>\n",
             "protected": false
         },
         "author": 1119,
@@ -147,14 +325,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 5,
                     "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 48,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions/48"
+                    "id": 78,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions/78"
                 }
             ],
             "wp:attachment": [
