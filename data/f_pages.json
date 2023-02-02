@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=131"
         },
-        "modified": "2023-01-31T12:53:20",
-        "modified_gmt": "2023-01-31T17:53:20",
+        "modified": "2023-02-01T11:19:01",
+        "modified_gmt": "2023-02-01T16:19:01",
         "slug": "wake-smiles",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Wake Smiles"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<h2>Project Summary</h2>\n\n\n\n<p>Wake Smiles provides health services for under-resourced adults through better access to oral health. As their number of volunteers increases, serving the demand of the community and managing volunteers has grown increasingly inefficient. To solve this this predicament, Wake Smiles would like to integrate a volunteering-management platform to decrease time spent in clerical work and focus on serving the community.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Project Summary Wake Smiles provides health services for under-resourced adults through better access to oral health. As their number of volunteers increases, serving the demand of the community and managing volunteers has grown increasingly inefficient. To solve this this predicament, Wake Smiles would like to integrate a volunteering-management platform to decrease time spent in clerical&hellip; <a class=\"more-link\" href=\"https://tarheels.live/sp23comp523teamf/\">Continue reading <span class=\"screen-reader-text\">Wake Smiles</span></a></p>\n",
             "protected": false
         },
         "author": 10376,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/131/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 137,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/131/revisions/137"
+                    "id": 147,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/131/revisions/147"
                 }
             ],
             "wp:attachment": [
@@ -92,8 +92,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=102"
         },
-        "modified": "2023-01-30T21:07:18",
-        "modified_gmt": "2023-01-31T02:07:18",
+        "modified": "2023-02-01T11:39:15",
+        "modified_gmt": "2023-02-01T16:39:15",
         "slug": "user-story",
         "status": "publish",
         "type": "page",
@@ -102,11 +102,11 @@
             "rendered": "User Story"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p class=\"has-extra-large-font-size\"><strong>Implemented User Stories<em> </em></strong></p>\n\n\n\n<p class=\"has-large-font-size\"><em><strong>Volunteer</strong></em></p>\n\n\n\n<ul>\n<li>As a non-clinical volunteer, I need a login page so that I can securely access my profile.</li>\n\n\n\n<li>As a non-clinical volunteer, I need my profile page to contain my basic information and HIPAA agreement so that the administrator knows that I have filled out all forms necessary to volunteer.</li>\n\n\n\n<li>As a non-clinical volunteer, I need my profile page to display that I have completed my orientation so that the administrator knows I’m well-equipped to begin as a volunteer.&nbsp;</li>\n\n\n\n<li>As a non-clinical volunteer, I need a dynamic page where I can sign-up for shifts according to slots that are open so that I can complete the necessary hours.</li>\n</ul>\n\n\n\n<p class=\"has-large-font-size\"><strong><em>Admin</em></strong></p>\n\n\n\n<ul>\n<li>As an administrator, I can add and modify volunteer shifts on the backend. </li>\n\n\n\n<li>As an administrator, you can view waiver files that are uploaded by volunteers in the backend. </li>\n</ul>\n\n\n\n<p class=\"has-extra-large-font-size\"><strong>Current User Stories</strong></p>\n\n\n\n<p class=\"has-large-font-size\"><strong><em>Volunteer</em></strong></p>\n\n\n\n<ul>\n<li>As a volunteer in general, the volunteer type should be selectable (Dentist, Hygienist, Dental Assistant,  Interpreter, Administrative, Intern)\n<ul>\n<li>As a Dentist/Hyg/Assistant volunteer I need to enter my license #, NPI #, etc.</li>\n\n\n\n<li>As a Dentist volunteer I need to be able to enter my scope of care.</li>\n\n\n\n<li>As a pre-dental volunteer I should only be able to see pre-dental schedule availability.</li>\n</ul>\n</li>\n\n\n\n<li>As a volunteer, I need a way to recover my account if I forget my password.</li>\n\n\n\n<li>As a volunteer, I would like to get an email when I have upcoming shifts and schedule updates </li>\n\n\n\n<li>As a volunteer, I need to be able to use dark mode in my browser.</li>\n</ul>\n\n\n\n<p class=\"has-large-font-size\"><strong><em>Admin</em></strong></p>\n\n\n\n<ul>\n<li>As an administrator, I need a login page so that I can securely access my profile.&nbsp;</li>\n\n\n\n<li>As an administrator, I need a page to open up volunteering shifts so that volunteers can sign up.&nbsp;</li>\n\n\n\n<li>As an administrator, I can easily input shift time and dates using a calendar view</li>\n\n\n\n<li>As an administrator, I need a dashboard where I can view profiles and check on each volunteer’s required documents and shifts.&nbsp;</li>\n\n\n\n<li>As an administrator, I need a copy-pasteable list of volunteer emails for each shift so that I can mass-email volunteers if there is a change in shift schedules.&nbsp;</li>\n\n\n\n<li>&nbsp;As an administrator, I can manually send out emails to volunteers for announcements about the shifts.</li>\n\n\n\n<li>As an administrator, I need to be able to see a volunteer&#8217;s total hours between a start and end date.</li>\n\n\n\n<li>As an administrator, I can view shift schedules in a filtered view (ascending order or name filtered) </li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Implemented User Stories Volunteer Admin Current User Stories Volunteer Admin</p>\n",
             "protected": false
         },
         "author": 10376,
@@ -147,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 4,
                     "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/102/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 103,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/102/revisions/103"
+                    "id": 149,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/102/revisions/149"
                 }
             ],
             "up": [
@@ -356,8 +356,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=33"
         },
-        "modified": "2023-01-31T08:56:59",
-        "modified_gmt": "2023-01-31T13:56:59",
+        "modified": "2023-02-01T10:13:44",
+        "modified_gmt": "2023-02-01T15:13:44",
         "slug": "meeting-journal",
         "status": "publish",
         "type": "page",
@@ -366,11 +366,11 @@
             "rendered": "Meeting Journal"
         },
         "content": {
-            "rendered": "\n<p class=\"has-medium-font-size\"><strong>1/30/23 &#8211; Team meeting #2 </strong></p>\n\n\n\n<ul>\n<li>Brainstormed questions for clients \n<ul>\n<li>What features should we prioritize? (UI/admin features/email automation/etc) </li>\n\n\n\n<li>What would the admin page look like? (dashboard/drop-down menu/etc) What tasks should be completed with admin access?</li>\n\n\n\n<li>Is there a specific style guide for UI? (logos/color/font/etc)</li>\n\n\n\n<li>what differentiates this product from other volunteer managing applications? </li>\n\n\n\n<li>Are there additional features you want to add to improve the product?</li>\n</ul>\n</li>\n\n\n\n<li>Updated project site with current information </li>\n\n\n\n<li>Detailed team roles and responsibilities </li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>1/30/23 &#8211; Coach meeting #2</strong></p>\n\n\n\n<ul>\n<li>Discussed what changes we need to make to update the team site. (Project description, Journal, and Deliverables)</li>\n\n\n\n<li>Action items: \n<ul>\n<li>Brainstorm user stories questions for the client</li>\n\n\n\n<li>Update project site</li>\n</ul>\n</li>\n\n\n\n<li>Advice: \n<ul>\n<li>Begin identifying tech specs </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>1/21/23 &#8211; Team meeting #1 </strong></p>\n\n\n\n<ul>\n<li>Determined when to hold weekly meetings.</li>\n\n\n\n<li>Solidified general team rules</li>\n\n\n\n<li>Sent an email to the client to introduce ourselves and schedule a meeting </li>\n</ul>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p class=\"has-large-font-size\"><strong>1/31/23 &#8211; Client Meeting #1</strong></p>\n\n\n\n<ul class=\"has-small-font-size\" style=\"line-height:1\">\n<li>Introduced ourselves and talked about the vision and mission of the product </li>\n\n\n\n<li>Confirmed currently implemented features of the projects and detailed user stories extending on existing features</li>\n\n\n\n<li>Requested first-hand and volunteer user feedback on the deployed website to improve website usability </li>\n\n\n\n<li>Discussed prioritizing specific features based on the client&#8217;s needs\n<ul>\n<li>admin login page/dashboard</li>\n\n\n\n<li>UI improvements for dark mode</li>\n\n\n\n<li>Login information recovery </li>\n\n\n\n<li>Mass email communication </li>\n\n\n\n<li>Extend the volunteer sign-up for a clinical audience</li>\n</ul>\n</li>\n\n\n\n<li>Outlined general communication expectations for the semester (bi-weekly meeting with additional meetings if needed) </li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/30/23 &#8211; Team meeting #2 </strong></p>\n\n\n\n<ul class=\"has-small-font-size\" style=\"line-height:1\">\n<li>Brainstormed questions for clients \n<ul>\n<li>What features should we prioritize? (UI/admin features/email automation/etc) </li>\n\n\n\n<li>What would the admin page look like? (dashboard/drop-down menu/etc) What tasks should be completed with admin access?</li>\n\n\n\n<li>Is there a specific style guide for UI? (logos/color/font/etc)</li>\n\n\n\n<li>what differentiates this product from other volunteer managing applications? </li>\n\n\n\n<li>Are there additional features you want to add to improve the product?</li>\n</ul>\n</li>\n\n\n\n<li>Updated project site with current information </li>\n\n\n\n<li>Detailed team roles and responsibilities </li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/30/23 &#8211; Coach meeting #2</strong></p>\n\n\n\n<ul class=\"has-small-font-size\" style=\"line-height:1\">\n<li>Discussed what changes we need to make to update the team site. (Project description, Journal, and Deliverables)</li>\n\n\n\n<li>Action items: \n<ul>\n<li>Brainstorm user stories questions for the client</li>\n\n\n\n<li>Update project site</li>\n</ul>\n</li>\n\n\n\n<li>Advice: \n<ul>\n<li>Begin identifying tech specs </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/21/23 &#8211; Team meeting #1 </strong></p>\n\n\n\n<ul class=\"has-small-font-size\" style=\"line-height:1\">\n<li>Determined when to hold weekly meetings.</li>\n\n\n\n<li>Solidified general team rules</li>\n\n\n\n<li>Sent an email to the client to introduce ourselves and schedule a meeting </li>\n</ul>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>1/30/23 &#8211; Team meeting #2 1/30/23 &#8211; Coach meeting #2 1/21/23 &#8211; Team meeting #1</p>\n",
+            "rendered": "<p>1/31/23 &#8211; Client Meeting #1 1/30/23 &#8211; Team meeting #2 1/30/23 &#8211; Coach meeting #2 1/21/23 &#8211; Team meeting #1</p>\n",
             "protected": false
         },
         "author": 13252,
@@ -411,14 +411,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 8,
                     "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 133,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions/133"
+                    "id": 143,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions/143"
                 }
             ],
             "wp:attachment": [
@@ -528,8 +528,8 @@
         "guid": {
             "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=13"
         },
-        "modified": "2023-01-31T09:16:20",
-        "modified_gmt": "2023-01-31T14:16:20",
+        "modified": "2023-02-01T11:42:24",
+        "modified_gmt": "2023-02-01T16:42:24",
         "slug": "about-the-team",
         "status": "publish",
         "type": "page",
@@ -538,11 +538,11 @@
             "rendered": "About The Team"
         },
         "content": {
-            "rendered": "\n<p>&lt;ROLE&gt; <strong>Alice Yu</strong>:  yuualice@live.unc.edu<br>&lt;ROLE&gt;<strong> Han Lim</strong>:  hansl@unc.edu<br>&lt;ROLE&gt; <strong>Arja Kaushal:</strong>  akaushal@live.unc.edu<br>&lt;ROLE&gt; <strong>Adrian Bruno</strong>:  abruno@email.unc.edu</p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hours in advance.</li>\n\n\n\n<li>Attend regular team, coach, and client meetings on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask for help early. Be timely about letting other group members know if you are struggling with your assigned work.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
+            "rendered": "\n<p><strong>Project Lead</strong> &#8211; <strong>Alice Yu</strong>:  yuualice@live.unc.edu<br><strong>Frontend Lead/UI designer</strong> &#8211;<strong> Han Lim</strong>:  hansl@unc.edu<br><strong>Backend Lead</strong> &#8211; <strong>Arja Kaushal:</strong>  akaushal@live.unc.edu<br><strong>Fullstack Engineer/Client Manager</strong> &#8211; <strong>Adrian Bruno</strong>:  abruno@email.unc.edu</p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hours in advance.</li>\n\n\n\n<li>Attend regular team, coach, and client meetings on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask for help early. Be timely about letting other group members know if you are struggling with your assigned work.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>&lt;ROLE&gt; Alice Yu: yuualice@live.unc.edu&lt;ROLE&gt; Han Lim: hansl@unc.edu&lt;ROLE&gt; Arja Kaushal: akaushal@live.unc.edu&lt;ROLE&gt; Adrian Bruno: abruno@email.unc.edu Team Rules</p>\n",
+            "rendered": "<p>Project Lead &#8211; Alice Yu: yuualice@live.unc.eduFrontend Lead/UI designer &#8211; Han Lim: hansl@unc.eduBackend Lead &#8211; Arja Kaushal: akaushal@live.unc.eduFullstack Engineer/Client Manager &#8211; Adrian Bruno: abruno@email.unc.edu Team Rules</p>\n",
             "protected": false
         },
         "author": 13252,
@@ -589,8 +589,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 136,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/136"
+                    "id": 151,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/151"
                 }
             ],
             "wp:attachment": [
