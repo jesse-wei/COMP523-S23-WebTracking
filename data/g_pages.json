@@ -780,8 +780,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=20"
         },
-        "modified": "2023-01-20T16:34:10",
-        "modified_gmt": "2023-01-20T21:34:10",
+        "modified": "2023-02-01T11:34:17",
+        "modified_gmt": "2023-02-01T16:34:17",
         "slug": "team",
         "status": "publish",
         "type": "page",
@@ -790,7 +790,7 @@
             "rendered": "Team"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table\"><table><thead><tr><th>Name</th><th>Email</th><th>Role</th></tr></thead><tbody><tr><td>Jianghao Wu</td><td><a href=\"jianghao.wu@unc.edu\">jianghao.wu@unc.edu</a></td><td>Role A</td></tr><tr><td>Kevin McCabe</td><td><a href=\"mailto:kmccab1@email.unc.edu\">kmccab1@email.unc.edu</a></td><td>Role B</td></tr><tr><td>Guillermo Saez</td><td><a href=\"mailto:guisaez@ad.unc.edu\">guisaez@ad.unc.edu</a></td><td>Role C</td></tr><tr><td>Yuchen Bai</td><td><a href=\"mailto:yuchencc@email.unc.edu\">yuchencc@email.unc.edu</a></td><td>Role D</td></tr></tbody></table></figure>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\">Contact the team</a></div>\n</div>\n",
+            "rendered": "\n<figure class=\"wp-block-table\"><table><thead><tr><th>Name</th><th>Email</th><th>Role</th></tr></thead><tbody><tr><td>Jianghao Wu</td><td><a href=\"mailto:jianghao.wu@unc.edu\">jianghao.wu@unc.edu</a></td><td>Role A</td></tr><tr><td>Kevin McCabe</td><td><a href=\"mailto:kmccab1@email.unc.edu\">kmccab1@email.unc.edu</a></td><td>Role B</td></tr><tr><td>Guillermo Saez</td><td><a href=\"mailto:guisaez@ad.unc.edu\">guisaez@ad.unc.edu</a></td><td>Role C</td></tr><tr><td>Yuchen Bai</td><td><a href=\"mailto:yuchencc@email.unc.edu\">yuchencc@email.unc.edu</a></td><td>Role D</td></tr></tbody></table></figure>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:kmccab1@email.unc.edu, jianghao.wu@unc.edu,guisaez@ad.unc.edu,yuchencc@email.unc.edu\">Contact the team</a></div>\n</div>\n",
             "protected": false
         },
         "excerpt": {
@@ -835,14 +835,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 81,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions/81"
+                    "id": 115,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions/115"
                 }
             ],
             "wp:attachment": [
