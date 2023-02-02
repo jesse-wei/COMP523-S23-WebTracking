@@ -1,5 +1,263 @@
 [
     {
+        "id": 209,
+        "date": "2023-02-01T08:54:46",
+        "date_gmt": "2023-02-01T13:54:46",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=209"
+        },
+        "modified": "2023-02-01T08:55:35",
+        "modified_gmt": "2023-02-01T13:55:35",
+        "slug": "d2-design-document",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/d2-design-document/",
+        "title": {
+            "rendered": "D2. Design Document"
+        },
+        "content": {
+            "rendered": "\n<p>TODO</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>TODO</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/209"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=209"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/209/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 213,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/209/revisions/213"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=209"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 202,
+        "date": "2023-01-31T17:35:26",
+        "date_gmt": "2023-01-31T22:35:26",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=202"
+        },
+        "modified": "2023-01-31T17:35:26",
+        "modified_gmt": "2023-01-31T22:35:26",
+        "slug": "ethics-1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/ethics-1/",
+        "title": {
+            "rendered": "Ethics 1"
+        },
+        "content": {
+            "rendered": "\n<p>TODO</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>TODO</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=202"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 203,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions/203"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=202"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 198,
+        "date": "2023-01-31T17:28:55",
+        "date_gmt": "2023-01-31T22:28:55",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=198"
+        },
+        "modified": "2023-01-31T17:30:14",
+        "modified_gmt": "2023-01-31T22:30:14",
+        "slug": "crc-cards",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/crc-cards/",
+        "title": {
+            "rendered": "CRC Cards"
+        },
+        "content": {
+            "rendered": "\n<p>TODO 3</p>\n\n\n\n<p>aaaaaabbb</p>\n\n\n\n<p>aljdsflksjflkdj</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>TODO 3 aaaaaabbb aljdsflksjflkdj</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/198"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=198"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/198/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 201,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/198/revisions/201"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=198"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 137,
         "date": "2023-01-28T19:06:32",
         "date_gmt": "2023-01-29T00:06:32",
@@ -92,17 +350,17 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=133"
         },
-        "modified": "2023-01-29T08:22:46",
-        "modified_gmt": "2023-01-29T13:22:46",
+        "modified": "2023-02-01T08:54:16",
+        "modified_gmt": "2023-02-01T13:54:16",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
         "link": "https://tarheels.live/comp523teamd/specifications/",
         "title": {
-            "rendered": "Specifications"
+            "rendered": "D1. Specifications"
         },
         "content": {
-            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As a biomedical user (student/researcher), I want to be able to use a &#8220;point-and-click&#8221; and simple GUI to update user settings and compute head circumference from a single, but occasionally multiple, MRI image(s) to assist with research.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to process a batch of images one after the other and update multiple user settings for convenience.</li>\n\n\n\n<li>As a future developer of this work, I want the tool to be documented, extensible, and open source so that it can be improved easily.</li>\n\n\n\n<li>As any type of user, I want the tool to output a text file with head circumference measurements to assist with research.</li>\n\n\n\n<li>As any type of user, I want the tool to output a log of user choices in an easily parsable format (i.e. JSON) so that I have a reproducible history of my work.</li>\n</ul>\n\n\n\n<h2>Requirements</h2>\n\n\n\n<h3>Functional</h3>\n\n\n\n<ul>\n<li>Definite</li>\n\n\n\n<li>Perhaps</li>\n\n\n\n<li>Improbable</li>\n</ul>\n\n\n\n<h3>Non-functional</h3>\n\n\n\n<ul>\n<li>Definite</li>\n\n\n\n<li>Perhaps</li>\n\n\n\n<li>Improbable</li>\n</ul>\n",
+            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As a biomedical user (student/researcher), I want to be able to use a &#8220;point-and-click&#8221; and simple GUI to update user settings and compute head circumference from a single, but occasionally multiple, MRI image(s) to assist with research.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to process a batch of images one after the other for convenience.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to update multiple user settings for convenience.</li>\n\n\n\n<li>As a future developer of this work, I want the tool to be documented, extensible, and open source so that it can be improved easily.</li>\n\n\n\n<li>As any type of user, I want the tool to output a text file with head circumference measurements to assist with research.</li>\n\n\n\n<li>As any type of user, I want the tool to output a log of user choices in an easily parsable format (i.e. JSON) so that I have a reproducible history of my work.</li>\n</ul>\n\n\n\n<h2>Requirements</h2>\n\n\n\n<h3>Functional</h3>\n\n\n\n<ul>\n<li>Definite\n<ul>\n<li>The application will correctly compute head circumference from an MRI image.</li>\n\n\n\n<li>The user can input MRI images in NRRD/NIfTI file formats using a file menu.</li>\n\n\n\n<li>The user can reorient/rotate the image.</li>\n\n\n\n<li>The user can process a batch of images using CLI.</li>\n\n\n\n<li>The user can interact with the GUI to perform the computation on a single image.</li>\n\n\n\n<li>The program will output a text file with head circumference measurements.</li>\n\n\n\n<li>The program will output a log of user choices in an easily parsable format (e.g. JSON).</li>\n</ul>\n</li>\n\n\n\n<li>Perhaps\n<ul>\n<li>The user can use sliders to reorient/rotate the image.</li>\n</ul>\n</li>\n\n\n\n<li>Improbable\n<ul>\n<li>The program will apply the Fourier transform for image smoothing.</li>\n\n\n\n<li>The program will assist with analysis of the results.\n<ul>\n<li>This will primarily be left to the user.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3>Non-functional</h3>\n\n\n\n<ul>\n<li>Definite\n<ul>\n<li>The project will be open source.</li>\n\n\n\n<li>The GUI will be easy to use for non-technical users.</li>\n\n\n\n<li>The program will provide users with specific test cases and expected results.</li>\n\n\n\n<li>There will be clear documentation for the program.</li>\n\n\n\n<li>The program will be maintainable and extensible.</li>\n</ul>\n</li>\n\n\n\n<li>Perhaps\n<ul>\n<li>There will be an executable file/package (e.g. .exe, .app) for running the program.</li>\n\n\n\n<li>There will be tutorials for using the program.</li>\n</ul>\n</li>\n\n\n\n<li>Improbable</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -147,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 14,
+                    "count": 16,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/133/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 163,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/133/revisions/163"
+                    "id": 208,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/133/revisions/208"
                 }
             ],
             "wp:attachment": [
@@ -350,8 +608,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=37"
         },
-        "modified": "2023-01-30T20:03:36",
-        "modified_gmt": "2023-01-31T01:03:36",
+        "modified": "2023-01-31T17:26:02",
+        "modified_gmt": "2023-01-31T22:26:02",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -360,7 +618,7 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h3>2/1/23 (Client Zoom)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/31/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/30/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>Discussed potential project technologies.</li>\n\n\n\n<li>Made progress on <a href=\"https://tarheels.live/comp523teamd/specifications/\">D1. Specifications</a> deliverable.</li>\n\n\n\n<li>Prepared for this week&#8217;s coach and client meeting.</li>\n\n\n\n<li>Wrote <a href=\"https://tarheels.live/comp523teamd/\">concept</a> statement for website.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
+            "rendered": "\n<h3>2/1/23 (Client Zoom)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/31/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Louie checked over our user stories, project concept, and requirements (WIP).</li>\n\n\n\n<li>We need to clarify the meaning of &#8220;point-and-click GUI&#8221;.</li>\n\n\n\n<li>We need to make sure our user stories are &#8220;atomic,&#8221; meaning there shouldn&#8217;t be a user story that can be split into smaller user stories.</li>\n\n\n\n<li>We asked for some advice about how to distribute work among the team.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/30/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>Discussed potential project technologies.</li>\n\n\n\n<li>Made progress on <a href=\"https://tarheels.live/comp523teamd/specifications/\">D1. Specifications</a> deliverable.</li>\n\n\n\n<li>Prepared for this week&#8217;s coach and client meeting.</li>\n\n\n\n<li>Wrote <a href=\"https://tarheels.live/comp523teamd/\">concept</a> statement for website.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -405,14 +663,14 @@
             ],
             "version-history": [
                 {
-                    "count": 30,
+                    "count": 33,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 191,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/191"
+                    "id": 196,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/196"
                 }
             ],
             "wp:attachment": [
@@ -491,7 +749,7 @@
             ],
             "version-history": [
                 {
-                    "count": 13,
+                    "count": 12,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions"
                 }
             ],
