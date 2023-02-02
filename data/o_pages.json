@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamo/?page_id=61"
         },
-        "modified": "2023-01-26T21:19:47",
-        "modified_gmt": "2023-01-27T02:19:47",
+        "modified": "2023-02-02T12:29:53",
+        "modified_gmt": "2023-02-02T17:29:53",
         "slug": "meetings-2",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Meetings"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Meeting</strong></td><td><strong>Day and Time</strong></td></tr><tr><td>Team</td><td>Thursdays at 12pm</td></tr><tr><td>Coach</td><td>Thursdays at 8:30am</td></tr></tbody></table></figure>\n",
+            "rendered": "\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Meeting</strong></td><td><strong>Day and Time</strong></td></tr><tr><td>Client</td><td>Thursdays at 11:30pm</td></tr><tr><td>Team</td><td>Thursdays at 12pm</td></tr><tr><td>Coach</td><td>Thursdays at 8:30am</td></tr></tbody></table></figure>\n\n\n\n<h2>Journal Entry Schedule</h2>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Week</strong> <strong>Of</strong></td><td><strong>Team Member</strong></td></tr><tr><td>2/5 &#8211; 2/11</td><td>Matt</td></tr><tr><td>2/12 &#8211; 2/18</td><td>Aro</td></tr><tr><td>2/19 &#8211; 2/25</td><td>Spencer</td></tr><tr><td>2/26 &#8211; 3/4</td><td>Stephan</td></tr><tr><td>3/5 &#8211; 3/11</td><td>Matt</td></tr><tr><td>3/19 &#8211; 3/25</td><td>Aro</td></tr><tr><td>3/26 &#8211; 4/1</td><td>Spencer</td></tr><tr><td>4/2 &#8211; 4/8</td><td>Stephan</td></tr><tr><td>4/9 &#8211; 4/15</td><td>Matt</td></tr><tr><td>4/16 &#8211; 4/22</td><td>Aro</td></tr><tr><td>4/23 &#8211; 4/29</td><td>Spencer</td></tr><tr><td>4/30 &#8211; 5/6</td><td>Stephan</td></tr></tbody></table></figure>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Meeting Day and Time Team Thursdays at 12pm Coach Thursdays at 8:30am</p>\n",
+            "rendered": "<p>Meeting Day and Time Client Thursdays at 11:30pm Team Thursdays at 12pm Coach Thursdays at 8:30am Journal Entry Schedule Week&#8230;</p>\n",
             "protected": false
         },
         "author": 1246,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 8,
+                    "count": 10,
                     "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/61/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 89,
-                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/61/revisions/89"
+                    "id": 106,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/61/revisions/106"
                 }
             ],
             "wp:attachment": [
@@ -344,8 +344,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamo/?page_id=20"
         },
-        "modified": "2023-01-26T21:30:24",
-        "modified_gmt": "2023-01-27T02:30:24",
+        "modified": "2023-02-02T12:24:34",
+        "modified_gmt": "2023-02-02T17:24:34",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -354,11 +354,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p><strong>1/26/23</strong>&nbsp;(Team Meeting)</p>\n\n\n\n<ul>\n<li>From client meeting\n<ul>\n<li>Aro’s notes\n<ul>\n<li>contact client brainstorm questions for client to create user stories/functional specs update website (update web journal(reverse-chronological), update roles, update deliverables) create git repo -&gt; create git hooks -&gt; discuss guideline for git commit messages</li>\n</ul>\n</li>\n\n\n\n<li>Use Trello to manage tasks</li>\n\n\n\n<li><a href=\"https://hackmd.io/bLP6MCYXQO-I_sqRUR3sZw?view\"></a><a href=\"https://hackmd.io/bLP6MCYXQO-I_sqRUR3sZw?view\">https://hackmd.io/bLP6MCYXQO-I_sqRUR3sZw?view</a></li>\n</ul>\n</li>\n\n\n\n<li>How to edit website\n<ul>\n<li>Stephen made everyone admins, it works now</li>\n</ul>\n</li>\n\n\n\n<li>What to send in email\n<ul>\n<li>We’re part of COMP 523</li>\n\n\n\n<li>Set up a time to meet and discuss</li>\n\n\n\n<li>Sent it</li>\n</ul>\n</li>\n\n\n\n<li>Order of business\n<ul>\n<li>For class\n<ul>\n<li>User stories</li>\n\n\n\n<li>Project concept</li>\n</ul>\n</li>\n\n\n\n<li>For project\n<ul>\n<li>Web scraping</li>\n\n\n\n<li>UI</li>\n\n\n\n<li>NLP</li>\n</ul>\n</li>\n\n\n\n<li>In the meantime\n<ul>\n<li>Maintain website</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Created Google Doc for working questions\n<ul>\n<li><a href=\"https://docs.google.com/document/d/16PNvFILaxsxLV2L4aIdCJfcsm-aipvcM60qrY7gylnI/edit\">https://docs.google.com/document/d/16PNvFILaxsxLV2L4aIdCJfcsm-aipvcM60qrY7gylnI/edit</a></li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>1/26/23</strong>&nbsp;(Coach Meeting)</p>\n\n\n\n<ul>\n<li>Met with Louie and discussed how coach meetings will be conducted.</li>\n\n\n\n<li>Discussed project website updates as well as helpful resources for project going forward.</li>\n</ul>\n\n\n\n<p><strong>1/19/23</strong>&nbsp;(Team Meeting)</p>\n\n\n\n<ul>\n<li>Discussed team rules and project preferences.</li>\n</ul>\n",
+            "rendered": "\n<p><strong>2/2/23</strong>&nbsp;(Team Meeting)</p>\n\n\n\n<ul>\n<li>Discussed plan to create multiple user stories using Google doc:\n<ul>\n<li><a href=\"https://docs.google.com/document/d/16PNvFILaxsxLV2L4aIdCJfcsm-aipvcM60qrY7gylnI/edit\">https://docs.google.com/document/d/16PNvFILaxsxLV2L4aIdCJfcsm-aipvcM60qrY7gylnI/edit</a></li>\n</ul>\n</li>\n\n\n\n<li>Need to research on what we want to use for tech stack, recording some ideas that we have on the Google doc.</li>\n\n\n\n<li>Decided on meeting Saturday night to ensure we have solidified user stories as well as functional specs for the project.</li>\n\n\n\n<li>Planned who will write out journal entries for each week (for client, coach, and team meetings) which is posted in the Meetings tab. </li>\n</ul>\n\n\n\n<p><strong>2/2/23</strong>&nbsp;(Coach Meeting)</p>\n\n\n\n<ul>\n<li>Reviewed how coach meetings will be conducted.</li>\n\n\n\n<li>Discussed client meeting and deliverables that will be due soon (user stores, functional spec).</li>\n\n\n\n<li>Need to add summary of what project will be about on the home page.</li>\n</ul>\n\n\n\n<p><strong>2/1/23</strong>&nbsp;(Client Meeting)</p>\n\n\n\n<ul>\n<li>Questions\n<ul>\n<li>What type of tech stack would you prefer us to use to build the app?\n<ul>\n<li>Full stack</li>\n\n\n\n<li>Play to our strengths</li>\n\n\n\n<li>Front/back connective tissue</li>\n\n\n\n<li>He is familiar with AWS</li>\n\n\n\n<li>Research on what tech stack is best</li>\n</ul>\n</li>\n\n\n\n<li>What do you mean by “pulse”?\n<ul>\n<li>General indicators of typical activity</li>\n\n\n\n<li>If there is abnormal activity\n<ul>\n<li>Influx of number of posts</li>\n\n\n\n<li>Influx of posts with highly negative or positive sentiment</li>\n\n\n\n<li>Solution for college forums\n<ul>\n<li>Good pulse of college</li>\n\n\n\n<li>Anonymous</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>NLP would be used to decide</li>\n\n\n\n<li>A key is deciding a “normal activity threshold”</li>\n</ul>\n</li>\n\n\n\n<li>How would AWS be incorporated into the project?\n<ul>\n<li>Real-time</li>\n\n\n\n<li>Log any activity</li>\n\n\n\n<li>Database and data model</li>\n\n\n\n<li>2 concerns\n<ul>\n<li>Initial activity</li>\n\n\n\n<li>What if that changes</li>\n\n\n\n<li>Activity could corresp to comments or edits</li>\n</ul>\n</li>\n\n\n\n<li>Explore existing Reddit API</li>\n\n\n\n<li>Either host static page that pulls from backend, or host on server (EC2, elastic cloud compute)</li>\n\n\n\n<li>Either polling approach or poll when any change occurs</li>\n</ul>\n</li>\n\n\n\n<li>What would be considered potential areas of concern in the UNC subreddit?</li>\n\n\n\n<li>What would the user experience look like?\n<ul>\n<li>Not account-based</li>\n\n\n\n<li>Dashboard style</li>\n\n\n\n<li>General metrics</li>\n\n\n\n<li>Activity board\n<ul>\n<li>Overall metrics\n<ul>\n<li>Overall posts within time period</li>\n\n\n\n<li>Comments</li>\n\n\n\n<li>Pointers to particular posts</li>\n\n\n\n<li>Users that are frequent contributors</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Mods obvious use-case, but anyone would use it</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Introductions</li>\n\n\n\n<li>Proposal document</li>\n\n\n\n<li>He asked how collaboration will look\n<ul>\n<li>Repo</li>\n\n\n\n<li>He didn’t take 523 but had a similar thing\n<ul>\n<li>He used firebase to authenticate and executed using AWS lambda function</li>\n\n\n\n<li>Piecemeal</li>\n</ul>\n</li>\n\n\n\n<li>We should have more “access” to him than he had to his client</li>\n\n\n\n<li>Stotts gave us all power to determine the arrangement</li>\n</ul>\n</li>\n\n\n\n<li>Steps for us\n<ul>\n<li>User stories</li>\n\n\n\n<li>Backing technologies/tech stack</li>\n\n\n\n<li>Flow/architecture diagrams from the beginning (figma)</li>\n\n\n\n<li>Send website links to Justin</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>1/26/23</strong>&nbsp;(Team Meeting)</p>\n\n\n\n<ul>\n<li>From client meeting\n<ul>\n<li>Aro’s notes\n<ul>\n<li>contact client brainstorm questions for client to create user stories/functional specs update website (update web journal(reverse-chronological), update roles, update deliverables) create git repo -&gt; create git hooks -&gt; discuss guideline for git commit messages</li>\n</ul>\n</li>\n\n\n\n<li>Use Trello to manage tasks</li>\n\n\n\n<li><a href=\"https://hackmd.io/bLP6MCYXQO-I_sqRUR3sZw?view\"></a><a href=\"https://hackmd.io/bLP6MCYXQO-I_sqRUR3sZw?view\">https://hackmd.io/bLP6MCYXQO-I_sqRUR3sZw?view</a></li>\n</ul>\n</li>\n\n\n\n<li>How to edit website\n<ul>\n<li>Stephen made everyone admins, it works now</li>\n</ul>\n</li>\n\n\n\n<li>What to send in email\n<ul>\n<li>We’re part of COMP 523</li>\n\n\n\n<li>Set up a time to meet and discuss</li>\n\n\n\n<li>Sent it</li>\n</ul>\n</li>\n\n\n\n<li>Order of business\n<ul>\n<li>For class\n<ul>\n<li>User stories</li>\n\n\n\n<li>Project concept</li>\n</ul>\n</li>\n\n\n\n<li>For project\n<ul>\n<li>Web scraping</li>\n\n\n\n<li>UI</li>\n\n\n\n<li>NLP</li>\n</ul>\n</li>\n\n\n\n<li>In the meantime\n<ul>\n<li>Maintain website</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Created Google Doc for working questions\n<ul>\n<li><a href=\"https://docs.google.com/document/d/16PNvFILaxsxLV2L4aIdCJfcsm-aipvcM60qrY7gylnI/edit\">https://docs.google.com/document/d/16PNvFILaxsxLV2L4aIdCJfcsm-aipvcM60qrY7gylnI/edit</a></li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>1/26/23</strong>&nbsp;(Coach Meeting)</p>\n\n\n\n<ul>\n<li>Met with Louie and discussed how coach meetings will be conducted.</li>\n\n\n\n<li>Discussed project website updates as well as helpful resources for project going forward.</li>\n</ul>\n\n\n\n<p><strong>1/19/23</strong>&nbsp;(Team Meeting)</p>\n\n\n\n<ul>\n<li>Discussed team rules and project preferences.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>1/26/23&nbsp;(Team Meeting) 1/26/23&nbsp;(Coach Meeting) 1/19/23&nbsp;(Team Meeting)</p>\n",
+            "rendered": "<p>2/2/23&nbsp;(Team Meeting) 2/2/23&nbsp;(Coach Meeting) 2/1/23&nbsp;(Client Meeting) 1/26/23&nbsp;(Team Meeting) 1/26/23&nbsp;(Coach Meeting) 1/19/23&nbsp;(Team Meeting)</p>\n",
             "protected": false
         },
         "author": 1246,
@@ -399,14 +399,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 11,
                     "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/20/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 96,
-                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/20/revisions/96"
+                    "id": 104,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/20/revisions/104"
                 }
             ],
             "wp:attachment": [
