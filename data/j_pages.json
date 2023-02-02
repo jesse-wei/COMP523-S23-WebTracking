@@ -1,13 +1,99 @@
 [
     {
+        "id": 102,
+        "date": "2023-01-31T18:07:20",
+        "date_gmt": "2023-01-31T23:07:20",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=102"
+        },
+        "modified": "2023-01-31T18:40:37",
+        "modified_gmt": "2023-01-31T23:40:37",
+        "slug": "d1-specifications",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/d1-specifications/",
+        "title": {
+            "rendered": "D1 Specifications"
+        },
+        "content": {
+            "rendered": "\n<h2><em><mark class=\"has-inline-color has-blue-color\">User Stories:</mark></em></h2>\n\n\n\n<ul>\n<li>As a student, I want to see locations of edible plants.</li>\n\n\n\n<li>As a student, I want to click locations to see what plants are available.</li>\n</ul>\n\n\n\n<ul>\n<li>As an administrator, I want to share my work in the edible gardens.</li>\n\n\n\n<li>As an administrator, I want to change the plant database seasonally. Since I am not an expert in coding, I want to be able to easily update the plants.</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<h2><mark class=\"has-inline-color has-blue-color\"><em>Requirements</em>:</mark></h2>\n\n\n\n<p><strong>Functional Requirments:</strong></p>\n\n\n\n<ul>\n<li><strong>Definite:</strong>\n<ul>\n<li>If users open the website, they will be able to see all the the edible campus beds throughout campus.</li>\n\n\n\n<li>If users select individual beds, they will be able to see what is currently growing in those beds.</li>\n\n\n\n<li>If a user finishes viewing a plant bed, they will be able to close it.&nbsp;</li>\n\n\n\n<li>If users select individual plants, they will get more specific information such as the name of the plants.</li>\n\n\n\n<li>If individual beds changed, the admin will be able to edit and add new information easily without needing to modify the code base or database.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps:</strong>\n<ul>\n<li>If the user click on a plant, the website will pop up extra information for plants in the garden, like images of plants. </li>\n\n\n\n<li>User can search for specific plant with name and available plant will be marked on the map.</li>\n\n\n\n<li>Users not only see what is currently growing but also what is growing in different seasons</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable:</strong>\n<ul>\n<li>User can favorite plant beds.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p><strong><em>Non-functional Requirements:</em></strong></p>\n\n\n\n<ul>\n<li><strong>Definite:</strong>\n<ul>\n<li>The app is web-based and can be open on any type of devices, such as cell phone, tablet, and laptop. </li>\n\n\n\n<li>Simple interface that even non-technical users can navigate.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps:</strong>\n<ul>\n<li>A mobile version of the interactive map app.</li>\n</ul>\n\n\n\n<ul>\n<li>The plant beds are displayed with the background being the UNC Map.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable:</strong>\n<ul>\n<li>The app is available in offline mode.</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Stories: Requirements: Functional Requirments: Non-functional Requirements:</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/102"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=102"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/102/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 114,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/102/revisions/114"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=102"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 62,
         "date": "2023-01-20T09:45:50",
         "date_gmt": "2023-01-20T14:45:50",
         "guid": {
             "rendered": "https://tarheels.live/teamj/?page_id=62"
         },
-        "modified": "2023-01-24T16:29:39",
-        "modified_gmt": "2023-01-24T21:29:39",
+        "modified": "2023-01-31T18:09:44",
+        "modified_gmt": "2023-01-31T23:09:44",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -16,7 +102,7 @@
             "rendered": "Edible Campus"
         },
         "content": {
-            "rendered": "\n<h5><em>In conjunctions with Edible Campus UNC, Edible Campus (m)app will be an app that displays a map of UNC and their edible gardens with interactive user features. It will help UNC students locate and learn about the edible plants near them.&nbsp;</em></h5>\n\n\n\n<p>Edible campus UNC is an organization that creates landscapes filled with fruits and vegetables with the motivation of bringing awareness to UNC’s vegetation and agriculture. The organization has been able to provide static maps with the locations of different vegetation landscapes, but they never were able to implement a working concurrent interactive map that not only displays the vegetation of the current season but also next season’s vegetation. There also comes the issue of displaying a map that is easily readable and viewable as most of the static maps were only viewable through the internet.</p>\n\n\n\n<p>Our app,&nbsp;<em>Edible Campus m(app)</em>, has the intention of solving these issues by implementing a working interactive map through an app that is usable by both iPhone and android. This working interactive map allows students and other users to be able to explore the different landscapes and their vegetation around the campus using just their phones. Students and other users are able to locate the nearest edible garden and the vegetation within it anywhere on campus. We think that it is especially important that they are able to view the app while they are commuting so that they may be able to quickly find the nearest garden and try/learn the plants near them.</p>\n\n\n\n<p>Our team will create a map that has clickable visualizations representing each edible garden in the UNC campus. Each clickable part will then display different plants within each garden. Each plant will also include clickable parts and links displaying nutritional facts about each plant. The map will include a dataset that is changeable by the admin. This dataset will solve the issue of a changeable map depending on the season. This map will be user-friendly, as the admin only needs to change the plants at each garden and the links /educational facts associated with them.</p>\n",
+            "rendered": "\n<h5><em>In conjunctions with Edible Campus UNC, Edible Campus (m)app will be an app that displays a map of UNC and their edible gardens with interactive user features. It will help UNC students locate and learn about the edible plants near them.&nbsp;</em></h5>\n\n\n\n<p>Edible campus UNC is an organization that creates landscapes filled with fruits and vegetables with the motivation of bringing awareness to UNC’s vegetation and agriculture. The organization has been able to provide static maps with the locations of different vegetation landscapes, but they never were able to implement a working concurrent interactive map that not only displays the vegetation of the current season but also next season’s vegetation. There also comes the issue of displaying a map that is easily readable and viewable as most of the static maps were only viewable through the internet.</p>\n\n\n\n<p>Our web-based application, <em>Edible Campus m(app)</em>, has the intention of solving these issues by implementing a working interactive map through a web-based application. This working interactive map allows students and other users to be able to explore the different landscapes and their vegetation around the campus using just their phones. Students and other users are able to locate the nearest edible garden and the vegetation within it anywhere on campus. We think that it is especially important that they are able to view the app while they are commuting so that they may be able to quickly find the nearest garden and try/learn the plants near them.</p>\n\n\n\n<p>Our team will create a website that has clickable visualizations representing each edible garden in the UNC campus. Each clickable part will then display different plants within each garden. Each plant will also include clickable parts and links displaying nutritional facts about each plant. The map will can be edited by the admin. This map will be user-friendly, as the admin only needs to change the plants at each garden and the links /educational facts associated with them.</p>\n",
             "protected": false
         },
         "excerpt": {
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/62/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 76,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/62/revisions/76"
+                    "id": 105,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/62/revisions/105"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamj/?page_id=18"
         },
-        "modified": "2023-01-27T17:19:31",
-        "modified_gmt": "2023-01-27T22:19:31",
+        "modified": "2023-01-31T17:25:23",
+        "modified_gmt": "2023-01-31T22:25:23",
         "slug": "jouranl",
         "status": "publish",
         "type": "page",
@@ -188,11 +274,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p>January 27th 2023:</p>\n\n\n\n<ul>\n<li>First meeting with the client\n<ul>\n<li>&nbsp;Discussed the requirements for this Project</li>\n\n\n\n<li>Discussed the format of this Project as a Mobile Application or a webpage based on cloud service. We suggest using OpenStreetMap instead of Google Maps, according to the suggestion from Coach. The client accepts this suggestion.</li>\n\n\n\n<li>&nbsp;Simple, accessible, and responsive are advantages of the webpage, depending on resources and time consumption. It is better to develop a web service.</li>\n\n\n\n<li> The client mentioned that the previous team needed more communication. So, we will hold regular meetings with our client to discuss the process of the Project.</li>\n\n\n\n<li> The client addressed the admin&#8217;s need to edit the plant during a specific period, not the user.</li>\n</ul>\n</li>\n\n\n\n<li>Weekly team meeting discussion\n<ul>\n<li>Decided to spend the next week getting familiar with the code base left by the previous team, understanding and trying to use the resources used.</li>\n\n\n\n<li>&nbsp;Hu started to understand user stories and do the UI design.</li>\n\n\n\n<li>&nbsp;Ethan will start working on how to embed OpenStreetMap in web pages.</li>\n\n\n\n<li>&nbsp;Kangda started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Dominic started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Understand the technical background of each person: most of you are very familiar with Python, except Hu. All have some webpage development experience. But not enough experience in back-end development.</li>\n\n\n\n<li>&nbsp;If you develop a new cloud-based web service, use JavaScript, database, or NodeJs as development tools.</li>\n\n\n\n<li> For the next meeting with Coach, discuss this project&#8217;s direction for mobile application or web service. Technique details about the front and back end development. Searching for reliable, affordable cloud service.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>January 20th 2023</strong>:</p>\n\n\n\n<ul>\n<li>First meeting with Coach</li>\n\n\n\n<li>Discussed new tech/management apps\n<ul>\n<li>OpenStreetMap</li>\n\n\n\n<li>Githook</li>\n\n\n\n<li>Kanban</li>\n\n\n\n<li>Trello</li>\n</ul>\n</li>\n\n\n\n<li>First meeting with client scheduled:\n<ul>\n<li>Kyle Parker 1/27/23 4:00-5:00pm</li>\n</ul>\n</li>\n</ul>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-1 wp-block-group\">\n<p><strong>January 20th 2023</strong>: </p>\n\n\n\n<p>First meeting made, added team roles, rules, and communication</p>\n\n\n\n<p>Website created and preferences made: 5, 7, 6, 1, 23, 12 </p>\n</div>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p>January 31st, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Coach\n<ul>\n<li>Changed the meeting schedule to 8:00 am Tuesday next week.</li>\n\n\n\n<li>Coach addressed that every member should contribute ideas to the user story but not one member. All members must agree with the user story and know how to implement it with the Project.</li>\n\n\n\n<li>Coach suggested some websites to study the OSM (OpenStreetMap), such as leaflet (https://leafletjs.com/), OpenLayers ( https://openlayers.org/), JOSM (WIKI), or searching Google with keywords &#8220;OSM JavaScript&#8221; for the resource.</li>\n\n\n\n<li>Coach suggested developing a DEMO for the client, demonstrating how to edit OSM for his purpose.</li>\n\n\n\n<li>Ethan provided the draft of the user story based on the previous team&#8217;s work.</li>\n\n\n\n<li>Ethan established the project concept on the team&#8217;s website.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 27th 2023:</p>\n\n\n\n<ul>\n<li>First meeting with the client\n<ul>\n<li>&nbsp;Discussed the requirements for this Project</li>\n\n\n\n<li>Discussed the format of this Project as a Mobile Application or a webpage based on cloud service. We suggest using OpenStreetMap instead of Google Maps, according to the suggestion from Coach. The client accepts this suggestion.</li>\n\n\n\n<li>&nbsp;Simple, accessible, and responsive are advantages of the webpage, depending on resources and time consumption. It is better to develop a web service.</li>\n\n\n\n<li>&nbsp;The client mentioned that the previous team needed more communication. So, we will hold regular meetings with our client to discuss the process of the Project.</li>\n\n\n\n<li>&nbsp;The client addressed the admin&#8217;s need to edit the plant during a specific period, not the user.</li>\n</ul>\n</li>\n\n\n\n<li>Weekly team meeting discussion\n<ul>\n<li>Decided to spend the next week getting familiar with the code base left by the previous team, understanding and trying to use the resources used.</li>\n\n\n\n<li>&nbsp;Hu started to understand user stories and do the UI design.</li>\n\n\n\n<li>&nbsp;Ethan will start working on how to embed OpenStreetMap in web pages.</li>\n\n\n\n<li>&nbsp;Kangda started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Dominic started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Understand the technical background of each person: most of you are very familiar with Python, except Hu. All have some webpage development experience. But not enough experience in back-end development.</li>\n\n\n\n<li>&nbsp;If you develop a new cloud-based web service, use JavaScript, database, or NodeJs as development tools.</li>\n\n\n\n<li>&nbsp;For the next meeting with Coach, discuss this project&#8217;s direction for mobile application or web service. Technique details about the front and back end development. Searching for reliable, affordable cloud service.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>January 20th 2023</strong>:</p>\n\n\n\n<ul>\n<li>First meeting with Coach</li>\n\n\n\n<li>Discussed new tech/management apps\n<ul>\n<li>OpenStreetMap</li>\n\n\n\n<li>Githook</li>\n\n\n\n<li>Kanban</li>\n\n\n\n<li>Trello</li>\n</ul>\n</li>\n\n\n\n<li>First meeting with client scheduled:\n<ul>\n<li>Kyle Parker 1/27/23 4:00-5:00pm</li>\n</ul>\n</li>\n</ul>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-1 wp-block-group\">\n<p><strong>January 20th 2023</strong>: </p>\n\n\n\n<p>First meeting made, added team roles, rules, and communication</p>\n\n\n\n<p>Website created and preferences made: 5, 7, 6, 1, 23, 12 </p>\n</div>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>January 27th 2023: January 20th 2023: January 20th 2023: First meeting made, added team roles, rules, and communication Website created&#8230;</p>\n",
+            "rendered": "<p>January 31st, 2023: January 27th 2023: January 20th 2023: January 20th 2023: First meeting made, added team roles, rules, and&#8230;</p>\n",
             "protected": false
         },
         "author": 13592,
@@ -233,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 8,
+                    "count": 12,
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 92,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions/92"
+                    "id": 96,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions/96"
                 }
             ],
             "wp:attachment": [
@@ -350,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamj/?page_id=16"
         },
-        "modified": "2023-01-13T13:45:14",
-        "modified_gmt": "2023-01-13T18:45:14",
+        "modified": "2023-01-31T17:08:40",
+        "modified_gmt": "2023-01-31T22:08:40",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
