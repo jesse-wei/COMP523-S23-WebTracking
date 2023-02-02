@@ -1,5 +1,91 @@
 [
     {
+        "id": 86,
+        "date": "2023-02-01T15:54:13",
+        "date_gmt": "2023-02-01T20:54:13",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=86"
+        },
+        "modified": "2023-02-01T15:54:13",
+        "modified_gmt": "2023-02-01T20:54:13",
+        "slug": "d1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teame2023/d1/",
+        "title": {
+            "rendered": "D1"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2816,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/2816"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=86"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 88,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions/88"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=86"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 52,
         "date": "2023-01-30T09:12:33",
         "date_gmt": "2023-01-30T14:12:33",
@@ -350,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=7"
         },
-        "modified": "2023-01-27T11:17:18",
-        "modified_gmt": "2023-01-27T16:17:18",
+        "modified": "2023-02-02T09:02:39",
+        "modified_gmt": "2023-02-02T14:02:39",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -360,11 +446,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p>January 27th</p>\n\n\n\n<ul>\n<li>Team met to decide questions to ask our client in our initial meeting</li>\n</ul>\n\n\n\n<p>January 26th</p>\n\n\n\n<ul>\n<li>Team met with Coach for first Coach&#8217;s meeting and discussed what to expect in the next few months</li>\n</ul>\n\n\n\n<p>January 20th</p>\n\n\n\n<ul>\n<li>Team met to decide rankings for project proposals</li>\n</ul>\n",
+            "rendered": "\n<p>January 30th</p>\n\n\n\n<ul>\n<li>Team met with client for the first time to discuss initial wants for the product</li>\n</ul>\n\n\n\n<p>January 27th</p>\n\n\n\n<ul>\n<li>Team met to decide questions to ask our client in our initial meeting</li>\n</ul>\n\n\n\n<p>January 26th</p>\n\n\n\n<ul>\n<li>Team met with Coach for first Coach&#8217;s meeting and discussed what to expect in the next few months</li>\n</ul>\n\n\n\n<p>January 20th</p>\n\n\n\n<ul>\n<li>Team met to decide rankings for project proposals</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>January 27th January 26th January 20th</p>\n",
+            "rendered": "<p>January 30th January 27th January 26th January 20th</p>\n",
             "protected": false
         },
         "author": 2816,
@@ -405,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 6,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/7/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 45,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/7/revisions/45"
+                    "id": 91,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/7/revisions/91"
                 }
             ],
             "wp:attachment": [
