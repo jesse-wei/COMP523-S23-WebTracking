@@ -1,5 +1,209 @@
 [
     {
+        "id": 133,
+        "date": "2023-02-01T10:43:15",
+        "date_gmt": "2023-02-01T15:43:15",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=133"
+        },
+        "modified": "2023-02-01T10:43:15",
+        "modified_gmt": "2023-02-01T15:43:15",
+        "slug": "group-meeting-02-01-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/01/group-meeting-02-01-2023/",
+        "title": {
+            "rendered": "Group Meeting 02/01/2023"
+        },
+        "content": {
+            "rendered": "\n<p>Met after class</p>\n\n\n\n<ul>\n<li>ToDo &#8211; User stories &#8211; edit them from the document</li>\n\n\n\n<li>ToDo &#8211; Proof of concept/project concept &#8211; compile images that Daniel gave us, and write a short summary on what it does</li>\n\n\n\n<li>Get the flowchart from Daniel</li>\n\n\n\n<li>Do some research into our roles</li>\n\n\n\n<li>Roles &#8211; Front End (Ellis), Back End (Andy), Database (Jess and Alex)</li>\n\n\n\n<li>Create GitHub repository</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Met after class</p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=133"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 134,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions/134"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=133"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=133"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=133"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 127,
+        "date": "2023-02-01T08:58:53",
+        "date_gmt": "2023-02-01T13:58:53",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=127"
+        },
+        "modified": "2023-02-01T08:58:53",
+        "modified_gmt": "2023-02-01T13:58:53",
+        "slug": "client-meeting-01-31-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/01/client-meeting-01-31-2023/",
+        "title": {
+            "rendered": "Client Meeting 01/31/2023"
+        },
+        "content": {
+            "rendered": "\n<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project.</p>\n\n\n\n<p>Links: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a> </p>\n\n\n\n<ul>\n<li>After introductions, Daniel gave us an overview of PRIME</li>\n\n\n\n<li>It is a survey application, one that is focused on narrowing down a patient&#8217;s preferences on what type of medicine they would like to take in response to leukemia.</li>\n\n\n\n<li>He emphasized that UX is a top priority, mentioning that the software needs to be easy to navigate, use, and most importantly to get started.</li>\n\n\n\n<li>He prefers we have 1 link into the website and 1 link, and to &#8220;containerize&#8221; the web app so that in the future, it can be moved from server to server very easily without losing security.</li>\n\n\n\n<li>He gave us 2 PDFs (see top of post) that explain the prototypes/mach ups that he and his team already have on hand for us to reference. </li>\n\n\n\n<li>One of these PDFs has a diagram that shows the entire lifecycle of the program, very helpful.</li>\n\n\n\n<li>Some smaller things he mentioned: Assistive technologies, white labelling everything, we can pitch things to him whenever we want to.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project. Links: PDF1, PDF2</p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=127"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 128,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions/128"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=127"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=127"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=127"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 118,
         "date": "2023-01-31T09:28:24",
         "date_gmt": "2023-01-31T14:28:24",
