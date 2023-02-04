@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=104"
         },
-        "modified": "2023-01-30T13:30:09",
-        "modified_gmt": "2023-01-30T18:30:09",
+        "modified": "2023-02-03T17:33:48",
+        "modified_gmt": "2023-02-03T22:33:48",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Requirements</strong></p>\n",
+            "rendered": "\n<p class=\"has-medium-font-size\"><strong>User Stories</strong></p>\n\n\n\n<p style=\"font-size:17px\">Authenticated User Front End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As a user, I want to create an account by using my own email.</li>\n\n\n\n<li>As a user, I want to log in and log out my account smoothly.&nbsp;</li>\n\n\n\n<li>As a user, I want to reset my password once I forgot my password.</li>\n\n\n\n<li>As a user, I want to change the email that I signed up with and reset my username if I need to.&nbsp;</li>\n\n\n\n<li>As a user, I want a simple way to view all aspects of my project without requiring numerous clicks.</li>\n\n\n\n<li>As a user, I want to be able to delete projects I no longer need.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Authenticated User&nbsp; Back End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an authenticated User, I want to upload the video and get the images, scenes and models from the portal finally.</li>\n\n\n\n<li>As an authenticated User, I want the portal to automatically process the model capture on the server without any additional operations from users.</li>\n\n\n\n<li>As an authenticated User, I want to get the model as soon as possible.</li>\n\n\n\n<li>As an authenticated User, I want to be able to see the status during the processing and deep learning.</li>\n\n\n\n<li>As an authenticated User, I want to be able to download the model to my local machine.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Administrator</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an administrator, I want to be able to see and download the selected or all the videos, photos, scenes, models on the server from the portal.</li>\n\n\n\n<li>As an administrator, I want to be able to change the email, username and password once users have some login issues and are unable to reset those things by themselves.</li>\n\n\n\n<li>As an administrator, I want to be able to delete any videos, photos, scenes, models and deactivate any account once the user violates the terms of use.</li>\n\n\n\n<li>As an administrator, I want to use the least hardware resource to process and store the videos, photos, scenes and models.</li>\n</ol>\n\n\n\n<p><strong>Requirements</strong></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories Requirements</p>\n",
+            "rendered": "<p>User Stories Authenticated User Front End Authenticated User&nbsp; Back End Administrator Requirements</p>\n",
             "protected": false
         },
         "author": 2157,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 7,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 105,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions/105"
+                    "id": 147,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions/147"
                 }
             ],
             "wp:attachment": [
@@ -350,8 +350,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=39"
         },
-        "modified": "2023-01-30T15:54:38",
-        "modified_gmt": "2023-01-30T20:54:38",
+        "modified": "2023-02-03T16:51:09",
+        "modified_gmt": "2023-02-03T21:51:09",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -360,7 +360,7 @@
             "rendered": "Project Description"
         },
         "content": {
-            "rendered": "\n<p style=\"font-size:14px\">&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.&#8221; &#8211; Bhargav Bompalli, Blue Sky Innovations</p>\n\n\n\n<p>Volumetric Capture Processor, or VCP, creates 3D models of humans using AI. These 3D models are built from video and data sources, and will be used for virtual reality, augmented reality, and Metaverse applications. Currently, these models are run one step at a time and require human intervention to complete the 3D model. Our team&#8217;s goal is to continue developing the interface for automating this process, which will reduce the need for human intervention and chance of errors.</p>\n",
+            "rendered": "\n<p style=\"font-size:14px\">&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.&#8221; &#8211; Bhargav Bompalli, Blue Sky Innovations</p>\n\n\n\n<p>Volumetric Capture Processor, or VCP, creates 3D models of humans using Artificial Intelligence and Statistical Models. These 3D models are built from video and data sources and will be used for virtual, augmented reality, and Metaverse applications. </p>\n\n\n\n<p>Currently, these models are run one step at a time and require human intervention to complete the finalized 3D product. Our team&#8217;s goal is to continue developing the interface for automating this process, which will reduce the need for human intervention and the chance of errors. The automation of the entire application will increase user accessibility as well as the ability to deploy the service online. </p>\n",
             "protected": false
         },
         "excerpt": {
@@ -405,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 7,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 113,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/113"
+                    "id": 122,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/122"
                 }
             ],
             "wp:attachment": [
@@ -522,8 +522,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=23"
         },
-        "modified": "2023-01-30T13:28:17",
-        "modified_gmt": "2023-01-30T18:28:17",
+        "modified": "2023-02-03T17:13:10",
+        "modified_gmt": "2023-02-03T22:13:10",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -532,7 +532,7 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<ul>\n<li><strong>Jan 24, 2023 &#8211; Team Meeting</strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Created google doc with questions to ask client during meeting.</li>\n\n\n\n<li>Confirmed availability for client meeting.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Meet with client.</li>\n\n\n\n<li>Update website with project info.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 23, 2023 &#8211; Coach Meeting</strong>\n<ul>\n<li>TO-DO\n<ul>\n<li>Look into Trello and git hooks for project.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 20, 2023 &#8211; Team Meeting</strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Made projects’ preference list.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Get the assigned project.</li>\n\n\n\n<li>Meet with Client.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 16, 2023 &#8211; Team Meeting</strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Set up the website and edited content.</li>\n\n\n\n<li>Scheduled weekly team meetings.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Update the website.</li>\n\n\n\n<li>Decide on team project preference.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li><strong>Feb 3, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n\n\n\n\n\n\n\n\n<ul>\n<li>Updated the following items on the project website.\n<ol>\n<li>Team Member Roles</li>\n\n\n\n<li>Project Name and Description</li>\n\n\n\n<li>User Stories Deliverable</li>\n\n\n\n<li>Journal</li>\n</ol>\n</li>\n\n\n\n<li>Set Up Trello Account and Team Workspace</li>\n</ul>\n\n\n\n<ul>\n<li>Updated the following items on the project website.\n<ol>\n<li>Team Member Roles</li>\n\n\n\n<li>Project Name and Description</li>\n\n\n\n<li>User Stories Deliverable</li>\n\n\n\n<li>Journal</li>\n</ol>\n</li>\n\n\n\n<li>Set Up Trello Account and Team Workspace</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Review resources provided by the client.</li>\n\n\n\n<li>Inspect the code provided by the client and take notes to discuss in the next meeting.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Feb 1, 2023 &#8211; <mark class=\"has-inline-color has-blue-color\">Client Meeting</mark></strong>\n<ul>\n<li>The client walked us through an overview of the workflow pipeline for the project and how it will be used.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 30, 2023 &#8211; <mark style=\"color:#268b66\" class=\"has-inline-color\">Coach Meeting</mark></strong>\n<ul>\n<li>Discussed plan for the client meeting and first deliverable.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 24, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Created a google doc with questions to ask clients during meetings.</li>\n\n\n\n<li>Confirmed availability for the client meeting.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Meet with the client.</li>\n\n\n\n<li>Update the website with project info.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 23, 2023 &#8211; <mark style=\"color:#268b66\" class=\"has-inline-color\">Coach Meeting</mark></strong>\n<ul>\n<li>TO-DO\n<ul>\n<li>Look into Trello and git hooks for the project.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 20, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Made projects’ preference list.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Get the assigned project.</li>\n\n\n\n<li>Meet with Client.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 16, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Set up the website and edited content.</li>\n\n\n\n<li>Scheduled weekly team meetings.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Update the website.</li>\n\n\n\n<li>Decide on team project preference.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -577,14 +577,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 15,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 103,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions/103"
+                    "id": 135,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions/135"
                 }
             ],
             "wp:attachment": [
