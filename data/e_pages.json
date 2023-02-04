@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=86"
         },
-        "modified": "2023-02-01T15:54:13",
-        "modified_gmt": "2023-02-01T20:54:13",
+        "modified": "2023-02-03T11:27:35",
+        "modified_gmt": "2023-02-03T16:27:35",
         "slug": "d1",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "D1"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. </p>\n\n\n\n<p>I want to be able to receive push notifications from my mobile device in real time when announcements are sent out.</p>\n\n\n\n<p>As an administrator of the Just in Time App</p>\n\n\n\n<p>I want to be able to easily create and send notifications to users</p>\n\n\n\n<p>So that they are informed about policy changes and other important information.</p>\n\n\n\n<p>As an administrator of the Just in Time App&nbsp;</p>\n\n\n\n<p>I want to attach video media to the notifications I send to users</p>\n\n\n\n<p>So that I can help UNC nurses learn about policy updates and other important information through visual media.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>User Stories As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. I want to be able to receive push notifications from my mobile device in real time when announcements are sent&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/d1/\">Continue reading <span class=\"screen-reader-text\">D1</span></a></p>\n",
             "protected": false
         },
         "author": 2816,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 88,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions/88"
+                    "id": 96,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions/96"
                 }
             ],
             "wp:attachment": [
