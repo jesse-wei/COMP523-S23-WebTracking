@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupn/?page_id=74"
         },
-        "modified": "2023-01-31T09:29:57",
-        "modified_gmt": "2023-01-31T14:29:57",
+        "modified": "2023-02-06T06:32:10",
+        "modified_gmt": "2023-02-06T11:32:10",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<h2>Functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be able to collect responses to the STARx Questionnaire and store them in the UNC-hosted database that is HIPAA-compliant for longitudinal tracking and analytical purposes.</li>\n\n\n\n<li>Should have a patient login feature to track changes in patients over time.</li>\n\n\n\n<li>The questionnaire will be able to generate an attractive and sensitive score report upon completion for each respondent. This includes automated score calculation and generation of graphic visualization</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>There will be a new online survey for the TRxANSITION Index</li>\n\n\n\n<li>There will be support for printable PDF report of the patients’ or parents’ responses to be used in the patients’ health records</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>Non-functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be hosted on the Carolina CloudApps for global users</li>\n\n\n\n<li>The web application will support additional languages other than English and Spanish</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong></li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>User Stories</h2>\n",
+            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As an adolescent transitioning to adulthood,&nbsp;</li>\n\n\n\n<li>I want a visualized report or feedback from the STARx survey,</li>\n\n\n\n<li>So that I can see how ready I am for the transition.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As an adolescent transitioning to adulthood, </li>\n\n\n\n<li>I want my report from the STARx survey to be printable,</li>\n\n\n\n<li>So that I can hand it over to my medical provider and keep it in my health record.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a pediatric specialist,&nbsp;</li>\n\n\n\n<li>I want to see a visualized report of my patients,</li>\n\n\n\n<li>So that I can provide customized treatment for my patients.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a manager of the STARx program,&nbsp;</li>\n\n\n\n<li>I want to store survey responses in a HIPAA-compliant database,</li>\n\n\n\n<li>So that I can keep a record of each response and analyze the data to see what patterns they have.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a manager of the STARx program,&nbsp;</li>\n\n\n\n<li>I want each respondent to the survey to have a unique ID,</li>\n\n\n\n<li>So that I can keep track of the longitudinal data of the respondents.</li>\n</ul>\n\n\n\n<ul>\n<li>As a parent of an adolescent transitioning to adulthood,</li>\n\n\n\n<li>I want a visualized report or feedback from the STARx survey,</li>\n\n\n\n<li>So that I can see how ready my child is for the transition.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a user who does not speak English or Spanish,&nbsp;</li>\n\n\n\n<li>I want to take the STARx survey in my language,</li>\n\n\n\n<li>So that I can have a better understanding of the question and make the result reflect well on me.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a user who does not live in an English- or Spanish-speaking country,&nbsp;</li>\n\n\n\n<li>I want the STARx survey to generate a report in my language,</li>\n\n\n\n<li>So that I can give my report to the local pediatrician who does not speak English or Spanish for further guidance.&nbsp;</li>\n</ul>\n\n\n\n<h2>Functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be able to collect responses to the STARx Questionnaire and store them in the UNC-hosted database that is HIPAA-compliant for longitudinal tracking and analytical purposes.</li>\n\n\n\n<li>Should have a patient login feature to track changes in patients over time.</li>\n\n\n\n<li>The questionnaire will be able to generate an attractive and sensitive score report upon completion for each respondent. This includes automated score calculation and generation of graphic visualization</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>There will be a new online survey for the TRxANSITION Index</li>\n\n\n\n<li>There will be support for printable PDF report of the patients’ or parents’ responses to be used in the patients’ health records</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n\n\n\n<h2>Non-functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be hosted on the Carolina CloudApps for global users</li>\n\n\n\n<li>The web application will support additional languages other than English and Spanish</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong></li>\n\n\n\n<li><strong>Improbable</strong></li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Functional Requirements Non-functional Requirements User Stories</p>\n",
+            "rendered": "<p>User Stories Functional Requirements Non-functional Requirements</p>\n",
             "protected": false
         },
         "author": 13743,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 83,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions/83"
+                    "id": 86,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions/86"
                 }
             ],
             "wp:attachment": [
@@ -350,8 +350,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupn/?page_id=12"
         },
-        "modified": "2023-01-17T21:55:17",
-        "modified_gmt": "2023-01-18T02:55:17",
+        "modified": "2023-02-06T06:41:10",
+        "modified_gmt": "2023-02-06T11:41:10",
         "slug": "schedule",
         "status": "publish",
         "type": "page",
@@ -360,14 +360,14 @@
             "rendered": "Schedule"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<ul>\n<li>Thursdays at 6:30 pm, biweekly – client meeting</li>\n\n\n\n<li>Tuesdays at 9 am – coach meeting</li>\n\n\n\n<li>Thursdays after client meeting and Monday evenings as needed – team meeting</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
             "rendered": "",
             "protected": false
         },
-        "author": 13743,
+        "author": 5725,
         "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
@@ -394,7 +394,7 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/5725"
                 }
             ],
             "replies": [
@@ -405,14 +405,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/12/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 13,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/12/revisions/13"
+                    "id": 90,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/12/revisions/90"
                 }
             ],
             "wp:attachment": [
@@ -491,7 +491,7 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10/revisions"
                 }
             ],
