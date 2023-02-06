@@ -178,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=52"
         },
-        "modified": "2023-02-06T09:39:34",
-        "modified_gmt": "2023-02-06T14:39:34",
+        "modified": "2023-02-06T09:55:12",
+        "modified_gmt": "2023-02-06T14:55:12",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -188,11 +188,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<header class=\"entry-header alignwide\">\n\t<h1 class=\"entry-title\">CNE Just in Time App</h1>\n</header>\n\n\n\n<h2>Introduction</h2>\n\n\n\n<p>Project introduction</p>\n",
+            "rendered": "\n<h1>About the App</h1>\n\n\n\n<p>Project introduction</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>CNE Just in Time App Introduction Project introduction</p>\n",
+            "rendered": "<p>About the App Project introduction</p>\n",
             "protected": false
         },
         "author": 13679,
@@ -239,8 +239,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 147,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/147"
+                    "id": 164,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/164"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=2"
         },
-        "modified": "2023-02-06T09:24:57",
-        "modified_gmt": "2023-02-06T14:24:57",
+        "modified": "2023-02-06T09:53:51",
+        "modified_gmt": "2023-02-06T14:53:51",
         "slug": "sample-page",
         "status": "publish",
         "type": "page",
@@ -446,7 +446,7 @@
             "rendered": "About Us"
         },
         "content": {
-            "rendered": "\n<h2>About Us</h2>\n\n\n\n<ul>\n<li>Brendan O&#8217;Malley </li>\n\n\n\n<li>Andrew Byerle</li>\n\n\n\n<li>Matthew Bare</li>\n\n\n\n<li>Garrison Parish</li>\n</ul>\n\n\n\n<h2>Team Rules</h2>\n\n\n\n<ul>\n<li>Treat others the way you want to be treated</li>\n\n\n\n<li>Communication will be clear amongst all group members</li>\n\n\n\n<li>Everyone will work hard to do equal work for the project</li>\n\n\n\n<li>There will always be a heads up in the event that one group member cannot meet a deadline</li>\n\n\n\n<li>We will meet once a week to go over progress outside of our coach&#8217;s meeting</li>\n\n\n\n<li>We will keep the client&#8217;s time in mind and respond in an appropriate manner</li>\n</ul>\n",
+            "rendered": "\n<h1>About Us</h1>\n\n\n\n<ul>\n<li>Brendan O&#8217;Malley </li>\n\n\n\n<li>Andrew Byerle</li>\n\n\n\n<li>Matthew Bare</li>\n\n\n\n<li>Garrison Parish</li>\n</ul>\n\n\n\n<h2>Team Rules</h2>\n\n\n\n<ul>\n<li>Treat others the way you want to be treated</li>\n\n\n\n<li>Communication will be clear amongst all group members</li>\n\n\n\n<li>Everyone will work hard to do equal work for the project</li>\n\n\n\n<li>There will always be a heads up in the event that one group member cannot meet a deadline</li>\n\n\n\n<li>We will meet once a week to go over progress outside of our coach&#8217;s meeting</li>\n\n\n\n<li>We will keep the client&#8217;s time in mind and respond in an appropriate manner</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -497,8 +497,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 134,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions/134"
+                    "id": 163,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions/163"
                 }
             ],
             "wp:attachment": [
