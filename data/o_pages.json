@@ -1,13 +1,99 @@
 [
     {
+        "id": 132,
+        "date": "2023-02-06T09:13:01",
+        "date_gmt": "2023-02-06T14:13:01",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamo/?page_id=132"
+        },
+        "modified": "2023-02-06T09:13:22",
+        "modified_gmt": "2023-02-06T14:13:22",
+        "slug": "assignments",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamo/assignments/",
+        "title": {
+            "rendered": "Assignments"
+        },
+        "content": {
+            "rendered": "\n<h2>Ethics Assignment</h2>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Ethics Assignment</p>\n",
+            "protected": false
+        },
+        "author": 1246,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/132"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/users/1246"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/comments?post=132"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/132/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 136,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/132/revisions/136"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/media?parent=132"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 61,
         "date": "2023-01-19T17:52:51",
         "date_gmt": "2023-01-19T22:52:51",
         "guid": {
             "rendered": "https://tarheels.live/comp523teamo/?page_id=61"
         },
-        "modified": "2023-02-02T12:29:53",
-        "modified_gmt": "2023-02-02T17:29:53",
+        "modified": "2023-02-05T20:47:13",
+        "modified_gmt": "2023-02-06T01:47:13",
         "slug": "meetings-2",
         "status": "publish",
         "type": "page",
@@ -16,11 +102,11 @@
             "rendered": "Meetings"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Meeting</strong></td><td><strong>Day and Time</strong></td></tr><tr><td>Client</td><td>Thursdays at 11:30pm</td></tr><tr><td>Team</td><td>Thursdays at 12pm</td></tr><tr><td>Coach</td><td>Thursdays at 8:30am</td></tr></tbody></table></figure>\n\n\n\n<h2>Journal Entry Schedule</h2>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Week</strong> <strong>Of</strong></td><td><strong>Team Member</strong></td></tr><tr><td>2/5 &#8211; 2/11</td><td>Matt</td></tr><tr><td>2/12 &#8211; 2/18</td><td>Aro</td></tr><tr><td>2/19 &#8211; 2/25</td><td>Spencer</td></tr><tr><td>2/26 &#8211; 3/4</td><td>Stephan</td></tr><tr><td>3/5 &#8211; 3/11</td><td>Matt</td></tr><tr><td>3/19 &#8211; 3/25</td><td>Aro</td></tr><tr><td>3/26 &#8211; 4/1</td><td>Spencer</td></tr><tr><td>4/2 &#8211; 4/8</td><td>Stephan</td></tr><tr><td>4/9 &#8211; 4/15</td><td>Matt</td></tr><tr><td>4/16 &#8211; 4/22</td><td>Aro</td></tr><tr><td>4/23 &#8211; 4/29</td><td>Spencer</td></tr><tr><td>4/30 &#8211; 5/6</td><td>Stephan</td></tr></tbody></table></figure>\n",
+            "rendered": "\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Meeting</strong></td><td><strong>Day and Time</strong></td></tr><tr><td>Client</td><td>Wednesdays at 11:30am</td></tr><tr><td>Coach</td><td>Thursdays at 8:30am</td></tr><tr><td>Team</td><td>Thursdays at 12pm</td></tr></tbody></table></figure>\n\n\n\n<h2>Journal Entry Schedule</h2>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Week</strong> <strong>Of</strong></td><td><strong>Team Member</strong></td></tr><tr><td>2/5 &#8211; 2/11</td><td>Matt</td></tr><tr><td>2/12 &#8211; 2/18</td><td>Aro</td></tr><tr><td>2/19 &#8211; 2/25</td><td>Spencer</td></tr><tr><td>2/26 &#8211; 3/4</td><td>Stephan</td></tr><tr><td>3/5 &#8211; 3/11</td><td>Matt</td></tr><tr><td>3/19 &#8211; 3/25</td><td>Aro</td></tr><tr><td>3/26 &#8211; 4/1</td><td>Spencer</td></tr><tr><td>4/2 &#8211; 4/8</td><td>Stephan</td></tr><tr><td>4/9 &#8211; 4/15</td><td>Matt</td></tr><tr><td>4/16 &#8211; 4/22</td><td>Aro</td></tr><tr><td>4/23 &#8211; 4/29</td><td>Spencer</td></tr><tr><td>4/30 &#8211; 5/6</td><td>Stephan</td></tr></tbody></table></figure>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Meeting Day and Time Client Thursdays at 11:30pm Team Thursdays at 12pm Coach Thursdays at 8:30am Journal Entry Schedule Week&#8230;</p>\n",
+            "rendered": "<p>Meeting Day and Time Client Wednesdays at 11:30am Coach Thursdays at 8:30am Team Thursdays at 12pm Journal Entry Schedule Week&#8230;</p>\n",
             "protected": false
         },
         "author": 1246,
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 10,
+                    "count": 11,
                     "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/61/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 106,
-                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/61/revisions/106"
+                    "id": 129,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/61/revisions/129"
                 }
             ],
             "wp:attachment": [
@@ -258,8 +344,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamo/?page_id=21"
         },
-        "modified": "2023-02-04T14:53:31",
-        "modified_gmt": "2023-02-04T19:53:31",
+        "modified": "2023-02-05T20:54:23",
+        "modified_gmt": "2023-02-06T01:54:23",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -268,11 +354,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<ul>\n<li>As a user, I want to be able to gauge the overall “pulse” or mood of the UNC subreddit to see how the UNC community is reacting to events surrounding them.</li>\n\n\n\n<li>As a moderator, I want to be able to sort and find bad actors within the UNC subreddit so that I can filter out those actors and posts to sustain the subreddit’s guidelines.</li>\n\n\n\n<li>As a user, I want to be able to sort through the data provided in the UNC subreddit to read about the hot topics that are going on through UNC’s campus and community so that I can stay up to date on what is happening.</li>\n\n\n\n<li>As a student who is currently not on campus, I want to see current events from on campus so I don’t miss out on what I would experience on campus.</li>\n\n\n\n<li>As a first-time user, I want to be able to understand the function of the website at a glance.</li>\n\n\n\n<li>As a user, I want to be able to see and navigate directly to specific posts and authors that attract high attention, both positive and negative.</li>\n</ul>\n\n\n\n<p><strong>D1. Specifications</strong></p>\n",
+            "rendered": "\n<h2>D1. Specifications</h2>\n\n\n\n<p><strong>User Stories</strong></p>\n\n\n\n<ul>\n<li>As a user, I want to be able to gauge the overall “pulse” or mood of the UNC subreddit to see how the UNC community is reacting to events surrounding them.</li>\n\n\n\n<li>As a moderator, I want to be able to easily sort through each post and user within the UNC subreddit so that I can filter out any abnormal activity that goes against community guidelines.</li>\n\n\n\n<li>As a user, I want to be able to easily scroll through posts that are provided in the UNC subreddit to read about popular topics that are going on through UNC’s campus and the community, so that I can stay up to date on what is happening.</li>\n\n\n\n<li>As a student who is currently not on campus, I want to be able to see posts about current events on campus so that I don’t miss out on what I would experience on campus.</li>\n\n\n\n<li>As a first-time user, I want to be able to understand the function of the website at a glance.</li>\n\n\n\n<li>As a user, I want to be able to see and navigate directly to specific posts and authors that attract high attention, both positive and negative.</li>\n</ul>\n\n\n\n<p><strong>Requirements</strong></p>\n\n\n\n<ul>\n<li>The application will display information and general trends of the UNC subreddit through a dashboard interface.</li>\n\n\n\n<li>The user will be able to monitor activity of the subreddit and quickly find specific posts.</li>\n\n\n\n<li>The user will be able to search through other users activity and gauge their impact on the subreddit, through web scraping (see if they provide positive/negative posts).</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories D1. Specifications</p>\n",
+            "rendered": "<p>D1. Specifications User Stories Requirements</p>\n",
             "protected": false
         },
         "author": 1246,
@@ -313,14 +399,14 @@
             ],
             "version-history": [
                 {
-                    "count": 2,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/21/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 108,
-                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/21/revisions/108"
+                    "id": 131,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/21/revisions/131"
                 }
             ],
             "wp:attachment": [
@@ -602,8 +688,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamo/?page_id=17"
         },
-        "modified": "2023-01-26T21:14:55",
-        "modified_gmt": "2023-01-27T02:14:55",
+        "modified": "2023-02-05T20:44:05",
+        "modified_gmt": "2023-02-06T01:44:05",
         "slug": "team",
         "status": "publish",
         "type": "page",
@@ -612,11 +698,11 @@
             "rendered": "Team"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Name</strong></td><td><strong>Role</strong></td></tr><tr><td>Stephan Procopii</td><td>Backend Developer</td></tr><tr><td>Arogya Dhakal</td><td>Frontend Developer</td></tr><tr><td>Spencer Twiddly</td><td>Client Manager</td></tr><tr><td>Zhennan Feng</td><td>User Experience Designer</td></tr></tbody></table></figure>\n\n\n\n<h2>Rules:</h2>\n\n\n\n<ul>\n<li>Respect each other and notify when we will be late to a meeting or when we will not be able to attend a meeting.\n\n\n\n\n\n</li>\n</ul>\n\n\n\n<ul>\n<li>Respond to group chat as soon as possible for updates on projects or deliverables.</li>\n</ul>\n\n\n\n<ul>\n<li>Notify members when code is updated or revised to keep communication</li>\n</ul>\n\n\n\n<ul>\n<li>Comment as much as possible to ensure that other team members can read and understand code written clearly.</li>\n</ul>\n",
+            "rendered": "\n<figure class=\"wp-block-table\"><table><tbody><tr><td><strong>Name</strong></td><td><strong>Role</strong></td></tr><tr><td>Stephan Procopii</td><td>Backend Developer</td></tr><tr><td>Arogya Dhakal</td><td>Frontend Developer</td></tr><tr><td>Spencer Twiddy</td><td>Client/Team Manager</td></tr><tr><td>Zhennan Feng</td><td>User Experience Designer</td></tr></tbody></table></figure>\n\n\n\n<h2>Rules:</h2>\n\n\n\n<ul>\n<li>Respect each other and notify when we will be late to a meeting or when we will not be able to attend a meeting.\n\n\n\n\n\n</li>\n</ul>\n\n\n\n<ul>\n<li>Respond to group chat as soon as possible for updates on projects or deliverables.</li>\n</ul>\n\n\n\n<ul>\n<li>Notify members when code is updated or revised to keep communication</li>\n</ul>\n\n\n\n<ul>\n<li>Comment as much as possible to ensure that other team members can read and understand code written clearly.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Name Role Stephan Procopii Backend Developer Arogya Dhakal Frontend Developer Spencer Twiddly Client Manager Zhennan Feng User Experience Designer Rules:</p>\n",
+            "rendered": "<p>Name Role Stephan Procopii Backend Developer Arogya Dhakal Frontend Developer Spencer Twiddy Client/Team Manager Zhennan Feng User Experience Designer Rules:</p>\n",
             "protected": false
         },
         "author": 1246,
@@ -657,14 +743,14 @@
             ],
             "version-history": [
                 {
-                    "count": 10,
+                    "count": 12,
                     "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/17/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 83,
-                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/17/revisions/83"
+                    "id": 126,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/pages/17/revisions/126"
                 }
             ],
             "wp:attachment": [

@@ -1,1 +1,104 @@
-[]
+[
+    {
+        "id": 117,
+        "date": "2023-02-05T18:33:46",
+        "date_gmt": "2023-02-05T23:33:46",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamo/?p=117"
+        },
+        "modified": "2023-02-05T18:41:09",
+        "modified_gmt": "2023-02-05T23:41:09",
+        "slug": "project-description",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/comp523teamo/2023/02/05/project-description/",
+        "title": {
+            "rendered": "Project Description"
+        },
+        "content": {
+            "rendered": "\n<p>cReddit Hours is an app that provides meta-information about r/UNC, with the dual goal of both providing a summary of the current state and trends in the vibe of the Carolina community, and aiding moderators to actively create positivity and prevent misinformation and harm.</p>\n\n\n\n<p>This project will produce a read-only web page front end displaying metrics and visualizations. These should provide an at-a-glance summary of information gathered from numeric content about posts, comments, upvotes, downvotes, etc. as well as semantic content from the text within the posts themselves. General trends will be shown in such a way to keep users anonymous; however, there will be a leaderboard(s) displaying the usernames of the &#8220;most positive&#8221; users in various metrics.</p>\n\n\n\n<p>To do this, a complete history of all activity on the subreddit will be stored in the backend database. A web-scraper will either run continuously or at regular intervals to stay as up to date as possible. Estimations of semantic content will be gleaned via NLP libraries. A notification system will be implemented to track when metrics pass a certain threshold of deviation.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>cReddit Hours is an app that provides meta-information about r/UNC, with the dual goal of both providing a summary of&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13785,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts/117"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/users/13785"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/comments?post=117"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts/117/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 121,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts/117/revisions/121"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/media?parent=117"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/categories?post=117"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/tags?post=117"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
