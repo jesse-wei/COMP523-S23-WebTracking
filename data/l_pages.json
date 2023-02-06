@@ -264,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523s23teaml/?page_id=33"
         },
-        "modified": "2023-01-29T14:28:37",
-        "modified_gmt": "2023-01-29T19:28:37",
+        "modified": "2023-02-06T09:54:53",
+        "modified_gmt": "2023-02-06T14:54:53",
         "slug": "journals",
         "status": "publish",
         "type": "page",
@@ -274,7 +274,7 @@
             "rendered": "Journals"
         },
         "content": {
-            "rendered": "\n<ul>\n<li>01/26/2023 (<strong>First In-Person Client Meeting</strong>)\n<ul>\n<li>Meet with our client Mr. David Hughes</li>\n\n\n\n<li>Mr. Hughes introduces his kinetik project to us</li>\n\n\n\n<li>Weekly in-person client meeting at Launch Chapel Hill on Thursday at 3:30 pm</li>\n\n\n\n<li>Define 10 technical sprints for the project\n<ul>\n<li>Upload file to AWS through kinetik.solutions</li>\n\n\n\n<li>Convert Figma design to AWS Amplify interface</li>\n\n\n\n<li>Validate forecasting model with UNC Statistics professor or grad student</li>\n\n\n\n<li>Review excel model and replicate functionality in Python (test Jeff’s code)</li>\n\n\n\n<li>Publish code to AWS from GitHub</li>\n\n\n\n<li>Meet with Amazon Development team weekly</li>\n\n\n\n<li>Meet with K-F MBA team to hear market feedback</li>\n\n\n\n<li>Natural Language Processing model for sales and marketing issues, best practices and optimization methods</li>\n\n\n\n<li>Recruit technical mentors (Data Science, Statistics / Monte Carlo, AWS)</li>\n\n\n\n<li>Determine JavaScript vs. TypeScript (https://www.toptal.com/typescript/typescript-vs-javascript-guide)</li>\n</ul>\n</li>\n\n\n\n<li>Created an iMessage group chat with Mr. Hughes</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/20/2023\n<ul>\n<li>Change one of our project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/18/2023 (<strong>Group Meeting 2</strong>)<br>\n<ul>\n<li>Discuss team rules</li>\n\n\n\n<li>Assign team roles</li>\n\n\n\n<li>Discuss every member&#8217;s skill stack</li>\n\n\n\n<li>Read through all projects together and select projects 6 project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>01/13/2023 (<strong>Group Meeting 1</strong>)<br>\n<ul>\n<li>First group meeting!</li>\n\n\n\n<li>Created our group website</li>\n\n\n\n<li>Discuss every member&#8217;s availability and assign weekly meeting time</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li>02/02/2023 <strong>(Client Meeting &amp; Followed be a Group Meeting)</strong>\n<ul>\n<li>Met with Mr. Hughes at the new Launch Chapel Hill.</li>\n\n\n\n<li>Mr. Hughes presented his go-to market simulation model to us on Excel. He explained how the model works and what is his expectations of the MVP software.</li>\n\n\n\n<li>We introduced our February plan to Mr. Hughes.\n<ul>\n<li>Replicate the Excel model in Python (Pycharm?)\n<ol>\n<li>Variables, changeable opportunities…</li>\n\n\n\n<li>Use fake data</li>\n\n\n\n<li>Push to Github for now</li>\n</ol>\n</li>\n\n\n\n<li>Test Plan: Perform unit tests for the model, ask professors to verify the python model with us</li>\n\n\n\n<li>Possibly need to do data transfer. How do clients give their data? In what format?\n<ol>\n<li>Logs, csv, excel, json files?</li>\n\n\n\n<li>Create a structural object to save this data (SQL).</li>\n</ol>\n</li>\n\n\n\n<li>Test Plan: Test the python model with real data.</li>\n</ul>\n</li>\n\n\n\n<li>We decided our next step is to replicate the model functionalities in Pycharm.</li>\n</ul>\n</li>\n\n\n\n<li>01/30/2023 <strong>(Coach Meeting)</strong>\n<ul>\n<li>Talks about our progress with coach Louie, our project is very straightforward and has a list of tasks to do.</li>\n\n\n\n<li>Achieved the plan for last week, finished User Stories, finished updating our website.</li>\n\n\n\n<li>The next step we need to do is to ask Mr. Hughes to present his Excel model with us.</li>\n</ul>\n</li>\n\n\n\n<li>01/26/2023 (<strong>First In-Person Client Meeting</strong>)\n<ul>\n<li>Meet with our client Mr. David Hughes</li>\n\n\n\n<li>Mr. Hughes introduces his kinetik project to us</li>\n\n\n\n<li>Weekly in-person client meeting at Launch Chapel Hill on Thursday at 3:30 pm</li>\n\n\n\n<li>Define 10 technical sprints for the project\n<ul>\n<li>Upload file to AWS through kinetik.solutions</li>\n\n\n\n<li>Convert Figma design to AWS Amplify interface</li>\n\n\n\n<li>Validate forecasting model with UNC Statistics professor or grad student</li>\n\n\n\n<li>Review excel model and replicate functionality in Python (test Jeff’s code)</li>\n\n\n\n<li>Publish code to AWS from GitHub</li>\n\n\n\n<li>Meet with Amazon Development team weekly</li>\n\n\n\n<li>Meet with K-F MBA team to hear market feedback</li>\n\n\n\n<li>Natural Language Processing model for sales and marketing issues, best practices and optimization methods</li>\n\n\n\n<li>Recruit technical mentors (Data Science, Statistics / Monte Carlo, AWS)</li>\n\n\n\n<li>Determine JavaScript vs. TypeScript (https://www.toptal.com/typescript/typescript-vs-javascript-guide)</li>\n</ul>\n</li>\n\n\n\n<li>Created an iMessage group chat with Mr. Hughes</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/20/2023\n<ul>\n<li>Change one of our project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/18/2023 (<strong>Group Meeting 2</strong>)<br>\n<ul>\n<li>Discuss team rules</li>\n\n\n\n<li>Assign team roles</li>\n\n\n\n<li>Discuss every member&#8217;s skill stack</li>\n\n\n\n<li>Read through all projects together and select projects 6 project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>01/13/2023 (<strong>Group Meeting 1</strong>)<br>\n<ul>\n<li>First group meeting!</li>\n\n\n\n<li>Created our group website</li>\n\n\n\n<li>Discuss every member&#8217;s availability and assign weekly meeting time</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -319,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 6,
                     "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 184,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions/184"
+                    "id": 185,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions/185"
                 }
             ],
             "wp:attachment": [
