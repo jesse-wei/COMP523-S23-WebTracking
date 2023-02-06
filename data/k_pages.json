@@ -1,5 +1,91 @@
 [
     {
+        "id": 118,
+        "date": "2023-02-06T12:24:29",
+        "date_gmt": "2023-02-06T17:24:29",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamk2023/?page_id=118"
+        },
+        "modified": "2023-02-06T12:33:07",
+        "modified_gmt": "2023-02-06T17:33:07",
+        "slug": "platform-selection",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamk2023/platform-selection/",
+        "title": {
+            "rendered": "Platform Selection"
+        },
+        "content": {
+            "rendered": "\n<h2>Client Requirements</h2>\n\n\n\n<p>Prior to selecting our technology stack, our client informed us that our app would need to support both iOS and Android, whether in the form of a cross-platform app or a mobile website. He specifically mentioned that having two separate code bases for an iOS app and an Android app would cause maintainability issues down the line (in case further development is necessary).</p>\n\n\n\n<h2>Possible Tech Stacks</h2>\n\n\n\n<ul>\n<li>MERN\n<ul>\n<li><a href=\"https://www.mongodb.com/mern-stack\">https://www.mongodb.com/mern-stack</a></li>\n\n\n\n<li><a href=\"https://www.groovyweb.co/blog/mean-vs-mern-vs-mevn-stacks/\">https://www.groovyweb.co/blog/mean-vs-mern-vs-mevn-stacks/</a>&nbsp;</li>\n\n\n\n<li>front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB)</li>\n\n\n\n<li>MongoDB works extremely well with Node.js</li>\n\n\n\n<li>We have experience with elements of this stack, especially React.js</li>\n\n\n\n<li>Pros:\n<ul>\n<li>React offers a good experience to the user; Dropbox, Facebook, and Airbnb all use React to make great UI</li>\n\n\n\n<li>Covers both iOS and Android as a mobile website &#8211; meets client needs</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>does not support direct calls</li>\n\n\n\n<li>Not recommended for development of large-scale web apps</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>MEAN\n<ul>\n<li><a href=\"https://www.mongodb.com/mean-stack\">https://www.mongodb.com/mean-stack</a></li>\n\n\n\n<li>MongoDB, Express, Angular, and Node</li>\n\n\n\n<li>Pros:\n<ul>\n<li>Easy to design and test apps hosted on the cloud</li>\n\n\n\n<li>Covers both iOS and Android as a mobile website &#8211; meets client needs</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>Maintenance is difficult due to many libraries and frameworks, and frequent updates are required</li>\n\n\n\n<li>App sustainability may be a problem</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Swift\n<ul>\n<li><a href=\"https://www.javatpoint.com/swift-vs-objective-c\">https://www.javatpoint.com/swift-vs-objective-c</a></li>\n\n\n\n<li><a href=\"https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/\">https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Simplicity (faster learning curve)</li>\n\n\n\n<li>Advanced, modern functionality make the language safer (less prone to errors) &#8211; generics, optional, type inference</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>No experience among the group</li>\n\n\n\n<li>No support for versions of iOS before iOS 14</li>\n\n\n\n<li>Language still in development &#8211; could require continual migrations down the line to newer versions of Swift</li>\n\n\n\n<li>iOS only &#8211; doesn’t cover our bases on Android</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Objective-C\n<ul>\n<li><a href=\"https://www.javatpoint.com/swift-vs-objective-c\">https://www.javatpoint.com/swift-vs-objective-c</a></li>\n\n\n\n<li><a href=\"https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/\">https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Stable, well-tested language (no future migration issues)</li>\n\n\n\n<li>High C and C++ compatibility</li>\n\n\n\n<li>Supports all versions of iOS</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>No experience among the group\n<ul>\n<li>Steep learning curve, complex syntax</li>\n</ul>\n</li>\n\n\n\n<li>Limited functionality due to old age</li>\n\n\n\n<li>Security issues</li>\n\n\n\n<li>iOS only &#8211; doesn’t cover our bases on Android</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Kotlin\n<ul>\n<li><a href=\"https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/\">https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/</a></li>\n\n\n\n<li><a href=\"https://mindmajix.com/kotlin-vs-java\">https://mindmajix.com/kotlin-vs-java</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Easier to have cleaner code</li>\n\n\n\n<li>Saves on a lot of code space compared to other languages&nbsp;</li>\n\n\n\n<li>Completely compatible with JVM so its possible to also use java frameworks at the same time&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>Slower compilation time than Java</li>\n\n\n\n<li>Has a steeper learning curve</li>\n\n\n\n<li>Has a smaller community and therefore less resources to find solutions</li>\n\n\n\n<li>Android only &#8211; doesn&#8217;t cover our bases on iOS</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Java\n<ul>\n<li><a href=\"https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/\">https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/</a></li>\n\n\n\n<li><a href=\"https://mindmajix.com/kotlin-vs-java\">https://mindmajix.com/kotlin-vs-java</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Widely used by many large companies and therefore is well supported with greate scalability</li>\n\n\n\n<li>Many open source libraries and tools to choose from</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>Can cause problems with android API design</li>\n\n\n\n<li>An incredibly verbose language which may slow down development</li>\n\n\n\n<li>Also requires a great amount of memory space</li>\n\n\n\n<li>Realistically Android only &#8211; very difficult to adapt for iOS development</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2>Selected Platform &#8211; MERN Stack</h2>\n\n\n\n<p>We&#8217;ve chosen to use the MERN stack for our project. This breaks down into the following</p>\n\n\n\n<ul>\n<li>Database &#8211; MongoDB</li>\n\n\n\n<li>Backend &#8211; Node.js and Express.js</li>\n\n\n\n<li>Frontend &#8211; React.js</li>\n</ul>\n\n\n\n<p>This will require knowledge of HTML, CSS, and JavaScript. We currently don&#8217;t plan on using any packages for graphing/charting, image/video processing, etc., but this may change down the line.</p>\n\n\n\n<p>The tech stack will allow for development covering both iOS and Android.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Client Requirements Prior to selecting our technology stack, our client informed us that our app would need to support both iOS and Android, whether in the form of a cross-platform app or a mobile website. He specifically mentioned that having two separate code bases for an iOS app and an Android app would cause maintainability&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teamk2023/platform-selection/\">Continue reading <span class=\"screen-reader-text\">Platform Selection</span></a></p>\n",
+            "protected": false
+        },
+        "author": 999,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/118"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/users/999"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/comments?post=118"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/118/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 129,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/118/revisions/129"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/media?parent=118"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 98,
         "date": "2023-01-31T12:34:19",
         "date_gmt": "2023-01-31T17:34:19",
@@ -350,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamk2023/?page_id=33"
         },
-        "modified": "2023-01-31T12:39:08",
-        "modified_gmt": "2023-01-31T17:39:08",
+        "modified": "2023-02-06T14:46:12",
+        "modified_gmt": "2023-02-06T19:46:12",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -360,11 +446,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h6>Team Meeting #2 (Jan 31, 2023)</h6>\n\n\n\n<ul>\n<li>Deliverables for the week are completed:\n<ul>\n<li>Project concept completed (seen on Project Introduction page)</li>\n\n\n\n<li>Deliverables page created</li>\n\n\n\n<li>User Stories completed</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #2 (Jan 30, 2023)</h6>\n\n\n\n<ul>\n<li>Add Louie to Trello or Github when we set that up\n<ul>\n<li>Github: @mlouielu</li>\n\n\n\n<li>Trello: louielu@cs.unc.edu</li>\n\n\n\n<li><a href=\"https://github.com/mlouielu/COMP523-S23-WebTracking/tree/main/data\">https://github.com/mlouielu/COMP523-S23-WebTracking/tree/main/data</a> &#8211; tool Louie uses to check our progress on wordpress website updates</li>\n</ul>\n</li>\n\n\n\n<li>Update website journal with client meeting notes</li>\n\n\n\n<li>Project concept + user stories due at next coach meeting\n<ul>\n<li>Project concept is done</li>\n\n\n\n<li>User stories (+ functional requirements)\n<ul>\n<li>Take a look at previous teams’ examples</li>\n</ul>\n</li>\n\n\n\n<li>Add a deliverables tab to the website</li>\n</ul>\n</li>\n\n\n\n<li>Decide on a more solid tech stack</li>\n\n\n\n<li>Try to implement proof of concept ASAP to share with client and start iterating on it</li>\n</ul>\n\n\n\n<h6>Client Meeting #1 (Jan 30, 2023)</h6>\n\n\n\n<ul>\n<li>Wants to decide between a web app or mobile app that can be used on both iOS or android -&gt; probably should just make a web app&nbsp;</li>\n\n\n\n<li>Need a backend where all the card data is stored with some way for teachers to add more cards in the future</li>\n\n\n\n<li>Wants it to interact with a database (google or sql)</li>\n\n\n\n<li>Regularly give him testing code (every 2 weeks)</li>\n\n\n\n<li>Make sure the code is organized and well documented</li>\n\n\n\n<li>Implement a Filter function (via tags, class time, )</li>\n\n\n\n<li>Give feedback (can be google forms/allow the client to be able to access it)\n<ul>\n<li>Names but no need to create users&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Have the engineering unleashed logo and the grant somewhere (doesn’t need to be prominent tho maybe put in about page)</li>\n\n\n\n<li>Theme can be whatever we want, we can copy the style of the master list but it is up to us</li>\n</ul>\n\n\n\n<h6>Team Meeting #1 (Jan 24, 2023)</h6>\n\n\n\n<ul>\n<li>Going forward, team meetings are on Tuesdays at 12:20</li>\n\n\n\n<li>Updated website with actual project information (Project Introduction, Related Links pages)</li>\n\n\n\n<li>Emailed client to introduce ourselves + ask for his availability</li>\n\n\n\n<li>Updated Journal with team meeting notes</li>\n\n\n\n<li>Brainstormed questions for client\n<ul>\n<li>Due to the time/resource constraint, we may not be able to develop the app for both iOS and Android. What platform would you prefer we focus on?</li>\n\n\n\n<li>Are there any specific technologies or languages that you prefer we use?</li>\n\n\n\n<li>Is there a typo on the website related to question frenzy being repeated so often?</li>\n\n\n\n<li>Ask more specific details about Curiosity, Connections, Creating Value. What distinguishes them from each other?</li>\n\n\n\n<li>When users are searching for activities, what will they be able to filter the search based on? (theme, time, name?)</li>\n\n\n\n<li>Specific Style Guide. UI preferences. Font. Colors. Also will he provide the logo file in some diff formats (svg, png, etc)?</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #1 (Jan 23, 2023)</h6>\n\n\n\n<ul>\n<li>Action items:\n<ul>\n<li>Update website with actual project information</li>\n\n\n\n<li>Schedule meeting with client</li>\n\n\n\n<li>Update Journal for team meeting #1</li>\n\n\n\n<li>Brainstorm questions for client</li>\n\n\n\n<li>Work on next week&#8217;s deliverables (spec, user stories)</li>\n</ul>\n</li>\n\n\n\n<li>Advice:\n<ul>\n<li>Take a look at Trello</li>\n\n\n\n<li>Try to use kanban</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<h6>Client Meeting #3 (Feb 6, 2023)</h6>\n\n\n\n<ul>\n<li>Talked to client about tech stack choices</li>\n\n\n\n<li>MERN\n<ul>\n<li><a href=\"https://www.mongodb.com/mern-stack\">https://www.mongodb.com/mern-stack</a></li>\n\n\n\n<li><a href=\"https://www.groovyweb.co/blog/mean-vs-mern-vs-mevn-stacks/\">https://www.groovyweb.co/blog/mean-vs-mern-vs-mevn-stacks/</a>&nbsp;</li>\n\n\n\n<li>front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB)</li>\n\n\n\n<li>MongoDB works extremely well with Node.js</li>\n\n\n\n<li>We have experience with elements of this stack, especially React.js</li>\n\n\n\n<li>Pros:\n<ul>\n<li>React offers a good experience to the user; Dropbox, Facebook, and Airbnb all use React to make great UI</li>\n\n\n\n<li>Covers both iOS and Android as a mobile website &#8211; meets client needs</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>does not support direct calls</li>\n\n\n\n<li>Not recommended for development of large-scale web apps</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>MEAN\n<ul>\n<li><a href=\"https://www.mongodb.com/mean-stack\">https://www.mongodb.com/mean-stack</a></li>\n\n\n\n<li>MongoDB, Express, Angular, and Node</li>\n\n\n\n<li>Pros:\n<ul>\n<li>Easy to design and test apps hosted on the cloud</li>\n\n\n\n<li>Covers both iOS and Android as a mobile website &#8211; meets client needs</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>Maintenance is difficult due to many libraries and frameworks, and frequent updates are required</li>\n\n\n\n<li>App sustainability may be a problem</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Swift\n<ul>\n<li><a href=\"https://www.javatpoint.com/swift-vs-objective-c\">https://www.javatpoint.com/swift-vs-objective-c</a></li>\n\n\n\n<li><a href=\"https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/\">https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Simplicity (faster learning curve)</li>\n\n\n\n<li>Advanced, modern functionality make the language safer (less prone to errors) &#8211; generics, optional, type inference</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>No experience among the group</li>\n\n\n\n<li>No support for versions of iOS before iOS 14</li>\n\n\n\n<li>Language still in development &#8211; could require continual migrations down the line to newer versions of Swift</li>\n\n\n\n<li>iOS only &#8211; doesn’t cover our bases on Android</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Objective-C\n<ul>\n<li><a href=\"https://www.javatpoint.com/swift-vs-objective-c\">https://www.javatpoint.com/swift-vs-objective-c</a></li>\n\n\n\n<li><a href=\"https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/\">https://www.sam-solutions.com/blog/objective-c-vs-swift-whats-the-difference/</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Stable, well-tested language (no future migration issues)</li>\n\n\n\n<li>High C and C++ compatibility</li>\n\n\n\n<li>Supports all versions of iOS</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>No experience among the group\n<ul>\n<li>Steep learning curve, complex syntax</li>\n</ul>\n</li>\n\n\n\n<li>Limited functionality due to old age</li>\n\n\n\n<li>Security issues</li>\n\n\n\n<li>iOS only &#8211; doesn’t cover our bases on Android</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Kotlin\n<ul>\n<li><a href=\"https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/\">https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/</a></li>\n\n\n\n<li><a href=\"https://mindmajix.com/kotlin-vs-java\">https://mindmajix.com/kotlin-vs-java</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Easier to have cleaner code</li>\n\n\n\n<li>Saves on a lot of code space compared to other languages&nbsp;</li>\n\n\n\n<li>Completely compatible with JVM so its possible to also use java frameworks at the same time&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>Slower compilation time than Java</li>\n\n\n\n<li>Has a steeper learning curve</li>\n\n\n\n<li>Has a smaller community and therefore less resources to find solutions</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Java\n<ul>\n<li><a href=\"https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/\">https://www.openxcell.com/blog/how-to-choose-technology-stack-for-app-development/</a></li>\n\n\n\n<li><a href=\"https://mindmajix.com/kotlin-vs-java\">https://mindmajix.com/kotlin-vs-java</a></li>\n\n\n\n<li>Pros:\n<ul>\n<li>Widely used by many large companies and therefore is well supported with greate scalability</li>\n\n\n\n<li>Many open source libraries and tools to choose from</li>\n</ul>\n</li>\n\n\n\n<li>Cons:\n<ul>\n<li>Can cause problems with android API design</li>\n\n\n\n<li>An incredibly verbose language which may slow down development</li>\n\n\n\n<li>Also requires a great amount of memory space</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Team Meeting #2 (Jan 31, 2023)</h6>\n\n\n\n<ul>\n<li>Deliverables for the week are completed:\n<ul>\n<li>Project concept completed (seen on Project Introduction page)</li>\n\n\n\n<li>Deliverables page created</li>\n\n\n\n<li>User Stories completed</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #2 (Jan 30, 2023)</h6>\n\n\n\n<ul>\n<li>Add Louie to Trello or Github when we set that up\n<ul>\n<li>Github: @mlouielu</li>\n\n\n\n<li>Trello: louielu@cs.unc.edu</li>\n\n\n\n<li><a href=\"https://github.com/mlouielu/COMP523-S23-WebTracking/tree/main/data\">https://github.com/mlouielu/COMP523-S23-WebTracking/tree/main/data</a> &#8211; tool Louie uses to check our progress on wordpress website updates</li>\n</ul>\n</li>\n\n\n\n<li>Update website journal with client meeting notes</li>\n\n\n\n<li>Project concept + user stories due at next coach meeting\n<ul>\n<li>Project concept is done</li>\n\n\n\n<li>User stories (+ functional requirements)\n<ul>\n<li>Take a look at previous teams’ examples</li>\n</ul>\n</li>\n\n\n\n<li>Add a deliverables tab to the website</li>\n</ul>\n</li>\n\n\n\n<li>Decide on a more solid tech stack</li>\n\n\n\n<li>Try to implement proof of concept ASAP to share with client and start iterating on it</li>\n</ul>\n\n\n\n<h6>Client Meeting #1 (Jan 30, 2023)</h6>\n\n\n\n<ul>\n<li>Wants to decide between a web app or mobile app that can be used on both iOS or android -&gt; probably should just make a web app&nbsp;</li>\n\n\n\n<li>Need a backend where all the card data is stored with some way for teachers to add more cards in the future</li>\n\n\n\n<li>Wants it to interact with a database (google or sql)</li>\n\n\n\n<li>Regularly give him testing code (every 2 weeks)</li>\n\n\n\n<li>Make sure the code is organized and well documented</li>\n\n\n\n<li>Implement a Filter function (via tags, class time, )</li>\n\n\n\n<li>Give feedback (can be google forms/allow the client to be able to access it)\n<ul>\n<li>Names but no need to create users&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Have the engineering unleashed logo and the grant somewhere (doesn’t need to be prominent tho maybe put in about page)</li>\n\n\n\n<li>Theme can be whatever we want, we can copy the style of the master list but it is up to us</li>\n</ul>\n\n\n\n<h6>Team Meeting #1 (Jan 24, 2023)</h6>\n\n\n\n<ul>\n<li>Going forward, team meetings are on Tuesdays at 12:20</li>\n\n\n\n<li>Updated website with actual project information (Project Introduction, Related Links pages)</li>\n\n\n\n<li>Emailed client to introduce ourselves + ask for his availability</li>\n\n\n\n<li>Updated Journal with team meeting notes</li>\n\n\n\n<li>Brainstormed questions for client\n<ul>\n<li>Due to the time/resource constraint, we may not be able to develop the app for both iOS and Android. What platform would you prefer we focus on?</li>\n\n\n\n<li>Are there any specific technologies or languages that you prefer we use?</li>\n\n\n\n<li>Is there a typo on the website related to question frenzy being repeated so often?</li>\n\n\n\n<li>Ask more specific details about Curiosity, Connections, Creating Value. What distinguishes them from each other?</li>\n\n\n\n<li>When users are searching for activities, what will they be able to filter the search based on? (theme, time, name?)</li>\n\n\n\n<li>Specific Style Guide. UI preferences. Font. Colors. Also will he provide the logo file in some diff formats (svg, png, etc)?</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Coach Meeting #1 (Jan 23, 2023)</h6>\n\n\n\n<ul>\n<li>Action items:\n<ul>\n<li>Update website with actual project information</li>\n\n\n\n<li>Schedule meeting with client</li>\n\n\n\n<li>Update Journal for team meeting #1</li>\n\n\n\n<li>Brainstorm questions for client</li>\n\n\n\n<li>Work on next week&#8217;s deliverables (spec, user stories)</li>\n</ul>\n</li>\n\n\n\n<li>Advice:\n<ul>\n<li>Take a look at Trello</li>\n\n\n\n<li>Try to use kanban</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Team Meeting #2 (Jan 31, 2023) Coach Meeting #2 (Jan 30, 2023) Client Meeting #1 (Jan 30, 2023) Team Meeting #1 (Jan 24, 2023) Coach Meeting #1 (Jan 23, 2023)</p>\n",
+            "rendered": "<p>Client Meeting #3 (Feb 6, 2023) Team Meeting #2 (Jan 31, 2023) Coach Meeting #2 (Jan 30, 2023) Client Meeting #1 (Jan 30, 2023) Team Meeting #1 (Jan 24, 2023) Coach Meeting #1 (Jan 23, 2023)</p>\n",
             "protected": false
         },
         "author": 6693,
@@ -411,8 +497,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 106,
-                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions/106"
+                    "id": 131,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/33/revisions/131"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +522,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamk2023/?page_id=26"
         },
-        "modified": "2023-01-31T12:52:38",
-        "modified_gmt": "2023-01-31T17:52:38",
+        "modified": "2023-02-06T12:24:46",
+        "modified_gmt": "2023-02-06T17:24:46",
         "slug": "introduction",
         "status": "publish",
         "type": "page",
@@ -446,11 +532,11 @@
             "rendered": "Project Introduction"
         },
         "content": {
-            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material.</p>\n\n\n\n<p>In line with this initiative, our team is developing a teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp the relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally, the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"770\" height=\"228\" src=\"https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1.png\" alt=\"\" class=\"wp-image-112\" srcset=\"https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1.png 770w, https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1-300x89.png 300w, https://tarheels.live/comp523teamk2023/wp-content/uploads/sites/4042/2023/01/keen-770x228-1-768x227.png 768w\" sizes=\"(max-width: 770px) 100vw, 770px\" /></figure>\n",
+            "rendered": "\n<h2>Micromoment Card Deck</h2>\n\n\n\n<p>To prepare the future generation of students, this app hopes to promote problem-solving skills that will allow them to think critically about projects and always seek out ways to improve.  </p>\n\n\n\n<p>What would you consider to be the most essential aspect of being an engineer? One might say it is having a high level of technical ability, as it is the most directly related to their job. However, according to Richard Kern, it turns out to be having a greater understanding of what drives a project. Knowing what questions to ask and where to find improvements is key to becoming a better engineer. </p>\n\n\n\n<p>In line with this initiative, our team is developing a teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25 activities on virtual cards, providing details on each for teachers to quickly grasp relevant context and organize the described micromoment.</p>\n\n\n\n<p>The current full list of micromoments is available <a href=\"https://docs.google.com/document/d/1s4S8Uwf8oFWsdu316GmFjstf9MUdPMjSosomHkOiWlU/edit\" target=\"_blank\" rel=\"noreferrer noopener\">here</a>.</p>\n\n\n\n<p>Additionally, the activity catalog will be continuously improving. Designated project faculty coordinators will be able to edit existing activities and add new ones based on feedback provided by teachers at the end of each activity.</p>\n\n\n\n<p>This website will detail our progress throughout project development.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Micromoment Card Deck As technology becomes more deeply integrated into education, teachers are looking to mobile apps as an option for organizing teaching material. In line with this initiative, our team is developing a teacher-facing mobile app to support users in organizing 30-minute in-class activities called &#8220;micromoments.&#8221; The app will surface a catalog of 25&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teamk2023/\">Continue reading <span class=\"screen-reader-text\">Project Introduction</span></a></p>\n",
+            "rendered": "<p>Micromoment Card Deck To prepare the future generation of students, this app hopes to promote problem-solving skills that will allow them to think critically about projects and always seek out ways to improve. What would you consider to be the most essential aspect of being an engineer? One might say it is having a high&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teamk2023/\">Continue reading <span class=\"screen-reader-text\">Project Introduction</span></a></p>\n",
             "protected": false
         },
         "author": 999,
@@ -491,14 +577,14 @@
             ],
             "version-history": [
                 {
-                    "count": 14,
+                    "count": 16,
                     "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 101,
-                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/101"
+                    "id": 122,
+                    "href": "https://tarheels.live/comp523teamk2023/wp-json/wp/v2/pages/26/revisions/122"
                 }
             ],
             "wp:attachment": [
