@@ -264,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=137"
         },
-        "modified": "2023-01-28T19:07:56",
-        "modified_gmt": "2023-01-29T00:07:56",
+        "modified": "2023-02-06T11:05:44",
+        "modified_gmt": "2023-02-06T16:05:44",
         "slug": "platform-selection",
         "status": "publish",
         "type": "page",
@@ -274,11 +274,11 @@
             "rendered": "Platform Selection"
         },
         "content": {
-            "rendered": "\n<p>TODO</p>\n",
+            "rendered": "\n<h3>Language: Python</h3>\n\n\n\n<ul>\n<li>Recommended by client</li>\n\n\n\n<li>Client recommended a variety of useful Python libraries</li>\n\n\n\n<li>Simple syntax</li>\n\n\n\n<li>Popular language</li>\n\n\n\n<li>Future maintainers will likely have experience with the language</li>\n\n\n\n<li>Team comfortable with language</li>\n</ul>\n\n\n\n<h4>Alternative: C++</h4>\n\n\n\n<ul>\n<li>More complicated syntax than Python</li>\n\n\n\n<li>Less popular than Python</li>\n\n\n\n<li>Future maintainers less likely to have experience</li>\n\n\n\n<li>Client recommended only Python libraries, would have to research C++ libraries for image processing &amp; GUI creation</li>\n\n\n\n<li>Team has less experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Image processing: <a href=\"https://simpleitk.org\">SimpleITK</a></h3>\n\n\n\n<ul>\n<li><a href=\"https://simpleitk.readthedocs.io/en/master/IO.html\">Supports NRRD &amp; NIfTI file formats</a></li>\n\n\n\n<li><a href=\"https://simpleitk.readthedocs.io/en/v2.2.0/\">Intuitive documentation</a></li>\n</ul>\n\n\n\n<h4>Alternatives: <a href=\"https://nipy.org/nibabel/\">NiBabel</a>, VTK</h4>\n\n\n\n<ul>\n<li>NiBabel: <a href=\"https://nipy.org/nibabel/reference/nibabel.html\">No support for NRRD file formats</a></li>\n\n\n\n<li>VTK: <a href=\"https://vtk.org/documentation/\">Documentation</a> hard to read</li>\n\n\n\n<li>VTK: Unclear which file formats are supported</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>GUI: pyQT</h3>\n\n\n\n<ul>\n<li>Recommended by client</li>\n\n\n\n<li><a href=\"https://www.askpython.com/python-modules/top-best-python-gui-libraries\">Popular visual framework</a></li>\n\n\n\n<li><a href=\"https://doc.qt.io/qt-6/qtdesigner-manual.html\">GUI editor QtDesigner</a></li>\n</ul>\n\n\n\n<h4>Alternative: Tkinter</h4>\n\n\n\n<ul>\n<li>Team does not have experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Input text file: JSON</h3>\n\n\n\n<ul>\n<li>Client preference</li>\n\n\n\n<li>Team has experience with JSON</li>\n</ul>\n\n\n\n<h4>Alternative: YAML</h4>\n\n\n\n<ul>\n<li>Not preferred by client</li>\n\n\n\n<li>Team has little experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Output text file: TBD</h3>\n\n\n\n<h4>Alternatives: CSV, TSV</h4>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>TODO</p>\n",
+            "rendered": "<p>Language: Python Alternative: C++ Image processing: SimpleITK Alternatives: NiBabel, VTK GUI: pyQT Alternative: Tkinter Input text file: JSON Alternative: YAML&#8230;</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -319,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 8,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/137/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 143,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/137/revisions/143"
+                    "id": 225,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/137/revisions/225"
                 }
             ],
             "wp:attachment": [
