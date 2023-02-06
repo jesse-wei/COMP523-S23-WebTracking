@@ -264,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?page_id=45"
         },
-        "modified": "2023-01-11T12:01:42",
-        "modified_gmt": "2023-01-11T17:01:42",
+        "modified": "2023-02-06T09:21:20",
+        "modified_gmt": "2023-02-06T14:21:20",
         "slug": "assignments",
         "status": "publish",
         "type": "page",
@@ -274,11 +274,11 @@
             "rendered": "Assignments"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As a healthcare provider I want to be able to send a link to a survey to a specific patient which will then be filled out by them.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I want the patients answers and information to be formed into a PDF and sent to a specific HIPPA safe database that I have access to.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I would like it if there was a dashboard that kept track of patients’ individual interactions with surveys longitudinally.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update recommendations for certain survey results.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update BWS survey questions.&nbsp;</li>\n\n\n\n<li>As a user (leukemia patient) I want to be able to use a link to gain access to a PRIME survey.</li>\n\n\n\n<li>As a user I want to be able to fill out the survey with obvious instructions.</li>\n\n\n\n<li>As a user I want to see some form of response about successful/failure submission as well as the results of my survey.&nbsp;</li>\n\n\n\n<li>As a user I also want to be able to see my results longitudinally.&nbsp;</li>\n\n\n\n<li>As a user I want to be able to see the recommendations that my health provider gives based on my results.</li>\n\n\n\n<li>As a user I want the PRIME to be very accessible regardless of my poor vision, poor hearing, and other disabilities.</li>\n\n\n\n<li>As a user I want PRIME to be both mobile and desktop friendly.</li>\n</ul>\n\n\n\n<h2>Project Concept</h2>\n\n\n\n<p>PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. </p>\n\n\n\n<p>PRIME will be a web app based in React, Typescript, and an SQL database. It will provide surveys that allow patients to select medicinal preferences. The user experience of this app is a top priority as many of the patients are of an older demographic, so a clean UX is crucial for easy understanding. Not only that but our client wants to make the entire experience as comforting as possible given the circumstances. The app will not only provide instant feedback to the patients who use it, but will also give this feedback to their healthcare providers at the same time.</p>\n\n\n\n<p>Security is also a very important aspect of the app. Dealing with medical information, there is a standard that will need to be followed. Working with out client, we will figure out the logistics on how to navigate this in the short time we have. The app needs to be completely standalone, with one link in and one link out. This will allow it to be moved across different systems while maintaining the security we need.</p>\n\n\n\n<p>Lastly, this website will have a very small amount of traffic, but will be repeatedly used by the same individuals who visit it in the first place. Our client estimated about 200 patients over 3 years, which we can easily handle. </p>\n\n\n\n<p>Here are some photos of the potential UI and layout of the site:</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"630\" height=\"836\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.28-AM.png\" alt=\"\" class=\"wp-image-136\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.28-AM.png 630w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.28-AM-226x300.png 226w\" sizes=\"(max-width: 630px) 100vw, 630px\" /><figcaption class=\"wp-element-caption\">Object case discrete choice</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"630\" height=\"840\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.36-AM.png\" alt=\"\" class=\"wp-image-137\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.36-AM.png 630w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.36-AM-225x300.png 225w\" sizes=\"(max-width: 630px) 100vw, 630px\" /><figcaption class=\"wp-element-caption\">Profile case discrete choice</figcaption></figure>\n\n\n\n<p>The first image shows object case, which will change the figures of the profile case later in the survey.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>User Stories Project Concept PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. PRIME will be a web app based in React, Typescript, and an SQL database. It will provide surveys that allow patients to select medicinal preferences. The&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teama/assignments/\">Continue reading <span class=\"screen-reader-text\">Assignments</span></a></p>\n",
             "protected": false
         },
         "author": 13590,
@@ -319,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 4,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 52,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions/52"
+                    "id": 141,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions/141"
                 }
             ],
             "wp:attachment": [
@@ -608,8 +608,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?page_id=38"
         },
-        "modified": "2023-01-23T09:07:09",
-        "modified_gmt": "2023-01-23T14:07:09",
+        "modified": "2023-02-06T09:21:33",
+        "modified_gmt": "2023-02-06T14:21:33",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -618,11 +618,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<p class=\"has-huge-font-size\">Home</p>\n\n\n\n<p>Welcome to PRIME!</p>\n\n\n\n<p>Our mission is to create ____ in order to solve ______</p>\n\n\n\n<p></p>\n\n\n\n<h2>General summary</h2>\n\n\n\n<p>1st paragraph intro</p>\n\n\n\n<p>2nd paragraph goes here</p>\n",
+            "rendered": "\n<p class=\"has-huge-font-size\">Home</p>\n\n\n\n<p>Welcome to PRIME!</p>\n\n\n\n<p>A survey platform for the preferences of patients with hematologic malignancies.</p>\n\n\n\n<p></p>\n\n\n\n<h2>General summary</h2>\n\n\n\n<p>PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. </p>\n\n\n\n<p>PRIME will be a web app based in React, Typescript, and an SQL database. It will provide surveys that allow patients to select medicinal preferences. The user experience of this app is a top priority as many of the patients are of an older demographic, so a clean UX is crucial for easy understanding. Not only that but our client wants to make the entire experience as comforting as possible given the circumstances. The app will not only provide instant feedback to the patients who use it, but will also give this feedback to their healthcare providers at the same time.</p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Home Welcome to PRIME! Our mission is to create ____ in order to solve ______ General summary 1st paragraph intro 2nd paragraph goes here</p>\n",
+            "rendered": "<p>Home Welcome to PRIME! A survey platform for the preferences of patients with hematologic malignancies. General summary PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. PRIME will be a web app based in React, Typescript, and an SQL&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teama/\">Continue reading <span class=\"screen-reader-text\">Home</span></a></p>\n",
             "protected": false
         },
         "author": 13590,
@@ -663,14 +663,14 @@
             ],
             "version-history": [
                 {
-                    "count": 10,
+                    "count": 12,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 92,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions/92"
+                    "id": 142,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions/142"
                 }
             ],
             "wp:attachment": [
