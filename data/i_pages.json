@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=152"
         },
-        "modified": "2023-01-30T21:46:27",
-        "modified_gmt": "2023-01-31T02:46:27",
+        "modified": "2023-02-06T00:37:49",
+        "modified_gmt": "2023-02-06T05:37:49",
         "slug": "journal-2",
         "status": "publish",
         "type": "page",
@@ -16,11 +16,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<h2>January 31st, 2023:</h2>\n\n\n\n<p></p>\n\n\n\n<h2>January 30th, 2023:</h2>\n\n\n\n<ul>\n<li>Updated group website to be project-specific</li>\n\n\n\n<li>Contacted client and set up a meeting date (1/31 @ 3-4pm)</li>\n\n\n\n<li>Joined client Microsoft Teams for access of material</li>\n\n\n\n<li>Brainstormed questions for client for user stories before our first client meeting</li>\n</ul>\n\n\n\n<h2>January 20th, 2023:</h2>\n\n\n\n<ul>\n<li>Finalized project preferences</li>\n\n\n\n<li>Completed group website</li>\n</ul>\n\n\n\n<h2>January 13th, 2023:</h2>\n\n\n\n<ul>\n<li>Started group website</li>\n\n\n\n<li>Set expectations and rules</li>\n</ul>\n\n\n\n<h2>First Meeting: Getting to Know Each Other</h2>\n",
+            "rendered": "\n<h2>January 31st, 2023, Client Meeting:</h2>\n\n\n\n<ul>\n<li>Met with the client and discussed the past semester&#8217;s work, the goals of this semester, and possible future goals</li>\n\n\n\n<li>Gathered user stories from client</li>\n\n\n\n<li>Emailed previous semester&#8217;s students about project and database used (no response as of 2/6/23)</li>\n\n\n\n<li>Set means of communication as biweekly zoom meetings with messages via Microsoft Teams between meetings</li>\n</ul>\n\n\n\n<h2>January 30th, 2023:</h2>\n\n\n\n<ul>\n<li>Updated group website to be project-specific</li>\n\n\n\n<li>Contacted client and set up a meeting date (1/31 @ 3-4pm)</li>\n\n\n\n<li>Joined client Microsoft Teams for access of material</li>\n\n\n\n<li>Brainstormed questions for client for user stories before our first client meeting</li>\n</ul>\n\n\n\n<h2>January 20th, 2023:</h2>\n\n\n\n<ul>\n<li>Finalized project preferences</li>\n\n\n\n<li>Completed group website</li>\n</ul>\n\n\n\n<h2>January 13th, 2023:</h2>\n\n\n\n<ul>\n<li>Started group website</li>\n\n\n\n<li>Set expectations and rules</li>\n</ul>\n\n\n\n<h2>First Meeting: Getting to Know Each Other</h2>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>January 31st, 2023: January 30th, 2023: January 20th, 2023: January 13th, 2023: First Meeting: Getting to Know Each Other</p>\n",
+            "rendered": "<p>January 31st, 2023, Client Meeting: January 30th, 2023: January 20th, 2023: January 13th, 2023: First Meeting: Getting to Know Each&#8230;</p>\n",
             "protected": false
         },
         "author": 5701,
@@ -61,14 +61,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 166,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions/166"
+                    "id": 180,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions/180"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=38"
         },
-        "modified": "2023-01-11T16:39:02",
-        "modified_gmt": "2023-01-11T21:39:02",
+        "modified": "2023-02-06T00:03:10",
+        "modified_gmt": "2023-02-06T05:03:10",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -188,11 +188,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to interact with columns in a proper manner (checkboxes, buttons, text, etc)\n<ul>\n<li>So that I can input data efficiently</li>\n</ul>\n</li>\n\n\n\n<li>I want to view data from outside spreadsheets inside the application\n<ul>\n<li>So that I can easily interact with and save previous client information</li>\n</ul>\n</li>\n\n\n\n<li>I want to be able to view data statistics\n<ul>\n<li>So that I can learn more about the trends of the inputted data</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>As an evaluator of data</p>\n\n\n\n<ul>\n<li>I want to be able to export the listed data</li>\n\n\n\n<li>So that I can easily compile it into a shareable spreadsheet</li>\n</ul>\n\n\n\n<p>As a user of the application</p>\n\n\n\n<ul>\n<li>I want to be able to log in</li>\n\n\n\n<li>So that I can be placed in the appropriate view for the application (evaluator or provider)</li>\n</ul>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to only view my inputted information</li>\n\n\n\n<li>So that my client information remains private</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>User Stories As a provider of data As an evaluator of data As a user of the application As a&#8230;</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -233,14 +233,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 4,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 48,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions/48"
+                    "id": 178,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions/178"
                 }
             ],
             "wp:attachment": [
@@ -436,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=35"
         },
-        "modified": "2023-01-30T20:44:22",
-        "modified_gmt": "2023-01-31T01:44:22",
+        "modified": "2023-02-05T22:18:43",
+        "modified_gmt": "2023-02-06T03:18:43",
         "slug": "schedule",
         "status": "publish",
         "type": "page",
@@ -446,11 +446,11 @@
             "rendered": "Schedule"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table aligncenter is-style-stripes has-small-font-size\"><table class=\"has-fixed-layout\"><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark style=\"background-color:#00d084\" class=\"has-inline-color\">Date</mark></td><td>Time</td><td class=\"has-text-align-center\" data-align=\"center\">Parties</td><td class=\"has-text-align-center\" data-align=\"center\">Objective</td><td>Important Notes</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/23/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\">Understanding how to start the project </td><td></td></tr></tbody></table></figure>\n",
+            "rendered": "\n<figure class=\"wp-block-table aligncenter is-style-stripes has-small-font-size\"><table class=\"has-fixed-layout\"><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark style=\"background-color:#00d084\" class=\"has-inline-color\">Date</mark></td><td>Time</td><td class=\"has-text-align-center\" data-align=\"center\">Parties</td><td class=\"has-text-align-center\" data-align=\"center\">Objective</td><td>Important Notes</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">02/06/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\"></td><td></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/31/2023</td><td>03:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">Wid Natalie<br>Client</td><td class=\"has-text-align-center\" data-align=\"center\">Introductions, understanding what is required from the <br>student team for user stories</td><td></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/30/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\">Checking the status of client meetings and checking <br>if there are any residual questions</td><td></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/23/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\">Understanding how to start the project </td><td></td></tr></tbody></table></figure>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Date Time Parties Objective Important Notes 01/23/2023 05:00 PM TAWid NatalieFarihaJanet Understanding how to start the project</p>\n",
+            "rendered": "<p>Date Time Parties Objective Important Notes 02/06/2023 05:00 PM TAWid NatalieFarihaJanet 01/31/2023 03:00 PM Wid NatalieClient Introductions, understanding what is&#8230;</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -491,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 7,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 158,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions/158"
+                    "id": 174,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions/174"
                 }
             ],
             "wp:attachment": [
