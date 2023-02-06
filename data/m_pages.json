@@ -92,8 +92,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=72"
         },
-        "modified": "2023-02-01T20:39:18",
-        "modified_gmt": "2023-02-02T01:39:18",
+        "modified": "2023-02-06T12:31:23",
+        "modified_gmt": "2023-02-06T17:31:23",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -102,11 +102,11 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<p>User Stories</p>\n\n\n\n<p>Requirements</p>\n",
+            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<p>Regular User: Junior Faculty / Grad Student</p>\n\n\n\n<p>As a user, I want to design a strategic plan for my semester and break down that plan into long and short term goals, projects, and tasks to achieve more effective workflow and project management.</p>\n\n\n\n<p>As a user, I want to share and edit projects, documents, and tasks with other users to collaborate and communicate effectively.</p>\n\n\n\n<p>As a user, I want to utilize pre-loaded department resources and contacts to promote organization and communication among my peers.</p>\n\n\n\n<p>As a user, I want to receive feedback to improve my time management and workflow skills.</p>\n\n\n\n<p>As a user, I want to quickly create new tasks, goals, and projects to manage my workflow.</p>\n\n\n\n<p>As a user, I want to view tasks I have assigned for today and the near future to structure my productivity.</p>\n\n\n\n<p>As a user, I want to review and adjust my semester and weekly plans to adapt my productivity to help achieve dynamic and abstract long-term objectives and projects.</p>\n\n\n\n<h2>Requirements</h2>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories Requirements</p>\n",
+            "rendered": "<p>User Stories Regular User: Junior Faculty / Grad Student As a user, I want to design a strategic plan for my semester and break down that plan into long and short term goals, projects, and tasks to achieve more effective workflow and project management. As a user, I want to share and edit projects, documents,&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/deliverables/specifications/\">Continue reading <span class=\"screen-reader-text\">Specifications</span></a></p>\n",
             "protected": false
         },
         "author": 4809,
@@ -147,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 4,
                     "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 73,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions/73"
+                    "id": 85,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions/85"
                 }
             ],
             "up": [
@@ -442,8 +442,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=18"
         },
-        "modified": "2023-01-30T12:54:16",
-        "modified_gmt": "2023-01-30T17:54:16",
+        "modified": "2023-02-06T12:32:49",
+        "modified_gmt": "2023-02-06T17:32:49",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -452,7 +452,7 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p><strong>1/30/2023 &#8211; Team Meeting:</strong></p>\n\n\n\n<ul>\n<li>Updated team roles</li>\n\n\n\n<li>Drafted User stories and project concept</li>\n\n\n\n<li>Discussed using MVC design pattern as well as implementation of front end and back end.  \n<ul>\n<li>Front end: React, HTML, CSS</li>\n\n\n\n<li>Webserver: Springboot (Java)</li>\n\n\n\n<li>Database: MongoDB (chose a no-SQL database for easier and more flexible data storage. </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>1/27/2023 &#8211; Client Meeting: </strong></p>\n\n\n\n<ul>\n<li>Discussed preemptive architectural diagrams and brainstormed overall project goals </li>\n\n\n\n<li>Determined highest priority features/dashboards for most viable product. </li>\n\n\n\n<li>Discussed implementation ideas and what kind of database management system to use (RDBMS vs No-SQL) </li>\n</ul>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/25/2023 &#8211; Team Meeting: </strong>Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal.  </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/24/2023 &#8211; First Coach Meeting: </strong>Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.</p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/18/2023 &#8211; Project Preferences/Website</strong> : Discussed all client project proposals, ranked our preferences and communicated with Professor Stotts. Also began creating our project site. </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/13/2023 &#8211; Initial team meeting</strong>: Introduced ourselves and our experience prior to the class. High level discussed basic rules and expectations.</p>\n\n\n\n<p></p>\n",
+            "rendered": "\n<div class=\"is-layout-constrained wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<div class=\"is-layout-constrained wp-block-group has-yellow-background-color has-background\"><div class=\"wp-block-group__inner-container\">\n<p><strong>1/30/2023 &#8211; Team Meeting:</strong></p>\n\n\n\n<ul>\n<li>Updated team roles</li>\n\n\n\n<li>Drafted User stories and project concept</li>\n\n\n\n<li>Discussed using MVC design pattern as well as implementation of front end and back end.  \n<ul>\n<li>Front end: React, HTML, CSS</li>\n\n\n\n<li>Webserver: Springboot (Java)</li>\n\n\n\n<li>Database: MongoDB (chose a no-SQL database for easier and more flexible data storage. </li>\n</ul>\n</li>\n</ul>\n</div></div>\n</div></div>\n\n\n\n<div class=\"is-layout-constrained wp-block-group has-yellow-background-color has-background\"><div class=\"wp-block-group__inner-container\">\n<p><strong>1/27/2023 &#8211; Client Meeting: </strong></p>\n\n\n\n<ul>\n<li>Discussed preemptive architectural diagrams and brainstormed overall project goals </li>\n\n\n\n<li>Determined highest priority features/dashboards for most viable product. </li>\n\n\n\n<li>Discussed implementation ideas and what kind of database management system to use (RDBMS vs No-SQL) </li>\n</ul>\n</div></div>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/25/2023 &#8211; Team Meeting: </strong>Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal.  </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/24/2023 &#8211; First Coach Meeting: </strong>Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.</p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/18/2023 &#8211; Project Preferences/Website</strong> : Discussed all client project proposals, ranked our preferences and communicated with Professor Stotts. Also began creating our project site. </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/13/2023 &#8211; Initial team meeting</strong>: Introduced ourselves and our experience prior to the class. High level discussed basic rules and expectations.</p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
@@ -497,14 +497,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 8,
                     "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 68,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions/68"
+                    "id": 87,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions/87"
                 }
             ],
             "wp:attachment": [
@@ -528,8 +528,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=14"
         },
-        "modified": "2023-01-25T12:46:20",
-        "modified_gmt": "2023-01-25T17:46:20",
+        "modified": "2023-02-06T12:23:25",
+        "modified_gmt": "2023-02-06T17:23:25",
         "slug": "meeting-schedule",
         "status": "publish",
         "type": "page",
@@ -538,11 +538,11 @@
             "rendered": "Meeting Schedule"
         },
         "content": {
-            "rendered": "\n<p>Coach Meetings: 3:30-4:00 PM Tuesdays</p>\n\n\n\n<p>Team Meetings: 12:00-2:00 PM Mondays</p>\n\n\n\n<p>Client Meetings: TBD</p>\n",
+            "rendered": "\n<p>Coach Meetings: 3:30-4:00 PM Tuesdays</p>\n\n\n\n<p>Team Meetings: 12:30-2:00 PM Mondays</p>\n\n\n\n<p>Client Meetings by appointment</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Coach Meetings: 3:30-4:00 PM Tuesdays Team Meetings: 12:00-2:00 PM Mondays Client Meetings: TBD</p>\n",
+            "rendered": "<p>Coach Meetings: 3:30-4:00 PM Tuesdays Team Meetings: 12:30-2:00 PM Mondays Client Meetings by appointment</p>\n",
             "protected": false
         },
         "author": 4809,
@@ -583,14 +583,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 53,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions/53"
+                    "id": 82,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions/82"
                 }
             ],
             "wp:attachment": [
