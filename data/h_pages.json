@@ -442,8 +442,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=10"
         },
-        "modified": "2023-01-16T02:06:11",
-        "modified_gmt": "2023-01-16T07:06:11",
+        "modified": "2023-02-06T00:48:37",
+        "modified_gmt": "2023-02-06T05:48:37",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -452,11 +452,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<h2>D1. Specifications</h2>\n\n\n\n<h3>User Stories</h3>\n\n\n\n<p>As an <strong>instructor</strong>…</p>\n\n\n\n<ul>\n<li>I want to have an accessible website so that my students can have robotics visualizations.</li>\n\n\n\n<li>I want to have a simple enough framework so that I can add more algorithms later myself.</li>\n\n\n\n<li>I want to have a simple UI so that my students can easily reproduce my examples.</li>\n\n\n\n<li>I want to host each algorithm/model on a different site so that it is easier to follow during instruction.&nbsp;</li>\n\n\n\n<li>I want to be able to adjust the speed&nbsp; so that the example is easy to follow.</li>\n\n\n\n<li>I want to be able to use the website offline so that I don&#8217;t have to lose connection when teaching.</li>\n\n\n\n<li>I want to include parameters so that my students can try to replicate my example.</li>\n</ul>\n\n\n\n<p>As a <strong>student</strong>…</p>\n\n\n\n<ul>\n<li>I want to be able to draw obstacles so that I can visualize how pathfinding algorithms react.&nbsp;</li>\n\n\n\n<li>I want to choose different pathfinding algorithms so that I can see the difference between them.&nbsp;</li>\n\n\n\n<li>I want to choose different models of robots so that I can see the difference between them.</li>\n\n\n\n<li>I want to have parameters for my paths so that I can see the subtle differences between the algorithms.&nbsp;</li>\n\n\n\n<li>I want to have access to the website on my phone so that I can view it easily.</li>\n\n\n\n<li>I want to be able to see the wheels move so that I can understand the movement.&nbsp;</li>\n\n\n\n<li>I want to be able to see the failed paths the algorithm made, so that I can understand it better.&nbsp;</li>\n\n\n\n<li>I want to be able to use the website offline so I can do the assignment in a last minute situation.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>D1. Specifications User Stories As an instructor… As a student…</p>\n",
             "protected": false
         },
         "author": 217,
@@ -497,14 +497,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 9,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 17,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions/17"
+                    "id": 97,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions/97"
                 }
             ],
             "wp:attachment": [
