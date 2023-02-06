@@ -1,5 +1,91 @@
 [
     {
+        "id": 79,
+        "date": "2023-02-06T09:16:12",
+        "date_gmt": "2023-02-06T14:16:12",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=79"
+        },
+        "modified": "2023-02-06T09:16:12",
+        "modified_gmt": "2023-02-06T14:16:12",
+        "slug": "project-concept",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/project-concept/",
+        "title": {
+            "rendered": "Project Concept"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Tweet:</strong> AcademicLife OS: A new refreshing way to track your progress! Economic and psychological research have made this app purposely restrictive as to not overwhelm the user and help them achieve their goals big and small.</p>\n\n\n\n<p><strong>Summary:</strong></p>\n\n\n\n<p>&#8220;GTD&#8221; or &#8220;Getting Things Done&#8221; apps have gained immense popularity over the years. Self management and tracking technologies are an enormous market today. In many cases, users download these apps, use them for maybe a few days, and then call it quits because they are overwhelming, and have too many bells and whistles. AcademicLifeOS remedies this problem by being purposely restrictive.</p>\n\n\n\n<p>Purposely restrictive does not mean goal visualization is difficult with this app. It includes a main “focus page” with the user’s ‘Daily Workstation’. Here, the user can see which tasks are on hand for the day that are part of their long term goals. The tasks from the ‘Daily Workstation’ are automatically updated from the user’s weekly and semester plans. The user creates these plans and ranks their individual tasks by priority. This way, the user is not making a new To-Do list daily, and is forced to visualize long-term goals. The user may also create separate dashboards for different facets of work. For example, a junior faculty member may have a research dashboard, an advising dashboard for the students they oversee, and a personal or home life dashboard.&nbsp;</p>\n\n\n\n<p>The motivation for this project comes from a junior faculty member at UNC that felt it was difficult to manage so many moving parts, and most goal planning apps were following short. AcademicLifeOS intends to not overwhelm, but motivate the user and teach the user good strategies for planning and goal-setting. This software can be used by students, faculty, and members of myriad disciplines due to its flexibility in dashboard making. It aims to facilitate decision making for anyone with difficulty setting and planning long-term and short-term goals.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Tweet: AcademicLife OS: A new refreshing way to track your progress! Economic and psychological research have made this app purposely restrictive as to not overwhelm the user and help them achieve their goals big and small. Summary: &#8220;GTD&#8221; or &#8220;Getting Things Done&#8221; apps have gained immense popularity over the years. Self management and tracking technologies&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/project-concept/\">Continue reading <span class=\"screen-reader-text\">Project Concept</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1119,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/79"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=79"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/79/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 81,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/79/revisions/81"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=79"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 72,
         "date": "2023-02-01T20:37:03",
         "date_gmt": "2023-02-02T01:37:03",
