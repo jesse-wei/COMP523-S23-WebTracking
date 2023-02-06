@@ -602,8 +602,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamb2023/?page_id=74"
         },
-        "modified": "2023-01-11T09:46:05",
-        "modified_gmt": "2023-01-11T14:46:05",
+        "modified": "2023-02-06T13:12:31",
+        "modified_gmt": "2023-02-06T18:12:31",
         "slug": "requirements",
         "status": "publish",
         "type": "page",
@@ -612,11 +612,11 @@
             "rendered": "Requirements"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<blockquote class=\"wp-block-quote\">\n<p class=\"has-small-font-size\">Definite: requirements we will definitely have functioning by semester end&nbsp;</p>\n\n\n\n<p class=\"has-small-font-size\">Perhaps: requirements we may well have time to get to, but not until category “definite” is done&nbsp;</p>\n\n\n\n<p class=\"has-small-font-size\">Improbable: requirements identified by the client that we most likely won’t have time to meet this semester but not until category one is done</p>\n</blockquote>\n\n\n\n<h6>Functional Requirements:</h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li><em>Definite</em>:\n<ul>\n<li>Application must allow user to search restaurants by name and genre of food</li>\n\n\n\n<li>Application must allow users to create profiles and input specific allergies</li>\n\n\n\n<li>Application must have a filter or sort function by proximity and price range</li>\n\n\n\n<li>Application must have links to online ordering systems</li>\n\n\n\n<li>Application must have a database of all existing profiles&nbsp;</li>\n\n\n\n<li>Application must contain a tab where customers can view/access their profile&nbsp;</li>\n\n\n\n<li>Application must have a database of the partnered restaurant menus</li>\n\n\n\n<li>Application contains a section for contacting restaurant/chains themselves in case of doubt (support service)&nbsp;</li>\n\n\n\n<li>Application must be able to function with cellular data and wifi</li>\n\n\n\n<li>Application must be a mobile app</li>\n</ul>\n</li>\n\n\n\n<li><em>Perhaps</em>:\n<ul>\n<li>Application must have two separate checkpoints to ensure allergies are correctly entered&nbsp;</li>\n\n\n\n<li>Application must have accurate and updated menus</li>\n</ul>\n</li>\n\n\n\n<li><em>Improbable</em>:\n<ul>\n<li>Adding an extra category of profiles specifically for restaurant owners</li>\n\n\n\n<li>Application must have notes or severe warnings for any foods that may contain cross-contaminated ingredients</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Non Functional Requirements:</h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li><em>Definite</em>:\n<ul>\n<li>Application must have a friendly user interface</li>\n</ul>\n</li>\n\n\n\n<li><em>Perhaps</em>:\n<ul>\n<li>Application must have a clearly defined terms/conditions</li>\n\n\n\n<li>Application must be compatible with iOS and Android devices&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li><em>Improbable</em>:\n<ul>\n<li>Application must be able to work in airplane mode</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Definite: requirements we will definitely have functioning by semester end&nbsp; Perhaps: requirements we may well have time to get to, but not until category “definite” is done&nbsp; Improbable: requirements identified by the client that we most likely won’t have time to meet this semester but not until category one is done Functional Requirements: Non Functional [&hellip;]</p>\n",
             "protected": false
         },
         "author": 5908,
@@ -657,14 +657,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/74/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 82,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/74/revisions/82"
+                    "id": 155,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/74/revisions/155"
                 }
             ],
             "wp:attachment": [
