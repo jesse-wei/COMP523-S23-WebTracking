@@ -1,13 +1,99 @@
 [
     {
+        "id": 153,
+        "date": "2023-02-05T21:10:50",
+        "date_gmt": "2023-02-06T02:10:50",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=153"
+        },
+        "modified": "2023-02-05T21:24:28",
+        "modified_gmt": "2023-02-06T02:24:28",
+        "slug": "ethics-1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/ethics-1/",
+        "title": {
+            "rendered": "Ethics 1"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2157,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/153"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=153"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/153/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 165,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/153/revisions/165"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=153"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 104,
         "date": "2023-01-30T13:30:09",
         "date_gmt": "2023-01-30T18:30:09",
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=104"
         },
-        "modified": "2023-02-03T17:33:48",
-        "modified_gmt": "2023-02-03T22:33:48",
+        "modified": "2023-02-05T21:09:37",
+        "modified_gmt": "2023-02-06T02:09:37",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -16,11 +102,11 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<p class=\"has-medium-font-size\"><strong>User Stories</strong></p>\n\n\n\n<p style=\"font-size:17px\">Authenticated User Front End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As a user, I want to create an account by using my own email.</li>\n\n\n\n<li>As a user, I want to log in and log out my account smoothly.&nbsp;</li>\n\n\n\n<li>As a user, I want to reset my password once I forgot my password.</li>\n\n\n\n<li>As a user, I want to change the email that I signed up with and reset my username if I need to.&nbsp;</li>\n\n\n\n<li>As a user, I want a simple way to view all aspects of my project without requiring numerous clicks.</li>\n\n\n\n<li>As a user, I want to be able to delete projects I no longer need.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Authenticated User&nbsp; Back End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an authenticated User, I want to upload the video and get the images, scenes and models from the portal finally.</li>\n\n\n\n<li>As an authenticated User, I want the portal to automatically process the model capture on the server without any additional operations from users.</li>\n\n\n\n<li>As an authenticated User, I want to get the model as soon as possible.</li>\n\n\n\n<li>As an authenticated User, I want to be able to see the status during the processing and deep learning.</li>\n\n\n\n<li>As an authenticated User, I want to be able to download the model to my local machine.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Administrator</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an administrator, I want to be able to see and download the selected or all the videos, photos, scenes, models on the server from the portal.</li>\n\n\n\n<li>As an administrator, I want to be able to change the email, username and password once users have some login issues and are unable to reset those things by themselves.</li>\n\n\n\n<li>As an administrator, I want to be able to delete any videos, photos, scenes, models and deactivate any account once the user violates the terms of use.</li>\n\n\n\n<li>As an administrator, I want to use the least hardware resource to process and store the videos, photos, scenes and models.</li>\n</ol>\n\n\n\n<p><strong>Requirements</strong></p>\n",
+            "rendered": "\n<p class=\"has-medium-font-size\"><strong>User Stories</strong></p>\n\n\n\n<p style=\"font-size:17px\">Authenticated User Front-End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As a user, I want to create an account by using my own personal email.</li>\n\n\n\n<li>As a user, I want to log in and log out of my account seemlessly. </li>\n\n\n\n<li>As a user, I want to be able to reset my password so that I am not at risk of losing my data in case I forget my password.</li>\n\n\n\n<li>As a user, I want to be able to change the email linked to my account as well as my username. </li>\n\n\n\n<li>As a user, I want a simple way to view all aspects of my project without requiring numerous clicks.</li>\n\n\n\n<li>As a user, I want to be able to delete projects I no longer need so that I can easily access relevant projects.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Authenticated User Back-End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an authenticated user, I want to upload the video and get the images, scenes and models from the portal finally.</li>\n\n\n\n<li>As an authenticated user, I want the portal to automatically process the 3D model capture on the server without any additional operations from myself to reduce the chance of errors.</li>\n\n\n\n<li>As an authenticated user, I want to get the model as soon as possible so that I can begin using it for other applications.</li>\n\n\n\n<li>As an authenticated user, I want to be able to see the status of my projects while they are being processed by the server.</li>\n\n\n\n<li>As an authenticated user, I want to be able to download the model to my local machine.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Administrator</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an administrator, I want to be able to see and download all the videos, images, scenes, and models on the server from the portal.</li>\n\n\n\n<li>As an administrator, I want to be able to change the email, username and password once users have some login issues and are unable to reset those things by themselves.</li>\n\n\n\n<li>As an administrator, I want to be able to delete any videos, images, scenes, models and deactivate any account once the user violates the terms of use.</li>\n\n\n\n<li>As an administrator, I want to use the least resources possible to process and store users&#8217; project data.</li>\n</ol>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Requirements</strong></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories Authenticated User Front End Authenticated User&nbsp; Back End Administrator Requirements</p>\n",
+            "rendered": "<p>User Stories Authenticated User Front-End Authenticated User Back-End Administrator Requirements</p>\n",
             "protected": false
         },
         "author": 2157,
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 7,
+                    "count": 9,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 147,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions/147"
+                    "id": 152,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions/152"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=58"
         },
-        "modified": "2023-01-16T19:46:32",
-        "modified_gmt": "2023-01-17T00:46:32",
+        "modified": "2023-02-05T20:51:17",
+        "modified_gmt": "2023-02-06T01:51:17",
         "slug": "client",
         "status": "publish",
         "type": "page",
@@ -188,11 +274,11 @@
             "rendered": "Client"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p class=\"has-black-color has-text-color\"><strong>Bhargav Bompalli</strong> &#8211; Blue Sky Innovations &#8211; <a href=\"mailto:bompallb@email.unc.edu\">bompallb@email.unc.edu</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Bhargav Bompalli &#8211; Blue Sky Innovations &#8211; bompallb@email.unc.edu</p>\n",
             "protected": false
         },
         "author": 3104,
@@ -233,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 62,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions/62"
+                    "id": 149,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions/149"
                 }
             ],
             "wp:attachment": [
@@ -762,92 +848,6 @@
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=21"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 20,
-        "date": "2023-01-16T19:25:57",
-        "date_gmt": "2023-01-17T00:25:57",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=20"
-        },
-        "modified": "2023-02-01T11:34:17",
-        "modified_gmt": "2023-02-01T16:34:17",
-        "slug": "team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/team/",
-        "title": {
-            "rendered": "Team"
-        },
-        "content": {
-            "rendered": "\n<figure class=\"wp-block-table\"><table><thead><tr><th>Name</th><th>Email</th><th>Role</th></tr></thead><tbody><tr><td>Jianghao Wu</td><td><a href=\"mailto:jianghao.wu@unc.edu\">jianghao.wu@unc.edu</a></td><td>Role A</td></tr><tr><td>Kevin McCabe</td><td><a href=\"mailto:kmccab1@email.unc.edu\">kmccab1@email.unc.edu</a></td><td>Role B</td></tr><tr><td>Guillermo Saez</td><td><a href=\"mailto:guisaez@ad.unc.edu\">guisaez@ad.unc.edu</a></td><td>Role C</td></tr><tr><td>Yuchen Bai</td><td><a href=\"mailto:yuchencc@email.unc.edu\">yuchencc@email.unc.edu</a></td><td>Role D</td></tr></tbody></table></figure>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:kmccab1@email.unc.edu, jianghao.wu@unc.edu,guisaez@ad.unc.edu,yuchencc@email.unc.edu\">Contact the team</a></div>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Name Email Role Jianghao Wu jianghao.wu@unc.edu Role A Kevin McCabe kmccab1@email.unc.edu Role B Guillermo Saez guisaez@ad.unc.edu Role C Yuchen Bai&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=20"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 115,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/20/revisions/115"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=20"
                 }
             ],
             "curies": [
