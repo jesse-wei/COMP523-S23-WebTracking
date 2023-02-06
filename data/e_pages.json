@@ -1,26 +1,112 @@
 [
     {
+        "id": 108,
+        "date": "2023-02-06T09:06:28",
+        "date_gmt": "2023-02-06T14:06:28",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=108"
+        },
+        "modified": "2023-02-06T09:06:28",
+        "modified_gmt": "2023-02-06T14:06:28",
+        "slug": "ethics-1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teame2023/ethics-1/",
+        "title": {
+            "rendered": "Ethics 1"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2816,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/108"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/2816"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=108"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/108/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 110,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/108/revisions/110"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=108"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 86,
         "date": "2023-02-01T15:54:13",
         "date_gmt": "2023-02-01T20:54:13",
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=86"
         },
-        "modified": "2023-02-03T11:27:35",
-        "modified_gmt": "2023-02-03T16:27:35",
+        "modified": "2023-02-06T08:58:49",
+        "modified_gmt": "2023-02-06T13:58:49",
         "slug": "d1",
         "status": "publish",
         "type": "page",
         "link": "https://tarheels.live/comp523teame2023/d1/",
         "title": {
-            "rendered": "D1"
+            "rendered": "D1 &#8211; Specifications"
         },
         "content": {
             "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. </p>\n\n\n\n<p>I want to be able to receive push notifications from my mobile device in real time when announcements are sent out.</p>\n\n\n\n<p>As an administrator of the Just in Time App</p>\n\n\n\n<p>I want to be able to easily create and send notifications to users</p>\n\n\n\n<p>So that they are informed about policy changes and other important information.</p>\n\n\n\n<p>As an administrator of the Just in Time App&nbsp;</p>\n\n\n\n<p>I want to attach video media to the notifications I send to users</p>\n\n\n\n<p>So that I can help UNC nurses learn about policy updates and other important information through visual media.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. I want to be able to receive push notifications from my mobile device in real time when announcements are sent&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/d1/\">Continue reading <span class=\"screen-reader-text\">D1</span></a></p>\n",
+            "rendered": "<p>User Stories As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. I want to be able to receive push notifications from my mobile device in real time when announcements are sent&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/d1/\">Continue reading <span class=\"screen-reader-text\">D1 &#8211; Specifications</span></a></p>\n",
             "protected": false
         },
         "author": 2816,
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 96,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions/96"
+                    "id": 97,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions/97"
                 }
             ],
             "wp:attachment": [
@@ -92,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=52"
         },
-        "modified": "2023-01-30T09:17:03",
-        "modified_gmt": "2023-01-30T14:17:03",
+        "modified": "2023-02-06T09:39:34",
+        "modified_gmt": "2023-02-06T14:39:34",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -102,11 +188,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<h2>Introduction</h2>\n\n\n\n<p>Project introduction</p>\n",
+            "rendered": "\n<header class=\"entry-header alignwide\">\n\t<h1 class=\"entry-title\">CNE Just in Time App</h1>\n</header>\n\n\n\n<h2>Introduction</h2>\n\n\n\n<p>Project introduction</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Introduction Project introduction</p>\n",
+            "rendered": "<p>CNE Just in Time App Introduction Project introduction</p>\n",
             "protected": false
         },
         "author": 13679,
@@ -147,14 +233,14 @@
             ],
             "version-history": [
                 {
-                    "count": 2,
+                    "count": 9,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 57,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/57"
+                    "id": 147,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/147"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=47"
         },
-        "modified": "2023-01-30T09:34:37",
-        "modified_gmt": "2023-01-30T14:34:37",
+        "modified": "2023-02-06T09:45:57",
+        "modified_gmt": "2023-02-06T14:45:57",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -188,11 +274,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "\n<h2>Deliverables</h2>\n",
+            "rendered": "\n<h1>Deliverables</h1>\n\n\n\n<h3><a href=\"https://tarheels.live/comp523teame2023/d1/\" data-type=\"page\" data-id=\"86\">D1 &#8211; Specifications</a></h3>\n\n\n\n<p>User stories and formal requirements for Just in Time.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Deliverables</p>\n",
+            "rendered": "<p>Deliverables D1 &#8211; Specifications User stories and formal requirements for Just in Time.</p>\n",
             "protected": false
         },
         "author": 13679,
@@ -233,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 2,
+                    "count": 5,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/47/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 73,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/47/revisions/73"
+                    "id": 156,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/47/revisions/156"
                 }
             ],
             "wp:attachment": [
@@ -350,8 +436,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=2"
         },
-        "modified": "2023-01-30T09:22:24",
-        "modified_gmt": "2023-01-30T14:22:24",
+        "modified": "2023-02-06T09:24:57",
+        "modified_gmt": "2023-02-06T14:24:57",
         "slug": "sample-page",
         "status": "publish",
         "type": "page",
@@ -360,7 +446,7 @@
             "rendered": "About Us"
         },
         "content": {
-            "rendered": "\n<h2>About Us</h2>\n\n\n\n<ul>\n<li>Brendan O&#8217;Malley </li>\n\n\n\n<li>Andrew Byerle</li>\n\n\n\n<li>Matthew Bare</li>\n\n\n\n<li>Garrison Parish</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p>Team Rules</p>\n\n\n\n<ul>\n<li>Treat others the way you want to be treated</li>\n\n\n\n<li>Communication will be clear amongst all group members</li>\n\n\n\n<li>Everyone will work hard to do equal work for the project</li>\n\n\n\n<li>There will always be a heads up in the event that one group member cannot meet a deadline</li>\n\n\n\n<li>We will meet once a week to go over progress outside of our coach&#8217;s meeting</li>\n\n\n\n<li>We will keep the client&#8217;s time in mind and respond in an appropriate manner</li>\n</ul>\n",
+            "rendered": "\n<h2>About Us</h2>\n\n\n\n<ul>\n<li>Brendan O&#8217;Malley </li>\n\n\n\n<li>Andrew Byerle</li>\n\n\n\n<li>Matthew Bare</li>\n\n\n\n<li>Garrison Parish</li>\n</ul>\n\n\n\n<h2>Team Rules</h2>\n\n\n\n<ul>\n<li>Treat others the way you want to be treated</li>\n\n\n\n<li>Communication will be clear amongst all group members</li>\n\n\n\n<li>Everyone will work hard to do equal work for the project</li>\n\n\n\n<li>There will always be a heads up in the event that one group member cannot meet a deadline</li>\n\n\n\n<li>We will meet once a week to go over progress outside of our coach&#8217;s meeting</li>\n\n\n\n<li>We will keep the client&#8217;s time in mind and respond in an appropriate manner</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -405,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 8,
+                    "count": 9,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 59,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions/59"
+                    "id": 134,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions/134"
                 }
             ],
             "wp:attachment": [
