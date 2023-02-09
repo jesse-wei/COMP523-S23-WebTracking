@@ -178,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teame2023/?page_id=52"
         },
-        "modified": "2023-02-06T09:55:12",
-        "modified_gmt": "2023-02-06T14:55:12",
+        "modified": "2023-02-06T16:20:39",
+        "modified_gmt": "2023-02-06T21:20:39",
         "slug": "home",
         "status": "publish",
         "type": "page",
@@ -188,11 +188,11 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<h1>About the App</h1>\n\n\n\n<p>Project introduction</p>\n",
+            "rendered": "\n<h1>About the App</h1>\n\n\n\n<p>Just In Time Application for UNC Nursing Staff and UNC Center for Nursing Excellence</p>\n\n\n\n<p>This is a mobile app where users (nurses) can receive useful information updates such as policy changes, new resources, and other information that is necessary for them to perform their job. Administrators can use the admin portal to add new posts to send to the nurse users.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>About the App Project introduction</p>\n",
+            "rendered": "<p>About the App Just In Time Application for UNC Nursing Staff and UNC Center for Nursing Excellence This is a mobile app where users (nurses) can receive useful information updates such as policy changes, new resources, and other information that is necessary for them to perform their job. Administrators can use the admin portal to&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/\">Continue reading <span class=\"screen-reader-text\">Home</span></a></p>\n",
             "protected": false
         },
         "author": 13679,
@@ -233,14 +233,14 @@
             ],
             "version-history": [
                 {
-                    "count": 9,
+                    "count": 10,
                     "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 164,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/164"
+                    "id": 165,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/165"
                 }
             ],
             "wp:attachment": [
