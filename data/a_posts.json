@@ -1,13 +1,217 @@
 [
     {
+        "id": 208,
+        "date": "2023-02-07T11:31:01",
+        "date_gmt": "2023-02-07T16:31:01",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=208"
+        },
+        "modified": "2023-02-07T11:31:02",
+        "modified_gmt": "2023-02-07T16:31:02",
+        "slug": "client-meeting-02-07-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/07/client-meeting-02-07-2023/",
+        "title": {
+            "rendered": "Client Meeting 02/07/2023"
+        },
+        "content": {
+            "rendered": "\n<p></p>\n\n\n\n<ul>\n<li>Alex asked about what kind of ID will go into the database. </li>\n\n\n\n<li>They will be hashed IDs, but Daniel doesn&#8217;t know too much about it quite yet. </li>\n\n\n\n<li>Scratch that &#8211; secure database actually &#8211; cause they want their name, email, and general info in the database. Can figure out the security later</li>\n\n\n\n<li>Emailed us the packets of questions &#8211; all the surveys, etc. </li>\n\n\n\n<li>He sent us more mach-ups in a powerpoint. We can go off of that, but it does have a sign in, which we don&#8217;t need to have (just the link in, link out). </li>\n\n\n\n<li>For each attribute, we add one for when it is most important, and subtract one for least important.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/208"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=208"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/208/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 209,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/208/revisions/209"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=208"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=208"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=208"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 206,
+        "date": "2023-02-07T09:45:29",
+        "date_gmt": "2023-02-07T14:45:29",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=206"
+        },
+        "modified": "2023-02-07T09:45:29",
+        "modified_gmt": "2023-02-07T14:45:29",
+        "slug": "coach-meeting-02-07-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/07/coach-meeting-02-07-2023/",
+        "title": {
+            "rendered": "Coach Meeting 02/07/2023"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Our user stories and project concept are good for this week.</li>\n\n\n\n<li>Need to finish specifications, not much work at all left on that.</li>\n\n\n\n<li>Need to create a working/clickable version of the concept that he gave us in the next two weeks. Today, get the list of questions from him, then me and Ellis can work on backend/frontend stuff in meantime. </li>\n\n\n\n<li>Finally, look at midterm presentations how-to, and look at ethics assignment.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/206"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=206"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/206/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 207,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/206/revisions/207"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=206"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=206"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=206"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 133,
         "date": "2023-02-01T10:43:15",
         "date_gmt": "2023-02-01T15:43:15",
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=133"
         },
-        "modified": "2023-02-01T10:43:15",
-        "modified_gmt": "2023-02-01T15:43:15",
+        "modified": "2023-02-06T22:36:41",
+        "modified_gmt": "2023-02-07T03:36:41",
         "slug": "group-meeting-02-01-2023",
         "status": "publish",
         "type": "post",
@@ -16,7 +220,7 @@
             "rendered": "Group Meeting 02/01/2023"
         },
         "content": {
-            "rendered": "\n<p>Met after class</p>\n\n\n\n<ul>\n<li>ToDo &#8211; User stories &#8211; edit them from the document</li>\n\n\n\n<li>ToDo &#8211; Proof of concept/project concept &#8211; compile images that Daniel gave us, and write a short summary on what it does</li>\n\n\n\n<li>Get the flowchart from Daniel</li>\n\n\n\n<li>Do some research into our roles</li>\n\n\n\n<li>Roles &#8211; Front End (Ellis), Back End (Andy), Database (Jess and Alex)</li>\n\n\n\n<li>Create GitHub repository</li>\n</ul>\n",
+            "rendered": "\n<p>Met after class</p>\n\n\n\n<ul>\n<li>ToDo &#8211; User stories &#8211; edit them from the document</li>\n\n\n\n<li>ToDo &#8211; Proof of concept/project concept &#8211; compile images that Daniel gave us, and write a short summary on what it does</li>\n\n\n\n<li>Get the flowchart from Daniel</li>\n\n\n\n<li>Do some research into our roles</li>\n\n\n\n<li>Roles &#8211; Front End (Ellis), Back End (Andy), Database (Jess and Alex)</li>\n\n\n\n<li>Create GitHub repository</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
@@ -65,14 +269,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 134,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions/134"
+                    "id": 172,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions/172"
                 }
             ],
             "wp:attachment": [
@@ -108,8 +312,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=127"
         },
-        "modified": "2023-02-01T08:58:53",
-        "modified_gmt": "2023-02-01T13:58:53",
+        "modified": "2023-02-06T22:36:53",
+        "modified_gmt": "2023-02-07T03:36:53",
         "slug": "client-meeting-01-31-2023",
         "status": "publish",
         "type": "post",
@@ -118,7 +322,7 @@
             "rendered": "Client Meeting 01/31/2023"
         },
         "content": {
-            "rendered": "\n<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project.</p>\n\n\n\n<p>Links: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a> </p>\n\n\n\n<ul>\n<li>After introductions, Daniel gave us an overview of PRIME</li>\n\n\n\n<li>It is a survey application, one that is focused on narrowing down a patient&#8217;s preferences on what type of medicine they would like to take in response to leukemia.</li>\n\n\n\n<li>He emphasized that UX is a top priority, mentioning that the software needs to be easy to navigate, use, and most importantly to get started.</li>\n\n\n\n<li>He prefers we have 1 link into the website and 1 link, and to &#8220;containerize&#8221; the web app so that in the future, it can be moved from server to server very easily without losing security.</li>\n\n\n\n<li>He gave us 2 PDFs (see top of post) that explain the prototypes/mach ups that he and his team already have on hand for us to reference. </li>\n\n\n\n<li>One of these PDFs has a diagram that shows the entire lifecycle of the program, very helpful.</li>\n\n\n\n<li>Some smaller things he mentioned: Assistive technologies, white labelling everything, we can pitch things to him whenever we want to.</li>\n</ul>\n",
+            "rendered": "\n<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project.</p>\n\n\n\n<p>Links: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a> </p>\n\n\n\n<ul>\n<li>After introductions, Daniel gave us an overview of PRIME</li>\n\n\n\n<li>It is a survey application, one that is focused on narrowing down a patient&#8217;s preferences on what type of medicine they would like to take in response to leukemia.</li>\n\n\n\n<li>He emphasized that UX is a top priority, mentioning that the software needs to be easy to navigate, use, and most importantly to get started.</li>\n\n\n\n<li>He prefers we have 1 link into the website and 1 link, and to &#8220;containerize&#8221; the web app so that in the future, it can be moved from server to server very easily without losing security.</li>\n\n\n\n<li>He gave us 2 PDFs (see top of post) that explain the prototypes/mach ups that he and his team already have on hand for us to reference. </li>\n\n\n\n<li>One of these PDFs has a diagram that shows the entire lifecycle of the program, very helpful.</li>\n\n\n\n<li>Some smaller things he mentioned: Assistive technologies, white labelling everything, we can pitch things to him whenever we want to.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
             "protected": false
         },
         "excerpt": {
@@ -167,14 +371,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 128,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions/128"
+                    "id": 173,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions/173"
                 }
             ],
             "wp:attachment": [
@@ -210,8 +414,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=118"
         },
-        "modified": "2023-01-31T10:15:03",
-        "modified_gmt": "2023-01-31T15:15:03",
+        "modified": "2023-02-06T22:37:53",
+        "modified_gmt": "2023-02-07T03:37:53",
         "slug": "coach-meeting-01-31-2023",
         "status": "publish",
         "type": "post",
@@ -220,7 +424,7 @@
             "rendered": "Coach Meeting 01/31/2023"
         },
         "content": {
-            "rendered": "\n<p>Link: https://unc.zoom.us/my/louielu</p>\n\n\n\n<ul>\n<li>Talked about our meeting with the client.</li>\n\n\n\n<li>Louie liked our questions, but wants us to focus on getting a proof of concept/user stories ASAP so that we can actually start putting something together. </li>\n\n\n\n<li>Read HIPPA Compliance from UNC for like 5 minutes soon.</li>\n\n\n\n<li>Need to have our proof of concept on the front page of the website by this weekend. </li>\n\n\n\n<li>Also need user stories in deliverable by this weekend.</li>\n</ul>\n",
+            "rendered": "\n<p>Link: https://unc.zoom.us/my/louielu</p>\n\n\n\n<ul>\n<li>Talked about our meeting with the client.</li>\n\n\n\n<li>Louie liked our questions, but wants us to focus on getting a proof of concept/user stories ASAP so that we can actually start putting something together. </li>\n\n\n\n<li>Read HIPPA Compliance from UNC for like 5 minutes soon.</li>\n\n\n\n<li>Need to have our proof of concept on the front page of the website by this weekend. </li>\n\n\n\n<li>Also need user stories in deliverable by this weekend.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
             "protected": false
         },
         "excerpt": {
@@ -269,14 +473,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/118/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 125,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/118/revisions/125"
+                    "id": 175,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/118/revisions/175"
                 }
             ],
             "wp:attachment": [
@@ -312,8 +516,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=114"
         },
-        "modified": "2023-01-30T09:04:30",
-        "modified_gmt": "2023-01-30T14:04:30",
+        "modified": "2023-02-06T22:38:04",
+        "modified_gmt": "2023-02-07T03:38:04",
         "slug": "client-meeting-update",
         "status": "publish",
         "type": "post",
@@ -322,7 +526,7 @@
             "rendered": "Client Meeting Update"
         },
         "content": {
-            "rendered": "\n<p>We reached out to our client to set up a meeting. We got a reply back after a few days, and are hoping to meet Tuesday 01/31/2023 at 10:30 AM.</p>\n",
+            "rendered": "\n<p>We reached out to our client to set up a meeting. We got a reply back after a few days, and are hoping to meet Tuesday 01/31/2023 at 10:30 AM.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
             "protected": false
         },
         "excerpt": {
@@ -371,14 +575,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/114/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 115,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/114/revisions/115"
+                    "id": 176,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/114/revisions/176"
                 }
             ],
             "wp:attachment": [
@@ -414,8 +618,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=109"
         },
-        "modified": "2023-01-25T15:30:43",
-        "modified_gmt": "2023-01-25T20:30:43",
+        "modified": "2023-02-06T22:39:58",
+        "modified_gmt": "2023-02-07T03:39:58",
         "slug": "team-meeting-01-25-23",
         "status": "publish",
         "type": "post",
@@ -424,11 +628,11 @@
             "rendered": "Team Meeting 01/25/23"
         },
         "content": {
-            "rendered": "\n<p>code: 589 367 9107</p>\n\n\n\n<p>link: <a href=\"https://unc.zoom.us/j/5893679107\">https://unc.zoom.us/j/5893679107</a></p>\n\n\n\n<ul>\n<li>We want to do a website &#8211; but the client mentions APP. App may be more difficult, but we have to stay open to it if thats what he wants.</li>\n\n\n\n<li>There is a prototype mentioned, so we need to ask the client about the prototype and to what extent the prototype.</li>\n\n\n\n<li>REACT is what we want to use, and to pair it with typescript, maybe ESLint and Husky (for Linting and GitHooks).</li>\n\n\n\n<li>We may want to use A.W.S towards the end with HIPPA compliance.</li>\n\n\n\n<li>We have a wide range of experience, and all open to learning new things. </li>\n\n\n\n<li>Questions for client. We have some written on our google doc, but we also want to ask about the 5 points (really 4 without HIPPA guidelines). </li>\n\n\n\n<li>When we talk to the client, we should think about the definite, perhaps, improbable. HIPPA may be something that&#8217;s required for the app to be used at all. </li>\n\n\n\n<li>Stotts possibly said that HIPPA compliance isn&#8217;t as important.</li>\n\n\n\n<li>May need 2 sign ins, one for provider and one for patient. However, we need to keep in mind that older folks may be using the app and to keep that as simple as possible (maybe look at existing systems).</li>\n\n\n\n<li>Coach mentioned concurrency (and functional questions) &#8211;  how quick the app works and communications, how many people are going to use the app at a time, general speed. need questions for that. </li>\n\n\n\n<li>Structuring meeting with the client &#8211; introductions, general questions, user stories, functional specs.</li>\n\n\n\n<li>Regular meetings with team &#8211; Wednesdays after class (in person if we have class, Zoom meetings if we do not). </li>\n\n\n\n<li>Roles &#8211; figure it out more when we meet the client.</li>\n</ul>\n",
+            "rendered": "\n<p>link: <a href=\"https://unc.zoom.us/j/5893679107\">https://unc.zoom.us/j/5893679107</a>    <br>code: 589 367 9107</p>\n\n\n\n<ul>\n<li>We want to do a website &#8211; but the client mentions APP. App may be more difficult, but we have to stay open to it if thats what he wants.</li>\n\n\n\n<li>There is a prototype mentioned, so we need to ask the client about the prototype and to what extent the prototype.</li>\n\n\n\n<li>REACT is what we want to use, and to pair it with typescript, maybe ESLint and Husky (for Linting and GitHooks).</li>\n\n\n\n<li>We may want to use A.W.S towards the end with HIPPA compliance.</li>\n\n\n\n<li>We have a wide range of experience, and all open to learning new things. </li>\n\n\n\n<li>Questions for client. We have some written on our google doc, but we also want to ask about the 5 points (really 4 without HIPPA guidelines). </li>\n\n\n\n<li>When we talk to the client, we should think about the definite, perhaps, improbable. HIPPA may be something that&#8217;s required for the app to be used at all. </li>\n\n\n\n<li>Stotts possibly said that HIPPA compliance isn&#8217;t as important.</li>\n\n\n\n<li>May need 2 sign ins, one for provider and one for patient. However, we need to keep in mind that older folks may be using the app and to keep that as simple as possible (maybe look at existing systems).</li>\n\n\n\n<li>Coach mentioned concurrency (and functional questions) &#8211;  how quick the app works and communications, how many people are going to use the app at a time, general speed. need questions for that. </li>\n\n\n\n<li>Structuring meeting with the client &#8211; introductions, general questions, user stories, functional specs.</li>\n\n\n\n<li>Regular meetings with team &#8211; Wednesdays after class (in person if we have class, Zoom meetings if we do not). </li>\n\n\n\n<li>Roles &#8211; figure it out more when we meet the client.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>code: 589 367 9107 link: https://unc.zoom.us/j/5893679107</p>\n",
+            "rendered": "<p>link: https://unc.zoom.us/j/5893679107 code: 589 367 9107</p>\n",
             "protected": false
         },
         "author": 13590,
@@ -473,14 +677,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 7,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/109/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 113,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/109/revisions/113"
+                    "id": 181,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/109/revisions/181"
                 }
             ],
             "wp:attachment": [
@@ -516,8 +720,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=106"
         },
-        "modified": "2023-01-24T09:58:43",
-        "modified_gmt": "2023-01-24T14:58:43",
+        "modified": "2023-02-06T22:38:32",
+        "modified_gmt": "2023-02-07T03:38:32",
         "slug": "coach-meeting-01-24-23",
         "status": "publish",
         "type": "post",
@@ -526,7 +730,7 @@
             "rendered": "Coach Meeting 01/24/23"
         },
         "content": {
-            "rendered": "\n<p>We had our first Coach Meeting today with Louie. Here&#8217;s what we went over</p>\n\n\n\n<ul>\n<li>Went over agile, and what Louie will be doing for us each meeting and each week as our coach</li>\n\n\n\n<li>First order of business is to schedule a meeting with our client in the next week and a half</li>\n\n\n\n<li>We need a project description, project proposal/plan by the end of next week</li>\n\n\n\n<li>From Louie&#8217;s perspective, HIPPA compliance will be our biggest challenge</li>\n\n\n\n<li>He says to ask about the 5 points with the client (what does real-time mean, what is BWS and how should we research it, etc.), as well as UI questions. Focus on the first 4 in the first meeting. </li>\n\n\n\n<li>In the proof of concept, thinking about HIPPA may not be critical, but the final product would need to be (in other words, HIPPA isn&#8217;t something we need to discuss with them early).</li>\n\n\n\n<li>We need to discuss when we will deploy the software and how, if it is on our side or their side in the deploying process.</li>\n\n\n\n<li>Louie&#8217;s final suggestion: play with Trello to keep organized, maintain a Kanban Board. Up to us whether we use GitHub, Bitbucket, etc. Linting and GitHooks can also help us keep our code clean.</li>\n</ul>\n",
+            "rendered": "\n<p>We had our first Coach Meeting today with Louie. Here&#8217;s what we went over</p>\n\n\n\n<ul>\n<li>Went over agile, and what Louie will be doing for us each meeting and each week as our coach</li>\n\n\n\n<li>First order of business is to schedule a meeting with our client in the next week and a half</li>\n\n\n\n<li>We need a project description, project proposal/plan by the end of next week</li>\n\n\n\n<li>From Louie&#8217;s perspective, HIPPA compliance will be our biggest challenge</li>\n\n\n\n<li>He says to ask about the 5 points with the client (what does real-time mean, what is BWS and how should we research it, etc.), as well as UI questions. Focus on the first 4 in the first meeting. </li>\n\n\n\n<li>In the proof of concept, thinking about HIPPA may not be critical, but the final product would need to be (in other words, HIPPA isn&#8217;t something we need to discuss with them early).</li>\n\n\n\n<li>We need to discuss when we will deploy the software and how, if it is on our side or their side in the deploying process.</li>\n\n\n\n<li>Louie&#8217;s final suggestion: play with Trello to keep organized, maintain a Kanban Board. Up to us whether we use GitHub, Bitbucket, etc. Linting and GitHooks can also help us keep our code clean.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
             "protected": false
         },
         "excerpt": {
@@ -575,14 +779,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/106/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 107,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/106/revisions/107"
+                    "id": 178,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/106/revisions/178"
                 }
             ],
             "wp:attachment": [
@@ -618,8 +822,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?p=102"
         },
-        "modified": "2023-01-24T09:59:47",
-        "modified_gmt": "2023-01-24T14:59:47",
+        "modified": "2023-02-06T22:38:46",
+        "modified_gmt": "2023-02-07T03:38:46",
         "slug": "coach-meeting",
         "status": "publish",
         "type": "post",
@@ -628,7 +832,7 @@
             "rendered": "Scheduled: Coach Meeting"
         },
         "content": {
-            "rendered": "\n<p>Our weekly coaching meetings will be held on Tuesdays from 9:30 AM to 10:00 AM <a href=\"https://unc.zoom.us/my/louielu\">here</a>.</p>\n",
+            "rendered": "\n<p>Our weekly coaching meetings will be held on Tuesdays from 9:30 AM to 10:00 AM <a href=\"https://unc.zoom.us/my/louielu\">here</a>.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
             "protected": false
         },
         "excerpt": {
@@ -677,14 +881,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/102/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 108,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/102/revisions/108"
+                    "id": 179,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/102/revisions/179"
                 }
             ],
             "wp:attachment": [
