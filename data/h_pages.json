@@ -442,8 +442,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=10"
         },
-        "modified": "2023-02-06T00:48:37",
-        "modified_gmt": "2023-02-06T05:48:37",
+        "modified": "2023-02-07T14:06:46",
+        "modified_gmt": "2023-02-07T19:06:46",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -452,11 +452,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "\n<h2>D1. Specifications</h2>\n\n\n\n<h3>User Stories</h3>\n\n\n\n<p>As an <strong>instructor</strong>…</p>\n\n\n\n<ul>\n<li>I want to have an accessible website so that my students can have robotics visualizations.</li>\n\n\n\n<li>I want to have a simple enough framework so that I can add more algorithms later myself.</li>\n\n\n\n<li>I want to have a simple UI so that my students can easily reproduce my examples.</li>\n\n\n\n<li>I want to host each algorithm/model on a different site so that it is easier to follow during instruction.&nbsp;</li>\n\n\n\n<li>I want to be able to adjust the speed&nbsp; so that the example is easy to follow.</li>\n\n\n\n<li>I want to be able to use the website offline so that I don&#8217;t have to lose connection when teaching.</li>\n\n\n\n<li>I want to include parameters so that my students can try to replicate my example.</li>\n</ul>\n\n\n\n<p>As a <strong>student</strong>…</p>\n\n\n\n<ul>\n<li>I want to be able to draw obstacles so that I can visualize how pathfinding algorithms react.&nbsp;</li>\n\n\n\n<li>I want to choose different pathfinding algorithms so that I can see the difference between them.&nbsp;</li>\n\n\n\n<li>I want to choose different models of robots so that I can see the difference between them.</li>\n\n\n\n<li>I want to have parameters for my paths so that I can see the subtle differences between the algorithms.&nbsp;</li>\n\n\n\n<li>I want to have access to the website on my phone so that I can view it easily.</li>\n\n\n\n<li>I want to be able to see the wheels move so that I can understand the movement.&nbsp;</li>\n\n\n\n<li>I want to be able to see the failed paths the algorithm made, so that I can understand it better.&nbsp;</li>\n\n\n\n<li>I want to be able to use the website offline so I can do the assignment in a last minute situation.</li>\n</ul>\n",
+            "rendered": "\n<div class=\"is-vertical is-layout-flex wp-container-7 wp-block-group\">\n<p><strong>D1: Specifications</strong></p>\n\n\n\n<p>User Story &amp; Requirements</p>\n\n\n\n<div class=\"wp-block-file\"><object class=\"wp-block-file__embed\" data=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements-1.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of User-Story_Requirements-1.\"></object><a id=\"wp-block-file--media-21b3f3cb-a736-4a4d-83dc-9e25688b1233\" href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements-1.pdf\">User-Story_Requirements-1</a><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements-1.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-21b3f3cb-a736-4a4d-83dc-9e25688b1233\">Download</a></div>\n</div>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>D1. Specifications User Stories As an instructor… As a student…</p>\n",
+            "rendered": "<p>D1: Specifications User Story &amp; Requirements</p>\n",
             "protected": false
         },
         "author": 217,
@@ -497,14 +497,14 @@
             ],
             "version-history": [
                 {
-                    "count": 9,
+                    "count": 11,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 97,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions/97"
+                    "id": 106,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions/106"
                 }
             ],
             "wp:attachment": [
@@ -528,8 +528,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=7"
         },
-        "modified": "2023-01-31T11:15:43",
-        "modified_gmt": "2023-01-31T16:15:43",
+        "modified": "2023-02-07T14:23:41",
+        "modified_gmt": "2023-02-07T19:23:41",
         "slug": "about",
         "status": "publish",
         "type": "page",
@@ -538,11 +538,11 @@
             "rendered": "About"
         },
         "content": {
-            "rendered": "\n<p>The Interactive Robotics Education Tool is a tool that will provide visualizations of robotics algorithms and concepts. Many demonstrations and explanations of robotics concepts operate at a much higher level, making them inaccessible to students and unhelpful to instructors teaching these algorithms. This will provide an intuitive and helpful visualization that will assist students and instructors at high school and college levels. A previous team built a framework for this tool, and our goal is to expand upon the framework that was built by the previous team, and implement additional functionality to further assist robotics students and instructors. We will create visualizations of bug algorithms and PID controllers, and allow it to be added directly to an instructor’s website.</p>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p><em>The Interactive Robotics Education Tool is an application framework designed to visualize some important robotics concepts, including: pathfinding algorithms, motion planning, and remote controlling. In creating this framework, the users are able to learn through easily accessible simulations designed by accredited robotics researchers at UNC.</em></p>\n\n\n\n<p>Many demonstrations and explanations of robotics concepts operate at a much higher level, making them inaccessible to students and unhelpful to instructors teaching these algorithms. Working alongside the Computational Robotics Laboratory at UNC, we will implement an intuitive and helpful visualization that will assist prospective robotics students, aspiring researchers, and industry professionals looking to educate themselves on concepts the lab works with completely online without needing access to robotics technology themselves.</p>\n\n\n\n<p>As part of the tool framework, there are visualizations that focus on pathfinding algorithms and motion planning. The interfaces will allow users to control their environment and manipulate parameters that affect overall performance of the algorithm or movements at hand. In seeing the performance in real time, the users can identify the importance of chosen parameters and how they affect the robot in question. Expanding upon what was built by the previous team, we will further implement the functionality of creating visualizations of bug algorithms and PID controllers, as well as allowing the tool to be added directly to an instructor’s website.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>The Interactive Robotics Education Tool is a tool that will provide visualizations of robotics algorithms and concepts. Many demonstrations and&#8230;</p>\n",
+            "rendered": "<p>The Interactive Robotics Education Tool is an application framework designed to visualize some important robotics concepts, including: pathfinding algorithms, motion&#8230;</p>\n",
             "protected": false
         },
         "author": 217,
@@ -583,14 +583,14 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 10,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/7/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 65,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/7/revisions/65"
+                    "id": 122,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/7/revisions/122"
                 }
             ],
             "wp:attachment": [
