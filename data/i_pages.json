@@ -1,5 +1,91 @@
 [
     {
+        "id": 189,
+        "date": "2023-02-06T16:18:28",
+        "date_gmt": "2023-02-06T21:18:28",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=189"
+        },
+        "modified": "2023-02-06T16:18:28",
+        "modified_gmt": "2023-02-06T21:18:28",
+        "slug": "d1-specifications",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/d1-specifications/",
+        "title": {
+            "rendered": "D1. Specifications"
+        },
+        "content": {
+            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to interact with columns in a proper manner (checkboxes, buttons, text, etc)\n<ul>\n<li>So that I can input data efficiently</li>\n</ul>\n</li>\n\n\n\n<li>I want to view data from outside spreadsheets inside the application\n<ul>\n<li>So that I can easily interact with and save previous client information</li>\n</ul>\n</li>\n\n\n\n<li>I want to be able to view data statistics\n<ul>\n<li>So that I can learn more about the trends of the inputted data</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>As an evaluator of data</p>\n\n\n\n<ul>\n<li>I want to be able to export the listed data</li>\n\n\n\n<li>So that I can easily compile it into a shareable spreadsheet</li>\n</ul>\n\n\n\n<p>As a user of the application</p>\n\n\n\n<ul>\n<li>I want to be able to log in</li>\n\n\n\n<li>So that I can be placed in the appropriate view for the application (evaluator or provider)</li>\n</ul>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to only view my inputted information</li>\n\n\n\n<li>So that my client information remains private</li>\n</ul>\n\n\n\n<h3>Functional Requirements</h3>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Map content entry types to column data</li>\n\n\n\n<li>Create formulas for each column</li>\n\n\n\n<li>Provide MongoDB with access to data input in the pre-existing application</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>Create export data feature to compile columns into spreadsheet for external use</li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<ul>\n<li>Code a user verification feature that maps users to the appropriate view (provider vs evaluator) and allows login</li>\n\n\n\n<li>Give each provider the ability to maintain private data without spilling on a public used interface</li>\n</ul>\n\n\n\n<h3>Non-Functional Requirements</h3>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Implement front end code to span MongoDB data input into the user interface</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>Implement a data statistics feature on the user interface to view trends from the database</li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<p>n/a</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Stories As a provider of data As an evaluator of data As a user of the application As a&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13593,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/189"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13593"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=189"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/189/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 190,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/189/revisions/190"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=189"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 152,
         "date": "2023-01-30T20:28:37",
         "date_gmt": "2023-01-31T01:28:37",
@@ -178,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teami523/?page_id=38"
         },
-        "modified": "2023-02-06T15:07:46",
-        "modified_gmt": "2023-02-06T20:07:46",
+        "modified": "2023-02-06T16:19:50",
+        "modified_gmt": "2023-02-06T21:19:50",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -188,11 +274,11 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to interact with columns in a proper manner (checkboxes, buttons, text, etc)\n<ul>\n<li>So that I can input data efficiently</li>\n</ul>\n</li>\n\n\n\n<li>I want to view data from outside spreadsheets inside the application\n<ul>\n<li>So that I can easily interact with and save previous client information</li>\n</ul>\n</li>\n\n\n\n<li>I want to be able to view data statistics\n<ul>\n<li>So that I can learn more about the trends of the inputted data</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>As an evaluator of data</p>\n\n\n\n<ul>\n<li>I want to be able to export the listed data</li>\n\n\n\n<li>So that I can easily compile it into a shareable spreadsheet</li>\n</ul>\n\n\n\n<p>As a user of the application</p>\n\n\n\n<ul>\n<li>I want to be able to log in</li>\n\n\n\n<li>So that I can be placed in the appropriate view for the application (evaluator or provider)</li>\n</ul>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to only view my inputted information</li>\n\n\n\n<li>So that my client information remains private</li>\n</ul>\n\n\n\n<h3>Functional Requirements</h3>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Map content entry types to column data</li>\n\n\n\n<li>Create formulas for each column</li>\n\n\n\n<li>Provide MongoDB with access to data input in the pre-existing application</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>Create export data feature to compile columns into spreadsheet for external use</li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<ul>\n<li>Code a user verification feature that maps users to the appropriate view (provider vs evaluator) and allows login</li>\n\n\n\n<li>Give each provider the ability to maintain private data without spilling on a public used interface</li>\n</ul>\n\n\n\n<h3>Non-Functional Requirements</h3>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Implement front end code to span MongoDB data input into the user interface</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>Implement a data statistics feature on the user interface to view trends from the database</li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<p>n/a</p>\n",
+            "rendered": "",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories As a provider of data As an evaluator of data As a user of the application As a&#8230;</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 13539,
@@ -233,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 6,
                     "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 184,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions/184"
+                    "id": 192,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions/192"
                 }
             ],
             "wp:attachment": [
