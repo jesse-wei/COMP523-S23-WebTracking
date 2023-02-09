@@ -92,8 +92,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=202"
         },
-        "modified": "2023-01-31T17:35:26",
-        "modified_gmt": "2023-01-31T22:35:26",
+        "modified": "2023-02-08T20:16:05",
+        "modified_gmt": "2023-02-09T01:16:05",
         "slug": "ethics-1",
         "status": "publish",
         "type": "page",
@@ -102,11 +102,11 @@
             "rendered": "Ethics 1"
         },
         "content": {
-            "rendered": "\n<p>TODO</p>\n",
+            "rendered": "\n<h3>Example 1: Facebook data breach</h3>\n\n\n\n<p>In the 2010’s, there was a data breach of up to 87 million Facebook users’ personal data. Specifically, a company called Cambridge Analytica (now bankrupt) gathered data from 270,000 survey respondents using an informed consent process through an app. However, Facebook’s software allowed Cambridge Analytica to gather data on respondents’ Facebook friends as well. The data were detailed enough that Cambridge Analytica was able to construct psychological profiles to determine which form of advertising would be most effective on specific people.</p>\n\n\n\n<p>This is all clearly unethical &#8211; in addition to breaching 87 million people’s data, the data were also used for nefarious purposes, such as political advertising. The magnitude of this breach was only possible because Facebook’s software allowed another company to gather data on survey respondents’ Facebook friends, which we see no logical reason for. It’s nearly impossible for this to have been caused by negligence, so the main problem is that the product behavior was too intrusive. But certainly the software engineers should have known that too much access was being granted, especially because limiting access/scope is a common practice in code. Though the problem should have been caught at the design level, it should have been caught at the implementation level also since there is always a review process for code, and access could have been easily revoked at any time. The problem here lies in software design and the software developers who chose to ignore it.</p>\n\n\n\n<p><a href=\"https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Example 2: Lyft employees spying</h3>\n\n\n\n<p>In this 2018 article, a former Lyft employee said that access to Lyft’s backend allowed employees to “see pretty much everything, including feedback, and yes, pick up and drop off coordinates.” When asked whether employees abuse this privilege, they replied “Hell yes. I definitely looked at my friends’ rider history.”</p>\n\n\n\n<p>This is unethical because the employee’s friends did not consent to location stalking by specific Lyft employees, especially friends, when using the app. Although working on the backend requires access to user data, software engineers shouldn’t be able to look up a specific person’s data by their name or any personally identifying attribute (in this case, any unique attribute that a friend would know). Certainly, it should be possible to anonymize data by associating names with id numbers but hiding the names from most SWE’s. Even if this would be impossible, then logs of lookups should be kept, and repeated searches should be investigated. Overall, this seems like a problem with software design and enforcement of rules.</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2018/01/25/lyft-god-view/\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Example 3: Uber app spying</h3>\n\n\n\n<p>This example differs from the previous in that this example is a systematic breach. Specifically, Uber tracks users’ locations after rides are over. As mentioned in the article, if a user gets out of the car and walks to a therapist’s office, then the app will know where the user has walked to. This is unethical since it’s an unnecessary privacy violation. Uber could arguably improve their service in gathering this data, but it mostly seems unnecessary, and there are a lot of ways the service could be improved without gathering this data.</p>\n\n\n\n<p>The user should be explicitly asked in the app whether the app should be allowed to gather this data. However, this setting is enabled by default, and the user is not asked. In this case, the obvious choice to protect user privacy is to disable the setting by default and ask the user if it should be enabled when the app is first downloaded. The problem here is the intentionally privacy-violating software behavior. Certain settings should always be opt-in instead of opt-out.</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2016/11/28/uber-background-location-data-collection/\">Source</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>TODO</p>\n",
+            "rendered": "<p>Example 1: Facebook data breach In the 2010’s, there was a data breach of up to 87 million Facebook users’&#8230;</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -147,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 203,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions/203"
+                    "id": 228,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions/228"
                 }
             ],
             "wp:attachment": [
