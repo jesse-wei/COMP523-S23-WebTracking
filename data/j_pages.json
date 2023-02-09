@@ -264,8 +264,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamj/?page_id=18"
         },
-        "modified": "2023-02-03T16:39:46",
-        "modified_gmt": "2023-02-03T21:39:46",
+        "modified": "2023-02-07T08:35:03",
+        "modified_gmt": "2023-02-07T13:35:03",
         "slug": "jouranl",
         "status": "publish",
         "type": "page",
@@ -274,11 +274,11 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p>February 2nd, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Client\n<ul>\n<li>We discussed this project&#8217;s user story, and the client mentioned that we need to add a function to give feedback, such as online comments.</li>\n\n\n\n<li>The client also advised the website to keep the UNC color style consistent.</li>\n</ul>\n</li>\n\n\n\n<li>Team meeting\n<ul>\n<li>Ensure that we will revise the user story.</li>\n\n\n\n<li>Created a GitHub repository for this project.</li>\n\n\n\n<li>Kangda Wei suggested that we may finish a demo webpage to show to the client first. If possible, it could be done next week, and it can run on a local machine.</li>\n\n\n\n<li>Discussed some rules and habits for teamwork on GitHub.</li>\n\n\n\n<li>Dominic mentioned the potential problem of the host server. We assume the client will help solve this problem.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 31st, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Coach\n<ul>\n<li>Changed the meeting schedule to 8:00 am Tuesday next week.</li>\n\n\n\n<li>Coach addressed that every member should contribute ideas to the user story but not one member. All members must agree with the user story and know how to implement it with the Project.</li>\n\n\n\n<li>Coach suggested some websites to study the OSM (OpenStreetMap), such as leaflet (https://leafletjs.com/), OpenLayers ( https://openlayers.org/), JOSM (WIKI), or searching Google with keywords &#8220;OSM JavaScript&#8221; for the resource.</li>\n\n\n\n<li>Coach suggested developing a DEMO for the client, demonstrating how to edit OSM for his purpose.</li>\n\n\n\n<li>Ethan provided the draft of the user story based on the previous team&#8217;s work.</li>\n\n\n\n<li>Ethan established the project concept on the team&#8217;s website.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 27th 2023:</p>\n\n\n\n<ul>\n<li>First meeting with the client\n<ul>\n<li>&nbsp;Discussed the requirements for this Project</li>\n\n\n\n<li>Discussed the format of this Project as a Mobile Application or a webpage based on cloud service. We suggest using OpenStreetMap instead of Google Maps, according to the suggestion from Coach. The client accepts this suggestion.</li>\n\n\n\n<li>&nbsp;Simple, accessible, and responsive are advantages of the webpage, depending on resources and time consumption. It is better to develop a web service.</li>\n\n\n\n<li>&nbsp;The client mentioned that the previous team needed more communication. So, we will hold regular meetings with our client to discuss the process of the Project.</li>\n\n\n\n<li>&nbsp;The client addressed the admin&#8217;s need to edit the plant during a specific period, not the user.</li>\n</ul>\n</li>\n\n\n\n<li>Weekly team meeting discussion\n<ul>\n<li>Decided to spend the next week getting familiar with the code base left by the previous team, understanding and trying to use the resources used.</li>\n\n\n\n<li>&nbsp;Hu started to understand user stories and do the UI design.</li>\n\n\n\n<li>&nbsp;Ethan will start working on how to embed OpenStreetMap in web pages.</li>\n\n\n\n<li>&nbsp;Kangda started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Dominic started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Understand the technical background of each person: most of you are very familiar with Python, except Hu. All have some webpage development experience. But not enough experience in back-end development.</li>\n\n\n\n<li>&nbsp;If you develop a new cloud-based web service, use JavaScript, database, or NodeJs as development tools.</li>\n\n\n\n<li>&nbsp;For the next meeting with Coach, discuss this project&#8217;s direction for mobile application or web service. Technique details about the front and back end development. Searching for reliable, affordable cloud service.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>January 20th 2023</strong>:</p>\n\n\n\n<ul>\n<li>First meeting with Coach</li>\n\n\n\n<li>Discussed new tech/management apps\n<ul>\n<li>OpenStreetMap</li>\n\n\n\n<li>Githook</li>\n\n\n\n<li>Kanban</li>\n\n\n\n<li>Trello</li>\n</ul>\n</li>\n\n\n\n<li>First meeting with client scheduled:\n<ul>\n<li>Kyle Parker 1/27/23 4:00-5:00pm</li>\n</ul>\n</li>\n</ul>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-1 wp-block-group\">\n<p><strong>January 20th 2023</strong>: </p>\n\n\n\n<p>First meeting made, added team roles, rules, and communication</p>\n\n\n\n<p>Website created and preferences made: 5, 7, 6, 1, 23, 12 </p>\n</div>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p>February 7st, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Coach\n<ul>\n<li>Meeting is scheduled for 8:00 am Tuesday two weeks later. Our team should work on The Demo, Ethics assignment, and Midterm Presentation. The content of the Midterm can be found on the course website &#8220;https://www.cs.unc.edu/~stotts/COMP523-s23/midTerm.html&#8221;.</li>\n\n\n\n<li>Coach checked the repository on GitHub.</li>\n\n\n\n<li>Coach addressed that the available links should be on the page of &#8220;Assignment&#8221; and &#8220;Deliverable.&#8221;</li>\n</ul>\n\n\n\n<ul>\n<li>Coach suggested the server should not be a problem since the project can run on the local machine.</li>\n\n\n\n<li>Coach also links Johns&#8217; video to demonstrate how to give a great tech talk.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>February 2nd, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Client\n<ul>\n<li>We discussed this project&#8217;s user story, and the client mentioned that we need to add a function to give feedback, such as online comments.</li>\n\n\n\n<li>The client also advised the website to keep the UNC color style consistent.</li>\n</ul>\n</li>\n\n\n\n<li>Team meeting\n<ul>\n<li>Ensure that we will revise the user story.</li>\n\n\n\n<li>Created a GitHub repository for this project.</li>\n\n\n\n<li>Kangda Wei suggested that we may finish a demo webpage to show to the client first. If possible, it could be done next week, and it can run on a local machine.</li>\n\n\n\n<li>Discussed some rules and habits for teamwork on GitHub.</li>\n\n\n\n<li>Dominic mentioned the potential problem of the host server. We assume the client will help solve this problem.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 31st, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Coach\n<ul>\n<li>Changed the meeting schedule to 8:00 am Tuesday next week.</li>\n\n\n\n<li>Coach addressed that every member should contribute ideas to the user story but not one member. All members must agree with the user story and know how to implement it with the Project.</li>\n\n\n\n<li>Coach suggested some websites to study the OSM (OpenStreetMap), such as leaflet (https://leafletjs.com/), OpenLayers ( https://openlayers.org/), JOSM (WIKI), or searching Google with keywords &#8220;OSM JavaScript&#8221; for the resource.</li>\n\n\n\n<li>Coach suggested developing a DEMO for the client, demonstrating how to edit OSM for his purpose.</li>\n\n\n\n<li>Ethan provided the draft of the user story based on the previous team&#8217;s work.</li>\n\n\n\n<li>Ethan established the project concept on the team&#8217;s website.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 27th 2023:</p>\n\n\n\n<ul>\n<li>First meeting with the client\n<ul>\n<li>&nbsp;Discussed the requirements for this Project</li>\n\n\n\n<li>Discussed the format of this Project as a Mobile Application or a webpage based on cloud service. We suggest using OpenStreetMap instead of Google Maps, according to the suggestion from Coach. The client accepts this suggestion.</li>\n\n\n\n<li>&nbsp;Simple, accessible, and responsive are advantages of the webpage, depending on resources and time consumption. It is better to develop a web service.</li>\n\n\n\n<li>&nbsp;The client mentioned that the previous team needed more communication. So, we will hold regular meetings with our client to discuss the process of the Project.</li>\n\n\n\n<li>&nbsp;The client addressed the admin&#8217;s need to edit the plant during a specific period, not the user.</li>\n</ul>\n</li>\n\n\n\n<li>Weekly team meeting discussion\n<ul>\n<li>Decided to spend the next week getting familiar with the code base left by the previous team, understanding and trying to use the resources used.</li>\n\n\n\n<li>&nbsp;Hu started to understand user stories and do the UI design.</li>\n\n\n\n<li>&nbsp;Ethan will start working on how to embed OpenStreetMap in web pages.</li>\n\n\n\n<li>&nbsp;Kangda started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Dominic started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Understand the technical background of each person: most of you are very familiar with Python, except Hu. All have some webpage development experience. But not enough experience in back-end development.</li>\n\n\n\n<li>&nbsp;If you develop a new cloud-based web service, use JavaScript, database, or NodeJs as development tools.</li>\n\n\n\n<li>&nbsp;For the next meeting with Coach, discuss this project&#8217;s direction for mobile application or web service. Technique details about the front and back end development. Searching for reliable, affordable cloud service.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>January 20th 2023</strong>:</p>\n\n\n\n<ul>\n<li>First meeting with Coach</li>\n\n\n\n<li>Discussed new tech/management apps\n<ul>\n<li>OpenStreetMap</li>\n\n\n\n<li>Githook</li>\n\n\n\n<li>Kanban</li>\n\n\n\n<li>Trello</li>\n</ul>\n</li>\n\n\n\n<li>First meeting with client scheduled:\n<ul>\n<li>Kyle Parker 1/27/23 4:00-5:00pm</li>\n</ul>\n</li>\n</ul>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-1 wp-block-group\">\n<p><strong>January 20th 2023</strong>: </p>\n\n\n\n<p>First meeting made, added team roles, rules, and communication</p>\n\n\n\n<p>Website created and preferences made: 5, 7, 6, 1, 23, 12 </p>\n</div>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>February 2nd, 2023: January 31st, 2023: January 27th 2023: January 20th 2023: January 20th 2023: First meeting made, added team&#8230;</p>\n",
+            "rendered": "<p>February 7st, 2023: February 2nd, 2023: January 31st, 2023: January 27th 2023: January 20th 2023: January 20th 2023: First meeting&#8230;</p>\n",
             "protected": false
         },
         "author": 13592,
@@ -319,14 +319,14 @@
             ],
             "version-history": [
                 {
-                    "count": 12,
+                    "count": 14,
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 117,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions/117"
+                    "id": 121,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions/121"
                 }
             ],
             "wp:attachment": [
@@ -608,8 +608,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamj/?page_id=2"
         },
-        "modified": "2023-01-23T12:08:22",
-        "modified_gmt": "2023-01-23T17:08:22",
+        "modified": "2023-02-08T19:35:33",
+        "modified_gmt": "2023-02-09T00:35:33",
         "slug": "sample-page",
         "status": "publish",
         "type": "page",
@@ -618,11 +618,11 @@
             "rendered": "Schedule"
         },
         "content": {
-            "rendered": "\n<div class=\"is-vertical is-layout-flex wp-container-10 wp-block-group\">\n<h2><strong>Schedule of Regular Meetings</strong></h2>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-9 wp-block-group\">\n<p>Coach Meeting: Tuesday 16:30 – 17:00 PM</p>\n\n\n\n<p>Team Meeting: Friday 8:45 – 10:00 AM (we may make a final decision for the time)</p>\n</div>\n</div>\n",
+            "rendered": "\n<div class=\"is-vertical is-layout-flex wp-container-10 wp-block-group\">\n<h2><strong>Schedule of Regular Meetings</strong></h2>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-9 wp-block-group\">\n<p>Coach Meeting: Tuesday 8:00 – 8:30 AM</p>\n\n\n\n<p>Client Meeting: Friday 16:00 &#8211; 16:30 PM (Weekly or Biweekly)</p>\n\n\n\n<p>Team Meeting: Friday 16:30 – 17:00 AM </p>\n</div>\n</div>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Schedule of Regular Meetings Coach Meeting: Tuesday 16:30 – 17:00 PM Team Meeting: Friday 8:45 – 10:00 AM (we may&#8230;</p>\n",
+            "rendered": "<p>Schedule of Regular Meetings Coach Meeting: Tuesday 8:00 – 8:30 AM Client Meeting: Friday 16:00 &#8211; 16:30 PM (Weekly or&#8230;</p>\n",
             "protected": false
         },
         "author": 13592,
@@ -663,14 +663,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 5,
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/2/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 73,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/2/revisions/73"
+                    "id": 124,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/2/revisions/124"
                 }
             ],
             "wp:attachment": [
