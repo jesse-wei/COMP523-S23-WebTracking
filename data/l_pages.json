@@ -1,26 +1,628 @@
 [
     {
-        "id": 135,
-        "date": "2023-01-29T14:46:38",
-        "date_gmt": "2023-01-29T19:46:38",
+        "id": 402,
+        "date": "2023-05-05T19:33:24",
+        "date_gmt": "2023-05-05T23:33:24",
         "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=135"
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=402"
         },
-        "modified": "2023-02-07T14:58:34",
-        "modified_gmt": "2023-02-07T19:58:34",
-        "slug": "d1-specifications",
+        "modified": "2023-05-05T19:43:59",
+        "modified_gmt": "2023-05-05T23:43:59",
+        "slug": "423-2",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/d1-specifications/",
+        "link": "https://tarheels.live/comp523s23teaml/423-2/",
         "title": {
-            "rendered": "D1. Specifications"
+            "rendered": "Platform Selection"
         },
         "content": {
-            "rendered": "\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As an</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n\n\n\n<li><strong>As a</strong> data analyst, <strong>I want</strong> to upload historical data files using the user Interface, <strong>so that</strong> I can utilize the simulation software effectively.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n\n\n\n\n<ul>\n<li>Review excel model and replicate functionality in Python (test Jeff’s code)</li>\n</ul>\n\n\n\n<ul>\n<li>Convert Figma design to AWS Amplify interface using React JS</li>\n\n\n\n<li>Implement some sliders to change input variables</li>\n\n\n\n<li>Implement graphs to visualize projective values</li>\n\n\n\n<li>Allow user to upload historical data directly to the user interface to input into the model</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>Implement login ability using Amazon Cognito. Want to have the ability to log in and log out.</li>\n\n\n\n<li>Ability to reset password.</li>\n\n\n\n<li>Create new account. </li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>Natural Language Processing model for sales and marketing issues, best practices and optimization methods</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>Publish code to AWS from GitHub</li>\n\n\n\n<li>The user interface should be easily usable for non technical users.</li>\n\n\n\n<li>There should be clear documentation on the software functionality.</li>\n\n\n\n<li>There should be documentation on how the simulation works. </li>\n\n\n\n<li>Create a straightforward template for users to input historical data</li>\n\n\n\n<li>Code should be maintainable. </li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>Meet with Amazon Development team weekly</li>\n\n\n\n<li>Meet with K-F MBA team to hear market feedback</li>\n\n\n\n<li>Recruit technical mentors (Data Science, Statistics / Monte Carlo, AWS)</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>Multilingual compatibility. </li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<h2 class=\"has-blue-color has-text-color has-large-font-size wp-block-heading\">Midterm Architecture Diagram:</h2>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"502\" src=\"https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-1024x502.png\" alt=\"\" class=\"wp-image-344\" srcset=\"https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-1024x502.png 1024w, https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-300x147.png 300w, https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-768x376.png 768w, https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-1536x752.png 1536w, https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-1040x509.png 1040w, https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image-640x313.png 640w, https://tarheels.live/comp523s23teaml/wp-content/uploads/sites/4061/2023/05/image.png 1611w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h1 class=\"has-blue-color has-text-color wp-block-heading\">Platform Selection:</h1>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Languages:</strong></p>\n\n\n\n<ul>\n<li>Python (using PyCharm IDE)\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Provides great functionality in terms of efficiently and concisely calculating the required data for the simulation, allows OOP, additionally has a great set of mathematical and graphing libraries that are useful for this project, and the client had some previous code written in Python</li>\n\n\n\n<li>Python is very powerful for modeling and doing computation, so it is much easier for us to replicate the Excel model in Python</li>\n</ul>\n</li>\n\n\n\n<li>JavaScript (using VSCode)\n<ul>\n<li>Powerful front-end scripting technology that all group members have experience with, and used in ReactJS</li>\n\n\n\n<li>Team has more experience on JavaScript</li>\n\n\n\n<li>Recommended by Client</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Alternatives:</strong></p>\n\n\n\n<ul>\n<li>TypeScript (using VSCode)\n<ul>\n<li>More strict grammar than JavaScript, so higher stability</li>\n\n\n\n<li>TypeScript is an OOP language</li>\n\n\n\n<li>Less popular than JavaScript</li>\n\n\n\n<li>Team has less experience on TypeScript</li>\n\n\n\n<li>Also recommended by client</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Libraries:</strong></p>\n\n\n\n<ul>\n<li>NumPy\n<ul>\n<li>Allows quick and efficient generation of a random number from a normal distribution, essential to our project</li>\n</ul>\n</li>\n\n\n\n<li>Plotly\n<ul>\n<li>Plotly for Python and Plotly for Javascript both provide the ability to create a multitude of charts and provide sliders, which can be used to help users visualize the simulation results over time</li>\n</ul>\n</li>\n\n\n\n<li>Recharts\n<ul>\n<li>With 19k stars on Github, 1.1M npm downloads</li>\n\n\n\n<li>One of the most popular charting library for React</li>\n\n\n\n<li>Recharts follows React’s component principle by enabling users to build charts with its reusable React components.</li>\n\n\n\n<li>Very easy to use with React</li>\n\n\n\n<li>Team has more experience on this</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Alternatives:</strong></p>\n\n\n\n<ul>\n<li>React-chartjs-2\n<ul>\n<li>With 5.7k stars on Github</li>\n\n\n\n<li>React-chartjs-2 is a React wrapper for the popular JavaScript Chart.js library.</li>\n\n\n\n<li>It supports animation and most of the charts it offers are responsive by default.</li>\n\n\n\n<li>Less popular than Recharts</li>\n\n\n\n<li>Team has less experience on this</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Hosting:</strong></p>\n\n\n\n<ul>\n<li>AWS Amplify\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Compatible with React and the client wants to use this technology and utilize AWS as much as possible</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Front End:&nbsp;</strong></p>\n\n\n\n<ul>\n<li>ReactJS\n<ul>\n<li>Client wants to use this technology to build the user interface, provides speed and flexibility, and some group members have experience with it</li>\n\n\n\n<li>Team has more experience on React</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Alternatives:</strong></p>\n\n\n\n<ul>\n<li>Angular\n<ul>\n<li>Team has no experience on Angular</li>\n\n\n\n<li>Angular is better than React if the application is enterprise-grade and need to incorporate complex functionalities</li>\n\n\n\n<li>If we choose TypeScript, we need to use Angular instead</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Back End:</strong></p>\n\n\n\n<ul>\n<li>AWS\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Used for hosting the back-end calculations and data storage&nbsp;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Database:</strong></p>\n\n\n\n<ul>\n<li>AWS Amazon S3\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Used to store a user’s historical go-to-market data used to calculate required inputs to feed into the simulation</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Input Text File:</strong></p>\n\n\n\n<ul>\n<li>Excel (CSV)\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Team has experience on handling CSV file</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color has-large-font-size wp-block-heading\"></h2>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories: Requirements: Functional: Non-functional:</p>\n",
+            "rendered": "<p>Midterm Architecture Diagram: Platform Selection: Languages: Alternatives: Libraries: Alternatives: Hosting: Front End:&nbsp; Alternatives: Back End: Database: Input Text File:</p>\n",
+            "protected": false
+        },
+        "author": 5775,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/402"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/5775"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=402"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/402/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 414,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/402/revisions/414"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=402"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 378,
+        "date": "2023-05-04T22:31:13",
+        "date_gmt": "2023-05-05T02:31:13",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=378"
+        },
+        "modified": "2023-05-04T22:31:13",
+        "modified_gmt": "2023-05-05T02:31:13",
+        "slug": "input-file-tutorial1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/input-file-tutorial1/",
+        "title": {
+            "rendered": "Input File Tutorial"
+        },
+        "content": {
+            "rendered": "\n<h1 class=\"wp-block-heading\">How to Fill Out and Upload the CSV Template</h1>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#1-download-the-kinetik-template\"></a>1. Download the Kinetik Template</h2>\n\n\n\n<p>First, simply click the &#8220;Download Template&#8221; text on the website. Then, open the file in excel. You will see orange text where you can input the appropriate data.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#2-input-opportunity-source-names\"></a>2. Input Opportunity Source Names</h2>\n\n\n\n<p>Input your opportunity source names, starting in column B, in the top row of the template. Make sure to remove the orange text and replace it with your own data (you will do this for each step).</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#3-input-the-stage-names-for-your-sales-pipeline\"></a>3. Input the Stage Names for Your Sales Pipeline</h2>\n\n\n\n<p>Input your stage names in the next row, making sure to keep &#8220;Win&#8221; and &#8220;Loss&#8221; as the final 2 Stages in the row.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#4-input-the-probabilities-for-your-new-opportunity-sources\"></a>4. Input the Probabilities for your New Opportunity Sources</h2>\n\n\n\n<p>The next step is to input the probabilities for you new opportunities going to each stage. Again, rewrite your stage names where prompted on row 4 of the excel file and make sure they line up with what you input for step 3. Below the stage names, input the probability (as decimal) that a new opportunity will go to this stage after being injected into the pipeline. Don&#8217;t forget to include probabilities for &#8220;Win&#8221; and &#8220;Loss&#8221; even if they are 0. Additionally, make sure all of these numbers add up to 1 since this is a probability distribution.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#5-input-the-mean-and-standard-deviation-for-each-opportunity-source\"></a>5. Input the Mean and Standard Deviation for each Opportunity Source</h2>\n\n\n\n<p>Now, you will need to re-input your opportunity source names vertically starting at row 8. Make sure these opportunites are in the same order as in step 2, but working your way down this time (add rows as necessary). For each of these opportunity sources, simply input your weekly mean and standard deviation in the appropriate columns.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#6-input-stage-probability-transition-matrix\"></a>6. Input Stage Probability Transition Matrix</h2>\n\n\n\n<p>Here is where we define the movement from week-to-week between all the stages. We will need to re-input your stage names yet again, both horizontally and vertically. Again, make sure you have them in the same order as before, and always end with &#8220;Win&#8221; and &#8220;Loss.&#8221; In order to input the probabilities, you can think of it row-wise. Each row is the probability that an opportunity in stage on the left (row) will move to the stage listed above (column). Make sure each row adds up to 1 to ensure correct probability distributions.</p>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#note\"></a>Note:</h4>\n\n\n\n<p>The final row will be the identity matrix. The probability that a &#8220;Win&#8221; stays a &#8220;Win&#8221; is 100% since it has exited the pipeline. The same goes for &#8220;Loss&#8221; to &#8220;Loss.&#8221; Simply add zeroes as needed in the middle of these 2 final rows to ensure that this property is maintained.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#7-input-the-starting-number-of-opportunities-in-each-stage\"></a>7. Input the Starting Number of Opportunities in Each Stage</h2>\n\n\n\n<p>This step is simply to provide a starting point for the simulation. Re-input your stages, again keeping &#8220;Win&#8221; and &#8220;Loss&#8221; at the end. Below this, input the number of opportunities you would like to begin with in each stage.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#8-save-your-file-as-csv\"></a>8. Save your File as CSV</h2>\n\n\n\n<p>Make sure to save this excel file as CSV in a place you can access it.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#9-upload\"></a>9. Upload!</h2>\n\n\n\n<p>The final step is to upload your file to the website in the top-left module, select the amount of time you would like to run the simulation, and click the &#8220;Import CSV&#8221; button! After this, the simulation should run and you can view the results.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#here-is-a-simple-example-of-what-your-final-csv-file-could-look-like\"></a>Here is a simple example of what your final CSV File could look like:</h2>\n\n\n\n<figure class=\"wp-block-image\"><a href=\"https://user-images.githubusercontent.com/65926117/235377608-d4421750-13ec-4282-bf1f-d3233e9402b4.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" src=\"https://user-images.githubusercontent.com/65926117/235377608-d4421750-13ec-4282-bf1f-d3233e9402b4.png\" alt=\"Input CSV Example\" /></a></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>How to Fill Out and Upload the CSV Template 1. Download the Kinetik Template First, simply click the &#8220;Download Template&#8221;&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/378"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=378"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/378/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 379,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/378/revisions/379"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=378"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 374,
+        "date": "2023-05-04T22:29:22",
+        "date_gmt": "2023-05-05T02:29:22",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=374"
+        },
+        "modified": "2023-05-05T23:37:58",
+        "modified_gmt": "2023-05-06T03:37:58",
+        "slug": "testing-documentation1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/testing-documentation1/",
+        "title": {
+            "rendered": "Testing Documentation"
+        },
+        "content": {
+            "rendered": "\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Frontend</strong></p>\n\n\n\n<p>Tests for `frontend src` code use [Jest](https://jestjs.io) and are organized in the `test` directory</p>\n\n\n\n<p>with subdirectories that mirror the package structure.</p>\n\n\n\n<p>To run the tests, simply run</p>\n\n\n\n<pre class=\"wp-block-code\"><code>npm test</code></pre>\n\n\n\n<p>Jest will automatically find all test files and run them. You can also use the &#8211;watch flag to run tests in watch mode, which will re-run tests whenever code changes are detected.</p>\n\n\n\n<p>During the test run, Jest generates snapshots of rendered components, which are saved in the <strong>__snapshots__</strong> directory in the Tests directory. You can view these snapshots to help diagnose test failures.</p>\n\n\n\n<p>The tests are fully automated using GitHub Actions. We have set up a test.yml file in the .github/workflows directory that defines the test workflow. This means that every time you push changes to GitHub, the tests will automatically run on a GitHub-hosted runner. If any tests fail, you will receive a notification in GitHub.</p>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Backend</strong></p>\n\n\n\n<p>Tests for `backend src` code use [unittest](<a href=\"https://docs.python.org/3/library/unittest.html\">https://docs.python.org/3/library/unittest.html</a>) and are organized in the /kinetik_dashboard/amplify/backend/function/kinetikSimulationLambda/src/backendTest.py file.</p>\n\n\n\n<p>To run the tests, cd to the backend src folder and use the following command</p>\n\n\n\n<pre class=\"wp-block-code\"><code>python -m unittest backendTest.py</code></pre>\n\n\n\n<p>Unites will automatically find all test files and run them.</p>\n\n\n\n<p>The tests are fully automated using GitHub Actions. We have set up a test.yml file in the .github/workflows directory that defines the test workflow. This means that every time you push changes to GitHub, the tests will automatically run on a GitHub-hosted runner. If any tests fail, you will receive a notification in GitHub.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Frontend Tests for `frontend src` code use [Jest](https://jestjs.io) and are organized in the `test` directory with subdirectories that mirror the&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/374"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=374"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/374/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 436,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/374/revisions/436"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=374"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 371,
+        "date": "2023-05-04T22:26:59",
+        "date_gmt": "2023-05-05T02:26:59",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=371"
+        },
+        "modified": "2023-05-05T15:30:33",
+        "modified_gmt": "2023-05-05T19:30:33",
+        "slug": "administrator-documentation1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/administrator-documentation1/",
+        "title": {
+            "rendered": "Administrator Manual"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\">Introduction</h2>\n\n\n\n<p>Many large enterprises struggle to grow their business because they lack insight into the constraining factors in their go-to market models. Go-to market models cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. Kinetik’s solution provides scenario analysis to support go-to market optimization through a proprietary set of pipeline velocity metrics, sophisticated predictive analytics and simulation, and a user experience that combines animated simulation results and dynamic visualization of the model. The proprietary opportunity velocity metrics are calculated through the comparison of opportunity states in an automated comparison of historical weekly views extracted from leading CRM systems including Salesforce, Microsoft, and SugarCRM.</p>\n\n\n\n<p>The model produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) with similar opportunity progression profiles. These clusters, “traunches,” become the foundation of the forecasting engine and a unique go-to market profile is developed through an automated machine learning method that assesses week by week changes of a series of historical pipeline snapshots. The solution additionally supports executive level dashboards and simulation visualizations that allow scenario analysis to be executed in real-time without requiring a detailed understanding of the underlying data science and velocity statistics.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#overview\"></a>Overview</h2>\n\n\n\n<p>We developed a web application that utilizes monte-carlo forecasting model to support enterprise revenue growth by optimizing go-to-market strategies through software. With our application, users can upload their data, create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#purpose\"></a>Purpose</h2>\n\n\n\n<p>Our project aims to solve several problems faced by large enterprises in optimizing their go-to-market strategies and improving revenue growth. These problems include:</p>\n\n\n\n<ol>\n<li>Lack of insight into the constraining factors in their go-to-market models. Inability to cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery.</li>\n\n\n\n<li>Poor forecasting accuracy due to a lack of visibility into opportunity velocity metrics.</li>\n\n\n\n<li>Difficulty in identifying opportunity attributes and developing a unique go-to-market profile.</li>\n\n\n\n<li>Lack of real-time scenario analysis capabilities.</li>\n\n\n\n<li>Complexity of underlying data science and velocity statistics that make it challenging for executives to understand and use the information effectively.</li>\n</ol>\n\n\n\n<p>By developing a web application that utilizes monte-carlo forecasting model and combines animated simulation results and dynamic visualization of the model, this project aims to address these problems and provide enterprises with a comprehensive solution for optimizing their go-to-market strategies and improving revenue growth.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#how-to-access-this-amplify-app-on-the-web\"></a>How to Access this Amplify App on the web:</h2>\n\n\n\n<p>Simply open the following link and upload a CSV file with the appropriate format:</p>\n\n\n\n<figure class=\"wp-block-embed\"><div class=\"wp-block-embed__wrapper\">\nhttps://main.d2bkww882j30jj.amplifyapp.com/\n</div></figure>\n\n\n\n<h1 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#running-the-app-locally\"></a>Running the app locally</h1>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#getting-started\"></a>Getting Started</h2>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#cloning-the-keinetik-simulation-project\"></a>Cloning the Kinetik Simulation project</h3>\n\n\n\n<ol>\n<li>Open your GitHub repository in a web browser and locate the green &#8220;Code&#8221; button in the top right corner of the page.</li>\n\n\n\n<li>Click on the &#8220;Code&#8221; button to open a dropdown menu.</li>\n\n\n\n<li>From the dropdown menu, select the &#8220;HTTPS&#8221; option to obtain the repository URL in HTTPS format.</li>\n\n\n\n<li>Copy the repository URL to the clipboard.</li>\n\n\n\n<li>Open a terminal or command prompt on your local machine.</li>\n\n\n\n<li>Navigate to the directory where you want to clone the repository using the command&nbsp;<code>cd</code>&nbsp;followed by the directory path.</li>\n\n\n\n<li>Type the following command to clone the repository to your local machine:</li>\n</ol>\n\n\n\n<pre class=\"wp-block-code\"><code>git clone &lt;https://github.com/TaoHuang0/Kinetik.git&gt;\n</code></pre>\n\n\n\n<ol start=\"8\">\n<li>Press Enter to execute the command. Git will download the repository to your local machine.</li>\n\n\n\n<li>After the cloning process is complete, navigate to the cloned repository directory using the command&nbsp;<code>cd</code>.</li>\n\n\n\n<li>Now, you can install the project dependencies using the appropriate package manager such as npm or yarn.</li>\n</ol>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#installation\"></a>Installation</h3>\n\n\n\n<ol>\n<li>Open a terminal or command prompt on your local machine.</li>\n\n\n\n<li>Navigate to the cloned repository directory using the command&nbsp;<code>cd</code>.</li>\n\n\n\n<li>Install the project dependencies using&nbsp;<code>npm</code>&nbsp;and&nbsp;<code>yarn</code>.<code>npm install yarn install</code></li>\n\n\n\n<li>Wait for the installation process to complete. Once completed, you can run the project locally on your machine.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#how-to-run-this-amplify-app-locally-using-aws-access-keys\"></a>How to Run this Amplify App Locally Using AWS Access Keys:</h2>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#prerequisites\"></a>Prerequisites:</h3>\n\n\n\n<p>Before you can run this Amplify app locally using AWS Access Keys, you will need to have the following:</p>\n\n\n\n<p>An AWS account with appropriate permissions to access the lambda and API resources this app uses</p>\n\n\n\n<p>AWS Access Keys for the account you will be using</p>\n\n\n\n<p>Node.js and npm installed on your computer</p>\n\n\n\n<p>The Amplify CLI installed your computer</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#setting-up-your-aws-access-keys\"></a>Setting Up Your AWS Access Keys</h2>\n\n\n\n<p>To set up your AWS Access Keys, follow these steps:</p>\n\n\n\n<p>Log in to your AWS account.</p>\n\n\n\n<p>Navigate to the&nbsp;<code>IAM Dashboard</code>.</p>\n\n\n\n<p>Click on&nbsp;<code>Users</code>&nbsp;in the left-hand menu.</p>\n\n\n\n<p>Click on your user name to open your user details.</p>\n\n\n\n<p>Click on the&nbsp;<code>Security credentials</code>&nbsp;tab.</p>\n\n\n\n<p>Click on&nbsp;<code>Create access key</code>&nbsp;to create a new access key.</p>\n\n\n\n<p>Download the access key file or copy the access key ID and secret access key.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#running-this-amplify-app-locally\"></a>Running This Amplify App Locally</h3>\n\n\n\n<p>To run your Amplify app locally using AWS Access Keys, follow these steps:</p>\n\n\n\n<ol>\n<li>Clone your Amplify app&#8217;s repository to your local machine.</li>\n\n\n\n<li>Open a terminal window and navigate to the root directory of your app.</li>\n\n\n\n<li>Run</li>\n</ol>\n\n\n\n<pre class=\"wp-block-code\"><code>amplify init\n</code></pre>\n\n\n\n<p>to initialize the Amplify project.</p>\n\n\n\n<ol start=\"4\">\n<li>Run</li>\n</ol>\n\n\n\n<pre class=\"wp-block-code\"><code>amplify configure\n</code></pre>\n\n\n\n<p>to configure your AWS Access Keys. Enter the access key ID and secret access key that you obtained earlier, and choose the appropriate region for your app.</p>\n\n\n\n<p>Run amplify push to deploy your app&#8217;s backend resources to AWS.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#start-with-development-server\"></a>Start With Development Server</h3>\n\n\n\n<ol>\n<li>Open a terminal or command prompt on your local machine.</li>\n\n\n\n<li>Navigate to the cloned repository directory using the command&nbsp;<code>cd</code>.</li>\n\n\n\n<li>Start the development server using the appropriate command.</li>\n</ol>\n\n\n\n<pre class=\"wp-block-code\"><code>npm start\n</code></pre>\n\n\n\n<ol start=\"4\">\n<li>Wait for the development server to start. Once started, you can view the project in your web browser by navigating to the appropriate URL, typically&nbsp;<code>http://localhost:3000</code>.</li>\n</ol>\n\n\n\n<p>Your app should now be running locally and using your AWS resources. If you encounter any issues, consult the Amplify documentation or reach out to the Amplify community for support.</p>\n\n\n\n<p>For how to use the Kinetik Simulation Application, please refers to the&nbsp;<a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md\">User Manual</a>&nbsp;for more information.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Introduction Many large enterprises struggle to grow their business because they lack insight into the constraining factors in their go-to&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/371"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=371"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/371/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 396,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/371/revisions/396"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=371"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 365,
+        "date": "2023-05-04T22:20:59",
+        "date_gmt": "2023-05-05T02:20:59",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=365"
+        },
+        "modified": "2023-05-04T22:24:39",
+        "modified_gmt": "2023-05-05T02:24:39",
+        "slug": "faqs",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/faqs/",
+        "title": {
+            "rendered": "FAQs"
+        },
+        "content": {
+            "rendered": "\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>FAQ Session</strong></p>\n\n\n\n<p>1. What is Kinetik Simulation?</p>\n\n\n\n<p>Kinetik Simulation is a web application that uses a Monte Carlo forecasting model to help large enterprises optimize their go-to-market strategies and improve revenue growth. The application provides users with insight into the constraining factors in their go-to-market models by cross-referencing multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. The app uses proprietary pipeline velocity metrics, predictive analytics and simulation, and dynamic visualization of the model to create a unique go-to-market profile that is specific to the enterprise. The application supports real-time scenario analysis, executive-level dashboards, and automated machine learning methods to assess week-by-week changes in pipeline snapshots. By leveraging these features, enterprises can accurately forecast and optimize their go-to-market models to maximize their revenue growth potential.</p>\n\n\n\n<p>2. What types of data can be uploaded to the Kinetik Simulation application?</p>\n\n\n\n<p>The Kinetik Simulation application accepts data in CSV format. The data should contain columns for opportunity ID, stages, probability, amount, and any additional attributes you want to include in your simulation.</p>\n\n\n\n<p>3. What is the duration of the simulation?</p>\n\n\n\n<p>The duration of the simulation can be set by the user in the Control Panel. The user can select a duration of one quarter, half a year, or one full year.</p>\n\n\n\n<p>4. Can I modify my uploaded data after the simulation has started?</p>\n\n\n\n<p>No, once the simulation has started, you cannot modify your uploaded data. If you need to make changes to your data, you will need to re-upload a new file and restart the simulation.</p>\n\n\n\n<p>5. How long does it take for the simulation to complete?</p>\n\n\n\n<p>The time it takes for the simulation to complete depends on the size of your data file and the complexity of your simulation. Generally, smaller files with simpler simulations will complete faster than larger files with more complex simulations.</p>\n\n\n\n<p>6. What is a go-to-market profile?What is a go-to-market profile?</p>\n\n\n\n<p>A go-to-market profile is a unique combination of opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) that has a similar opportunity progression profile. The Kinetik Simulation application develops a unique go-to-market profile through an automated machine learning method that assesses week by week changes of a series of historical pipeline snapshots.</p>\n\n\n\n<p>7. Can the Kinetik Simulation application be used for forecasting?</p>\n\n\n\n<p>Yes, the Kinetik Simulation application can be used for forecasting. The application produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes with similar opportunity progression profiles.</p>\n\n\n\n<p>8. Is it possible to perform scenario analysis with the Kinetik Simulation application?</p>\n\n\n\n<p>Yes, the Kinetik Simulation application supports real-time scenario analysis through executive level dashboards and simulation visualizations. Users can create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application.</p>\n\n\n\n<p>9. What level of technical knowledge is required to use the Kinetik Simulation application?</p>\n\n\n\n<p>The Kinetik Simulation application is designed to be user-friendly and intuitive. Users do not need a detailed understanding of the underlying data science and velocity statistics to use the application effectively. However, basic knowledge of CSV file format and the ability to follow the guidance is necessary.</p>\n\n\n\n<p>10. How can I get help if I encounter issues with the Kinetik Simulation application?</p>\n\n\n\n<p>If you encounter issues with the Kinetik Simulation application, you can refer to the troubleshooting or FAQ sections in the application, or contact the Kinetik Simulation staff for assistance.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>FAQ Session 1. What is Kinetik Simulation? Kinetik Simulation is a web application that uses a Monte Carlo forecasting model&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/365"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=365"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/365/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 369,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/365/revisions/369"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=365"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 359,
+        "date": "2023-05-04T22:17:42",
+        "date_gmt": "2023-05-05T02:17:42",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=359"
+        },
+        "modified": "2023-05-04T23:01:35",
+        "modified_gmt": "2023-05-05T03:01:35",
+        "slug": "developer-code-documentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/developer-code-documentation/",
+        "title": {
+            "rendered": "Developer Code Documentation"
+        },
+        "content": {
+            "rendered": "\n<h1 class=\"wp-block-heading\">High-level Module Structure</h1>\n\n\n\n<h2 class=\"wp-block-heading\">Programming Languages we used</h2>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>Languages</th><th>Platform</th></tr></thead><tbody><tr><td>Python</td><td>PyCharm</td></tr><tr><td>JavaScript</td><td>VS Code</td></tr><tr><td>React.js</td><td>VS Code</td></tr></tbody></table></figure>\n\n\n\n<ul>\n<li>Simulation that run in AWS Lambda Function is written in <code>Python</code></li>\n\n\n\n<li>All other frontend Code are written in <code>React.js</code></li>\n\n\n\n<li>The following files are written in React.js:</li>\n</ul>\n\n\n\n<pre class=\"wp-block-code\"><code>    ├── src\n    │   ├── Coponents\n    │   │   ├── DragDropFile.js\n    │   │   ├── NavigationBar.js\n    │   │   ├── ScoreboardBarChart.js\n    │   │   ├── SimulationBarChart.js\n    │   │   ├── Slider.js\n    │   │   ├── Sliders.js\n    │   ├── Modules\n    │   │   ├── ControlPanelModule.js\n    │   │   ├── NewOpsModule.js\n    │   │   ├── ScoreboardModule.js\n    │   │   ├── SimulationModule.js\n    │   ├── Pages\n    │   │   ├── MainFrame.js</code></pre>\n\n\n\n<ul>\n<li>The following files are written in Python:</li>\n</ul>\n\n\n\n<pre class=\"wp-block-code\"><code>    ├── amplify\n    │   ├── backend\n    │   │   ├── function\n    │   │   │   ├── KinetikSimulationLambda\n    │   │   │   │  ├── src\n    │   │   │   │  │   ├── index.py</code></pre>\n\n\n\n<h2 class=\"wp-block-heading\">DragDropFile.js</h2>\n\n\n\n<p>This is a React functional component that implements a drag-and-drop file upload functionality. The component consists of four major functions:</p>\n\n\n\n<p><code>DragDropFile</code>: The main function that handles the drag-and-drop functionality. It sets up state variables that keep track of whether the user is currently dragging a file, as well as the file itself, and it calls a function passed in via props (props.onAction) with the name of the file that was uploaded.</p>\n\n\n\n<p><code>handleDrag</code>: A helper function that is called when the user drags a file over the component. It prevents the default behavior of the browser, sets the dragActive state variable to true, and calls props.onAction with the name of the file being dragged. If the user stops dragging over the component, dragActive is set back to false.</p>\n\n\n\n<p><code>handleDrop</code>: A helper function that is called when the user drops a file onto the component. It sets dragActive back to false, reads the dropped file, and updates the file state variable to contain the uploaded file. If the props.onAction function is defined, it is called with the name of the file that was uploaded.</p>\n\n\n\n<p><code>handleChange</code>: A helper function that is called when the user selects a file using a file input element. It updates the file state variable to contain the uploaded file and calls props.onAction with the name of the file that was uploaded.</p>\n\n\n\n<p>Additionally, the component contains a few other helper functions:&nbsp;<code>onButtonClick</code>: A function that is called when the user clicks a button to upload a file. It simply triggers a click event on a hidden file input element.</p>\n\n\n\n<p><code>handleOnSubmit</code>: A function that is called when the user submits the file. If a file has been uploaded, it reads the file and parses it into a JSON object using the csvFileToArray function. If the props.onAction function is defined, it is called with the JSON object. If no file has been uploaded, an error message is displayed using the alertify library.</p>\n\n\n\n<p><code>csvFileToArray</code>: A function that takes a CSV-formatted string as input and parses it into a JSON object. The JSON object consists of several arrays containing data on sources, stages, mean and standard deviation, and operation probabilities.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#navbarjs\"></a>NavBar.js</h2>\n\n\n\n<p>The Navbar component is a React functional component that renders a navigation bar with a logo and links to different pages.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#props\"></a>Props</h3>\n\n\n\n<p>The Navbar component does not accept any props.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#explanation\"></a>Explanation</h3>\n\n\n\n<p>To use the Navbar component in your React application, you need to import it into your component and render it within your component.</p>\n\n\n\n<p>This React component is responsible for rendering a navigation bar. It imports the React library and an image of the Kinetik logo from a file named Kinetik_logo.png.</p>\n\n\n\n<p>The Navbar component is defined as a functional component using an arrow function. When the component is called, it returns a nav element with an ID of &#8220;nav-bar&#8221; and three&nbsp;<code>a</code>&nbsp;elements that represent the navigation links.</p>\n\n\n\n<p>The first&nbsp;<code>a</code>&nbsp;element is an image of the Kinetik logo that is wrapped in an anchor tag, which is not functional in this case. The image is displayed with a width and height of 30 pixels.</p>\n\n\n\n<p>The second&nbsp;<code>a</code>&nbsp;element represents the Home link, which is highlighted as the current page. The anchor tag has an ID of &#8220;home-link&#8221; and a class of &#8220;link&#8221;. The span element inside the a tag is used to display the current page indication.</p>\n\n\n\n<p>The third&nbsp;<code>a</code>&nbsp;element represents the About link and it redirects to&nbsp;<a href=\"https://www.kinetiksimulation.com/\">https://www.kinetiksimulation.com</a>&nbsp;website. The target attribute of the a tag is set to _blank to open the link in a new tab.</p>\n\n\n\n<p>Finally, the export default statement at the end of the file exports the Navbar component to be used in other files.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#newopsmodulejs\"></a>NewOpsModule.js</h2>\n\n\n\n<p>This React component is responsible for rendering a new operational module. It imports the React library, useEffect, useState, and a component named ScenerioSliders from a file named ScenerioSliders.js.</p>\n\n\n\n<p>The&nbsp;<code>NewOpsModule</code>&nbsp;component is defined as a functional component using an arrow function. When the component is called, it returns a div element with an ID of &#8220;new-ops-module-layout&#8221;, containing a h3 element with a class of &#8220;title&#8221; and a ScenerioSliders component.</p>\n\n\n\n<p>The&nbsp;<code>useState</code>&nbsp;hook is used to define two state variables: sliderValue and uploadCount.&nbsp;<code>sliderValue</code>&nbsp;is an empty array that will be used to store the response from the lambda function. uploadCount is set to zero and updated using the useEffect hook with the&nbsp;<code>props.uploadCount</code>&nbsp;value.</p>\n\n\n\n<p>The&nbsp;<code>handleSliderValue</code>&nbsp;function is an asynchronous function that takes data as a parameter. It is used to call the lambda function to get data for the simulation module. It then updates the&nbsp;<code>sliderValue</code>&nbsp;state using the&nbsp;<code>setSliderValue</code>&nbsp;function and passes the value to the props.handleSliderValue function.</p>\n\n\n\n<p>Finally, the export default statement at the end of the file exports the NewOpsModule component to be used in other files.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#scenariosliderjs\"></a>ScenarioSlider.js</h2>\n\n\n\n<p>This React component is responsible for rendering a scenario slider. It imports the React library,&nbsp;<code>useState</code>&nbsp;hook, and a component named&nbsp;<code>ReactSlider</code>&nbsp;from the react-slider library.</p>\n\n\n\n<p>The&nbsp;<code>ScenerioSlider</code>&nbsp;component is defined as a functional component using an arrow function. It takes three props as arguments: name, mean, and onSliderChange. name and mean are used to display the name of the slider and its mean value, respectively. onSliderChange is a callback function that is called when the user changes the value of the slider.</p>\n\n\n\n<p>The&nbsp;<code>useState</code>&nbsp;hook is used to define a state variable named value. It is set to the mean value passed as a&nbsp;<code>prop</code>&nbsp;and will be used to store the current value of the slider.</p>\n\n\n\n<p>The&nbsp;<code>handleSliderChange</code>&nbsp;function is used to update the value state when the user changes the value of the slider. It takes&nbsp;<code>newValue</code>&nbsp;as a parameter, sets the value state to newValue, and then calls the&nbsp;<code>onSliderChange</code>&nbsp;callback function with the&nbsp;<code>newValue</code>&nbsp;as an argument.</p>\n\n\n\n<p>The return statement returns a div element containing the name and mean values of the slider, a&nbsp;<code>ReactSlider</code>&nbsp;component with custom styling, and the value of the slider displayed below it.</p>\n\n\n\n<p>Finally, the export default statement at the end of the file exports the ScenerioSlider component to be used in other files.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#scenarioslidersjs\"></a>ScenarioSliders.js</h2>\n\n\n\n<p>This component is a React component that displays a set of sliders that allow the user to set values for different sources. The component reads the data from local storage and displays a slider for each source in the data. The user can move the sliders to set the values and then click a &#8220;Confirm&#8221; button to save the changes.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#props-1\"></a>Props</h3>\n\n\n\n<p>The component takes the following props: handleSliderValue: A callback function that will be called with the slider values when the user clicks the &#8220;Confirm&#8221; button. uploadCount: A prop used to trigger the useEffect hook when the file is uploaded.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#explanation-1\"></a>Explanation</h3>\n\n\n\n<p>The first line imports the React library, along with the useState and useEffect hooks. The second line imports another React component called ScenerioSlider from a local file.</p>\n\n\n\n<p>The component defines two state variables: &#8220;data&#8221; and &#8220;sliderValue&#8221;. The &#8220;data&#8221; state stores the response from the lambda function, which is initialized to null. The &#8220;sliderValue&#8221; state stores the current value of the slider and is initialized to an empty array.</p>\n\n\n\n<p>The component uses two useEffect hooks. The first useEffect hook is called whenever the &#8220;props.uploadCount&#8221; property changes. This hook calls a function named &#8220;refreshPage&#8221;, which retrieves data from local storage and updates the &#8220;data&#8221; state variable. If the data exists, it calls the &#8220;change&#8221; function to update the &#8220;sliderValue&#8221; state variable and also passes it to the parent component using the &#8220;props.handleSliderValue&#8221; function.</p>\n\n\n\n<p>The second useEffect hook is called when the component mounts for the first time. This hook calls the &#8220;refreshPage&#8221; function, which retrieves data from local storage and updates the &#8220;data&#8221; state variable.</p>\n\n\n\n<p>The component also defines two functions: &#8220;onClicked&#8221; and &#8220;handleSliderChange&#8221;. The &#8220;onClicked&#8221; function is called when the &#8220;Confirm&#8221; button is clicked and passes the current value of the &#8220;sliderValue&#8221; state variable to the parent component using the &#8220;props.handleSliderValue&#8221; function. The &#8220;handleSliderChange&#8221; function is called when the value of a slider is changed, and it updates the &#8220;sliderValue&#8221; state variable accordingly.</p>\n\n\n\n<p>The component conditionally renders either a message asking the user to upload a file or a set of sliders based on the &#8220;data&#8221; state variable. If &#8220;data&#8221; is null, the component returns a message to the user asking them to upload a file. Otherwise, the component generates a set of sliders based on the &#8220;data&#8221; state variable and returns them along with a &#8220;Confirm&#8221; button. Each slider is created using the ScenerioSlider component, and its initial value is set to the corresponding value in the &#8220;data&#8221; state variable. Whenever a slider is changed, the &#8220;handleSliderChange&#8221; function is called to update the &#8220;sliderValue&#8221; state variable.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#scoreboardjs\"></a>Scoreboard.js</h2>\n\n\n\n<p>This is a React functional component that exports a component called &#8220;Scoreboard&#8221;. It imports the React module and two hooks, useState and useEffect, as well as another component called &#8220;MyResponsiveScoreBoard&#8221; from a local file named &#8220;ScoreboardBarChart&#8221;.</p>\n\n\n\n<p>The Scoreboard component takes in a single prop called &#8220;lambdaOutput&#8221;, which is used to render a bar chart component. The component has an initial state value of an empty array, which is used to keep track of the filtered data that is passed into the bar chart component.</p>\n\n\n\n<p>The useEffect hook is used to parse the data received from the lambda function (if it exists) and set the filteredData state to the appropriate values that will be passed into the MyResponsiveScoreBoard component. The useEffect hook is only called when the lambdaOutput prop changes.</p>\n\n\n\n<p>The render function returns a div element that contains a title and the MyResponsiveScoreBoard component with the filteredData passed in as a prop.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#scoreboardbarchartjs--simulationbarchartjs\"></a>ScoreboardBarChart.js &amp; SimulationBarChart.js</h2>\n\n\n\n<p>The MyResponsiveScoreBoard component is a wrapper around the ResponsiveBar component provided by the @nivo/bar library, which renders a bar chart that displays information about the results of a competition, divided by stages.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#props-2\"></a>Props</h3>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#data-required-an-array-of-objects-representing-the-data-to-be-displayed-in-the-chart\"></a><code>data</code>&nbsp;(required): An array of objects representing the data to be displayed in the chart.</h4>\n\n\n\n<p>Each object should have the following properties:</p>\n\n\n\n<ol>\n<li><code>Stage</code>: a string representing the stage of the competition values: a number representing the number of opportunities at that stage.</li>\n\n\n\n<li><code>keys</code>&nbsp;(required): An array of strings representing the keys used to access the data values in the data objects. In this case, it is an array with a single string value of values.</li>\n\n\n\n<li><code>indexBy</code>&nbsp;(required): A string representing the property of the data objects that should be used as the index of the chart.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#marginan-object-representing-the-margins-of-the-chart\"></a><code>margin</code>:An object representing the margins of the chart.</h4>\n\n\n\n<p>It has the following properties:</p>\n\n\n\n<ol>\n<li><code>top</code>: number representing the top margin.</li>\n\n\n\n<li><code>right</code>: number representing the right margin.</li>\n\n\n\n<li><code>bottom</code>: number representing the bottom margin.</li>\n\n\n\n<li><code>left</code>: number representing the left margin.</li>\n\n\n\n<li><code>padding</code>: number representing the padding between the bars.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#valuescale-an-object-representing-the-scale-used-to-display-the-values\"></a><code>valueScale</code>: An object representing the scale used to display the values.</h4>\n\n\n\n<p>It has the following properties:</p>\n\n\n\n<ol>\n<li><code>type</code>: a string representing the type of scale. In this case, it is set to &#8216;linear&#8217;.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#indexscale-an-object-representing-the-scale-used-to-display-the-index-values\"></a><code>indexScale</code>: An object representing the scale used to display the index values.</h4>\n\n\n\n<p>It has the following properties:</p>\n\n\n\n<ol>\n<li><code>type</code>: a string representing the type of scale. In this case, it is set to &#8216;band&#8217;.</li>\n\n\n\n<li><code>round</code>: a boolean indicating whether to round the scale.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#colors-an-object-representing-the-colors-used-in-the-chart\"></a><code>colors</code>: An object representing the colors used in the chart.</h4>\n\n\n\n<p>It has the following properties:</p>\n\n\n\n<ol>\n<li><code>scheme</code>: a string representing the color scheme. In this case, it is set to &#8216;nivo&#8217;.</li>\n\n\n\n<li><code>colorBy</code>: A string representing the property used to determine the color of the bars.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#defs-an-array-of-objects-representing-the-definitions-used-for-pattern-fills\"></a><code>defs</code>: An array of objects representing the definitions used for pattern fills.</h4>\n\n\n\n<p>Each object should have the following properties:</p>\n\n\n\n<ol>\n<li><code>id</code>: a string representing the ID of the pattern fill.</li>\n\n\n\n<li><code>type</code>: a string representing the type of pattern fill.</li>\n\n\n\n<li><code>background</code>: a string representing the background color of the pattern fill.</li>\n\n\n\n<li><code>color</code>: a string representing the color of the pattern fill.</li>\n\n\n\n<li><code>size</code>: a number representing the size of the pattern fill.</li>\n\n\n\n<li><code>padding</code>: a number representing the padding of the pattern fill.</li>\n\n\n\n<li><code>stagger</code>: a boolean indicating whether to stagger the pattern fill.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#fill-an-array-of-objects-representing-the-pattern-fills-to-use-for-each-data-value\"></a><code>fill</code>: An array of objects representing the pattern fills to use for each data value.</h4>\n\n\n\n<p>Each object should have the following properties:</p>\n\n\n\n<ol>\n<li><code>match</code>: an object representing the criteria for which the pattern fill should be used.</li>\n\n\n\n<li><code>id</code>: a string representing the ID of the pattern fill to use.</li>\n</ol>\n\n\n\n<h4 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#bordercoloran-object-representing-the-border-color-of-the-bars\"></a><code>borderColor</code>:An object representing the border color of the bars.</h4>\n\n\n\n<p>It has the following properties:</p>\n\n\n\n<ol>\n<li><code>from</code>: a string representing the source of the color. In this case, it is set to &#8216;color&#8217;.</li>\n\n\n\n<li><code>modifiers</code>: an array of arrays representing the modifiers to apply to the color. In this case, it is set to [[&#8216;darker&#8217;, 1.6]].</li>\n\n\n\n<li><code>minValue</code>: A number representing the minimum value to display on the y-axis.</li>\n\n\n\n<li><code>enableGridX</code>:A boolean indicating whether to enable the x-axis grid.</li>\n\n\n\n<li><code>axisTop</code>: An object representing the properties of the top axis.</li>\n\n\n\n<li><code>axisRight</code>:An object representing the properties of the right axis.</li>\n\n\n\n<li><code>axisBottom</code>:An object representing the properties of the bottom.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#simulationmodulejs\"></a>SimulationModule.js</h2>\n\n\n\n<p>The file SimulationModule.js is a React component that displays a simulation module containing a slider and a bar chart component. The component fetches data from an API and renders the data in the form of a bar chart. The bar chart displays data for different weeks of a simulation, and the slider allows the user to navigate between the different weeks.</p>\n\n\n\n<p>The component uses several state variables to keep track of the current state of the simulation. The state variables are as follows:</p>\n\n\n\n<p><code>currentIndex</code>: This state variable keeps track of the index of the current week being displayed in the simulation module. It is initialized with a default value of 0.&nbsp;<code>sliderValue</code>: This state variable is used to keep track of the value of the week slider. It is initialized with a default value of 0.&nbsp;<code>isPlaying</code>: This state variable is used to keep track of whether the simulation is currently playing or not. It is initialized with a default value of false.&nbsp;<code>data</code>: This state variable is used to keep track of the data that is passed into the bar chart component. It is initialized with a default value of&nbsp;<code>[[]]</code>.&nbsp;<code>largestValue</code>: This state variable is used to keep track of the largest value in the&nbsp;<code>lambdaOutput</code>&nbsp;state. It is initialized with a default value of 100.&nbsp;<code>lambdaOutput</code>: This state variable will store the response from the lambda function.</p>\n\n\n\n<p>The component uses several functions to update the state variables and fetch data from the API. The functions are as follows:&nbsp;<code>useEffect</code>: This function is used to make a call to the lambda function to get the data for the simulation module. It is called when the component is first rendered. Arguments: None Return Type: None</p>\n\n\n\n<p><code>largestOutput</code>: This function calculates the largest value in the lambdaOutput state and sets the largestValue state with that value. Arguments: None Return Type: None</p>\n\n\n\n<p><code>useEffect</code>: This function is used to update the state variables when the simulation is playing. It is called when the currentIndex, data.length, or isPlaying state variables change. Arguments: None Return Type: None</p>\n\n\n\n<p><code>handleSliderChange</code>: This function is called when the slider is moved and sets the currentIndex and sliderValue states with the new value. Arguments: value (Number): The new value of the slider. Return Type: None</p>\n\n\n\n<p><code>togglePlay</code>: This function is called when the &#8220;Auto Play&#8221; or &#8220;Pause&#8221; button is clicked and toggles the isPlaying state. Arguments: None Return Type: None</p>\n\n\n\n<p><code>useEffect</code>: This function is used to call the lambda function when the props.sliderValue state changes. Arguments: None Return Type: None</p>\n\n\n\n<p><code>callLambdaFunction</code>: This function is called when the &#8220;Start Simulation&#8221; button is clicked and sends a POST request to the getSimulationOutput API endpoint using the input parameter. It then sets the lambdaOutput state with the response. Arguments: input (String): The input to send to the API. Return Type: None</p>\n\n\n\n<p>The component also imports several modules and components that are used in the simulation module. These are as follows:&nbsp;<code>React</code>: The main React library.&nbsp;<code>useState</code>: A React hook that allows the component to use state variables.&nbsp;<code>useEffect</code>: A React hook that allows the component to perform side effects.&nbsp;<code>Slider</code>: A React component that provides a slider for the simulation module.&nbsp;<code>MyResponsiveBar</code>: A custom React component that displays a responsive bar chart based on the data passed to it.&nbsp;<code>Button</code>: A React component that provides a button for the simulation module.&nbsp;<code>Grid</code>: A React component that provides a grid layout for the simulation module.&nbsp;<code>Typography</code>: A React component that provides a typography for the simulation module.&nbsp;<code>CircularProgress</code>: A React component that provides a circular progress bar for the simulation module.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#uploadmodulejs\"></a>UploadModule.js</h2>\n\n\n\n<p>The UploadModule.js file is a React component that displays a control panel for uploading files and selecting a time period. The component imports DragDropFile.js and a template file called kinetik_template_file.xlsx.</p>\n\n\n\n<p>The component has three state variables declared using the useState hook:&nbsp;<code>fileName</code>: This state variable keeps track of the name of the uploaded file.&nbsp;<code>selectedTimePeriod</code>: This state variable keeps track of the selected time period from a dropdown menu. It is initialized with a default value of &#8217;13&#8217;.&nbsp;<code>file</code>: This state variable is a function that updates the fileName state variable after a file is uploaded.</p>\n\n\n\n<p>The component also has two functions:&nbsp;<code>handleTimePeriodChange</code>: This function is called when the user selects a different time period from the dropdown menu. It updates the selectedTimePeriod state variable to the selected value.&nbsp;<code>file</code>: This function is called when a file is uploaded using the DragDropFile component. It updates the fileName state variable with the uploaded file name.</p>\n\n\n\n<p>The component renders a control panel with two sections: The first section displays the title of the control panel and a link to download the template file. The second section displays a dropdown menu to select the time period, the uploaded file name, and the DragDropFile component.</p>\n\n\n\n<p>The DragDropFile component takes in the selectedTimePeriod, handleLambdaOutput, onAction, and handleUploadCount as props. The handleLambdaOutput and handleUploadCount functions are called when the file is uploaded or an action is taken.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#mainframejs\"></a>MainFrame.js</h2>\n\n\n\n<p>This file contains the main layout of the Kinetik Simulation web application. It imports several components and defines their placement in the layout. It also defines several state variables and functions that are used by the child components.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#imports\"></a>Imports</h3>\n\n\n\n<p>The following components are imported at the top of the file:&nbsp;<code>React</code>&nbsp;is the core library for building UI components in React.<code>SimulationModule</code>&nbsp;is a custom component that contains the logic for the simulation of the Kinetik model.&nbsp;<code>UploadModule</code>&nbsp;is a custom component that handles the uploading of files and selection of time periods for the simulation.&nbsp;<code>useState</code>&nbsp;and&nbsp;<code>useEffect</code>&nbsp;are hooks provided by React for managing state and side effects in functional components.&nbsp;<code>NewOpsModule</code>&nbsp;is a custom component that allows the user to adjust operational parameters for the simulation.&nbsp;<code>Scoreboard</code>&nbsp;is a custom component that displays the results of the simulation.<code>alertify</code>&nbsp;is a library for displaying alert messages to the user.&nbsp;<code>Navbar</code>&nbsp;is a custom component that contains the navigation bar for the application. State variables</p>\n\n\n\n<p>The following state variables are defined using the useState hook:&nbsp;<code>lambdaOutput</code>: stores the response from the Lambda function.<code>sliderValue</code>: stores the values of the sliders in the NewOpsModule.&nbsp;<code>uploadCount</code>: stores the number of times a file has been uploaded using the UploadModule.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#functions\"></a>Functions</h3>\n\n\n\n<p>The following functions are defined in the file:&nbsp;<code>handleLambdaOutput</code>: a function that sets the value of the lambdaOutput state variable.<code>handleSliderValue</code>: a function that sets the value of the sliderValue state variable.&nbsp;<code>handleUploadCount</code>: a function that increments the value of the uploadCount state variable.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#side-effects\"></a>Side effects</h3>\n\n\n\n<p>The useEffect hook is used to display a welcome message to the user when they first open the application, if no data has been uploaded yet.</p>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#layout\"></a>Layout</h3>\n\n\n\n<p>The MainFrame component defines the main layout of the application. It contains two main columns, each of which contains two custom components. The left column contains the UploadModule and NewOpsModule, while the right column contains the SimulationModule and Scoreboard. The Navbar component is placed at the top of the page.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>High-level Module Structure Programming Languages we used Languages Platform Python PyCharm JavaScript VS Code React.js VS Code DragDropFile.js This is&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/359"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=359"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/359/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 388,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/359/revisions/388"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=359"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 356,
+        "date": "2023-05-04T22:14:52",
+        "date_gmt": "2023-05-05T02:14:52",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=356"
+        },
+        "modified": "2023-05-05T15:30:57",
+        "modified_gmt": "2023-05-05T19:30:57",
+        "slug": "user-manual",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/user-manual/",
+        "title": {
+            "rendered": "User Manual"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\">Introduction</h2>\n\n\n\n<p>Many large enterprises struggle to grow their business because they lack insight into the constraining factors in their go-to market models. Go-to market models cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. Kinetik’s solution provides scenario analysis to support go-to market optimization through a proprietary set of pipeline velocity metrics, sophisticated predictive analytics and simulation, and a user experience that combines animated simulation results and dynamic visualization of the model. The proprietary opportunity velocity metrics are calculated through the comparison of opportunity states in an automated comparison of historical weekly views extracted from leading CRM systems including Salesforce, Microsoft, and SugarCRM.</p>\n\n\n\n<p>The model produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) with similar opportunity progression profiles. These clusters, “traunches,” become the foundation of the forecasting engine and a unique go-to market profile is developed through an automated machine learning method that assesses week by week changes of a series of historical pipeline snapshots. The solution additionally supports executive level dashboards and simulation visualizations that allow scenario analysis to be executed in real-time without requiring a detailed understanding of the underlying data science and velocity statistics.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#overview\"></a>Overview</h2>\n\n\n\n<p>We developed a web application that utilizes monte-carlo forecasting model to support enterprise revenue growth by optimizing go-to-market strategies through software. With our application, users can upload their data, create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#purpose\"></a>Purpose</h2>\n\n\n\n<p>Our project aims to solve several problems faced by large enterprises in optimizing their go-to-market strategies and improving revenue growth. These problems include:</p>\n\n\n\n<ol>\n<li>Lack of insight into the constraining factors in their go-to-market models. Inability to cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery.</li>\n\n\n\n<li>Poor forecasting accuracy due to a lack of visibility into opportunity velocity metrics.</li>\n\n\n\n<li>Difficulty in identifying opportunity attributes and developing a unique go-to-market profile.</li>\n\n\n\n<li>Lack of real-time scenario analysis capabilities.</li>\n\n\n\n<li>Complexity of underlying data science and velocity statistics that make it challenging for executives to understand and use the information effectively.</li>\n</ol>\n\n\n\n<p>By developing a web application that utilizes monte-carlo forecasting model and combines animated simulation results and dynamic visualization of the model, this project aims to address these problems and provide enterprises with a comprehensive solution for optimizing their go-to-market strategies and improving revenue growth.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#get-started\"></a>Get Started</h2>\n\n\n\n<p>To get started, make sure you are connected to the internet and open the following link:&nbsp;<a href=\"https://main.d2bkww882j30jj.amplifyapp.com/\">https://main.d2bkww882j30jj.amplifyapp.com/</a>. This will take you to the Kinetik Simulation Application View.</p>\n\n\n\n<figure class=\"wp-block-image\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/src/Images/KinetikSimulationStarted.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" src=\"https://github.com/TaoHuang0/Kinetik/raw/main/src/Images/KinetikSimulationStarted.png\" alt=\"Kinetik Simulation Application View\" /></a></figure>\n\n\n\n<p>Upon opening the website, you will see a pop-up message welcoming you to Kinetik Simulation and prompting you to upload a data file to begin the simulation. Simply click the &#8216;OK&#8217; button to exit the alert.</p>\n\n\n\n<figure class=\"wp-block-image\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/src/Images/KinetikUplaodModule.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" src=\"https://github.com/TaoHuang0/Kinetik/raw/main/src/Images/KinetikUplaodModule.png\" alt=\"Kinetik Simulation Application View\" /></a></figure>\n\n\n\n<p>Since you have not uploaded the data file yet, the simulation has not been triggered, and all other modules are showing as empty.</p>\n\n\n\n<p>To upload your data file, navigate to the right-hand side of the&nbsp;<code>Control Panel</code>&nbsp;and click the &#8216;download template&#8217; link. This will download a CSV template file for you to fill in.</p>\n\n\n\n<blockquote class=\"wp-block-quote\">\n<p><strong>ATTENTION</strong>: Please follow the guidance provided in the <a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UploadFileGuidance.md\">GUIDANCE</a> file to complete your upload file. It is essential to follow the format in the guidance file thoroughly for the application to parse your file and run the simulation.</p>\n</blockquote>\n\n\n\n<p>To upload your file, save it to your local device as a CSV file, and then click the upload area in the Control Panel to select and upload it to the application.</p>\n\n\n\n<p>Once you have uploaded the file, select the duration for which you want to forecast by using the dropdown menu in the Control Panel. If you are not sure how long you want to forecast, simply select &#8216;Half Year.&#8217;</p>\n\n\n\n<p>After selecting the duration of the simulation, click the &#8216;Import CSV&#8217; button. This will automatically save your file into your browser&#8217;s local storage and trigger the simulation.</p>\n\n\n\n<p>Please wait for a few seconds&#8230;</p>\n\n\n\n<p>If your file is in the correct format and can be parsed by the application, you will see two pop-up messages indicating that your file was uploaded successfully and the simulation completed successfully.</p>\n\n\n\n<blockquote class=\"wp-block-quote\">\n<p><strong>Notice</strong>: If your file is not in the correct format, you will see an error message pop up. In this case, please go back to your data file and use the guidance to modify your file. For more information and help, please refer to the&nbsp;<a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs\">troubleshooting</a>&nbsp;or&nbsp;<a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs\">FAQ</a>sessions, or contact the&nbsp;<a href=\"https://www.kinetiksimulation.com/\">kinetik simulation staff</a>.</p>\n</blockquote>\n\n\n\n<figure class=\"wp-block-image\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/src/Images/KinetikSImulationView.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" src=\"https://github.com/TaoHuang0/Kinetik/raw/main/src/Images/KinetikSImulationView.png\" alt=\"Kinetik Simulation Application View\" /></a></figure>\n\n\n\n<p>You can now see the simulation running in the &#8216;Simulation/History&#8217; and &#8216;Scoreboard&#8217; modules.</p>\n\n\n\n<p>In the&nbsp;<code>Simulation/History module</code>, you can see the values of each stage in each week, as well as the wins and losses generated by those stages. Use the slider to easily navigaye to the week you want to see. If the value is too small, just hover your mouse over the bar to see the exact value. Click the&nbsp;<code>auto play</code>&nbsp;button to automatically switch between weekly results and get a better sense off how the stages change and generate revenue week by week.&nbsp;<em>Notice:</em>&nbsp;The values show in thie module is cumulated.</p>\n\n\n\n<figure class=\"wp-block-image\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/src/Images/KinetikSimulation.png\" target=\"_blank\" rel=\"noreferrer noopener\"><img decoding=\"async\" src=\"https://github.com/TaoHuang0/Kinetik/raw/main/src/Images/KinetikSimulation.png\" alt=\"Simulation Module View\" /></a></figure>\n\n\n\n<p>At the buttom right, there is a&nbsp;<code>Scoreboard Module</code>&nbsp;for you to keep track of quarterly wins and loses. Each bar in this module is representing the wins and losses for the 13 weeks duration.&nbsp;<em>Notice:</em>&nbsp;The values show in thie module is NOT cumulated.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#features\"></a>Features</h2>\n\n\n\n<p>There are two features you can use to see the result from the simulation:</p>\n\n\n\n<ol>\n<li>Using the&nbsp;<code>auto play</code>&nbsp;button in the Simulation/History Module. The auto play button is used to automatically play the simulation week by week without the user having to manually slide the slider to the right. The simulation will automatically stop after reaching the end of duration.</li>\n\n\n\n<li>Using the&nbsp;<code>Slider</code>&nbsp;in the button of the Simulation/History Module. The slider is used to control the week of simulation result being displayed in the simulation module.</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\"><a href=\"https://github.com/TaoHuang0/Kinetik/blob/main/docs/UserManual.md#create-scenarios\"></a>Create Scenarios</h2>\n\n\n\n<p>On the bottom left, you can create scenarios with different sliders based on your input file. Once you visualize the simulation results, you may want to try out different scenarios by adjusting the sliders up or down to observe their impact. After adjusting the slider values, click the &#8216;Confirm&#8217; button located at the bottom of the &#8216;Scenario Module&#8217;.</p>\n\n\n\n<blockquote class=\"wp-block-quote\">\n<p><em>Attention:</em>&nbsp;Please note that if there are too many new opportunity sliders, the &#8216;Confirm&#8217; button may be hidden. In such cases, scroll down to the end of the &#8216;Scenario Module&#8217; to find it.</p>\n</blockquote>\n\n\n\n<p>You should see changes in the simulation results after adjusting the slider values and clicking the &#8216;Confirm&#8217; button.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Introduction Many large enterprises struggle to grow their business because they lack insight into the constraining factors in their go-to&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/356"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=356"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/356/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 397,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/356/revisions/397"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=356"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 350,
+        "date": "2023-05-04T17:28:16",
+        "date_gmt": "2023-05-04T21:28:16",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=350"
+        },
+        "modified": "2023-05-04T17:28:16",
+        "modified_gmt": "2023-05-04T21:28:16",
+        "slug": "d5-code",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/d5-code/",
+        "title": {
+            "rendered": "D5. Code"
+        },
+        "content": {
+            "rendered": "\n<p>Follow this link to the GitHub repo to access the code:</p>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://github.com/TaoHuang0/Kinetik\" target=\"_blank\" rel=\"noreferrer noopener\">Kinetik GitHub</a></div>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Follow this link to the GitHub repo to access the code:</p>\n",
             "protected": false
         },
         "author": 5771,
@@ -34,7 +636,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/350"
                 }
             ],
             "collection": [
@@ -56,368 +658,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=135"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 19,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 202,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/135/revisions/202"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=135"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 87,
-        "date": "2023-01-20T15:34:14",
-        "date_gmt": "2023-01-20T20:34:14",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=87"
-        },
-        "modified": "2023-01-29T15:14:24",
-        "modified_gmt": "2023-01-29T20:14:24",
-        "slug": "roles",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/roles/",
-        "title": {
-            "rendered": "Roles &amp; Contact"
-        },
-        "content": {
-            "rendered": "\n<p><strong>Project Manager</strong></p>\n\n\n\n<p>Todd Huang<br><a href=\"mailto:thuang@unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">thuang@unc.edu</a></p>\n\n\n\n<p><strong>Client Coordinator</strong></p>\n\n\n\n<p>Terrence Kapur <br><a href=\"mailto:tjkapur@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">tjkapur@live.unc.edu</a></p>\n\n\n\n<p><strong>Design Lead</strong></p>\n\n\n\n<p>Kadhir Patchamuthu<br><a rel=\"noreferrer noopener\" href=\"mailto:kadhirp@live.unc.edu\" target=\"_blank\">kadhirp@live.unc.edu</a>  </p>\n\n\n\n<p><strong>Technical Lead</strong></p>\n\n\n\n<p>Luke Duckworth<br><a href=\"mailto:lukeduck@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">lukeduck@live.unc.edu</a></p>\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:teaml523@office.unc.edu\">Email Us</a></div>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Project Manager Todd Huangthuang@unc.edu Client Coordinator Terrence Kapur tjkapur@live.unc.edu Design Lead Kadhir Patchamuthukadhirp@live.unc.edu Technical Lead Luke Duckworthlukeduck@live.unc.edu</p>\n",
-            "protected": false
-        },
-        "author": 13632,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/87"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=87"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 8,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/87/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 146,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/87/revisions/146"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=87"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 64,
-        "date": "2023-01-18T13:00:14",
-        "date_gmt": "2023-01-18T18:00:14",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=64"
-        },
-        "modified": "2023-01-20T16:45:54",
-        "modified_gmt": "2023-01-20T21:45:54",
-        "slug": "rules",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/rules/",
-        "title": {
-            "rendered": "Rules"
-        },
-        "content": {
-            "rendered": "\n<ol>\n<li>Respect to each member, do not interrupt when someone is talking.<br></li>\n\n\n\n<li>Meet at least once a week as a group to discuss our progress at <strong><mark class=\"has-inline-color has-red-color\">11:30 am on Monday</mark></strong>, for around 1.5 hours.</li>\n\n\n\n<li>Each team member is expected to attend weekly group meeting, coach meeting, and bi-weekly client meeting. Communicate in advanced when you can not make the meeting.</li>\n\n\n\n<li>Respond to the group chat and emails ASAP.</li>\n\n\n\n<li>Have a good coding practice\n<ul>\n<li>Must write documentations for code</li>\n\n\n\n<li>Must cite the source if you borrow code</li>\n\n\n\n<li>Make small commits and frequently review pull requests to avoid merge conflicts</li>\n</ul>\n</li>\n</ol>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13632,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/64"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=64"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/64/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 120,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/64/revisions/120"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=64"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 33,
-        "date": "2023-01-15T21:26:43",
-        "date_gmt": "2023-01-16T02:26:43",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=33"
-        },
-        "modified": "2023-02-06T15:52:55",
-        "modified_gmt": "2023-02-06T20:52:55",
-        "slug": "journals",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/journals/",
-        "title": {
-            "rendered": "Journals"
-        },
-        "content": {
-            "rendered": "\n<ul>\n<li>02/02/2023 <strong>(Client Meeting &amp; Followed be a Group Meeting)</strong>\n<ul>\n<li>Met with Mr. Hughes at the new Launch Chapel Hill.</li>\n\n\n\n<li>Mr. Hughes presented his go-to market simulation model to us on Excel. He explained how the model works and what is his expectations of the MVP software.</li>\n\n\n\n<li>We introduced our February plan to Mr. Hughes (https://docs.google.com/document/d/154e-Iy9etBTzYXAUiN1DbzGwKw6T1V_S2fGvKKX6u2E/edit?usp=sharing)\n<ul>\n<li>Replicate the Excel model in Python (Pycharm?)\n<ol>\n<li>Variables, changeable opportunities…</li>\n\n\n\n<li>Use fake data</li>\n\n\n\n<li>Push to Github for now</li>\n</ol>\n</li>\n\n\n\n<li>Test Plan: Perform unit tests for the model, ask professors to verify the python model with us</li>\n\n\n\n<li>Possibly need to do data transfer. How do clients give their data? In what format?\n<ol>\n<li>Logs, csv, excel, json files?</li>\n\n\n\n<li>Create a structural object to save this data (SQL).</li>\n</ol>\n</li>\n\n\n\n<li>Test Plan: Test the python model with real data.</li>\n</ul>\n</li>\n\n\n\n<li>We decided our next step is to replicate the model functionalities in Pycharm.</li>\n</ul>\n</li>\n\n\n\n<li>01/30/2023 <strong>(Coach Meeting)</strong>\n<ul>\n<li>Talks about our progress with coach Louie, our project is very straightforward and has a list of tasks to do.</li>\n\n\n\n<li>Achieved the plan for last week, finished User Stories, finished updating our website.</li>\n\n\n\n<li>The next step we need to do is to ask Mr. Hughes to present his Excel model with us.</li>\n</ul>\n</li>\n\n\n\n<li>01/26/2023 (<strong>First In-Person Client Meeting</strong>)\n<ul>\n<li>Meet with our client Mr. David Hughes</li>\n\n\n\n<li>Mr. Hughes introduces his kinetik project to us</li>\n\n\n\n<li>Weekly in-person client meeting at Launch Chapel Hill on Thursday at 3:30 pm</li>\n\n\n\n<li>Define 10 technical sprints for the project\n<ul>\n<li>Upload file to AWS through kinetik.solutions</li>\n\n\n\n<li>Convert Figma design to AWS Amplify interface</li>\n\n\n\n<li>Validate forecasting model with UNC Statistics professor or grad student</li>\n\n\n\n<li>Review excel model and replicate functionality in Python (test Jeff’s code)</li>\n\n\n\n<li>Publish code to AWS from GitHub</li>\n\n\n\n<li>Meet with Amazon Development team weekly</li>\n\n\n\n<li>Meet with K-F MBA team to hear market feedback</li>\n\n\n\n<li>Natural Language Processing model for sales and marketing issues, best practices and optimization methods</li>\n\n\n\n<li>Recruit technical mentors (Data Science, Statistics / Monte Carlo, AWS)</li>\n\n\n\n<li>Determine JavaScript vs. TypeScript (https://www.toptal.com/typescript/typescript-vs-javascript-guide)</li>\n</ul>\n</li>\n\n\n\n<li>Created an iMessage group chat with Mr. Hughes</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/20/2023\n<ul>\n<li>Change one of our project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>01/18/2023 (<strong>Group Meeting 2</strong>)<br>\n<ul>\n<li>Discuss team rules</li>\n\n\n\n<li>Assign team roles</li>\n\n\n\n<li>Discuss every member&#8217;s skill stack</li>\n\n\n\n<li>Read through all projects together and select projects 6 project prefrences</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>01/13/2023 (<strong>Group Meeting 1</strong>)<br>\n<ul>\n<li>First group meeting!</li>\n\n\n\n<li>Created our group website</li>\n\n\n\n<li>Discuss every member&#8217;s availability and assign weekly meeting time</li>\n</ul>\n</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13632,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=33"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 186,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/33/revisions/186"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=33"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 31,
-        "date": "2023-01-15T21:24:54",
-        "date_gmt": "2023-01-16T02:24:54",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=31"
-        },
-        "modified": "2023-01-15T21:24:54",
-        "modified_gmt": "2023-01-16T02:24:54",
-        "slug": "presentations",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/presentations/",
-        "title": {
-            "rendered": "Presentations"
-        },
-        "content": {
-            "rendered": "\n<p>To be uploaded&#8230;</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>To be uploaded&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13632,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/31"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=31"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=350"
                 }
             ],
             "version-history": [
                 {
                     "count": 1,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/31/revisions"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/350/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 32,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/31/revisions/32"
+                    "id": 351,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/350/revisions/351"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=31"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=350"
                 }
             ],
             "curies": [
@@ -430,27 +688,27 @@
         }
     },
     {
-        "id": 29,
-        "date": "2023-01-15T21:24:32",
-        "date_gmt": "2023-01-16T02:24:32",
+        "id": 339,
+        "date": "2023-05-01T16:01:48",
+        "date_gmt": "2023-05-01T20:01:48",
         "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=29"
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=339"
         },
-        "modified": "2023-01-30T08:57:12",
-        "modified_gmt": "2023-01-30T13:57:12",
-        "slug": "deliverables",
+        "modified": "2023-05-01T16:01:48",
+        "modified_gmt": "2023-05-01T20:01:48",
+        "slug": "platform-selection-2",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/deliverables/",
+        "link": "https://tarheels.live/comp523s23teaml/platform-selection-2/",
         "title": {
-            "rendered": "Deliverables"
+            "rendered": "Platform Selection:"
         },
         "content": {
-            "rendered": "\n<p style=\"font-size:30px\">D1. Specifications</p>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">User Stories:</h2>\n\n\n\n<ul>\n<li><strong>As a</strong> business executive, <strong>I want</strong> to get a readable overview of our projected go to market model <strong>so that</strong> I can implement necessary changes in order to optimize our business practices.</li>\n\n\n\n<li><strong>As a</strong> data analyst <strong>I want</strong> to examine variables that could alter the projection of our go to market model <strong>so that</strong> I can inform management of particular changes that should be made.</li>\n\n\n\n<li><strong>As a</strong> data scientist <strong>I want</strong> to examine variables that may be limiting our product development and market optimization <strong>so that</strong> I can pinpoint potential areas of improvement for the business I am working for.</li>\n\n\n\n<li><strong>As an</strong> economist <strong>I want</strong> to simulate the market for any particular business <strong>so that</strong> I can combine this with my expertise to analyze the market as a whole.</li>\n\n\n\n<li><strong>As a</strong> product manager <strong>I want</strong> determine what we could change about product development <strong>so that</strong> I can outline positive changes to be made.</li>\n</ul>\n\n\n\n<h2 class=\"has-blue-color has-text-color\">Requirements:</h2>\n\n\n\n<h2 class=\"has-medium-font-size\">Functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Non-functional:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2 class=\"has-medium-font-size\">Interface:</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable</strong>\n<ul>\n<li>&#8230;</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Languages:</strong></p>\n\n\n\n<ul>\n<li>Python (using PyCharm IDE)\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Provides great functionality in terms of efficiently and concisely calculating the required data for the simulation, allows OOP, additionally has a great set of mathematical and graphing libraries that are useful for this project, and the client had some previous code written in Python</li>\n\n\n\n<li>Python is very powerful for modeling and doing computation, so it is much easier for us to replicate the Excel model in Python</li>\n</ul>\n</li>\n\n\n\n<li>JavaScript (using VSCode)\n<ul>\n<li>Powerful front-end scripting technology that all group members have experience with, and used in ReactJS</li>\n\n\n\n<li>Team has more experience on JavaScript</li>\n\n\n\n<li>Recommended by Client</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Alternatives:</strong></p>\n\n\n\n<ul>\n<li>TypeScript (using VSCode)\n<ul>\n<li>More strict grammar than JavaScript, so higher stability</li>\n\n\n\n<li>TypeScript is an OOP language</li>\n\n\n\n<li>Less popular than JavaScript</li>\n\n\n\n<li>Team has less experience on TypeScript</li>\n\n\n\n<li>Also recommended by client</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Libraries:</strong></p>\n\n\n\n<ul>\n<li>NumPy\n<ul>\n<li>Allows quick and efficient generation of a random number from a normal distribution, essential to our project</li>\n</ul>\n</li>\n\n\n\n<li>Alertly.js\n<ul>\n<li>AlertifyJS is a JavaScript library for creating alert, confirm and prompt dialogs in web applications. It provides a simple and easy-to-use API for displaying customizable dialogs and notifications with a variety of options and settings.</li>\n\n\n\n<li>Support for multiple types of dialogs, including alerts, confirms, and prompts.</li>\n\n\n\n<li>Customizable dialog content, buttons, and behavior.</li>\n\n\n\n<li>Built-in support for various animation and transition effects.</li>\n</ul>\n</li>\n\n\n\n<li>Nivo.Rocks\n<ul>\n<li>With 19k stars on Github, 1.1M npm downloads</li>\n\n\n\n<li>One of the most popular charting library for React</li>\n\n\n\n<li>Nivo follows React’s component principle by enabling users to build charts with its reusable React components.</li>\n\n\n\n<li>Very easy to use with React</li>\n\n\n\n<li>Team has more experience on this</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Alternatives:</strong></p>\n\n\n\n<ul>\n<li>React-chartjs-2\n<ul>\n<li>With 5.7k stars on Github</li>\n\n\n\n<li>React-chartjs-2 is a React wrapper for the popular JavaScript Chart.js library.</li>\n\n\n\n<li>It supports animation and most of the charts it offers are responsive by default.</li>\n\n\n\n<li>Less popular than Recharts</li>\n\n\n\n<li>Team has less experience on this</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Hosting:</strong></p>\n\n\n\n<ul>\n<li>AWS Amplify\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Compatible with React and the client wants to use this technology and utilize AWS as much as possible</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Front End:&nbsp;</strong></p>\n\n\n\n<ul>\n<li>ReactJS\n<ul>\n<li>Client wants to use this technology to build the user interface, provides speed and flexibility, and some group members have experience with it</li>\n\n\n\n<li>Team has more experience on React</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Alternatives:</strong></p>\n\n\n\n<ul>\n<li>Angular\n<ul>\n<li>Team has no experience on Angular</li>\n\n\n\n<li>Angular is better than React if the application is enterprise-grade and need to incorporate complex functionalities</li>\n\n\n\n<li>If we choose TypeScript, we need to use Angular instead</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Back End:</strong></p>\n\n\n\n<ul>\n<li>AWS\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Used for hosting the back-end calculations and data storage&nbsp;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Database:</strong></p>\n\n\n\n<ul>\n<li>AWS Amazon S3\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Used to store a user’s historical go-to-market data used to calculate required inputs to feed into the simulation</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-blue-color has-text-color has-medium-font-size\"><strong>Input Text File:</strong></p>\n\n\n\n<ul>\n<li>Excel (CSV)\n<ul>\n<li>Client Preference</li>\n\n\n\n<li>Team has experience on handling CSV file</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>D1. Specifications User Stories: Requirements: Functional: Non-functional: Interface:</p>\n",
+            "rendered": "<p>Languages: Alternatives: Libraries: Alternatives: Hosting: Front End:&nbsp; Alternatives: Back End: Database: Input Text File:</p>\n",
             "protected": false
         },
         "author": 13632,
@@ -464,7 +722,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/339"
                 }
             ],
             "collection": [
@@ -486,282 +744,110 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=29"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=339"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/339/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 340,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/339/revisions/340"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=339"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 336,
+        "date": "2023-05-01T15:08:07",
+        "date_gmt": "2023-05-01T19:08:07",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=336"
+        },
+        "modified": "2023-05-04T22:38:28",
+        "modified_gmt": "2023-05-05T02:38:28",
+        "slug": "d4-documentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523s23teaml/d4-documentation/",
+        "title": {
+            "rendered": "D4. Documentation"
+        },
+        "content": {
+            "rendered": "\n<p>Our Documentations include 6 parts:</p>\n\n\n\n<ol>\n<li>User Manual (https://tarheels.live/comp523s23teaml/user-manual/)</li>\n\n\n\n<li>Administrator Manual (https://tarheels.live/comp523s23teaml/administrator-documentation1/)</li>\n\n\n\n<li>Input File Tutorial (https://tarheels.live/comp523s23teaml/input-file-tutorial1/)</li>\n\n\n\n<li>Developer Documentation (https://tarheels.live/comp523s23teaml/developer-code-documentation/)</li>\n\n\n\n<li>FAQs (https://tarheels.live/comp523s23teaml/faqs/)</li>\n\n\n\n<li>Testing Documentation (https://tarheels.live/comp523s23teaml/testing-documentation1/)</li>\n</ol>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our Documentations include 6 parts:</p>\n",
+            "protected": false
+        },
+        "author": 13632,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/336"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=336"
                 }
             ],
             "version-history": [
                 {
                     "count": 4,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/336/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 171,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/29/revisions/171"
+                    "id": 384,
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/336/revisions/384"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=29"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 24,
-        "date": "2023-01-15T21:16:12",
-        "date_gmt": "2023-01-16T02:16:12",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=24"
-        },
-        "modified": "2023-01-29T14:31:53",
-        "modified_gmt": "2023-01-29T19:31:53",
-        "slug": "schedule",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/schedule/",
-        "title": {
-            "rendered": "Meeting Schedule"
-        },
-        "content": {
-            "rendered": "\n<p>Team Meetings: <strong>In Person</strong> Weekly <strong><mark class=\"has-inline-color has-orange-color\">Monday from 11:30 AM &#8211; 1:00 PM</mark></strong></p>\n\n\n\n<p>Coach Meetings: Weekly <strong><mark class=\"has-inline-color has-orange-color\">Monday from 4:00 pm &#8211; 4:30 PM</mark></strong></p>\n\n\n\n<p>Client Meetings: Weekly <strong><mark class=\"has-inline-color has-orange-color\">Thursday from 3:30 PM &#8211; 4:30 PM</mark></strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Team Meetings: In Person Weekly Monday from 11:30 AM &#8211; 1:00 PM Coach Meetings: Weekly Monday from 4:00 pm &#8211;&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13632,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/24"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=24"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 10,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/24/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 133,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/24/revisions/133"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=24"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 12,
-        "date": "2023-01-15T20:45:28",
-        "date_gmt": "2023-01-16T01:45:28",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=12"
-        },
-        "modified": "2023-01-20T16:04:32",
-        "modified_gmt": "2023-01-20T21:04:32",
-        "slug": "team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/team/",
-        "title": {
-            "rendered": "Team"
-        },
-        "content": {
-            "rendered": "\n<p></p>\n\n\n\n<p style=\"font-size:16px\"><strong>Project Manager</strong></p>\n\n\n\n<p>Todd Huang<br><a href=\"mailto:thuang@unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">thuang@unc.edu</a></p>\n\n\n\n<p style=\"font-size:16px\"><strong>Client Coordinator</strong></p>\n\n\n\n<p style=\"font-size:16px\">Terrence Kapur <br><a href=\"mailto:tjkapur@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">tjkapur@live.unc.edu</a></p>\n\n\n\n<p style=\"font-size:16px\"><strong>Design Lead</strong></p>\n\n\n\n<p style=\"font-size:16px\">Kadhir Patchamuthu<br><a href=\"mailto:kadhirp@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">kadhirp@live.unc.edu</a>  </p>\n\n\n\n<p style=\"font-size:16px\"><strong>Technical Lead</strong></p>\n\n\n\n<p style=\"font-size:16px\">Luke Duckworth<br><a href=\"mailto:lukeduck@live.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\">lukeduck@live.unc.edu</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button is-style-fill\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:teaml523@office.unc.edu\" target=\"_blank\" rel=\"noreferrer noopener\"><strong>Email Us</strong></a></div>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Project Manager Todd Huangthuang@unc.edu Client Coordinator Terrence Kapur tjkapur@live.unc.edu Design Lead Kadhir Patchamuthukadhirp@live.unc.edu Technical Lead Luke Duckworthlukeduck@live.unc.edu</p>\n",
-            "protected": false
-        },
-        "author": 13632,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/12"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/13632"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=12"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 23,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/12/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 100,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/12/revisions/100"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=12"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 2,
-        "date": "2023-01-13T21:45:25",
-        "date_gmt": "2023-01-13T21:45:25",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523s23teaml/?page_id=2"
-        },
-        "modified": "2023-01-30T15:52:35",
-        "modified_gmt": "2023-01-30T20:52:35",
-        "slug": "sample-page",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523s23teaml/",
-        "title": {
-            "rendered": "Home"
-        },
-        "content": {
-            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>Kinetik is a start-up company developing a forecasting model which underpins enterprise revenue growth through go-to market optimization software.</p>\n\n\n\n<h2>Project Description</h2>\n\n\n\n<p>Many large enterprises struggle to grow their business because they lack insight into the constraining factors in their go-to market models. Go-to market models cross multiple functions including Sales, Marketing, Sales Operations, Business Partners, and Delivery. Kinetik&#8217;s solution provides scenario analysis to support go-to market optimization through a proprietary set of pipeline velocity metrics, sophisticated predictive analytics and simulation, and a user experience that combines animated simulation results and dynamic visualization of the model. The proprietary opportunity velocity metrics are calculated through the comparison of opportunity states in an automated comparison of historical weekly views extracted from leading CRM systems including Salesforce, Microsoft, and SugarCRM.<br><br>The model produces superior forecasts through cluster analysis of opportunities to identify opportunity attributes (e.g. identification channel, seller community, marketing tactic, prospect industry, etc) with similar opportunity progression profiles. These clusters, &#8220;traunches,&#8221; become the foundation of the forecasting engine and a unique go-to market profile is developed through an automated machine learning method that assesses week by week changes of a series of historical pipeline snapshots. The solution additionally supports executive level dashboards and simulation visualizations that allow scenario analysis to be executed in real-time without requiring a detailed understanding of the underlying data science and velocity statistics.</p>\n\n\n\n<p>The user experience is essential and is built around visual components (e.g. sliders, knobs, incremental improvement inputs), so <strong>we will develop a software to integrate the existing forecast model in AWS, enabling senior executives to create scenarios and visualize the impact of go-to-market model changes on the opportunity pipeline in the application. The Figma design is available and needs to be coded using JavaScript. The existing Excel model may also need to be replicated using Python code.</strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project. Project Overview Kinetik is a start-up company developing a forecasting model which&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 8114,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/users/8114"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/comments?post=2"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 17,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 183,
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/pages/2/revisions/183"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=2"
+                    "href": "https://tarheels.live/comp523s23teaml/wp-json/wp/v2/media?parent=336"
                 }
             ],
             "curies": [

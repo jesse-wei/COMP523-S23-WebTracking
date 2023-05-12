@@ -16,7 +16,7 @@
             "rendered": "Home"
         },
         "content": {
-            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2>Overview</h2>\n\n\n\n<p>About to come&#8230;</p>\n",
+            "rendered": "\n<p>Welcome to Team L&#8217;s COMP523 Spring 2023 Project.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Overview</h2>\n\n\n\n<p>About to come&#8230;</p>\n",
             "protected": false
         },
         "excerpt": {
