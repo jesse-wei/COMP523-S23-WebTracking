@@ -1,29 +1,29 @@
 [
     {
-        "id": 74,
-        "date": "2023-01-30T14:44:50",
-        "date_gmt": "2023-01-30T19:44:50",
+        "id": 221,
+        "date": "2023-05-02T22:01:50",
+        "date_gmt": "2023-05-03T02:01:50",
         "guid": {
-            "rendered": "https://tarheels.live/comp523groupn/?page_id=74"
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=221"
         },
-        "modified": "2023-02-07T08:40:01",
-        "modified_gmt": "2023-02-07T13:40:01",
-        "slug": "specifications",
+        "modified": "2023-05-02T22:04:44",
+        "modified_gmt": "2023-05-03T02:04:44",
+        "slug": "d2-design-document",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523groupn/specifications/",
+        "link": "https://tarheels.live/comp523groupn/d2-design-document/",
         "title": {
-            "rendered": "Specifications"
+            "rendered": "D2. Design Document"
         },
         "content": {
-            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As an adolescent transitioning to adulthood,&nbsp;</li>\n\n\n\n<li>I want a visualized report or feedback from the STARx survey,</li>\n\n\n\n<li>So that I can see how ready I am for the transition.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As an adolescent transitioning to adulthood,&nbsp;</li>\n\n\n\n<li>I want my report from the STARx survey to be printable,</li>\n\n\n\n<li>So that I can hand it over to my medical provider and keep it in my health record.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a pediatric specialist,&nbsp;</li>\n\n\n\n<li>I want to see a visualized report of my patients,</li>\n\n\n\n<li>So that I can provide customized treatment for my patients.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a manager of the STARx program,&nbsp;</li>\n\n\n\n<li>I want to store survey responses in a HIPAA-compliant database,</li>\n\n\n\n<li>So that I can keep a record of each response and analyze the data to see what patterns they have.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a manager of the STARx program,&nbsp;</li>\n\n\n\n<li>I want each respondent to the survey to have a unique ID,</li>\n\n\n\n<li>So that I can keep track of the longitudinal data of the respondents.</li>\n</ul>\n\n\n\n<ul>\n<li>As a parent of an adolescent transitioning to adulthood,</li>\n\n\n\n<li>I want a visualized report or feedback from the STARx survey,</li>\n\n\n\n<li>So that I can see how ready my child is for the transition.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a user who does not speak English or Spanish,&nbsp;</li>\n\n\n\n<li>I want to take the STARx survey in my language,</li>\n\n\n\n<li>So that I can have a better understanding of the question and make the result reflect well on me.&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>As a user who does not live in an English- or Spanish-speaking country,&nbsp;</li>\n\n\n\n<li>I want the STARx survey to generate a report in my language,</li>\n\n\n\n<li>So that I can give my report to the local pediatrician who does not speak English or Spanish for further guidance.&nbsp;</li>\n</ul>\n\n\n\n<h2>Functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be able to collect responses to the STARx Questionnaire and store them in the UNC-hosted database that is HIPAA-compliant for longitudinal tracking and analytical purposes.</li>\n\n\n\n<li>Should have a patient login feature to track changes in patients over time.</li>\n\n\n\n<li>The questionnaire will be able to generate an attractive and sensitive score report upon completion for each respondent. This includes automated score calculation and generation of graphic visualization</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps</strong>\n<ul>\n<li>There will be a new online survey for the TRxANSITION Index</li>\n\n\n\n<li>There will be support for printable PDF report of the patients’ or parents’ responses to be used in the patients’ health records</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h2>Non-functional Requirements</h2>\n\n\n\n<ul>\n<li><strong>Definite</strong>\n<ul>\n<li>This web application will be hosted on the Carolina CloudApps for global users</li>\n\n\n\n<li>The web application will support additional languages other than English and Spanish</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<p>Platform Selection: https://tarheels.live/comp523groupn/platform-selection/</p>\n\n\n\n<p>Architecture: https://tarheels.live/comp523groupn/architecture-diagram/</p>\n\n\n\n<p>Code Repository: https://github.com/XavierHilbert/starx-app</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories Functional Requirements Non-functional Requirements</p>\n",
+            "rendered": "<p>Platform Selection: https://tarheels.live/comp523groupn/platform-selection/ Architecture: https://tarheels.live/comp523groupn/architecture-diagram/ Code Repository: https://github.com/XavierHilbert/starx-app</p>\n",
             "protected": false
         },
-        "author": 13743,
+        "author": 13777,
         "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
@@ -34,7 +34,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/221"
                 }
             ],
             "collection": [
@@ -50,116 +50,30 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=74"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 93,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/74/revisions/93"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=74"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 37,
-        "date": "2023-01-18T19:54:13",
-        "date_gmt": "2023-01-19T00:54:13",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupn/?page_id=37"
-        },
-        "modified": "2023-01-30T12:39:15",
-        "modified_gmt": "2023-01-30T17:39:15",
-        "slug": "homepage",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupn/",
-        "title": {
-            "rendered": "Home"
-        },
-        "content": {
-            "rendered": "\n<h2>About the STARx Program</h2>\n\n\n\n<p>The STARx (Successful Transition to Adulthood with Rx=treatment) Program, founded by Dr.<strong> </strong>Maria E. Díaz-González de Ferris and her team in 2006, serves adolescents and young adults who have chronic physical and/or mental health conditions by helping them develop and improve self-management skills and disease knowledge. It also prepares parents and caregivers to &#8220;let go&#8221; of responsibilities to manage their children&#8217; health management, going from &#8220;active manager&#8221; to &#8220;coaches&#8221;. The program provides the self-administered STARx Questionnaire for patients and parents and the provider-administered TRxANSITION Index to measure the overall transition readiness.</p>\n\n\n\n<h2>Project Overview</h2>\n\n\n\n<p>This project is an extension of the STARx Survey Platform. The STARx Survey Platform is a tool, developed and maintained by a previous UNC team (led by Amelia Paulsen), that digitizes the self-administered STARx Questionnaire and makes it publicly accessible from the UNC School of Medicine website. The primary goal of this project is to build upon the existing survey platform and add additional functionalities. Specifically, we seek to develop a more attractive, sensitive, and comprehensive score reporting system with graphic visualization, a data collection system that gathers and stores HIPAA-compliant responses to the UNC hosted database, and potentially a new online questionnaire for the TRxANSITION Index. We also plan to host the platform on the Carolina CouldApps for users around the globe and add support for more languages other than English and Spanish.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>About the STARx Program The STARx (Successful Transition to Adulthood with Rx=treatment) Program, founded by Dr. Maria E. Díaz-González de Ferris&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13743,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/37"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=37"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=221"
                 }
             ],
             "version-history": [
                 {
                     "count": 4,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/37/revisions"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/221/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 72,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/37/revisions/72"
+                    "id": 228,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/221/revisions/228"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=37"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=221"
                 }
             ],
             "curies": [
@@ -172,116 +86,30 @@
         }
     },
     {
-        "id": 2,
-        "date": "2023-01-18T02:11:14",
-        "date_gmt": "2023-01-18T02:11:14",
+        "id": 215,
+        "date": "2023-05-02T21:52:36",
+        "date_gmt": "2023-05-03T01:52:36",
         "guid": {
-            "rendered": "https://tarheels.live/comp523groupn/?page_id=2"
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=215"
         },
-        "modified": "2023-01-23T08:54:25",
-        "modified_gmt": "2023-01-23T13:54:25",
-        "slug": "sample-page",
+        "modified": "2023-05-02T21:55:47",
+        "modified_gmt": "2023-05-03T01:55:47",
+        "slug": "code",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523groupn/sample-page/",
+        "link": "https://tarheels.live/comp523groupn/code/",
         "title": {
-            "rendered": "Contact"
+            "rendered": "Code"
         },
         "content": {
-            "rendered": "\n<p><a href=\"mailto:xavierh@email.unc.edu,shiqi@unc.edu,haonan@unc.edu,zkzhu@email.unc.edu\">Contact Us</a></p>\n\n\n\n<ul>\n<li>Xavier Hilbert, <a href=\"mailto:xavierh@email.unc.edu\">xavierh@email.unc.edu</a></li>\n\n\n\n<li>Shiqi Zhang, <a href=\"mailto:shiqi@unc.edu\">shiqi@unc.edu</a></li>\n\n\n\n<li>Tom Xu, <a href=\"mailto:haonan@unc.edu\">haonan@unc.edu</a></li>\n\n\n\n<li>Zhenkai Zhu, <a href=\"mailto:zkzhu@email.unc.edu\">zkzhu@email.unc.edu</a></li>\n</ul>\n",
+            "rendered": "\n<p>You can find our code at https://github.com/XavierHilbert/starx-app</p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Contact Us</p>\n",
+            "rendered": "<p>You can find our code at https://github.com/XavierHilbert/starx-app</p>\n",
             "protected": false
         },
-        "author": 13743,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=2"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 12,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/2/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 70,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/2/revisions/70"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=2"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 14,
-        "date": "2023-01-17T21:55:31",
-        "date_gmt": "2023-01-18T02:55:31",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupn/?page_id=14"
-        },
-        "modified": "2023-01-20T05:03:11",
-        "modified_gmt": "2023-01-20T10:03:11",
-        "slug": "rules",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupn/rules/",
-        "title": {
-            "rendered": "Rules"
-        },
-        "content": {
-            "rendered": "\n<ol>\n<li>Let everyone know 2 days in advance if he or she can not make the meeting.</li>\n\n\n\n<li>Communicate before you do something on your own.</li>\n\n\n\n<li>Be respectful of others ideas.</li>\n\n\n\n<li>Stick to the deadlines.</li>\n\n\n\n<li>Have fun!</li>\n</ol>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13743,
+        "author": 13777,
         "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
@@ -292,7 +120,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/14"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/215"
                 }
             ],
             "collection": [
@@ -308,30 +136,30 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=14"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=215"
                 }
             ],
             "version-history": [
                 {
-                    "count": 6,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/14/revisions"
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/215/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 62,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/14/revisions/62"
+                    "id": 219,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/215/revisions/219"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=14"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=215"
                 }
             ],
             "curies": [
@@ -344,27 +172,457 @@
         }
     },
     {
-        "id": 12,
-        "date": "2023-01-17T21:55:17",
-        "date_gmt": "2023-01-18T02:55:17",
+        "id": 195,
+        "date": "2023-04-25T07:42:40",
+        "date_gmt": "2023-04-25T11:42:40",
         "guid": {
-            "rendered": "https://tarheels.live/comp523groupn/?page_id=12"
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=195"
         },
-        "modified": "2023-02-06T06:41:10",
-        "modified_gmt": "2023-02-06T11:41:10",
-        "slug": "schedule",
+        "modified": "2023-05-02T21:28:38",
+        "modified_gmt": "2023-05-03T01:28:38",
+        "slug": "user-manual",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523groupn/schedule/",
+        "link": "https://tarheels.live/comp523groupn/user-manual/",
         "title": {
-            "rendered": "Schedule"
+            "rendered": "User Manual"
         },
         "content": {
-            "rendered": "\n<ul>\n<li>Thursdays at 6:30 pm, biweekly – client meeting</li>\n\n\n\n<li>Tuesdays at 9 am – coach meeting</li>\n\n\n\n<li>Thursdays after client meeting and Monday evenings as needed – team meeting</li>\n</ul>\n",
+            "rendered": "\n<p><a href=\"https://docs.google.com/document/d/1ylf7LAbx1sLxwXDV_OEjLBBiZryqNYkgCSw--gIn4QQ/edit\">https://docs.google.com/document/d/1ylf7LAbx1sLxwXDV_OEjLBBiZryqNYkgCSw&#8211;gIn4QQ/edit</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>https://docs.google.com/document/d/1ylf7LAbx1sLxwXDV_OEjLBBiZryqNYkgCSw&#8211;gIn4QQ/edit</p>\n",
+            "protected": false
+        },
+        "author": 13777,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/195"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=195"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/195/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 203,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/195/revisions/203"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=195"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 190,
+        "date": "2023-04-24T06:28:44",
+        "date_gmt": "2023-04-24T10:28:44",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=190"
+        },
+        "modified": "2023-04-24T06:28:58",
+        "modified_gmt": "2023-04-24T10:28:58",
+        "slug": "final-presentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/final-presentation/",
+        "title": {
+            "rendered": "Final Presentation"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"https://docs.google.com/presentation/d/1AYmlhAMcRIa-Z7tTPYoaQngg-ucxDeVrfLQcmOjZOP4/edit#slide=id.g2121e80caf9_1_0\">https://docs.google.com/presentation/d/1AYmlhAMcRIa-Z7tTPYoaQngg-ucxDeVrfLQcmOjZOP4/edit#slide=id.g2121e80caf9_1_0</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>https://docs.google.com/presentation/d/1AYmlhAMcRIa-Z7tTPYoaQngg-ucxDeVrfLQcmOjZOP4/edit#slide=id.g2121e80caf9_1_0</p>\n",
+            "protected": false
+        },
+        "author": 13777,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/190"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=190"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/190/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 194,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/190/revisions/194"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=190"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 176,
+        "date": "2023-04-16T23:48:41",
+        "date_gmt": "2023-04-17T03:48:41",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=176"
+        },
+        "modified": "2023-04-16T23:49:00",
+        "modified_gmt": "2023-04-17T03:49:00",
+        "slug": "ethics",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/ethics/",
+        "title": {
+            "rendered": "Ethics"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Apple’s Battery-Gate</strong></p>\n\n\n\n<p>In 2017, Apple faced “battery-gate.” As software became more computationally taxing, Apple had to make the decision to decrease performance or decrease battery life on older iPhone models. They opted to decrease the performance but didn’t make customers aware of their choice. It is unethical because they were intentionally making their product worse by having their IOS software slow down processing speeds.</p>\n\n\n\n<p><strong>Facebook’s Privacy Violations</strong></p>\n\n\n\n<p>Social media platforms like Facebook have been found to use user data for targeted advertising without fully disclosing the extent of the data collection to users. This is problematic because it violates users’ privacy and can lead to the manipulation and exploitation of their personal data. The unethical behavior lies with the platform’s business model and the functions being performed by the software, and the responsibility for this lies with the platform’s management.</p>\n\n\n\n<p><strong>Tiktok’s Algorithmic Addiction</strong></p>\n\n\n\n<p>As one of the most popular video-sharing applications, Tiktok has been criticized for its algorithm that focuses on detecting users’ tastes and creating addictions. As demonstrated by a Wall Street Journal report, Tiktok’s algorithm gathers user information indicative of their potential interests and preferences, such as how long they stare at certain videos. Based on that information, the videos Tiktok chooses for users will be increasingly similar and aligned with their true preferences. As a consequence, some users might keep receiving similar content that could harm them, such as videos about depression or those encouraging eating disorders.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Apple’s Battery-Gate In 2017, Apple faced “battery-gate.” As software became more computationally taxing, Apple had to make the decision to&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13777,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/176"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=176"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/176/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 180,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/176/revisions/180"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=176"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 170,
+        "date": "2023-04-16T23:44:09",
+        "date_gmt": "2023-04-17T03:44:09",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=170"
+        },
+        "modified": "2023-05-05T19:49:56",
+        "modified_gmt": "2023-05-05T23:49:56",
+        "slug": "hand-off-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/hand-off-plan/",
+        "title": {
+            "rendered": "Hand-off Plan"
+        },
+        "content": {
+            "rendered": "\n<p>Project Repository: https://github.com/XavierHilbert/starx-app</p>\n\n\n\n<p>The web application is hosted at https://starx-2e105.web.app/. We will write a README file in the repository to explain how to set up the web application and how to make changes for any future teams. We will create an account for Dr. Ferris in the Firebase authentication for her to get access to the admin portal of the web application.</p>\n\n\n\n<p>We will create a doc instruction for our client to set up locally, the link is here: <a href=\"https://docs.google.com/document/d/1fZ9MAtQus4cw0JBhezeubKRLGA5PeqFkAtNonPFcQ9Y/edit\">https://docs.google.com/document/d/1fZ9MAtQus4cw0JBhezeubKRLGA5PeqFkAtNonPFcQ9Y/edit</a></p>\n\n\n\n<p>At this week&#8217;s client meeting, we will demo the web application&#8217;s functionality, including the questionnaire section, the results page, the generation of pdfs, and how to export CSV files from the database. Finally, to help the STARx team or possibly future team can maintain and improve the web application in the future, we will give them access to the GitHub repository and add them to the existing Firebase project.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Project Repository: https://github.com/XavierHilbert/starx-app The web application is hosted at https://starx-2e105.web.app/. We will write a README file in the repository to&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13777,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/170"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=170"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/170/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 234,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/170/revisions/234"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=170"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 169,
+        "date": "2023-04-16T23:44:09",
+        "date_gmt": "2023-04-17T03:44:09",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=169"
+        },
+        "modified": "2023-05-06T15:32:48",
+        "modified_gmt": "2023-05-06T19:32:48",
+        "slug": "documentation-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/documentation-plan/",
+        "title": {
+            "rendered": "Documentation Plan"
+        },
+        "content": {
+            "rendered": "\n<p class=\"has-medium-font-size\">Our users are the STARx team and the patients involved in the project, as well as their families and healthcare providers.</p>\n\n\n\n<p class=\"has-medium-font-size\"><strong>User Documentation</strong><br>For patients, families, and healthcare providers using the questionnaires, we will provide the User Documentation, which will introduce the STARx project and the web application. Since the web application is so intuitive to use, we may just record a short video to show users how to start the questionnaire, how to select different language versions and introduce the results page after completing the questionnaire.</p>\n\n\n\n<p>Link to video: <a rel=\"noreferrer noopener\" href=\"https://youtu.be/5iuPMO_wKj4\" target=\"_blank\">https://youtu.be/5iuPMO_wKj4</a></p>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Administrator Documentation</strong><br>For the STARx team, we will provide the Administrator Documentation, which includes an introduction to our project and Firebase, and the GitHub repository, which already contains the README. This will allow future teams to maintain or improve the existing web application or change the settings of Firebase. In addition, we made a video showing how to use Firebase firestore and authenticaiton to manage user data and data request entries. </p>\n\n\n\n<p class=\"has-medium-font-size\"><strong>User Manual</strong>: https://tarheels.live/comp523groupn/user-manual/</p>\n\n\n\n<p>Link to video: https://youtu.be/EVmuYSBXJWQ</p>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our users are the STARx team and the patients involved in the project, as well as their families and healthcare&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13777,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/169"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=169"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/169/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 246,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/169/revisions/246"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=169"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 163,
+        "date": "2023-04-11T00:40:27",
+        "date_gmt": "2023-04-11T04:40:27",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=163"
+        },
+        "modified": "2023-05-05T19:58:22",
+        "modified_gmt": "2023-05-05T23:58:22",
+        "slug": "test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/test-plan/",
+        "title": {
+            "rendered": "Test Plan"
+        },
+        "content": {
+            "rendered": "\n<p style=\"font-size:17px\"><strong>Unit testing</strong></p>\n\n\n\n<ul>\n<li>We will test for the pdf result generation. Specifically, for each survey we provide on our app, we will test to make sure that the responses to all the questions show up in the correct format and that the scores are calculated correctly. </li>\n\n\n\n<li>We will test for survey result storage. Specifically, we need to make sure that each entry matches the actual survey response correctly, and that all database errors are invoked with corresponding invalid operations. </li>\n\n\n\n<li>We will test for user authentication. We need to make sure the doctors are able to login and get the data of their particular patients from the Firestore database and ineligible users are authenticated to retrieve any data. </li>\n\n\n\n<li>We will test for data request form. We will check to make sure each data request entry is correctly stored in our database.</li>\n\n\n\n<li>We will test for data retrieval. We need to make sure that our client can get all data in the correct format and with the right number. We also need to make sure that the data a doctor gets contains and only contains the specific patient she or he requests for and that the internal database is not accssible to any external individuals for sake of information protection.</li>\n</ul>\n\n\n\n<p style=\"font-size:17px\"><strong>Integration and system testing</strong></p>\n\n\n\n<ul>\n<li>We will test if the new UI features are compatible with the existing survey bodies. Specifically, we will manually test each component and makes sure they function properly and smoothly. For example, if a user is in the middle of a survey and decides to switch language, we need to make sure that they don’t lose their previous responses and the page isn&#8217;t accidentally re-rendered which takes them back to the start of the survey. </li>\n</ul>\n\n\n\n<p style=\"font-size:17px\"><strong>Performance and reliance testing</strong></p>\n\n\n\n<ul>\n<li>We will test our app&#8217;s capability of handling frequent survey submissions and login requests. Specifically, we need to examine the performance of our app when there are many responses uploaded to the database or authentication and data retrieval requests from the database. </li>\n</ul>\n\n\n\n<p style=\"font-size:17px\"><strong>Acceptance testing</strong></p>\n\n\n\n<ul>\n<li>We will work with the client and discuss any parts of the app that need to be fixed for the desired usability. </li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Unit testing Integration and system testing Performance and reliance testing Acceptance testing</p>\n",
             "protected": false
         },
         "author": 5725,
@@ -378,7 +636,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/12"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/163"
                 }
             ],
             "collection": [
@@ -400,24 +658,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=12"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=163"
                 }
             ],
             "version-history": [
                 {
                     "count": 4,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/12/revisions"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/163/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 90,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/12/revisions/90"
+                    "id": 237,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/163/revisions/237"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=12"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=163"
                 }
             ],
             "curies": [
@@ -430,30 +688,30 @@
         }
     },
     {
-        "id": 10,
-        "date": "2023-01-17T21:54:53",
-        "date_gmt": "2023-01-18T02:54:53",
+        "id": 157,
+        "date": "2023-04-04T08:53:23",
+        "date_gmt": "2023-04-04T12:53:23",
         "guid": {
-            "rendered": "https://tarheels.live/comp523groupn/?page_id=10"
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=157"
         },
-        "modified": "2023-02-07T08:39:38",
-        "modified_gmt": "2023-02-07T13:39:38",
-        "slug": "journal",
+        "modified": "2023-04-04T08:53:58",
+        "modified_gmt": "2023-04-04T12:53:58",
+        "slug": "tech-talk",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523groupn/journal/",
+        "link": "https://tarheels.live/comp523groupn/tech-talk/",
         "title": {
-            "rendered": "Journal"
+            "rendered": "Tech Talk"
         },
         "content": {
-            "rendered": "\n<h2>Feburary 6, 2023, Team Meeting</h2>\n\n\n\n<ul>\n<li>Disucssed our jobs and tools used for the project</li>\n</ul>\n\n\n\n<h2>January 31, 2023, Coach Meeting</h2>\n\n\n\n<ul>\n<li>Checked the process</li>\n\n\n\n<li>Talked about tasks over this week: discussing user stories, completing schedule, and updating journal</li>\n</ul>\n\n\n\n<h2>January 26, 2023, Client Meeting</h2>\n\n\n\n<ul>\n<li>The leader of the previous team Amelia Paulsen introduced us to the survey application they made, specifically on existing functionalities and technologies they used and what we should be looking to achieve this semester</li>\n\n\n\n<li>Introduced each of us to the client Dr. Ferris: talked about who we are and why we chose the project individually and as a team</li>\n\n\n\n<li>Scheduled the next meeting with Dr. Ferris</li>\n</ul>\n\n\n\n<h2>January 24, 2023, Coach Meeting</h2>\n\n\n\n<ul>\n<li>Analyzed the project proposal with TA, identifying things that are manageable and things that are potentially difficult to deal with</li>\n\n\n\n<li>Went over tasks we should complete over the next week: setting up first client meeting, completing project introduction, requirements and user stories</li>\n\n\n\n<li>TA introduced us to various helpful resources </li>\n</ul>\n\n\n\n<h2> January 19, 2023, Team Meeting</h2>\n\n\n\n<ul>\n<li>Discussed about the client proposals and selected a list of 6 most prefered ones</li>\n\n\n\n<li>Completed contact information and set up team rules</li>\n</ul>\n",
+            "rendered": "\n<p><a href=\"https://docs.google.com/presentation/d/1686bkavYKiQ_tG_CMKg9O_q3qpbK4bUEEhGSUScv5rM/edit#slide=id.g22a334f1b5a_1_437\">https://docs.google.com/presentation/d/1686bkavYKiQ_tG_CMKg9O_q3qpbK4bUEEhGSUScv5rM/edit#slide=id.g22a334f1b5a_1_437</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Feburary 6, 2023, Team Meeting January 31, 2023, Coach Meeting January 26, 2023, Client Meeting January 24, 2023, Coach Meeting&#8230;</p>\n",
+            "rendered": "<p>https://docs.google.com/presentation/d/1686bkavYKiQ_tG_CMKg9O_q3qpbK4bUEEhGSUScv5rM/edit#slide=id.g22a334f1b5a_1_437</p>\n",
             "protected": false
         },
-        "author": 13743,
+        "author": 13777,
         "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
@@ -464,7 +722,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/157"
                 }
             ],
             "collection": [
@@ -480,30 +738,116 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13743"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=10"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=157"
                 }
             ],
             "version-history": [
                 {
-                    "count": 7,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/157/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 92,
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/10/revisions/92"
+                    "id": 162,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/157/revisions/162"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=10"
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=157"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 144,
+        "date": "2023-03-26T21:12:32",
+        "date_gmt": "2023-03-27T01:12:32",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupn/?page_id=144"
+        },
+        "modified": "2023-03-26T21:15:04",
+        "modified_gmt": "2023-03-27T01:15:04",
+        "slug": "apples",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupn/apples/",
+        "title": {
+            "rendered": "APPLES Reflection 1"
+        },
+        "content": {
+            "rendered": "\n<p>We are working on the STARx (Self-management and Transition to Adulthood with Rx=treatment) program led by Dr. Ferris, who works at UNC School of Medicine. The main focus of the STARx Program is to help adolescents and young adults with healthcare transition by developing and improving their self-management skills and disease knowledge. The values of healthcare transition are numerous. For patients, it can improve their health outcomes by ensuring continuity of care and promoting self-management skills. For healthcare providers, it can improve patient satisfaction and reduce healthcare costs by preventing complications and hospitalizations. Finally, for society as a whole, it can lead to a healthier and more productive population by enabling individuals with chronic health conditions to lead fulfilling and productive lives.</p>\n\n\n\n<p>To measure self-management and transition readiness, the STARx program has created several transition tools, including the TRxANSITION Index and the STARx Transition Readiness Questionnaire. After meeting with Dr. Ferries, we, as a team, have several goals to support the STARx program in terms of these transition tools. First, we will host these transition tools online and store survey responses in a HIPPA-Compliant database. We then want to improve the survey questions and add more language versions. After people finish the surveys, we want to show them the result scores for different parts more visually. We also want to generate CSV or PDF files for each survey result so they are printable.</p>\n\n\n\n<p>Our work will enhance the functionality and accessibility of the STARx program. By hosting the application online, people across the globe can respond to the surveys regardless of their location, further expanding the program&#8217;s reach. Since we will also store the responses from the web application in a HIPPA-Compliant database, patients and healthcare providers can check the progress at any time, and the STARx team can access these data more conveniently. By improving the survey questions and adding more language to the survey, patients in non-English speaking countries can benefit from this program, making the program more accessible. By providing visualized scores, patients can understand how they did. They can celebrate their success and identify areas where they need additional support, giving them greater motivation to continue managing their health. Finally, by generating CSV or PDF reports of the responses, the STARx team can download them directly for further analysis. Also, the reports will be printable, which will be helpful in areas where electronic health records are not commonly used. Overall, our work will benefit patients, their medical providers, and the STARx team.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>We are working on the STARx (Self-management and Transition to Adulthood with Rx=treatment) program led by Dr. Ferris, who works&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13777,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/144"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/users/13777"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/comments?post=144"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/144/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 149,
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/pages/144/revisions/149"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupn/wp-json/wp/v2/media?parent=144"
                 }
             ],
             "curies": [
