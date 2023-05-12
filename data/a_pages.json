@@ -1,13 +1,621 @@
 [
     {
+        "id": 302,
+        "date": "2023-05-05T15:27:31",
+        "date_gmt": "2023-05-05T19:27:31",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=302"
+        },
+        "modified": "2023-05-05T15:27:31",
+        "modified_gmt": "2023-05-05T19:27:31",
+        "slug": "d6-code",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/d6-code/",
+        "title": {
+            "rendered": "D6. Code"
+        },
+        "content": {
+            "rendered": "\n<p>Our code is found in two different repositories, <a href=\"https://github.com/andymking/prime\">prime</a> and <a href=\"https://github.com/andymking/primeSurvey\">primeSurvey</a>.</p>\n\n\n\n<p>Louie is a collaborator on both of these repositories, so he should have access. </p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our code is found in two different repositories, prime and primeSurvey. Louie is a collaborator on both of these repositories, so he should have access.</p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/302"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=302"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/302/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 303,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/302/revisions/303"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=302"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 292,
+        "date": "2023-04-17T17:39:57",
+        "date_gmt": "2023-04-17T21:39:57",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=292"
+        },
+        "modified": "2023-04-17T17:39:57",
+        "modified_gmt": "2023-04-17T21:39:57",
+        "slug": "hand-off-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/hand-off-plan/",
+        "title": {
+            "rendered": "Hand-Off plan"
+        },
+        "content": {
+            "rendered": "\n<p>We will hand off our code by uploading both our survey repository files and server/database repository files to the server that the client provides to us. We have not yet been given this server space, but we will in the future.</p>\n\n\n\n<p>We will have a detailed README.md file in both repositories that will detail how one can get each of the components of our project running. For example, using yarn to set up dependencies to get the survey and the database running. Our PostgreSQL database will be run on the server and each table in the database will be stored on the server. We will give simple instructions on our hand-off document that we give to the client in addition to the README to make things as easy as possible. Because of the scale of our database and how many people will be using it, it is unlikely that space will be an issue. Regardless, the client and their team are aware of how many customers will make database entries, and are ready to expand server space if needed. </p>\n\n\n\n<p>We will provide videos on how to use the software from both a developer&#8217;s and a user&#8217;s perspective. This means they can run the website and database on their own machine if they see fit before deploying to customers. </p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>We will hand off our code by uploading both our survey repository files and server/database repository files to the server that the client provides to us. We have not yet been given this server space, but we will in the &hellip; <a href=\"https://tarheels.live/teama/hand-off-plan/\" aria-label=\"Read more about Hand-Off plan\">Continued</a></p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/292"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=292"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/292/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 293,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/292/revisions/293"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=292"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 284,
+        "date": "2023-04-10T14:46:23",
+        "date_gmt": "2023-04-10T18:46:23",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=284"
+        },
+        "modified": "2023-04-10T14:46:24",
+        "modified_gmt": "2023-04-10T18:46:24",
+        "slug": "d4-documentation-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/d4-documentation-plan/",
+        "title": {
+            "rendered": "D4. Documentation Plan"
+        },
+        "content": {
+            "rendered": "\n<h1 class=\"wp-block-heading\">User Documentation:</h1>\n\n\n\n<p>Users of the Prime Application/website will be provided with very little documentation as their primary role is to just use the website from the user perspective.</p>\n\n\n\n<ul>\n<li>Users can click a button on the web homepage “watch instructions” in order to see a video explaining the purpose of the website and how they will interact with it</li>\n\n\n\n<li>The users will also be provided with a results page that explains they’ve completed the survey and their results&nbsp;</li>\n</ul>\n\n\n\n<h1 class=\"wp-block-heading\">Administrator Documentation:</h1>\n\n\n\n<p>Administrators/our specific client will be provided with a series of videos and a readme file that&nbsp; will explain how to run the servers, change the database and surveys, as well as a general overview of all the code and its structure in case they need to change it.</p>\n\n\n\n<ul>\n<li>Videos will be made to demonstrate starting up the server&nbsp;</li>\n\n\n\n<li>Videos will be made to demonstrate using the dashboard functions</li>\n</ul>\n\n\n\n<ol>\n<li>Tutorial for creating a patient</li>\n\n\n\n<li>Sending a survey</li>\n\n\n\n<li>Viewing a patient&#8217;s past surveys</li>\n</ol>\n\n\n\n<ul>\n<li>A ReadMe file in the github repository will have a table of contents which leads to markdowns of specific files and file structure explaining their purpose</li>\n\n\n\n<li>Most files in the code base will also have comments that explain complex functionality</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Documentation: Users of the Prime Application/website will be provided with very little documentation as their primary role is to just use the website from the user perspective. Administrator Documentation: Administrators/our specific client will be provided with a series of &hellip; <a href=\"https://tarheels.live/teama/d4-documentation-plan/\" aria-label=\"Read more about D4. Documentation Plan\">Continued</a></p>\n",
+            "protected": false
+        },
+        "author": 8980,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/284"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/8980"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=284"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/284/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 285,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/284/revisions/285"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=284"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 278,
+        "date": "2023-04-09T16:36:09",
+        "date_gmt": "2023-04-09T20:36:09",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=278"
+        },
+        "modified": "2023-04-09T16:36:09",
+        "modified_gmt": "2023-04-09T20:36:09",
+        "slug": "d3-test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/d3-test-plan/",
+        "title": {
+            "rendered": "D3. Test Plan"
+        },
+        "content": {
+            "rendered": "\n<p>Our project is based entirely off of web interactions from a specific group of people, patients of the UNC hospitals with hematologic malignancies. This means that our testing needs to be thorough when finding bugs in our user interface.</p>\n\n\n\n<p>Not only that, but our tool will be used in the medical field where accuracy is the upmost importance. When considering database entry of information, bugs in the backend are very important to find and fix. Entries need to be accurate, and equally as important they need to be easy to access and manipulate. </p>\n\n\n\n<p><strong>Unit testing</strong></p>\n\n\n\n<ul>\n<li>User interface\n<ul>\n<li>Testing our user interface will involve making sure there is a seamless transition from our home page to both the video page and the survey itself.</li>\n\n\n\n<li>We will do most of our testing on the survey portion of the app. This means testing a tree of different paths in the survey, for example, filling out the entire survey and attempting to re-pick answers, refreshing the page during survey usage, and selecting different combinations of answers. </li>\n\n\n\n<li>We will also test the home page to make sure that going forwards and backwards in the browser works as intended, in this case allowing our users to do so with warning that their answers will not be saved if they move back in the browser from the survey page. Video tutorial progress will also not be saved. </li>\n\n\n\n<li>Lastly, we will test the dashboard of our application, that is, the interface that faces the medical professionals looking at data. This is not of the upmost importance to our project as a whole for the semester, so this is something that we may not get to given our timeline.</li>\n\n\n\n<li>This portion of our testing will not use automated testing.</li>\n\n\n\n<li>With more time and resources, testing on a control group of patients would yield the best results. We could then see exactly what these people like or don&#8217;t like about our app and make changes based on that, but we do not have the time or resources to do this. </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<ul>\n<li>Backend testing\n<ul>\n<li>Create correctly formatted JSON objects before sending said objects to the database.</li>\n\n\n\n<li>Database logs are correctly formatted in the database after being sent. POST and GET requests return all values that are expected in the right order and format. </li>\n\n\n\n<li>A get request sent to the dashboard is correctly formatted in the given placeholders that the front end uses for display.</li>\n\n\n\n<li>With all the time in the world, we would create very strict and exhaustive testing, but for the time being, the tests will be relatively simple, but rigorous enough that we are confident handing off our app. </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>Integration and System Testing</strong></p>\n\n\n\n<ul>\n<li>Test the recording of correct survey responses from the front end, formatting into a JSON object, and logging to the database using POST. </li>\n\n\n\n<li>Test separately a GET request, and that it correctly returns expected values.</li>\n\n\n\n<li>Test that the containerization of our app works as expected, that one link leads in and out of the survey, and a unique token is generated when a new link is created that is tied to the expected recipient. This is something that may or may not be tested in our timeline as it is a reach goal.</li>\n</ul>\n\n\n\n<p><strong>Description of tools</strong></p>\n\n\n\n<ul>\n<li>We will use a combination of Jest for assertions and javascript functions to automate what is described above apart from the UI testing as that will be manual. Some of our integration testing will be manual as well.</li>\n</ul>\n\n\n\n<p><strong>End users</strong></p>\n\n\n\n<ul>\n<li>Our users will be patients with hematologic malignancies at UNC Hospitals. This is important as most of the patients are older in age, and want their medical experience to be as easy as possible as they spend a lot of time receiving care. </li>\n</ul>\n\n\n\n<p><strong>Acceptance testing</strong></p>\n\n\n\n<ul>\n<li>We plan to hold a meeting towards the end of the semester with our client to go through our testing process, and see if this meets their expectations that they set out for us originally. </li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our project is based entirely off of web interactions from a specific group of people, patients of the UNC hospitals with hematologic malignancies. This means that our testing needs to be thorough when finding bugs in our user interface. Not &hellip; <a href=\"https://tarheels.live/teama/d3-test-plan/\" aria-label=\"Read more about D3. Test Plan\">Continued</a></p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/278"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=278"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/278/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 279,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/278/revisions/279"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=278"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 272,
+        "date": "2023-03-27T15:40:41",
+        "date_gmt": "2023-03-27T19:40:41",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=272"
+        },
+        "modified": "2023-03-27T15:40:42",
+        "modified_gmt": "2023-03-27T19:40:42",
+        "slug": "apples-reflection",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/apples-reflection/",
+        "title": {
+            "rendered": "Apples Reflection"
+        },
+        "content": {
+            "rendered": "\n<p>APPLES Reflection</p>\n\n\n\n<p>PRIME</p>\n\n\n\n<p>Ellis Kay, Andy King, Jess Lynch, Alex Wigger</p>\n\n\n\n<p>Our project is going to improve the quality of life of leukemia patients by increasing the speed and quality of their treatment plans. Leukemia is a life-threatening form of cancer that affects a vast number of people, and treatment strategies vary drastically in how they affect each patient. Our project, PRIME, is a survey platform that collects information from patients on their preferences of treatment, such as living longer, minimizing hair loss, being able to move around, and others. This information will help direct doctors into what sort of treatments we should give patients, which can ultimately improve their quality of life and personalization of care.</p>\n\n\n\n<p>Our work specifically revolves around us creating a website that works for both patients and doctors. The doctors will be able to add new patients to our database and add them to a list of people who are continually sent surveys once a month. The doctors can use these results to plan appropriate treatments. The patients will receive straightforward directions on how to do the survey and submit it.</p>\n\n\n\n<p>This work is not only important because leukemia is a very serious disease, but because treatment can vary greatly in side effects and outcomes. The work that we are doing will have a big impact on the lives of leukemia patients, as it will provide doctors with critical information that can help them make informed decisions about their patients&#8217; treatments.</p>\n\n\n\n<p>The lives and treatment of leukemia patients should be heavily affected in a positive way by the website we are creating for Dr. Richardson. By providing Dr. Richardson with valuable insights into his patients&#8217; priorities, we are helping to curate a treatment plan that caters itself to the specific values which the patients personally value. This is a project we wholly believe in and we believe that our work will make a real difference in the lives of those who are battling leukemia. Fighting leukemia is one of the most difficult things a person can do, so any opportunity to smoothen the process out is one we are happy to jump on.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>APPLES Reflection PRIME Ellis Kay, Andy King, Jess Lynch, Alex Wigger Our project is going to improve the quality of life of leukemia patients by increasing the speed and quality of their treatment plans. Leukemia is a life-threatening form of &hellip; <a href=\"https://tarheels.live/teama/apples-reflection/\" aria-label=\"Read more about Apples Reflection\">Continued</a></p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/272"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=272"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/272/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 273,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/272/revisions/273"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=272"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 239,
+        "date": "2023-02-21T12:51:00",
+        "date_gmt": "2023-02-21T17:51:00",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=239"
+        },
+        "modified": "2023-02-28T09:56:03",
+        "modified_gmt": "2023-02-28T14:56:03",
+        "slug": "architecture-diagrams",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/architecture-diagrams/",
+        "title": {
+            "rendered": "D2. Design Documents"
+        },
+        "content": {
+            "rendered": "\n<h3 class=\"wp-block-heading\"><a href=\"https://github.com/andymking/prime\" data-type=\"URL\" data-id=\"https://github.com/andymking/prime\">Github Repository</a></h3>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h2 class=\"wp-block-heading\">PRIME Workflow Diagram</h2>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"572\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-21-at-12.52.45-PM-1024x572.png\" alt=\"\" class=\"wp-image-242\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-21-at-12.52.45-PM-1024x572.png 1024w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-21-at-12.52.45-PM-300x167.png 300w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-21-at-12.52.45-PM-768x429.png 768w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-21-at-12.52.45-PM.png 1512w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Overall Design Decisions</h2>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"720\" height=\"405\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Slide1.jpeg\" alt=\"\" class=\"wp-image-252\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Slide1.jpeg 720w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Slide1-300x169.jpeg 300w\" sizes=\"(max-width: 720px) 100vw, 720px\" /></figure>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\">Database Design</h2>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Github Repository PRIME Workflow Diagram Overall Design Decisions Database Design</p>\n",
+            "protected": false
+        },
+        "author": 13602,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/239"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13602"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=239"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 10,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/239/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 260,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/239/revisions/260"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=239"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 225,
+        "date": "2023-02-21T12:36:41",
+        "date_gmt": "2023-02-21T17:36:41",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?page_id=225"
+        },
+        "modified": "2023-02-21T12:37:07",
+        "modified_gmt": "2023-02-21T17:37:07",
+        "slug": "ethics-assignment",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teama/assignments/ethics-assignment/",
+        "title": {
+            "rendered": "Ethics Assignment"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\">Facebooks Targeted Ads</h2>\n\n\n\n<p>Facebook is a  great example of a software that many people use, but has many ethical problems behind it. These include false information, selling of information, and increased societal pressures. The primary ethical dilemma we discussed was with how Facebook collects user information and sells it to other companies. This seems unethical because your information and habits shouldn’t be collected by an application and sold at the expense of  your privacy. The reason people use the app is for social connections not to have private information stolen. This is a problem caused by the software engineers making the app collect this data. There is definitely a need to collect some information, but it’s too extensive. There is also the issue of how the software is being used which is when the people who have access to the data including personal information are selling it to other companies. </p>\n\n\n\n<h2 class=\"wp-block-heading\">Targets Customer Information Storage</h2>\n\n\n\n<p>Target and many other companies&#8217; storage methods of customer information, specifically credit card information can be unethical. While many companies store credit card information to track individuals purchases it’s still unethical because it exposes them to having that data leaked by the company&#8217;s system. Target was hacked a while back and many of its previous customers had to go out and get new credit cards because of Target storing that information. This is a problem with storage features within Target software and how well it protects important information. </p>\n\n\n\n<h2 class=\"wp-block-heading\">Apple AirTags</h2>\n\n\n\n<p>Apple created a product known as AirTags to help consumers keep track of important things including luggage, keys, and many other things. By checking the app on your phone it can track a bluetooth signal the tag is sending out. We thought this could be unethical because these tags can easily be misused. Recently a woman is suing Apple because a man put an AirTag under her car’s bumper so he could stalk her. This is a problem with the feature of the software product which can easily be used for things other than its original intentions. There is also no easy way to ensure that AirTags are not misused to stalk or track other people and their things. The product behavior is too powerful for it to be easily accessible to anyone who can buy it when it has so many possibilities for misuse.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Facebooks Targeted Ads Facebook is a  great example of a software that many people use, but has many ethical problems behind it. These include false information, selling of information, and increased societal pressures. The primary ethical dilemma we discussed was with &hellip; <a href=\"https://tarheels.live/teama/assignments/ethics-assignment/\" aria-label=\"Read more about Ethics Assignment\">Continued</a></p>\n",
+            "protected": false
+        },
+        "author": 13602,
+        "featured_media": 0,
+        "parent": 45,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/225"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13602"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=225"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/225/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 226,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/225/revisions/226"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=225"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 149,
         "date": "2023-02-06T22:05:18",
         "date_gmt": "2023-02-07T03:05:18",
         "guid": {
             "rendered": "https://tarheels.live/teama/?page_id=149"
         },
-        "modified": "2023-02-06T23:27:24",
-        "modified_gmt": "2023-02-07T04:27:24",
+        "modified": "2023-02-21T12:41:06",
+        "modified_gmt": "2023-02-21T17:41:06",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -16,11 +624,11 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<div class=\"is-content-justification-left is-nowrap is-layout-flex wp-container-4 wp-block-group\">\n<div class=\"is-content-justification-left is-nowrap is-layout-flex wp-container-3 wp-block-group\">\n<div class=\"is-nowrap is-layout-flex wp-container-2 wp-block-group\">\n<div class=\"is-content-justification-center is-nowrap is-layout-flex wp-container-1 wp-block-group\">\n<p><a href=\"#concept\" data-type=\"internal\" data-id=\"#concept\">Project Concept</a></p>\n</div>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"#userStories\" data-type=\"internal\" data-id=\"#userStories\">User Stories</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"#functionalRequirements\">Functional Requirements</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p class=\"has-text-align-left\"><a href=\"#nonfunctional\" data-type=\"internal\" data-id=\"#nonfunctional\">Nonfunctional Requirements</a></p>\n</div>\n</div>\n</div>\n\n\n\n<h2 id=\"concept\">Project Concept</h2>\n\n\n\n<p>PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider.</p>\n\n\n\n<p>PRIME will be a web app based in React, Typescript, and an SQL database. It will provide surveys that allow patients to select medicinal preferences. The user experience of this app is a top priority as many of the patients are of an older demographic, so a clean UX is crucial for easy understanding. Not only that but our client wants to make the entire experience as comforting as possible given the circumstances. The app will not only provide instant feedback to the patients who use it, but will also give this feedback to their healthcare providers at the same time.</p>\n\n\n\n<p>Security is also a very important aspect of the app. Dealing with medical information, there is a standard that will need to be followed. Working with out client, we will figure out the logistics on how to navigate this in the short time we have. The app needs to be completely standalone, with one link in and one link out. This will allow it to be moved across different systems while maintaining the security we need.</p>\n\n\n\n<p>Lastly, this website will have a very small amount of traffic, but will be repeatedly used by the same individuals who visit it in the first place. Our client estimated about 200 patients over 3 years, which we can easily handle.</p>\n\n\n\n<p>Here are some photos of the potential UI and layout of the site:</p>\n\n\n\n<div class=\"is-nowrap is-layout-flex wp-container-5 wp-block-group\">\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"630\" height=\"836\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/image.png\" alt=\"\" class=\"wp-image-183\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/image.png 630w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/image-226x300.png 226w\" sizes=\"(max-width: 630px) 100vw, 630px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"630\" height=\"840\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/image-1.png\" alt=\"\" class=\"wp-image-184\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/image-1.png 630w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/image-1-225x300.png 225w\" sizes=\"(max-width: 630px) 100vw, 630px\" /></figure>\n</div>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h2 id=\"userStories\"><strong>User Stories</strong></h2>\n\n\n\n<ul>\n<li>As a healthcare provider I want to be able to send a link to a survey to a specific patient which will then be filled out by them.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I want the patients answers and information to be formed into a PDF and sent to a specific HIPPA safe database that I have access to.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I would like it if there was a dashboard that kept track of patients’ individual interactions with surveys longitudinally.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update recommendations for certain survey results.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update BWS survey questions.&nbsp;</li>\n\n\n\n<li>As a user (leukemia patient) I want to be able to use a link to gain access to a PRIME survey.</li>\n\n\n\n<li>As a user I want to be able to fill out the survey with obvious instructions.</li>\n\n\n\n<li>As a user I want to see some form of response about successful/failure submission as well as the results of my survey.&nbsp;</li>\n\n\n\n<li>As a user I also want to be able to see my results longitudinally.&nbsp;</li>\n\n\n\n<li>As a user I want to be able to see the recommendations that my health provider gives based on my results.</li>\n\n\n\n<li>As a user I want the PRIME to be very accessible regardless of my poor vision, poor hearing, and other disabilities.</li>\n\n\n\n<li>As a user I want PRIME to be both mobile and desktop friendly.</li>\n\n\n\n<li>As a user, I’d like to be reminded if I have not completed the survey.&nbsp;</li>\n\n\n\n<li>As a user, I’d like to know that my personal information and survey answers are securely stored and protected by HIPPA recommendations.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h2 id=\"functionalRequirements\" style=\"font-style:normal;font-weight:700\">Functional <strong>Requirements</strong></h2>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>The healthcare provider will send the survey to the user by email. If the user opens the survey but doesn&#8217;t complete it, or does not open the survey within a given time, the user will be sent a follow up email. </li>\n\n\n\n<li>When the user completes the survey, the answers to the survey will be sent back and processed in a secure database.</li>\n\n\n\n<li>An algorithm provided by the client will be used to process the answers to the survey. If the results are inconclusive, an email will be sent to the client and the healthcare provider will be notified. If the results are conclusive, the results will be emailed to the client and the healthcare provider will be notified. </li>\n\n\n\n<li>The healthcare provider will be provided with a dashboard of all users who have been sent surveys. This dashboard will include a table, which contains information about the user, whether the user has completed the survey, and the results of the survey. </li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>The healthcare provider may be provided with a dashboard of analytics about all user data.</li>\n\n\n\n<li>Thea healthcare provider will be able to customize the survey to include different questions. </li>\n</ul>\n\n\n\n<p>Improbable: </p>\n\n\n\n<ul>\n<li>Concrete HIPPA compliance</li>\n\n\n\n<li>The healthcare provider has the option to customize the survey format.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h2 id=\"nonfunctional\">Nonfunctional Requirements</h2>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Our code will be containerized so it can be transferred to different systems and used by different universities. </li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li></li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<ul>\n<li></li>\n</ul>\n\n\n\n<p></p>\n",
+            "rendered": "\n<div class=\"wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-4\">\n<div class=\"wp-block-group is-content-justification-left is-nowrap is-layout-flex wp-container-3\">\n<div class=\"wp-block-group is-nowrap is-layout-flex wp-container-2\">\n<div class=\"wp-block-group is-content-justification-center is-nowrap is-layout-flex wp-container-1\"></div>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"#userStories\" data-type=\"internal\" data-id=\"#userStories\">User Stories</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"#functionalRequirements\">Functional Requirements</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p class=\"has-text-align-left\"><a href=\"#nonfunctional\" data-type=\"internal\" data-id=\"#nonfunctional\">Nonfunctional Requirements</a></p>\n</div>\n</div>\n</div>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"userStories\"><strong>User Stories</strong></h2>\n\n\n\n<ul>\n<li>As a healthcare provider I want to be able to send a link to a survey to a specific patient which will then be filled out by them.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I want the patients answers and information to be formed into a PDF and sent to a specific HIPPA safe database that I have access to.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I would like it if there was a dashboard that kept track of patients’ individual interactions with surveys longitudinally.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update recommendations for certain survey results.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update BWS survey questions.&nbsp;</li>\n\n\n\n<li>As a user (leukemia patient) I want to be able to use a link to gain access to a PRIME survey.</li>\n\n\n\n<li>As a user I want to be able to fill out the survey with obvious instructions.</li>\n\n\n\n<li>As a user I want to see some form of response about successful/failure submission as well as the results of my survey.&nbsp;</li>\n\n\n\n<li>As a user I also want to be able to see my results longitudinally.&nbsp;</li>\n\n\n\n<li>As a user I want to be able to see the recommendations that my health provider gives based on my results.</li>\n\n\n\n<li>As a user I want the PRIME to be very accessible regardless of my poor vision, poor hearing, and other disabilities.</li>\n\n\n\n<li>As a user I want PRIME to be both mobile and desktop friendly.</li>\n\n\n\n<li>As a user, I’d like to be reminded if I have not completed the survey.&nbsp;</li>\n\n\n\n<li>As a user, I’d like to know that my personal information and survey answers are securely stored and protected by HIPPA recommendations.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h2 class=\"wp-block-heading\" id=\"functionalRequirements\" style=\"font-style:normal;font-weight:700\">Functional <strong>Requirements</strong></h2>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>The healthcare provider will send the survey to the user by email. If the user opens the survey but doesn&#8217;t complete it, or does not open the survey within a given time, the user will be sent a follow up email. </li>\n\n\n\n<li>When the user completes the survey, the answers to the survey will be sent back and processed in a secure database.</li>\n\n\n\n<li>An algorithm provided by the client will be used to process the answers to the survey. If the results are inconclusive, an email will be sent to the client and the healthcare provider will be notified. If the results are conclusive, the results will be emailed to the client and the healthcare provider will be notified. </li>\n\n\n\n<li>The healthcare provider will be provided with a dashboard of all users who have been sent surveys. This dashboard will include a table, which contains information about the user, whether the user has completed the survey, and the results of the survey. </li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>The healthcare provider may be provided with a dashboard of analytics about all user data.</li>\n\n\n\n<li>Thea healthcare provider will be able to customize the survey to include different questions. </li>\n</ul>\n\n\n\n<p>Improbable: </p>\n\n\n\n<ul>\n<li>Concrete HIPPA compliance</li>\n\n\n\n<li>The healthcare provider has the option to customize the survey format.</li>\n\n\n\n<li>Survey results will automatically be given to the client in their preferred and/or given healthcare application (MyChart, etc.). This will most likely be done by a healthcare professional, not automatically.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h2 class=\"wp-block-heading\" id=\"nonfunctional\">Nonfunctional Requirements</h2>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Our code will be containerized so it can be transferred to different systems and used by different universities. </li>\n\n\n\n<li>The survey must be clear and easy to use regardless of the user&#8217;s experience with technology. Many clients will be higher in age with little experience using technology, so no assumptions can be made in terms of directions needed for use.</li>\n\n\n\n<li>Results of surveys are held in the database indefinitely until either server space is a problem or healthcare providers wish to delete them.</li>\n\n\n\n<li><strong>Constraint</strong> &#8211; The user must not need to sign in. There will one link into the survey, and one link out (goes along with containerization).</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>App has potential to be built upon easily with other technologies (npm packages, new features) in the future by developers working with healthcare providers. </li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<ul>\n<li>User is identified in subsequent uses of the link &#8211; in other words, repeated clicks of the same link will not result in override of previous results, or submission of new ones.</li>\n</ul>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Project Concept User Stories Functional Requirements Nonfunctional Requirements Project Concept PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. PRIME will be a web &hellip; <a href=\"https://tarheels.live/teama/deliverables/specifications/\" aria-label=\"Read more about Specifications\">Continued</a></p>\n",
+            "rendered": "<p>User Stories Functional Requirements Nonfunctional Requirements User Stories Functional Requirements Definite: Perhaps: Improbable: Nonfunctional Requirements Definite: Perhaps: Improbable:</p>\n",
             "protected": false
         },
         "author": 13602,
@@ -61,14 +669,14 @@
             ],
             "version-history": [
                 {
-                    "count": 16,
+                    "count": 18,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/149/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 205,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/149/revisions/205"
+                    "id": 229,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/149/revisions/229"
                 }
             ],
             "up": [
@@ -153,7 +761,7 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 2,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/95/revisions"
                 }
             ],
@@ -184,8 +792,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teama/?page_id=48"
         },
-        "modified": "2023-02-01T09:09:02",
-        "modified_gmt": "2023-02-01T14:09:02",
+        "modified": "2023-04-25T09:33:29",
+        "modified_gmt": "2023-04-25T13:33:29",
         "slug": "links",
         "status": "publish",
         "type": "page",
@@ -194,7 +802,7 @@
             "rendered": "Links"
         },
         "content": {
-            "rendered": "\n<ul>\n<li>Google doc with questions for our client can be found <a href=\"https://docs.google.com/document/d/1us1Sk7g3sl27zLB_FSYes2BWt-oRWvlxHVbu3I3Byeo/edit?usp=sharing\">here</a></li>\n\n\n\n<li>PDFs from Daniel, our client: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a></li>\n\n\n\n<li>Zoom for group meetings (Andy&#8217;s personal meeting): <a href=\"https://unc.zoom.us/j/5893679107\">Link</a></li>\n\n\n\n<li>Louie&#8217;s Zoom: <a href=\"https://unc.zoom.us/my/louielu\">Link</a></li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li>Google doc with questions for our client can be found <a href=\"https://docs.google.com/document/d/1us1Sk7g3sl27zLB_FSYes2BWt-oRWvlxHVbu3I3Byeo/edit?usp=sharing\">here</a></li>\n\n\n\n<li>PDFs from Daniel, our client: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a></li>\n\n\n\n<li>Zoom for group meetings (Andy&#8217;s personal meeting): <a href=\"https://unc.zoom.us/j/5893679107\">Link</a></li>\n\n\n\n<li>Louie&#8217;s Zoom: <a href=\"https://unc.zoom.us/my/louielu\">Link</a></li>\n\n\n\n<li>Midterm Presentation: <a href=\"https://docs.google.com/presentation/d/1lMFq3W6VEH7B9IZ9Yqa6cQTqNTahHADbB9RP3M8fkcA/edit#slide=id.g1dd58cd08e3_0_57\">Link</a></li>\n\n\n\n<li>GitHub Repo: <a href=\"https://github.com/andymking/prime\">Link</a></li>\n\n\n\n<li>Client Zoom:<a href=\"https://zoom.us/j/93271514323?from=addon\"> Link</a> </li>\n\n\n\n<li>Final presentation: <a href=\"https://docs.google.com/presentation/d/1Z1q6EkAhnqTvN6jDkL2D5Gv_hBc-NgUDfPrvH-xJo6E/edit?usp=sharing\">Link</a></li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -239,535 +847,19 @@
             ],
             "version-history": [
                 {
-                    "count": 5,
+                    "count": 9,
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/48/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 132,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/48/revisions/132"
+                    "id": 298,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/48/revisions/298"
                 }
             ],
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=48"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 46,
-        "date": "2023-01-11T12:01:42",
-        "date_gmt": "2023-01-11T17:01:42",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?page_id=46"
-        },
-        "modified": "2023-02-06T22:32:35",
-        "modified_gmt": "2023-02-07T03:32:35",
-        "slug": "journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teama/journal/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "<ul class=\"wp-block-latest-posts__list has-dates has-author alignleft is-style-twentytwentyone-latest-posts-borders wp-block-latest-posts\"><li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/02/07/client-meeting-02-07-2023/\">Client Meeting 02/07/2023</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-02-07T11:31:01-05:00\" class=\"wp-block-latest-posts__post-date\">February 7, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Alex asked about what kind of ID will go into the database. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>They will be hashed IDs, but Daniel doesn&#8217;t know too much about it quite yet. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Scratch that &#8211; secure database actually &#8211; cause they want their name, email, and general info in the database. Can figure out the security later</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Emailed us the packets of questions &#8211; all the surveys, etc. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>He sent us more mach-ups in a powerpoint. We can go off of that, but it does have a sign in, which we don&#8217;t need to have (just the link in, link out). </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>For each attribute, we add one for when it is most important, and subtract one for least important.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/02/07/coach-meeting-02-07-2023/\">Coach Meeting 02/07/2023</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-02-07T09:45:29-05:00\" class=\"wp-block-latest-posts__post-date\">February 7, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Our user stories and project concept are good for this week.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Need to finish specifications, not much work at all left on that.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Need to create a working/clickable version of the concept that he gave us in the next two weeks. Today, get the list of questions from him, then me and Ellis can work on backend/frontend stuff in meantime. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Finally, look at midterm presentations how-to, and look at ethics assignment.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/02/01/group-meeting-02-01-2023/\">Group Meeting 02/01/2023</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-02-01T10:43:15-05:00\" class=\"wp-block-latest-posts__post-date\">February 1, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>Met after class</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>ToDo &#8211; User stories &#8211; edit them from the document</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>ToDo &#8211; Proof of concept/project concept &#8211; compile images that Daniel gave us, and write a short summary on what it does</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Get the flowchart from Daniel</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Do some research into our roles</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Roles &#8211; Front End (Ellis), Back End (Andy), Database (Jess and Alex)</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Create GitHub repository</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/02/01/client-meeting-01-31-2023/\">Client Meeting 01/31/2023</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-02-01T08:58:53-05:00\" class=\"wp-block-latest-posts__post-date\">February 1, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Links: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a> </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>After introductions, Daniel gave us an overview of PRIME</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>It is a survey application, one that is focused on narrowing down a patient&#8217;s preferences on what type of medicine they would like to take in response to leukemia.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>He emphasized that UX is a top priority, mentioning that the software needs to be easy to navigate, use, and most importantly to get started.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>He prefers we have 1 link into the website and 1 link, and to &#8220;containerize&#8221; the web app so that in the future, it can be moved from server to server very easily without losing security.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>He gave us 2 PDFs (see top of post) that explain the prototypes/mach ups that he and his team already have on hand for us to reference. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>One of these PDFs has a diagram that shows the entire lifecycle of the program, very helpful.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Some smaller things he mentioned: Assistive technologies, white labelling everything, we can pitch things to him whenever we want to.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/31/coach-meeting-01-31-2023/\">Coach Meeting 01/31/2023</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-31T09:28:24-05:00\" class=\"wp-block-latest-posts__post-date\">January 31, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>Link: https://unc.zoom.us/my/louielu</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Talked about our meeting with the client.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Louie liked our questions, but wants us to focus on getting a proof of concept/user stories ASAP so that we can actually start putting something together. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Read HIPPA Compliance from UNC for like 5 minutes soon.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Need to have our proof of concept on the front page of the website by this weekend. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Also need user stories in deliverable by this weekend.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/30/client-meeting-update/\">Client Meeting Update</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-30T09:04:30-05:00\" class=\"wp-block-latest-posts__post-date\">January 30, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>We reached out to our client to set up a meeting. We got a reply back after a few days, and are hoping to meet Tuesday 01/31/2023 at 10:30 AM.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/25/team-meeting-01-25-23/\">Team Meeting 01/25/23</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-25T14:55:37-05:00\" class=\"wp-block-latest-posts__post-date\">January 25, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>link: <a href=\"https://unc.zoom.us/j/5893679107\">https://unc.zoom.us/j/5893679107</a>    <br>code: 589 367 9107</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>We want to do a website &#8211; but the client mentions APP. App may be more difficult, but we have to stay open to it if thats what he wants.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>There is a prototype mentioned, so we need to ask the client about the prototype and to what extent the prototype.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>REACT is what we want to use, and to pair it with typescript, maybe ESLint and Husky (for Linting and GitHooks).</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We may want to use A.W.S towards the end with HIPPA compliance.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We have a wide range of experience, and all open to learning new things. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Questions for client. We have some written on our google doc, but we also want to ask about the 5 points (really 4 without HIPPA guidelines). </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>When we talk to the client, we should think about the definite, perhaps, improbable. HIPPA may be something that&#8217;s required for the app to be used at all. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Stotts possibly said that HIPPA compliance isn&#8217;t as important.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>May need 2 sign ins, one for provider and one for patient. However, we need to keep in mind that older folks may be using the app and to keep that as simple as possible (maybe look at existing systems).</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Coach mentioned concurrency (and functional questions) &#8211;  how quick the app works and communications, how many people are going to use the app at a time, general speed. need questions for that. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Structuring meeting with the client &#8211; introductions, general questions, user stories, functional specs.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Regular meetings with team &#8211; Wednesdays after class (in person if we have class, Zoom meetings if we do not). </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Roles &#8211; figure it out more when we meet the client.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/24/coach-meeting-01-24-23/\">Coach Meeting 01/24/23</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-24T09:58:43-05:00\" class=\"wp-block-latest-posts__post-date\">January 24, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>We had our first Coach Meeting today with Louie. Here&#8217;s what we went over</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Went over agile, and what Louie will be doing for us each meeting and each week as our coach</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>First order of business is to schedule a meeting with our client in the next week and a half</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We need a project description, project proposal/plan by the end of next week</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>From Louie&#8217;s perspective, HIPPA compliance will be our biggest challenge</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>He says to ask about the 5 points with the client (what does real-time mean, what is BWS and how should we research it, etc.), as well as UI questions. Focus on the first 4 in the first meeting. </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>In the proof of concept, thinking about HIPPA may not be critical, but the final product would need to be (in other words, HIPPA isn&#8217;t something we need to discuss with them early).</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>We need to discuss when we will deploy the software and how, if it is on our side or their side in the deploying process.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Louie&#8217;s final suggestion: play with Trello to keep organized, maintain a Kanban Board. Up to us whether we use GitHub, Bitbucket, etc. Linting and GitHooks can also help us keep our code clean.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/23/coach-meeting/\">Scheduled: Coach Meeting</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-23T10:59:03-05:00\" class=\"wp-block-latest-posts__post-date\">January 23, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>Our weekly coaching meetings will be held on Tuesdays from 9:30 AM to 10:00 AM <a href=\"https://unc.zoom.us/my/louielu\">here</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n<!-- /wp:separator --></div></li>\n<li><a class=\"wp-block-latest-posts__post-title\" href=\"https://tarheels.live/teama/2023/01/23/project-assigned/\">Project Assigned</a><div class=\"wp-block-latest-posts__post-author\">by andyking</div><time datetime=\"2023-01-23T09:08:59-05:00\" class=\"wp-block-latest-posts__post-date\">January 23, 2023</time><div class=\"wp-block-latest-posts__post-full-content\"><!-- wp:paragraph -->\n<p>Our team was given a project &#8211; PRIME. The description can be found <a href=\"https://tarheels.live/teama/prime-description/\">here.</a></p>\n<!-- /wp:paragraph --></div></li>\n</ul>\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/46"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=46"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/46/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 164,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/46/revisions/164"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=46"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 45,
-        "date": "2023-01-11T12:01:42",
-        "date_gmt": "2023-01-11T17:01:42",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?page_id=45"
-        },
-        "modified": "2023-02-06T09:21:20",
-        "modified_gmt": "2023-02-06T14:21:20",
-        "slug": "assignments",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teama/assignments/",
-        "title": {
-            "rendered": "Assignments"
-        },
-        "content": {
-            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As a healthcare provider I want to be able to send a link to a survey to a specific patient which will then be filled out by them.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I want the patients answers and information to be formed into a PDF and sent to a specific HIPPA safe database that I have access to.&nbsp;</li>\n\n\n\n<li>As a healthcare provider I would like it if there was a dashboard that kept track of patients’ individual interactions with surveys longitudinally.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update recommendations for certain survey results.</li>\n\n\n\n<li>As a healthcare provider I want to be able to update BWS survey questions.&nbsp;</li>\n\n\n\n<li>As a user (leukemia patient) I want to be able to use a link to gain access to a PRIME survey.</li>\n\n\n\n<li>As a user I want to be able to fill out the survey with obvious instructions.</li>\n\n\n\n<li>As a user I want to see some form of response about successful/failure submission as well as the results of my survey.&nbsp;</li>\n\n\n\n<li>As a user I also want to be able to see my results longitudinally.&nbsp;</li>\n\n\n\n<li>As a user I want to be able to see the recommendations that my health provider gives based on my results.</li>\n\n\n\n<li>As a user I want the PRIME to be very accessible regardless of my poor vision, poor hearing, and other disabilities.</li>\n\n\n\n<li>As a user I want PRIME to be both mobile and desktop friendly.</li>\n</ul>\n\n\n\n<h2>Project Concept</h2>\n\n\n\n<p>PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. </p>\n\n\n\n<p>PRIME will be a web app based in React, Typescript, and an SQL database. It will provide surveys that allow patients to select medicinal preferences. The user experience of this app is a top priority as many of the patients are of an older demographic, so a clean UX is crucial for easy understanding. Not only that but our client wants to make the entire experience as comforting as possible given the circumstances. The app will not only provide instant feedback to the patients who use it, but will also give this feedback to their healthcare providers at the same time.</p>\n\n\n\n<p>Security is also a very important aspect of the app. Dealing with medical information, there is a standard that will need to be followed. Working with out client, we will figure out the logistics on how to navigate this in the short time we have. The app needs to be completely standalone, with one link in and one link out. This will allow it to be moved across different systems while maintaining the security we need.</p>\n\n\n\n<p>Lastly, this website will have a very small amount of traffic, but will be repeatedly used by the same individuals who visit it in the first place. Our client estimated about 200 patients over 3 years, which we can easily handle. </p>\n\n\n\n<p>Here are some photos of the potential UI and layout of the site:</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"630\" height=\"836\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.28-AM.png\" alt=\"\" class=\"wp-image-136\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.28-AM.png 630w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.28-AM-226x300.png 226w\" sizes=\"(max-width: 630px) 100vw, 630px\" /><figcaption class=\"wp-element-caption\">Object case discrete choice</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"630\" height=\"840\" src=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.36-AM.png\" alt=\"\" class=\"wp-image-137\" srcset=\"https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.36-AM.png 630w, https://tarheels.live/teama/wp-content/uploads/sites/4040/2023/02/Screen-Shot-2023-02-06-at-8.54.36-AM-225x300.png 225w\" sizes=\"(max-width: 630px) 100vw, 630px\" /><figcaption class=\"wp-element-caption\">Profile case discrete choice</figcaption></figure>\n\n\n\n<p>The first image shows object case, which will change the figures of the profile case later in the survey.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>User Stories Project Concept PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. PRIME will be a web app based in React, Typescript, and &hellip; <a href=\"https://tarheels.live/teama/assignments/\" aria-label=\"Read more about Assignments\">Continued</a></p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=45"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 141,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/45/revisions/141"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=45"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 44,
-        "date": "2023-01-11T12:01:42",
-        "date_gmt": "2023-01-11T17:01:42",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?page_id=44"
-        },
-        "modified": "2023-01-11T12:01:42",
-        "modified_gmt": "2023-01-11T17:01:42",
-        "slug": "deliverables",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teama/deliverables/",
-        "title": {
-            "rendered": "Deliverables"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/44"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=44"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/44/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 51,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/44/revisions/51"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=44"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 43,
-        "date": "2023-01-11T12:01:42",
-        "date_gmt": "2023-01-11T17:01:42",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?page_id=43"
-        },
-        "modified": "2023-02-06T22:17:14",
-        "modified_gmt": "2023-02-07T03:17:14",
-        "slug": "schedule",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teama/schedule/",
-        "title": {
-            "rendered": "Schedule"
-        },
-        "content": {
-            "rendered": "\n<p>Coach Meetings: Tuesdays at 9:30am</p>\n\n\n\n<p>Client Meetings: Tuesdays at 11:00am</p>\n\n\n\n<p>Team Meetings: Wednesdays at 10:00am</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Coach Meetings: Tuesdays at 9:30am Client Meetings: Tuesdays at 11:00am Team Meetings: Wednesdays at 10:00am</p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/43"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=43"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/43/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 160,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/43/revisions/160"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=43"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 42,
-        "date": "2023-01-11T12:01:42",
-        "date_gmt": "2023-01-11T17:01:42",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?page_id=42"
-        },
-        "modified": "2023-02-06T19:13:50",
-        "modified_gmt": "2023-02-07T00:13:50",
-        "slug": "team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teama/team/",
-        "title": {
-            "rendered": "Team"
-        },
-        "content": {
-            "rendered": "\n<h2>Team Members</h2>\n\n\n\n<p>Email All : <a href=\"mailto:smellis@live.unc.edu,wigalex@live.unc.edu,jess53@live.unc.edu,andyking@live.unc.edu\" data-type=\"mailto\" data-id=\"mailto:smellis@live.unc.edu,wigalex@live.unc.edu,jess53@live.unc.edu,andyking@live.unc.edu\">click here</a></p>\n\n\n\n<p>Ellis Kay (Front-end) : <a href=\"mailto:smellis@live.unc.edu\">smellis@live.unc.edu</a>  </p>\n\n\n\n<p>Andy King (Back-end) : <a href=\"mailto:andyking@live.unc.edu\">andyking@live.unc.edu</a></p>\n\n\n\n<p>Jess Lynch (Database) : <a href=\"mailto:jess53@live.unc.edu\">jess53@live.unc.edu</a>  </p>\n\n\n\n<p>Alex Wigger (Database) : <a href=\"mailto:wigalex@live.unc.edu\">wigalex@live.unc.edu</a>  </p>\n\n\n\n<p></p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Each team member is expected to be at all mentor meetings</li>\n\n\n\n<li>Team members should message at least a few hours in advance if they cannot attend a planned group meeting (excluding emergencies)</li>\n\n\n\n<li>Attend weekly update meetings after Wednesday class</li>\n\n\n\n<li>Alert others if assistance is needed on a specific part of the project</li>\n\n\n\n<li>If you have any problems about work load, relationships with other group members, or upcoming events that could inhibit the teams plans please speak up</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Team Members Email All : click here Ellis Kay (Front-end) : smellis@live.unc.edu Andy King (Back-end) : andyking@live.unc.edu Jess Lynch (Database) : jess53@live.unc.edu Alex Wigger (Database) : wigalex@live.unc.edu Team Rules</p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/42"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=42"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 8,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/42/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 145,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/42/revisions/145"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=42"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 38,
-        "date": "2023-01-11T11:58:13",
-        "date_gmt": "2023-01-11T16:58:13",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?page_id=38"
-        },
-        "modified": "2023-02-06T23:25:36",
-        "modified_gmt": "2023-02-07T04:25:36",
-        "slug": "home",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teama/",
-        "title": {
-            "rendered": "Home"
-        },
-        "content": {
-            "rendered": "\n<p>Welcome to PRIME!</p>\n\n\n\n<p>A survey platform for the preferences of patients with hematologic malignancies.</p>\n\n\n\n<p></p>\n\n\n\n<h2>About PRIME</h2>\n\n\n\n<p>PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare provider. </p>\n\n\n\n<p>PRIME will be a web app based in React, Typescript, and an SQL database. It will provide surveys that allow patients to select medicinal preferences. The user experience of this app is a top priority as many of the patients are of an older demographic, so a clean UX is crucial for easy understanding. Not only that but our client wants to make the entire experience as comforting as possible given the circumstances. The app will not only provide instant feedback to the patients who use it, but will also give this feedback to their healthcare providers at the same time.</p>\n\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Welcome to PRIME! A survey platform for the preferences of patients with hematologic malignancies. About PRIME PRIME looks to provide a platform to patients with hematologic malignancies with a way to discretely communicate their preferences for treatment to their healthcare &hellip; <a href=\"https://tarheels.live/teama/\" aria-label=\"Read more about Home\">Continued</a></p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=38"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 12,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 158,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/pages/38/revisions/158"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=38"
                 }
             ],
             "curies": [

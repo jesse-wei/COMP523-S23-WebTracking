@@ -1,22 +1,22 @@
 [
     {
-        "id": 208,
-        "date": "2023-02-07T11:31:01",
-        "date_gmt": "2023-02-07T16:31:01",
+        "id": 299,
+        "date": "2023-04-25T09:41:35",
+        "date_gmt": "2023-04-25T13:41:35",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=208"
+            "rendered": "https://tarheels.live/teama/?p=299"
         },
-        "modified": "2023-02-07T11:31:02",
-        "modified_gmt": "2023-02-07T16:31:02",
-        "slug": "client-meeting-02-07-2023",
+        "modified": "2023-04-25T09:41:35",
+        "modified_gmt": "2023-04-25T13:41:35",
+        "slug": "coach-meeting-04-25-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/02/07/client-meeting-02-07-2023/",
+        "link": "https://tarheels.live/teama/2023/04/25/coach-meeting-04-25-2023/",
         "title": {
-            "rendered": "Client Meeting 02/07/2023"
+            "rendered": "Coach Meeting 04/25/2023"
         },
         "content": {
-            "rendered": "\n<p></p>\n\n\n\n<ul>\n<li>Alex asked about what kind of ID will go into the database. </li>\n\n\n\n<li>They will be hashed IDs, but Daniel doesn&#8217;t know too much about it quite yet. </li>\n\n\n\n<li>Scratch that &#8211; secure database actually &#8211; cause they want their name, email, and general info in the database. Can figure out the security later</li>\n\n\n\n<li>Emailed us the packets of questions &#8211; all the surveys, etc. </li>\n\n\n\n<li>He sent us more mach-ups in a powerpoint. We can go off of that, but it does have a sign in, which we don&#8217;t need to have (just the link in, link out). </li>\n\n\n\n<li>For each attribute, we add one for when it is most important, and subtract one for least important.</li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li>Hand in summary &#8211; due the 6th,</li>\n\n\n\n<li>This just means that we need to update the website completely, put everything in the right place</li>\n\n\n\n<li>Such as hand off plan in deliverables</li>\n\n\n\n<li>We will have our personal report, where we allocate $100 across the team based on how much we think they contributed.</li>\n\n\n\n<li>Louis says that when he grades this, he will base it mainly on the handoff plan and how well the client can deploy our code. </li>\n\n\n\n<li>He would like it if we deployed for the client straight up (we&#8217;ll see if we can get the server space)</li>\n\n\n\n<li>Need to make sure documentation is very thorough, that seems like most of our grade.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -38,7 +38,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/208"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/299"
                 }
             ],
             "collection": [
@@ -60,36 +60,36 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=208"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=299"
                 }
             ],
             "version-history": [
                 {
                     "count": 1,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/208/revisions"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/299/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 209,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/208/revisions/209"
+                    "id": 300,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/299/revisions/300"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=208"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=299"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=208"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=299"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=208"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=299"
                 }
             ],
             "curies": [
@@ -102,23 +102,23 @@
         }
     },
     {
-        "id": 206,
-        "date": "2023-02-07T09:45:29",
-        "date_gmt": "2023-02-07T14:45:29",
+        "id": 295,
+        "date": "2023-04-18T09:51:48",
+        "date_gmt": "2023-04-18T13:51:48",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=206"
+            "rendered": "https://tarheels.live/teama/?p=295"
         },
-        "modified": "2023-02-07T09:45:29",
-        "modified_gmt": "2023-02-07T14:45:29",
-        "slug": "coach-meeting-02-07-2023",
+        "modified": "2023-04-18T09:51:49",
+        "modified_gmt": "2023-04-18T13:51:49",
+        "slug": "coach-meeting-04-18-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/02/07/coach-meeting-02-07-2023/",
+        "link": "https://tarheels.live/teama/2023/04/18/coach-meeting-04-18-2023/",
         "title": {
-            "rendered": "Coach Meeting 02/07/2023"
+            "rendered": "Coach Meeting 04/18/2023"
         },
         "content": {
-            "rendered": "\n<ul>\n<li>Our user stories and project concept are good for this week.</li>\n\n\n\n<li>Need to finish specifications, not much work at all left on that.</li>\n\n\n\n<li>Need to create a working/clickable version of the concept that he gave us in the next two weeks. Today, get the list of questions from him, then me and Ellis can work on backend/frontend stuff in meantime. </li>\n\n\n\n<li>Finally, look at midterm presentations how-to, and look at ethics assignment.</li>\n</ul>\n",
+            "rendered": "\n<ul>\n<li>Keep testing on localhost, and try and test front end with backend on localhost.</li>\n\n\n\n<li>Jess &#8211; colorblind shapes on the dashboard</li>\n\n\n\n<li>Need to have final presentation &#8211; has to be a demo, we can do that on Jess or Alex laptop so we have a database up and running for us to demo.</li>\n\n\n\n<li>Do demo at the end, full software cycle before</li>\n\n\n\n<li>Need to focus on final presentation, and then the hand off plan for our client. send it to them as soon as possible so that they can give feedback on how that is.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -140,7 +140,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/206"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/295"
                 }
             ],
             "collection": [
@@ -162,36 +162,36 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=206"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=295"
                 }
             ],
             "version-history": [
                 {
                     "count": 1,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/206/revisions"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/295/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 207,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/206/revisions/207"
+                    "id": 296,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/295/revisions/296"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=206"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=295"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=206"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=295"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=206"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=295"
                 }
             ],
             "curies": [
@@ -204,27 +204,27 @@
         }
     },
     {
-        "id": 133,
-        "date": "2023-02-01T10:43:15",
-        "date_gmt": "2023-02-01T15:43:15",
+        "id": 289,
+        "date": "2023-04-11T09:50:51",
+        "date_gmt": "2023-04-11T13:50:51",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=133"
+            "rendered": "https://tarheels.live/teama/?p=289"
         },
-        "modified": "2023-02-06T22:36:41",
-        "modified_gmt": "2023-02-07T03:36:41",
-        "slug": "group-meeting-02-01-2023",
+        "modified": "2023-04-11T09:50:51",
+        "modified_gmt": "2023-04-11T13:50:51",
+        "slug": "coach-meeting-04-11-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/02/01/group-meeting-02-01-2023/",
+        "link": "https://tarheels.live/teama/2023/04/11/coach-meeting-04-11-2023/",
         "title": {
-            "rendered": "Group Meeting 02/01/2023"
+            "rendered": "Coach meeting 04/11/2023"
         },
         "content": {
-            "rendered": "\n<p>Met after class</p>\n\n\n\n<ul>\n<li>ToDo &#8211; User stories &#8211; edit them from the document</li>\n\n\n\n<li>ToDo &#8211; Proof of concept/project concept &#8211; compile images that Daniel gave us, and write a short summary on what it does</li>\n\n\n\n<li>Get the flowchart from Daniel</li>\n\n\n\n<li>Do some research into our roles</li>\n\n\n\n<li>Roles &#8211; Front End (Ellis), Back End (Andy), Database (Jess and Alex)</li>\n\n\n\n<li>Create GitHub repository</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p></p>\n",
+            "rendered": "\n<ul>\n<li>Tech talk &#8211; make sure we have clearly stated numbers on why npm is not that great, like how messy it is, how pnpm is faster</li>\n\n\n\n<li>hand off plan this week, get it done</li>\n\n\n\n<li>work on documentation for when we have final presentation, and for the hand off plan, clear description of everything installation for the hand off.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Met after class</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 13590,
@@ -242,7 +242,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/289"
                 }
             ],
             "collection": [
@@ -264,36 +264,36 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=133"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=289"
                 }
             ],
             "version-history": [
                 {
-                    "count": 3,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions"
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/289/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 172,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/133/revisions/172"
+                    "id": 290,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/289/revisions/290"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=133"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=289"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=133"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=289"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=133"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=289"
                 }
             ],
             "curies": [
@@ -306,27 +306,27 @@
         }
     },
     {
-        "id": 127,
-        "date": "2023-02-01T08:58:53",
-        "date_gmt": "2023-02-01T13:58:53",
+        "id": 275,
+        "date": "2023-03-28T09:43:09",
+        "date_gmt": "2023-03-28T13:43:09",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=127"
+            "rendered": "https://tarheels.live/teama/?p=275"
         },
-        "modified": "2023-02-06T22:36:53",
-        "modified_gmt": "2023-02-07T03:36:53",
-        "slug": "client-meeting-01-31-2023",
+        "modified": "2023-03-28T09:43:09",
+        "modified_gmt": "2023-03-28T13:43:09",
+        "slug": "coach-meeting-03-28-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/02/01/client-meeting-01-31-2023/",
+        "link": "https://tarheels.live/teama/2023/03/28/coach-meeting-03-28-2023/",
         "title": {
-            "rendered": "Client Meeting 01/31/2023"
+            "rendered": "Coach Meeting 03/28/2023"
         },
         "content": {
-            "rendered": "\n<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project.</p>\n\n\n\n<p>Links: <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel1.pdf\">PDF1</a>, <a href=\"https://www.cs.unc.edu/~stotts/COMP523-s23/vids/daniel2.pdf\">PDF2</a> </p>\n\n\n\n<ul>\n<li>After introductions, Daniel gave us an overview of PRIME</li>\n\n\n\n<li>It is a survey application, one that is focused on narrowing down a patient&#8217;s preferences on what type of medicine they would like to take in response to leukemia.</li>\n\n\n\n<li>He emphasized that UX is a top priority, mentioning that the software needs to be easy to navigate, use, and most importantly to get started.</li>\n\n\n\n<li>He prefers we have 1 link into the website and 1 link, and to &#8220;containerize&#8221; the web app so that in the future, it can be moved from server to server very easily without losing security.</li>\n\n\n\n<li>He gave us 2 PDFs (see top of post) that explain the prototypes/mach ups that he and his team already have on hand for us to reference. </li>\n\n\n\n<li>One of these PDFs has a diagram that shows the entire lifecycle of the program, very helpful.</li>\n\n\n\n<li>Some smaller things he mentioned: Assistive technologies, white labelling everything, we can pitch things to him whenever we want to.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
+            "rendered": "\n<ul>\n<li>Updated Louie on progress, just general progress mostly. </li>\n\n\n\n<li>We updated front end, backend, database. </li>\n\n\n\n<li>Tech talk &#8211; 5 minutes talking about what the topic is, then we go into the rest of the time doing a tutorial on how to use something.</li>\n\n\n\n<li>Don&#8217;t let them guess why they are doing the tutorial, talk about the main goal at first then coach them through it.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>We met with our client for the first time on Tuesday. We met for ~1 hour and went over big picture ideas about the project. Links: PDF1, PDF2</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 13590,
@@ -344,7 +344,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/275"
                 }
             ],
             "collection": [
@@ -366,36 +366,36 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=127"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=275"
                 }
             ],
             "version-history": [
                 {
-                    "count": 3,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions"
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/275/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 173,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/127/revisions/173"
+                    "id": 276,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/275/revisions/276"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=127"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=275"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=127"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=275"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=127"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=275"
                 }
             ],
             "curies": [
@@ -408,27 +408,27 @@
         }
     },
     {
-        "id": 118,
-        "date": "2023-01-31T09:28:24",
-        "date_gmt": "2023-01-31T14:28:24",
+        "id": 270,
+        "date": "2023-03-21T11:22:49",
+        "date_gmt": "2023-03-21T15:22:49",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=118"
+            "rendered": "https://tarheels.live/teama/?p=270"
         },
-        "modified": "2023-02-06T22:37:53",
-        "modified_gmt": "2023-02-07T03:37:53",
-        "slug": "coach-meeting-01-31-2023",
+        "modified": "2023-03-21T11:22:50",
+        "modified_gmt": "2023-03-21T15:22:50",
+        "slug": "client-meeting-03-21-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/01/31/coach-meeting-01-31-2023/",
+        "link": "https://tarheels.live/teama/2023/03/21/client-meeting-03-21-2023/",
         "title": {
-            "rendered": "Coach Meeting 01/31/2023"
+            "rendered": "Client Meeting 03/21/2023"
         },
         "content": {
-            "rendered": "\n<p>Link: https://unc.zoom.us/my/louielu</p>\n\n\n\n<ul>\n<li>Talked about our meeting with the client.</li>\n\n\n\n<li>Louie liked our questions, but wants us to focus on getting a proof of concept/user stories ASAP so that we can actually start putting something together. </li>\n\n\n\n<li>Read HIPPA Compliance from UNC for like 5 minutes soon.</li>\n\n\n\n<li>Need to have our proof of concept on the front page of the website by this weekend. </li>\n\n\n\n<li>Also need user stories in deliverable by this weekend.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
+            "rendered": "\n<ul>\n<li>On the dashboard &#8211; want a button to add a new user and to query the database so that they don&#8217;t have to deal with code.</li>\n\n\n\n<li>Sending out a survey &#8211; also have a button for that, we can figure that out in terms of creating a button that has that functionality. </li>\n\n\n\n<li>Separate UI for clicking on a patient to see their history and stuff like that</li>\n\n\n\n<li>If they have taken the survey great, if not, have a button to resend.</li>\n\n\n\n<li>Qualitrics message from Amy &#8211; shes building a simpler version in Qualtrics, but doesn&#8217;t know how to do the logic behind it in JS. </li>\n\n\n\n<li>We will give her the GitHub Repo</li>\n\n\n\n<li>We still need some stuff from them &#8211; they will have those soon and keep it the simplest as possible</li>\n\n\n\n<li>Buckets and the actual questions being asked are going to be the same</li>\n\n\n\n<li>One outcome that is most important to you, one that is least important to you</li>\n\n\n\n<li>Other surveys &#8211; how you are feeling 1-10, decisional regret, effort of provider, etc. </li>\n\n\n\n<li>This is on teams, but not as important as the main goal atm. </li>\n\n\n\n<li>HIPPA Compliance &#8211; he&#8217;s not worried about how well we do that, he likes the track that we are on.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Link: https://unc.zoom.us/my/louielu</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 13590,
@@ -446,7 +446,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/118"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/270"
                 }
             ],
             "collection": [
@@ -468,36 +468,36 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=118"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=270"
                 }
             ],
             "version-history": [
                 {
-                    "count": 5,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/118/revisions"
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/270/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 175,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/118/revisions/175"
+                    "id": 271,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/270/revisions/271"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=118"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=270"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=118"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=270"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=118"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=270"
                 }
             ],
             "curies": [
@@ -510,27 +510,27 @@
         }
     },
     {
-        "id": 114,
-        "date": "2023-01-30T09:04:30",
-        "date_gmt": "2023-01-30T14:04:30",
+        "id": 268,
+        "date": "2023-03-21T10:58:10",
+        "date_gmt": "2023-03-21T14:58:10",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=114"
+            "rendered": "https://tarheels.live/teama/?p=268"
         },
-        "modified": "2023-02-06T22:38:04",
-        "modified_gmt": "2023-02-07T03:38:04",
-        "slug": "client-meeting-update",
+        "modified": "2023-03-21T10:58:10",
+        "modified_gmt": "2023-03-21T14:58:10",
+        "slug": "coach-meeting-03-21-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/01/30/client-meeting-update/",
+        "link": "https://tarheels.live/teama/2023/03/21/coach-meeting-03-21-2023/",
         "title": {
-            "rendered": "Client Meeting Update"
+            "rendered": "Coach Meeting 03/21/2023"
         },
         "content": {
-            "rendered": "\n<p>We reached out to our client to set up a meeting. We got a reply back after a few days, and are hoping to meet Tuesday 01/31/2023 at 10:30 AM.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
+            "rendered": "\n<ul>\n<li>Next step is to integrate front end to the back end</li>\n\n\n\n<li>Get to a point where we can record answers</li>\n\n\n\n<li>Talk to client about Qualtrics, and see if it is feasible &#8211; if it is not, then make sure they know that it is not explicitly</li>\n\n\n\n<li>Get feedback from client &#8211; to see if they are happy with what we are giving them after we connect the database to the front end</li>\n\n\n\n<li>Look at functional requirements and make sure that we are meeting them</li>\n\n\n\n<li>Tech Talk &#8211; we are locked in, npm vs pnpm in mid April</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>We reached out to our client to set up a meeting. We got a reply back after a few days, and are hoping to meet Tuesday 01/31/2023 at 10:30 AM.</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 13590,
@@ -548,7 +548,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/114"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/268"
                 }
             ],
             "collection": [
@@ -570,36 +570,36 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=114"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=268"
                 }
             ],
             "version-history": [
                 {
-                    "count": 3,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/114/revisions"
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/268/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 176,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/114/revisions/176"
+                    "id": 269,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/268/revisions/269"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=114"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=268"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=114"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=268"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=114"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=268"
                 }
             ],
             "curies": [
@@ -612,27 +612,27 @@
         }
     },
     {
-        "id": 109,
-        "date": "2023-01-25T14:55:37",
-        "date_gmt": "2023-01-25T19:55:37",
+        "id": 263,
+        "date": "2023-03-07T09:40:03",
+        "date_gmt": "2023-03-07T14:40:03",
         "guid": {
-            "rendered": "https://tarheels.live/teama/?p=109"
+            "rendered": "https://tarheels.live/teama/?p=263"
         },
-        "modified": "2023-02-06T22:39:58",
-        "modified_gmt": "2023-02-07T03:39:58",
-        "slug": "team-meeting-01-25-23",
+        "modified": "2023-03-07T09:58:01",
+        "modified_gmt": "2023-03-07T14:58:01",
+        "slug": "client-team-meeting-03-03-2023",
         "status": "publish",
         "type": "post",
-        "link": "https://tarheels.live/teama/2023/01/25/team-meeting-01-25-23/",
+        "link": "https://tarheels.live/teama/2023/03/07/client-team-meeting-03-03-2023/",
         "title": {
-            "rendered": "Team Meeting 01/25/23"
+            "rendered": "Coach Meeting 03/07/2023"
         },
         "content": {
-            "rendered": "\n<p>link: <a href=\"https://unc.zoom.us/j/5893679107\">https://unc.zoom.us/j/5893679107</a>    <br>code: 589 367 9107</p>\n\n\n\n<ul>\n<li>We want to do a website &#8211; but the client mentions APP. App may be more difficult, but we have to stay open to it if thats what he wants.</li>\n\n\n\n<li>There is a prototype mentioned, so we need to ask the client about the prototype and to what extent the prototype.</li>\n\n\n\n<li>REACT is what we want to use, and to pair it with typescript, maybe ESLint and Husky (for Linting and GitHooks).</li>\n\n\n\n<li>We may want to use A.W.S towards the end with HIPPA compliance.</li>\n\n\n\n<li>We have a wide range of experience, and all open to learning new things. </li>\n\n\n\n<li>Questions for client. We have some written on our google doc, but we also want to ask about the 5 points (really 4 without HIPPA guidelines). </li>\n\n\n\n<li>When we talk to the client, we should think about the definite, perhaps, improbable. HIPPA may be something that&#8217;s required for the app to be used at all. </li>\n\n\n\n<li>Stotts possibly said that HIPPA compliance isn&#8217;t as important.</li>\n\n\n\n<li>May need 2 sign ins, one for provider and one for patient. However, we need to keep in mind that older folks may be using the app and to keep that as simple as possible (maybe look at existing systems).</li>\n\n\n\n<li>Coach mentioned concurrency (and functional questions) &#8211;  how quick the app works and communications, how many people are going to use the app at a time, general speed. need questions for that. </li>\n\n\n\n<li>Structuring meeting with the client &#8211; introductions, general questions, user stories, functional specs.</li>\n\n\n\n<li>Regular meetings with team &#8211; Wednesdays after class (in person if we have class, Zoom meetings if we do not). </li>\n\n\n\n<li>Roles &#8211; figure it out more when we meet the client.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
+            "rendered": "\n<p>Need to add script for DB into the ReadMe, as well as update the ReadMe in general.</p>\n\n\n\n<p>Description should tell us why we want the separated file structure. That is, in the commit/PR description. </p>\n\n\n\n<p>Capitalize first letter of commit message, and use present tense in commit messages. Also word choice i think. Can use git rebase reword to change commit messages.  </p>\n\n\n\n<p>Decide on a specific topic for the tech talk</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>link: https://unc.zoom.us/j/5893679107 code: 589 367 9107</p>\n",
+            "rendered": "<p>Need to add script for DB into the ReadMe, as well as update the ReadMe in general. Description should tell us why we want the separated file structure. That is, in the commit/PR description. Capitalize first letter of commit message, &hellip; <a href=\"https://tarheels.live/teama/2023/03/07/client-team-meeting-03-03-2023/\" aria-label=\"Read more about Coach Meeting 03/07/2023\">Continued</a></p>\n",
             "protected": false
         },
         "author": 13590,
@@ -650,7 +650,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/109"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/263"
                 }
             ],
             "collection": [
@@ -672,342 +672,342 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=109"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 7,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/109/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 181,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/109/revisions/181"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=109"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=109"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=109"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 106,
-        "date": "2023-01-24T09:58:43",
-        "date_gmt": "2023-01-24T14:58:43",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?p=106"
-        },
-        "modified": "2023-02-06T22:38:32",
-        "modified_gmt": "2023-02-07T03:38:32",
-        "slug": "coach-meeting-01-24-23",
-        "status": "publish",
-        "type": "post",
-        "link": "https://tarheels.live/teama/2023/01/24/coach-meeting-01-24-23/",
-        "title": {
-            "rendered": "Coach Meeting 01/24/23"
-        },
-        "content": {
-            "rendered": "\n<p>We had our first Coach Meeting today with Louie. Here&#8217;s what we went over</p>\n\n\n\n<ul>\n<li>Went over agile, and what Louie will be doing for us each meeting and each week as our coach</li>\n\n\n\n<li>First order of business is to schedule a meeting with our client in the next week and a half</li>\n\n\n\n<li>We need a project description, project proposal/plan by the end of next week</li>\n\n\n\n<li>From Louie&#8217;s perspective, HIPPA compliance will be our biggest challenge</li>\n\n\n\n<li>He says to ask about the 5 points with the client (what does real-time mean, what is BWS and how should we research it, etc.), as well as UI questions. Focus on the first 4 in the first meeting. </li>\n\n\n\n<li>In the proof of concept, thinking about HIPPA may not be critical, but the final product would need to be (in other words, HIPPA isn&#8217;t something we need to discuss with them early).</li>\n\n\n\n<li>We need to discuss when we will deploy the software and how, if it is on our side or their side in the deploying process.</li>\n\n\n\n<li>Louie&#8217;s final suggestion: play with Trello to keep organized, maintain a Kanban Board. Up to us whether we use GitHub, Bitbucket, etc. Linting and GitHooks can also help us keep our code clean.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>We had our first Coach Meeting today with Louie. Here&#8217;s what we went over</p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/106"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=106"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/106/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 178,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/106/revisions/178"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=106"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=106"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=106"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 102,
-        "date": "2023-01-23T10:59:03",
-        "date_gmt": "2023-01-23T15:59:03",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?p=102"
-        },
-        "modified": "2023-02-06T22:38:46",
-        "modified_gmt": "2023-02-07T03:38:46",
-        "slug": "coach-meeting",
-        "status": "publish",
-        "type": "post",
-        "link": "https://tarheels.live/teama/2023/01/23/coach-meeting/",
-        "title": {
-            "rendered": "Scheduled: Coach Meeting"
-        },
-        "content": {
-            "rendered": "\n<p>Our weekly coaching meetings will be held on Tuesdays from 9:30 AM to 10:00 AM <a href=\"https://unc.zoom.us/my/louielu\">here</a>.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Our weekly coaching meetings will be held on Tuesdays from 9:30 AM to 10:00 AM here.</p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/102"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=102"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/102/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 179,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/102/revisions/179"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=102"
-                }
-            ],
-            "wp:term": [
-                {
-                    "taxonomy": "category",
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=102"
-                },
-                {
-                    "taxonomy": "post_tag",
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=102"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 93,
-        "date": "2023-01-23T09:08:59",
-        "date_gmt": "2023-01-23T14:08:59",
-        "guid": {
-            "rendered": "https://tarheels.live/teama/?p=93"
-        },
-        "modified": "2023-01-23T09:11:14",
-        "modified_gmt": "2023-01-23T14:11:14",
-        "slug": "project-assigned",
-        "status": "publish",
-        "type": "post",
-        "link": "https://tarheels.live/teama/2023/01/23/project-assigned/",
-        "title": {
-            "rendered": "Project Assigned"
-        },
-        "content": {
-            "rendered": "\n<p>Our team was given a project &#8211; PRIME. The description can be found <a href=\"https://tarheels.live/teama/prime-description/\">here.</a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Our team was given a project &#8211; PRIME. The description can be found here.</p>\n",
-            "protected": false
-        },
-        "author": 13590,
-        "featured_media": 0,
-        "comment_status": "open",
-        "ping_status": "open",
-        "sticky": false,
-        "template": "",
-        "format": "standard",
-        "meta": [],
-        "categories": [
-            1
-        ],
-        "tags": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/93"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=93"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=263"
                 }
             ],
             "version-history": [
                 {
                     "count": 2,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/93/revisions"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/263/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 97,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/93/revisions/97"
+                    "id": 266,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/263/revisions/266"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=93"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=263"
                 }
             ],
             "wp:term": [
                 {
                     "taxonomy": "category",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=93"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=263"
                 },
                 {
                     "taxonomy": "post_tag",
                     "embeddable": true,
-                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=93"
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=263"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 258,
+        "date": "2023-02-28T10:03:05",
+        "date_gmt": "2023-02-28T15:03:05",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=258"
+        },
+        "modified": "2023-02-28T10:03:05",
+        "modified_gmt": "2023-02-28T15:03:05",
+        "slug": "coach-meeting-02-28-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/28/coach-meeting-02-28-2023/",
+        "title": {
+            "rendered": "Coach Meeting 02/28/2023"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Fix Architecture diagram (under different deliverable with platform selection info) and finish ethics assignment</li>\n\n\n\n<li>for Friday the third\n<ul>\n<li>define JSON object for the survey results to show the client what the database will look like.</li>\n\n\n\n<li>cleanup the UI, make the bottom numbers update as we go</li>\n\n\n\n<li>make the radio buttons work</li>\n\n\n\n<li>we can send a new short video on how to use the website to our client can distribute it</li>\n\n\n\n<li>update README</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/258"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=258"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/258/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 261,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/258/revisions/261"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=258"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=258"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=258"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 220,
+        "date": "2023-02-21T11:25:39",
+        "date_gmt": "2023-02-21T16:25:39",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=220"
+        },
+        "modified": "2023-02-21T12:47:16",
+        "modified_gmt": "2023-02-21T17:47:16",
+        "slug": "client-meeting-02-21-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/21/client-meeting-02-21-2023/",
+        "title": {
+            "rendered": "Client meeting 02/21/2023"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Survey questions matter as to which they are paried with. Most or least important only once per question</li>\n\n\n\n<li>each category is mapped to each outcome, and based on this outcome the patient will get guidance on what they might ask their healthcare provider after.</li>\n\n\n\n<li>we will get info on a landing page at some point in the future</li>\n\n\n\n<li>Both email and phone number can be used to message the patient</li>\n\n\n\n<li>Building in results over time could be a good thing to do for the healthcare provider, not so much the client</li>\n\n\n\n<li>if they ask for the longitudinal results, we can show them that but not a requirement</li>\n\n\n\n<li>more conversational tone in the responses</li>\n\n\n\n<li>we have freedom to figure out how this will interact with a patient, making it more engaging and interactive</li>\n\n\n\n<li>meetings fridays at 3:00 with R&amp;D team, he would love to see us there.</li>\n\n\n\n<li>notification for the doctor, &#8220;hi doctor, so and so finished this survey, click the link for results&#8221;</li>\n\n\n\n<li>directly to provider with results &#8211; would you like to send your results to your provider, asking the patient.</li>\n\n\n\n<li>Friday March 3 &#8211; we will be meeting with his team and presenting so we need to make things look good/function pretty well.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/220"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=220"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/220/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 238,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/220/revisions/238"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=220"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=220"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=220"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 218,
+        "date": "2023-02-20T10:26:42",
+        "date_gmt": "2023-02-20T15:26:42",
+        "guid": {
+            "rendered": "https://tarheels.live/teama/?p=218"
+        },
+        "modified": "2023-02-21T12:46:34",
+        "modified_gmt": "2023-02-21T17:46:34",
+        "slug": "team-meeting-02-20-2023",
+        "status": "publish",
+        "type": "post",
+        "link": "https://tarheels.live/teama/2023/02/20/team-meeting-02-20-2023/",
+        "title": {
+            "rendered": "Team Meeting 02/20/2023"
+        },
+        "content": {
+            "rendered": "\n<p>We met instead of class to update each other on progress and set what to do next.</p>\n\n\n\n<ul>\n<li>Ask Louis about the architecture diagram and testing tomorrow to see what exactly we need to do.</li>\n\n\n\n<li>Ellis made a front end demo for us to show our client. Ellis and Andy think that making the website all in the front end makes more sense because of the simplicity of the app.</li>\n\n\n\n<li>Andy will work on adding functions that communicate with the SQL Database, as well as run the algorithm that takes answers from the user and quantifies them. </li>\n\n\n\n<li>Ellis will clean up the demo slightly (it looks good already) for us to show our client. </li>\n\n\n\n<li>Alex and Jess talked about how they will set up the tables in the database. Outlined the entire database and how it will look. </li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>We met instead of class to update each other on progress and set what to do next.</p>\n",
+            "protected": false
+        },
+        "author": 13590,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/218"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/users/13590"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/comments?post=218"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/218/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 236,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/posts/218/revisions/236"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/media?parent=218"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/categories?post=218"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teama/wp-json/wp/v2/tags?post=218"
                 }
             ],
             "curies": [
