@@ -1,5 +1,631 @@
 [
     {
+        "id": 130,
+        "date": "2023-05-06T12:45:40",
+        "date_gmt": "2023-05-06T16:45:40",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=130"
+        },
+        "modified": "2023-05-06T12:48:42",
+        "modified_gmt": "2023-05-06T16:48:42",
+        "slug": "d2-design-document",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/deliverables/d2-design-document/",
+        "title": {
+            "rendered": "D2. Design Document"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://lh3.googleusercontent.com/drive-viewer/AFGJ81p3c-xLw41bwZhIlmdle4LJQ8hIlmxXjgZIVNkXI0URKXqWpSMX7mXXbpUWJYnzY4ke35KYsA3EwFnMqB8GxaDTIKvH=w1920-h927\" alt=\"\" /></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 70,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/130"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=130"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/130/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 138,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/130/revisions/138"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=130"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 129,
+        "date": "2023-05-06T12:45:40",
+        "date_gmt": "2023-05-06T16:45:40",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=129"
+        },
+        "modified": "2023-05-06T12:49:30",
+        "modified_gmt": "2023-05-06T16:49:30",
+        "slug": "d5-code",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/deliverables/d5-code/",
+        "title": {
+            "rendered": "D5. Code"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"https://github.com/adammcmillan7/AcademicOS\">https://github.com/adammcmillan7/AcademicOS</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>https://github.com/adammcmillan7/AcademicOS</p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 70,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/129"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=129"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/129/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 139,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/129/revisions/139"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=129"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 122,
+        "date": "2023-04-18T12:51:22",
+        "date_gmt": "2023-04-18T16:51:22",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=122"
+        },
+        "modified": "2023-04-18T12:51:22",
+        "modified_gmt": "2023-04-18T16:51:22",
+        "slug": "hand-off-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/deliverables/hand-off-plan/",
+        "title": {
+            "rendered": "Hand-Off Plan"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Product Delivery</strong></p>\n\n\n\n<p>We will share our completed project in a github repository with our client, from which he can install and run our application on his local computer using instructions provided in the github readme file. Our client has expressed interest in passing this project on to another development team for further progress, but who that team will be is not yet decided, so the client will be responsible for sharing our github repository and relevant documentation with any future collaborators.</p>\n\n\n\n<p>Our client also plans on migrating to cloud services for the web server and database server, so we will provide instructions and resources on how to accomplish that migration. We have discussed with our client possible options for hosting such servers but he has not made a final decision on hosting services, so our instructions will be somewhat general. Our client is aware that these services cost money and has several grant/credit awards to offset these costs.</p>\n\n\n\n<p><strong>Product Installation</strong></p>\n\n\n\n<p>Our application is packaged using NPM and as such is easily installed by cloning our repository and running the “npm install” command in a command prompt. Running the application is done with the command “npm run start,”&nbsp; which will be configured to trigger the start of local MonogDB and springboot servers as well as the React front end interface. More detailed instructions and pictures of this process will be presented as a guide on our github repository page. We will also hold a final hand-off appointment with the client to guide him through any troubleshooting with installation and clear up any questions about migration or continuing the project.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Product Delivery We will share our completed project in a github repository with our client, from which he can install and run our application on his local computer using instructions provided in the github readme file. Our client has expressed interest in passing this project on to another development team for further progress, but who&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/deliverables/hand-off-plan/\">Continue reading <span class=\"screen-reader-text\">Hand-Off Plan</span></a></p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 70,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/122"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=122"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/122/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 123,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/122/revisions/123"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=122"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 112,
+        "date": "2023-04-04T11:03:55",
+        "date_gmt": "2023-04-04T15:03:55",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=112"
+        },
+        "modified": "2023-04-04T11:03:55",
+        "modified_gmt": "2023-04-04T15:03:55",
+        "slug": "test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/deliverables/test-plan/",
+        "title": {
+            "rendered": "Test Plan"
+        },
+        "content": {
+            "rendered": "\n<h3 class=\"wp-block-heading\">Ideal Plan</h3>\n\n\n\n<ul>\n<li><strong>Front End &#8211; React.js</strong>:\n<ul>\n<li><strong>Unit Testing</strong>: <a href=\"https://jestjs.io/\" data-type=\"URL\" data-id=\"https://jestjs.io/\">Jest</a> is a popular javascript testing library compatible with React. Jest has a number of useful built-in functions and features such as <a href=\"https://jestjs.io/docs/mock-functions\">mock functions</a> and advanced testing exceptions which allows for more time spent testing and debugging and less time writing complex testing functions. Jest also provides support for MongoDB, so any database testing will be done through Jest.</li>\n\n\n\n<li><strong>Integration Testing</strong>: Jest also supports integration testing. Since Jest will be used to test both React and MongoDB, creating integration tests that include the Front End and database will be much easier than if we were using separate tools.</li>\n\n\n\n<li><strong>Performance Testing:</strong> <a href=\"https://developer.chrome.com/docs/lighthouse/overview/\">Google Lighthouse</a> is a tool for generating performance audits and reports on load performance, accessibility, and more.</li>\n\n\n\n<li><strong>Acceptance Testing:</strong> Acceptance testing will be done manually with team members going through multiple scenarios of potential user actions and behavior and providing feedback as needed.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Back End &#8211; Springboot:</strong> \n<ul>\n<li><strong>Unit Testing</strong>: Springboot provides multiple testing libraries using multiple modules, the most common being <a href=\"https://docs.spring.io/spring-boot/docs/2.1.5.RELEASE/reference/html/boot-features-testing.html#:~:text=Spring%20Boot%20provides%20a%20number%20of%20utilities%20and,developers%20use%20the%20spring-boot-starter-test%E2%80%9CStarter%E2%80%9D%2C%20which%20imports%20both%20Spring\">spring-boot-starter-test</a> which includes <a href=\"https://junit.org/\">JUnit</a>, the most popular unit testing library for Java applications. Most popular IDEs such as Eclipse, IntelliJ, and more are integrated with JUnit, making it easier to create and manage tests.</li>\n\n\n\n<li><strong>Integration Testing:</strong> Another library included by spring-boot-starter-test is <a href=\"https://docs.spring.io/spring-framework/docs/5.1.7.RELEASE/spring-framework-reference/testing.html#integration-testing\">Spring Test</a>, a dedicated integration testing library made specifically for springboot applications.</li>\n\n\n\n<li><strong>Performance Testing:</strong> Much of our performance data for both front and back end will come from Lighthouse. However if we need more detailed performance testing for our springboot server, we can use <a href=\"https://jmeter.apache.org/\">JMeter</a>.</li>\n\n\n\n<li><strong>Acceptance Testing:</strong> Acceptance testing will be done manually with team members going through multiple scenarios of potential user actions and behavior and providing feedback as needed.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Realistic Plan</h3>\n\n\n\n<p>Our realistic plan does not differ much from our ideal plan in terms of tools and phases of testing. To deliver a complete feature or component no specific phase of testing can be left out. However, we realize that in a limited timeframe we may not be able to write the quantity of tests we would if we had more time. There also may be certain views or features that end up less tested than others. As such, we can indicate the priority of testing for different features.</p>\n\n\n\n<ul>\n<li>Fully Tested / Core Components\n<ul>\n<li>Implementation of our 4 main components: Tasks, Projects, Goals, and Objectives.</li>\n\n\n\n<li>Views of our daily dashboard (home page) and individual component views for tasks, projects, and goals/objectives.</li>\n</ul>\n</li>\n\n\n\n<li>Incompletely Tested / Additional Features\n<ul>\n<li>Attaching documents to a task or project.</li>\n\n\n\n<li>Features related to sharing projects, tasks, etc.</li>\n\n\n\n<li>User accounts</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">End Users</h3>\n\n\n\n<p>All users will be Junior Faculty or Graduate Students. Users will be able to </p>\n\n\n\n<ul>\n<li>Create, edit, and complete tasks, projects, goals, and objectives with titles, descriptions, due dates, and categorize into parent projects or goals as needed.</li>\n\n\n\n<li>Share and edit projects, documents, and tasks with other users.</li>\n\n\n\n<li>View tasks for today or a custom date range</li>\n\n\n\n<li>View all tasks, projects, and goals in individual view pages.</li>\n\n\n\n<li>View project pages to see project details and all tasks related to that project.</li>\n\n\n\n<li>View goal pages to see goal details and all objectives related to that goal.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Ideal Plan Realistic Plan Our realistic plan does not differ much from our ideal plan in terms of tools and phases of testing. To deliver a complete feature or component no specific phase of testing can be left out. However, we realize that in a limited timeframe we may not be able to write the&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/deliverables/test-plan/\">Continue reading <span class=\"screen-reader-text\">Test Plan</span></a></p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 70,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/112"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=112"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/112/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 113,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/112/revisions/113"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/70"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=112"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 108,
+        "date": "2023-03-24T12:58:12",
+        "date_gmt": "2023-03-24T16:58:12",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=108"
+        },
+        "modified": "2023-03-24T12:58:12",
+        "modified_gmt": "2023-03-24T16:58:12",
+        "slug": "apples-assignment-1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/apples-assignment-1/",
+        "title": {
+            "rendered": "APPLES Assignment #1"
+        },
+        "content": {
+            "rendered": "\n<p>Students and faculty members alike share the perpetual struggle of being overwhelmed by the amount of revolving tasks at hand. Without visualization, it is easy for one to suddenly feel overpowered by the number of assignments they have. The mere thought of the ginormous cloud of “To-Dos” hanging over one’s head is a very real and debilitating feeling, that may be remedied by certain task managers. A popular method of organization for those in academia are GTD or “Getting Things Done” apps. As most who have used these in the past know, all of the moving parts of GTD apps may become distracting or overwhelming for the user. So many options often does the opposite of intended, and dissuades the user from using the task manager further because it actually complicates the workflow process. AcademicLife OS, was designed by our client, a junior faculty member at UNC to remedy this issue.&nbsp;</p>\n\n\n\n<p>AcademicLife OS has a slew of goals and values for the intended users: students and educators. The biggest goal of AcademicLife OS is to be purposely restrictive. This will remedy the major issue that many GTD apps have had of being too overwhelming with superfluous options. To achieve this goal, the options provided to the user on AcademicLife OS are very intentional. Long and short term goals are prioritized with semester long planning and weekly planning. This allows the user to break down semester long projects as smaller tasks, and accomplish them in a timely, placed fashion. The app also includes a daily workstation which aids in daily visualization of tasks currently at hand. The series of dashboards AcademicLife OS offers also helps users categorize their work. For example, our client uses the prototype’s dashboard feature to separate his research and courses. All of these goals and features are moving parts that make AcademicLife OS unique.</p>\n\n\n\n<p>Why are these goals important, and how will they help the users’ quotidian lives? As discussed earlier, the stress of workload is a common daily force for those in academia. The visualization that AcademicLife OS provides in key in diffusing some of this stress. The ability to break down semester-long projects into weekly tasks aids the user in picturing what the work process will look like, decreasing some trepidation about those larger scale tasks. The ability to have separate dashboards as well for different facets of work is key for the user. This aims to isolate each project as its own and make the total sum of work one has more approachable. This is an important concept because often GTD apps can be cluttered with work from many sectors, and it can be cumbersome for the user. Overall, AcademicLifeOS will be an important, unique tool for students and faculty to manage their stress through goal setting and planning.&nbsp;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Students and faculty members alike share the perpetual struggle of being overwhelmed by the amount of revolving tasks at hand. Without visualization, it is easy for one to suddenly feel overpowered by the number of assignments they have. The mere thought of the ginormous cloud of “To-Dos” hanging over one’s head is a very real&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/apples-assignment-1/\">Continue reading <span class=\"screen-reader-text\">APPLES Assignment #1</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1119,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/108"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=108"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/108/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 110,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/108/revisions/110"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=108"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 102,
+        "date": "2023-03-05T16:58:37",
+        "date_gmt": "2023-03-05T21:58:37",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=102"
+        },
+        "modified": "2023-03-05T17:00:25",
+        "modified_gmt": "2023-03-05T22:00:25",
+        "slug": "ethics-1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/ethics-1/",
+        "title": {
+            "rendered": "Ethics 1"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Facebook</strong> </p>\n\n\n\n<p>Facebook&#8217;s unethical behavior regarding the Cambridge Analytica scandal raises serious concerns about user privacy and the responsibility of software engineers to prioritize ethical considerations in their work. In 2018, it was revealed that the political consulting firm Cambridge Analytica had obtained data on millions of Facebook users without their consent, which was used to influence the 2016 US presidential election.</p>\n\n\n\n<p>The data was collected through a quiz app developed by Aleksandr Kogan, a researcher at Cambridge University, which was used by approximately 270,000 Facebook users. However, the app also collected data from the users&#8217; friends, resulting in the data of millions of users being harvested without their knowledge or consent. The data was then used by Cambridge Analytica to create targeted political advertising based on users&#8217; interests, beliefs, and behaviors.</p>\n\n\n\n<p>This behavior is problematic because it violates users&#8217; privacy and undermines the trust that users have in the platform. Facebook&#8217;s failure to adequately protect user data and prevent its misuse by third-party developers represents a breach of trust with its users and highlights the need for stronger data protection regulations.</p>\n\n\n\n<p>Furthermore, Facebook&#8217;s business model of collecting and monetizing user data through targeted advertising is inherently problematic from an ethical standpoint. The platform&#8217;s algorithms are designed to track users&#8217; online activity and use that data to show them personalized ads. This creates a tension between the platform&#8217;s financial interests and users&#8217; privacy rights, leading to conflicts of interest and potentially unethical behavior.</p>\n\n\n\n<p>The problem is not just the behavior of individual software engineers, but also the functions being performed by the software itself. Facebook&#8217;s algorithms prioritize engagement metrics, such as time spent on the platform and user interactions, over user well-being and privacy. This can lead to the platform promoting sensational or controversial content that generates more engagement, even if it is harmful or misleading.</p>\n\n\n\n<p>Moreover, the complex nature of Facebook&#8217;s algorithmic systems makes it difficult to determine who is responsible for the unethical behavior. While the Cambridge Analytica scandal was ultimately caused by a third-party developer, Facebook&#8217;s lax data protection policies and inadequate oversight allowed the situation to occur.</p>\n\n\n\n<p>In conclusion, the Cambridge Analytica scandal highlights the need for stronger data protection regulations and ethical considerations in software engineering. The problem is not just the behavior of individual engineers, but also the functions being performed by the software itself. It is essential for tech companies to prioritize user privacy and well-being over financial interests and to implement stronger oversight and regulation to prevent future breaches of trust.</p>\n\n\n\n<p><strong>Artificial Intelligence</strong></p>\n\n\n\n<p>The development of artificial intelligence (AI) raises a number of ethical concerns, such as bias and discrimination, privacy violations, and the impact of AI on employment. One of the primary concerns is that AI systems may perpetuate or introduce biases and discrimination if the data they are trained on is biased or if the algorithms used to make decisions are not designed to be fair and unbiased. For instance, facial recognition technology has been found to have higher error rates for people with darker skin, which could lead to bias and discrimination in law enforcement and other areas.</p>\n\n\n\n<p>Another concern is that AI may violate our privacy and individual rights. For example, Clearview AI has harvested billions of photos from social media without users&#8217; consent, raising serious questions about privacy and the potential for abuse. There have also been instances where devices such as Amazon&#8217;s Alexa have recorded conversations without users&#8217; knowledge or consent, highlighting the risk of privacy violations.</p>\n\n\n\n<p>In addition, there are concerns about the impact of AI on the job market, as the technology may replace human workers in certain industries. For example, self-driving trucks and delivery vehicles may eliminate jobs for drivers, while automated call centers may replace human customer service representatives. Some AI-powered systems, such as predictive policing algorithms, have been criticized for perpetuating racial biases and leading to over-policing of communities of color. Furthermore, Amazon developed an AI hiring tool that was found to be biased against women because it was trained on resumes submitted to the company over a 10-year period, which were predominantly from men.</p>\n\n\n\n<p>The problem of unethical behavior in the development of AI is complex and can be attributed to both the behavior of software engineers and the functions performed by the software. Engineers may prioritize efficiency or profitability over ethical considerations, or they may inadvertently introduce biases into the system. For example, a facial recognition system may have a higher error rate for people with darker skin because the training data used to develop the system did not include enough diverse faces. At the same time, the functions performed by AI may raise ethical concerns that go beyond the engineer&#8217;s behavior, such as when AI is used to make decisions that have significant consequences for people&#8217;s lives.</p>\n\n\n\n<p>Addressing these ethical concerns requires a collaborative effort that involves engineers, ethicists, policymakers, and other stakeholders. We must promote ethical AI development practices to ensure that AI is developed and deployed in a way that maximizes its benefits while minimizing its harms. This could involve developing more diverse and representative training data for AI systems, implementing transparency and accountability measures, and ensuring that AI is used in ways that do not unfairly disadvantage certain groups of people. It is important to note that addressing these ethical concerns will require not only changes in software engineering practices but also an understanding of the functions and impacts of AI technology.</p>\n\n\n\n<p><strong>Volkswagen</strong></p>\n\n\n\n<p>In September of 2015, the Environmental Protection Agency (EPA) uncovered a piece of software that Volkswagen intentionally was using and built to evade carbon dioxide emission regulations. Volkswagen had installed this software in diesel engines in cars being sold in the United States to detect when they were being tested. Being able to detect when the cars were being tested, allowed engineers to manipulate the perceived emissions of their cars. This software was accompanied by aggressive advertising boasting the cars’ low emission rates. This is a prime example of an unethical piece of software that was created with the intent to do harm to the environment, and evade important environmental restrictions in exchange for more capital for Volkswagen.&nbsp;</p>\n\n\n\n<p>The EPA discovered that around 11 million vehicles worldwide had been equipped with the diesel engine device, including the Audi A3, manufactured by Volkswagen. The software itself is hard to imagine. How could a piece of software, equipped in an engine, detect when environmental testing was underway? While all the details are not known, researchers were able to deduce that the engines had a computer software that was able to sense certain conditions that are unique to test scenarios. This includes speed, engine operation, air pressure, and position of the steering wheel. It is typical for cars to be in a controlled environment when being tested, and the cars were able to detect this environment. Therefore, the engines would switch into a more environmentally friendly mode while being tested, but returned to a high emission mode while being driven by a regular driver. What really highlights how unethical this practice is, is comparing the two modes: what these engines emit when the software is enacted and what they emit normally. Studies by the EPA showed that the cars emitted 40 times more nitrogen oxide pollutants than what was allowed in the United States in 2015, all going undetected due to this software.&nbsp;</p>\n\n\n\n<p>The dilemma that Volkswagen presents is who should be held accountable? Did the software engineers that created this program create the problem themselves, or were they told by management to perform this task? Feasibly, this would require a lot of testing and would be a costly operation, so the burden cannot fall entirely on the software engineers, the entire company must be held liable, and was. The next dilemma this situation poses is if Volkswagen was able to do this, what other companies are continuing to successfully do this? Is the environmental testing done on our cars thorough enough? Overall, this software was intentionally malicious and poses a great threat to the environment and automobile industry alike.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Facebook Facebook&#8217;s unethical behavior regarding the Cambridge Analytica scandal raises serious concerns about user privacy and the responsibility of software engineers to prioritize ethical considerations in their work. In 2018, it was revealed that the political consulting firm Cambridge Analytica had obtained data on millions of Facebook users without their consent, which was used to&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/ethics-1/\">Continue reading <span class=\"screen-reader-text\">Ethics 1</span></a></p>\n",
+            "protected": false
+        },
+        "author": 1119,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/102"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=102"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/102/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 106,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/102/revisions/106"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=102"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 91,
+        "date": "2023-02-20T10:02:57",
+        "date_gmt": "2023-02-20T15:02:57",
+        "guid": {
+            "rendered": "https://tarheels.live/teamm/?page_id=91"
+        },
+        "modified": "2023-04-17T07:50:41",
+        "modified_gmt": "2023-04-17T11:50:41",
+        "slug": "assignments",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamm/assignments/",
+        "title": {
+            "rendered": "Assignments"
+        },
+        "content": {
+            "rendered": "\n<p>Midterm Presentation</p>\n\n\n\n<p><a href=\"https://docs.google.com/presentation/d/1rZdBybzjWW452zRxjv4-GSvnCIoXklnmS8oUPGfWRvU/edit?usp=sharing\">https://docs.google.com/presentation/d/1rZdBybzjWW452zRxjv4-GSvnCIoXklnmS8oUPGfWRvU/edit?usp=sharing</a></p>\n\n\n\n<p>Tech Talk:</p>\n\n\n\n<p><a href=\"https://docs.google.com/presentation/d/12XfO7IlSQheMDAgIobDKnPp5Diq3xJjeG776l70RrSM/edit#slide=id.p\">https://docs.google.com/presentation/d/12XfO7IlSQheMDAgIobDKnPp5Diq3xJjeG776l70RrSM/edit#slide=id.p</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Midterm Presentation https://docs.google.com/presentation/d/1rZdBybzjWW452zRxjv4-GSvnCIoXklnmS8oUPGfWRvU/edit?usp=sharing Tech Talk: https://docs.google.com/presentation/d/12XfO7IlSQheMDAgIobDKnPp5Diq3xJjeG776l70RrSM/edit#slide=id.p</p>\n",
+            "protected": false
+        },
+        "author": 4809,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/91"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=91"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/91/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 120,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/91/revisions/120"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=91"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 79,
         "date": "2023-02-06T09:16:12",
         "date_gmt": "2023-02-06T14:16:12",
@@ -92,8 +718,8 @@
         "guid": {
             "rendered": "https://tarheels.live/teamm/?page_id=72"
         },
-        "modified": "2023-02-06T12:31:23",
-        "modified_gmt": "2023-02-06T17:31:23",
+        "modified": "2023-02-20T09:05:42",
+        "modified_gmt": "2023-02-20T14:05:42",
         "slug": "specifications",
         "status": "publish",
         "type": "page",
@@ -102,7 +728,7 @@
             "rendered": "Specifications"
         },
         "content": {
-            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<p>Regular User: Junior Faculty / Grad Student</p>\n\n\n\n<p>As a user, I want to design a strategic plan for my semester and break down that plan into long and short term goals, projects, and tasks to achieve more effective workflow and project management.</p>\n\n\n\n<p>As a user, I want to share and edit projects, documents, and tasks with other users to collaborate and communicate effectively.</p>\n\n\n\n<p>As a user, I want to utilize pre-loaded department resources and contacts to promote organization and communication among my peers.</p>\n\n\n\n<p>As a user, I want to receive feedback to improve my time management and workflow skills.</p>\n\n\n\n<p>As a user, I want to quickly create new tasks, goals, and projects to manage my workflow.</p>\n\n\n\n<p>As a user, I want to view tasks I have assigned for today and the near future to structure my productivity.</p>\n\n\n\n<p>As a user, I want to review and adjust my semester and weekly plans to adapt my productivity to help achieve dynamic and abstract long-term objectives and projects.</p>\n\n\n\n<h2>Requirements</h2>\n",
+            "rendered": "\n<h2 class=\"wp-block-heading\">User Stories</h2>\n\n\n\n<p>Regular User: Junior Faculty / Grad Student</p>\n\n\n\n<p>As a user, I want to design a strategic plan for my semester and break down that plan into long and short term goals, projects, and tasks to achieve more effective workflow and project management.</p>\n\n\n\n<p>As a user, I want to share and edit projects, documents, and tasks with other users to collaborate and communicate effectively.</p>\n\n\n\n<p>As a user, I want to utilize pre-loaded department resources and contacts to promote organization and communication among my peers.</p>\n\n\n\n<p>As a user, I want to receive feedback to improve my time management and workflow skills.</p>\n\n\n\n<p>As a user, I want to quickly create new tasks, goals, and projects to manage my workflow.</p>\n\n\n\n<p>As a user, I want to view tasks I have assigned for today and the near future to structure my productivity.</p>\n\n\n\n<p>As a user, I want to review and adjust my semester and weekly plans to adapt my productivity to help achieve dynamic and abstract long-term objectives and projects.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Requirements</h2>\n\n\n\n<ul>\n<li>Functional<ul><li>Definite<ul><li>Create and edit projects and tasks which are stored in a database, organized by user.</li></ul><ul><li>Share tasks, projects, and documents with other users.</li></ul><ul><li>Upload and view shared department resources</li></ul><ul><li>View tasks for today, this week, or another specific date range</li></ul><ul><li>Create and edit long-term semester and weekly plans.</li></ul><ul><li>Break down long-term plans into short-term goals and tasks.</li></ul></li></ul><ul><li>Perhaps<ul><li>Have the application generate feedback or data based on productivity trends</li></ul></li></ul>\n<ul>\n<li>Improbable\n<ul>\n<li>Implement productivity/organizational function for personal development</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>Non-functional<ul><li>Definite<ul><li>Implement a clean and user-friendly GUI</li></ul></li></ul><ul><li>Perhaps<ul><li>Create a different GUI than shown in the prototype.</li></ul></li></ul>\n<ul>\n<li>Improbable\n<ul>\n<li>Application should work offline or have a desktop companion app</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -153,8 +779,8 @@
             ],
             "predecessor-version": [
                 {
-                    "id": 85,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions/85"
+                    "id": 90,
+                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/72/revisions/90"
                 }
             ],
             "up": [
@@ -252,436 +878,6 @@
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=70"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 12,
-        "date": "2023-01-25T12:03:41",
-        "date_gmt": "2023-01-25T17:03:41",
-        "guid": {
-            "rendered": "https://tarheels.live/teamm/?page_id=12"
-        },
-        "modified": "2023-01-30T12:53:08",
-        "modified_gmt": "2023-01-30T17:53:08",
-        "slug": "contact-information",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamm/contact-information/",
-        "title": {
-            "rendered": "Contact Information"
-        },
-        "content": {
-            "rendered": "\n<p><a href=\"mailto:lucymac@live.unc.edu; adam1415@live.unc.edu; xdantong@unc.edu; krishna.sudhir@unc.edu\">Team email</a></p>\n\n\n\n<p>Lucy Conway (Full stack developer)|| Phone: +1(914)-953-053 || Email: <a href=\"mailto:lucymac@live.unc.edu\">lucymac@live.unc.edu</a>   </p>\n\n\n\n<p>Adam McMillan (Full stack developer) || Email: <a href=\"mailto:adam1415@live.unc.edu\">adam1415@live.unc.edu</a></p>\n\n\n\n<p>Dantong Xiang (Full stack developer)|| Phone: +1(984)-758-3199 || Email: <a href=\"mailto:xdantong@unc.edu\">xdantong@unc.edu</a></p>\n\n\n\n<p>Krishna Sudhir (Full stack developer)|| Email: <a href=\"mailto:krishna.sudhir@unc.edu\">krishna.sudhir@unc.edu</a></p>\n\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Team email Lucy Conway (Full stack developer)|| Phone: +1(914)-953-053 || Email: lucymac@live.unc.edu Adam McMillan (Full stack developer) || Email: adam1415@live.unc.edu Dantong Xiang (Full stack developer)|| Phone: +1(984)-758-3199 || Email: xdantong@unc.edu Krishna Sudhir (Full stack developer)|| Email: krishna.sudhir@unc.edu</p>\n",
-            "protected": false
-        },
-        "author": 4809,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=12"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 9,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 67,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/12/revisions/67"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=12"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 40,
-        "date": "2023-01-24T15:49:50",
-        "date_gmt": "2023-01-24T20:49:50",
-        "guid": {
-            "rendered": "https://tarheels.live/teamm/?page_id=40"
-        },
-        "modified": "2023-02-01T20:44:56",
-        "modified_gmt": "2023-02-02T01:44:56",
-        "slug": "homepage",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamm/",
-        "title": {
-            "rendered": "Home"
-        },
-        "content": {
-            "rendered": "\n<p><strong>AcademicLife OS </strong>is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of options and flexibility, it is purposely restrictive. </p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>AcademicLife OS is a software platform that is designed to help faculty (specifically junior faculty) align their priorities and tasks and keep track of their progress. The unique aspect of this compared to other &#8220;GTD&#8221; and project management apps is that is designed using insights from psychology and economics. Instead of giving users tons of&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/\">Continue reading <span class=\"screen-reader-text\">Home</span></a></p>\n",
-            "protected": false
-        },
-        "author": 1119,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=40"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 78,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/40/revisions/78"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=40"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 18,
-        "date": "2023-01-18T16:42:54",
-        "date_gmt": "2023-01-18T21:42:54",
-        "guid": {
-            "rendered": "https://tarheels.live/teamm/?page_id=18"
-        },
-        "modified": "2023-02-06T12:32:49",
-        "modified_gmt": "2023-02-06T17:32:49",
-        "slug": "journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamm/journal/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<div class=\"is-layout-constrained wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<div class=\"is-layout-constrained wp-block-group has-yellow-background-color has-background\"><div class=\"wp-block-group__inner-container\">\n<p><strong>1/30/2023 &#8211; Team Meeting:</strong></p>\n\n\n\n<ul>\n<li>Updated team roles</li>\n\n\n\n<li>Drafted User stories and project concept</li>\n\n\n\n<li>Discussed using MVC design pattern as well as implementation of front end and back end.  \n<ul>\n<li>Front end: React, HTML, CSS</li>\n\n\n\n<li>Webserver: Springboot (Java)</li>\n\n\n\n<li>Database: MongoDB (chose a no-SQL database for easier and more flexible data storage. </li>\n</ul>\n</li>\n</ul>\n</div></div>\n</div></div>\n\n\n\n<div class=\"is-layout-constrained wp-block-group has-yellow-background-color has-background\"><div class=\"wp-block-group__inner-container\">\n<p><strong>1/27/2023 &#8211; Client Meeting: </strong></p>\n\n\n\n<ul>\n<li>Discussed preemptive architectural diagrams and brainstormed overall project goals </li>\n\n\n\n<li>Determined highest priority features/dashboards for most viable product. </li>\n\n\n\n<li>Discussed implementation ideas and what kind of database management system to use (RDBMS vs No-SQL) </li>\n</ul>\n</div></div>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/25/2023 &#8211; Team Meeting: </strong>Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal.  </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/24/2023 &#8211; First Coach Meeting: </strong>Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.</p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/18/2023 &#8211; Project Preferences/Website</strong> : Discussed all client project proposals, ranked our preferences and communicated with Professor Stotts. Also began creating our project site. </p>\n\n\n\n<p class=\"has-yellow-background-color has-background\"><strong>1/13/2023 &#8211; Initial team meeting</strong>: Introduced ourselves and our experience prior to the class. High level discussed basic rules and expectations.</p>\n\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>1/30/2023 &#8211; Team Meeting: 1/27/2023 &#8211; Client Meeting: 1/25/2023 &#8211; Team Meeting: Met with fourth team member for first time. Created Trello board, contacted client regarding meeting times, updated team website and read through/discussed client grant proposal. 1/24/2023 &#8211; First Coach Meeting: Met with Coach Louie for the first time. Discussed upcoming deliverables, and project.&hellip; <a class=\"more-link\" href=\"https://tarheels.live/teamm/journal/\">Continue reading <span class=\"screen-reader-text\">Journal</span></a></p>\n",
-            "protected": false
-        },
-        "author": 1119,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=18"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 8,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 87,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/18/revisions/87"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=18"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 14,
-        "date": "2023-01-18T16:41:33",
-        "date_gmt": "2023-01-18T21:41:33",
-        "guid": {
-            "rendered": "https://tarheels.live/teamm/?page_id=14"
-        },
-        "modified": "2023-02-06T12:23:25",
-        "modified_gmt": "2023-02-06T17:23:25",
-        "slug": "meeting-schedule",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamm/meeting-schedule/",
-        "title": {
-            "rendered": "Meeting Schedule"
-        },
-        "content": {
-            "rendered": "\n<p>Coach Meetings: 3:30-4:00 PM Tuesdays</p>\n\n\n\n<p>Team Meetings: 12:30-2:00 PM Mondays</p>\n\n\n\n<p>Client Meetings by appointment</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Coach Meetings: 3:30-4:00 PM Tuesdays Team Meetings: 12:30-2:00 PM Mondays Client Meetings by appointment</p>\n",
-            "protected": false
-        },
-        "author": 4809,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/4809"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=14"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 82,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/14/revisions/82"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=14"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 16,
-        "date": "2023-01-18T16:38:35",
-        "date_gmt": "2023-01-18T21:38:35",
-        "guid": {
-            "rendered": "https://tarheels.live/teamm/?page_id=16"
-        },
-        "modified": "2023-01-18T16:38:35",
-        "modified_gmt": "2023-01-18T21:38:35",
-        "slug": "team-rules",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamm/team-rules/",
-        "title": {
-            "rendered": "Team Rules"
-        },
-        "content": {
-            "rendered": "\n<ul>\n<li>Communicate scheduling changes effectively and clearly with group members. </li>\n\n\n\n<li>Approve new changes with team. </li>\n\n\n\n<li>Meet deadlines, and update members on progress.</li>\n\n\n\n<li>Come prepared to all meetings. </li>\n\n\n\n<li>Respond to members, client, and coach in a timely fashion.</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 1119,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/16"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/users/1119"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/comments?post=16"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/16/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 30,
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/pages/16/revisions/30"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamm/wp-json/wp/v2/media?parent=16"
                 }
             ],
             "curies": [
