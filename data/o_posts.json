@@ -6,8 +6,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamo/?p=117"
         },
-        "modified": "2023-02-05T18:41:09",
-        "modified_gmt": "2023-02-05T23:41:09",
+        "modified": "2023-04-07T11:06:46",
+        "modified_gmt": "2023-04-07T15:06:46",
         "slug": "project-description",
         "status": "publish",
         "type": "post",
@@ -16,7 +16,7 @@
             "rendered": "Project Description"
         },
         "content": {
-            "rendered": "\n<p>cReddit Hours is an app that provides meta-information about r/UNC, with the dual goal of both providing a summary of the current state and trends in the vibe of the Carolina community, and aiding moderators to actively create positivity and prevent misinformation and harm.</p>\n\n\n\n<p>This project will produce a read-only web page front end displaying metrics and visualizations. These should provide an at-a-glance summary of information gathered from numeric content about posts, comments, upvotes, downvotes, etc. as well as semantic content from the text within the posts themselves. General trends will be shown in such a way to keep users anonymous; however, there will be a leaderboard(s) displaying the usernames of the &#8220;most positive&#8221; users in various metrics.</p>\n\n\n\n<p>To do this, a complete history of all activity on the subreddit will be stored in the backend database. A web-scraper will either run continuously or at regular intervals to stay as up to date as possible. Estimations of semantic content will be gleaned via NLP libraries. A notification system will be implemented to track when metrics pass a certain threshold of deviation.</p>\n",
+            "rendered": "\n<p>cReddit Hours is an app that provides meta-information about r/UNC, with the dual goal of both providing a summary of the current state and trends in the vibe of the Carolina community, and aiding moderators to actively create positivity and prevent misinformation and harm.</p>\n\n\n\n<p>This project will produce an interactive web page front end displaying metrics and visualizations. These provide an at-a-glance summary of information gathered from numeric content about posts, comments, upvotes, downvotes, etc. as well as semantic content from the text within the posts themselves. General trends will be shown in such a way to keep users anonymous; however, there will be a leaderboard(s) displaying the usernames of the &#8220;most positive&#8221; users in various metrics.</p>\n\n\n\n<p>To do this, a complete history of all activity on the subreddit will be stored in the backend database. A web scraper will run at regular intervals to stay as up to date as possible. Estimations of semantic content will be gleaned via NLP libraries. A notification system will be implemented to track when metrics pass a certain threshold of deviation.</p>\n",
             "protected": false
         },
         "excerpt": {
@@ -65,14 +65,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 7,
                     "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts/117/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 121,
-                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts/117/revisions/121"
+                    "id": 285,
+                    "href": "https://tarheels.live/comp523teamo/wp-json/wp/v2/posts/117/revisions/285"
                 }
             ],
             "wp:attachment": [
