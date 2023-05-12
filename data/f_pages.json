@@ -1,29 +1,29 @@
 [
     {
-        "id": 131,
-        "date": "2023-01-31T12:53:20",
-        "date_gmt": "2023-01-31T17:53:20",
+        "id": 288,
+        "date": "2023-04-13T18:21:09",
+        "date_gmt": "2023-04-13T22:21:09",
         "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=131"
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=288"
         },
-        "modified": "2023-02-01T11:19:01",
-        "modified_gmt": "2023-02-01T16:19:01",
-        "slug": "wake-smiles",
+        "modified": "2023-04-14T12:38:02",
+        "modified_gmt": "2023-04-14T16:38:02",
+        "slug": "client-handoff-plan",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/",
+        "link": "https://tarheels.live/sp23comp523teamf/client-handoff-plan/",
         "title": {
-            "rendered": "Wake Smiles"
+            "rendered": "Client Handoff Plan"
         },
         "content": {
-            "rendered": "\n<h2>Project Summary</h2>\n\n\n\n<p>Wake Smiles provides health services for under-resourced adults through better access to oral health. As their number of volunteers increases, serving the demand of the community and managing volunteers has grown increasingly inefficient. To solve this this predicament, Wake Smiles would like to integrate a volunteering-management platform to decrease time spent in clerical work and focus on serving the community.</p>\n",
+            "rendered": "\n<p>Handoff Plan:</p>\n\n\n\n<p>Our client will receive access to the following:</p>\n\n\n\n<ul>\n<li>Gmail – class deliverables, design drafts, final documentation</li>\n\n\n\n<li>Supabase – database platform and current admin side of the application</li>\n\n\n\n<li>GitHub – application code</li>\n\n\n\n<li>Vercel – deployment platform</li>\n\n\n\n<li>Deployed volunteer and admin applications</li>\n</ul>\n\n\n\n<p><strong><em>How to Use Final Products</em></strong></p>\n\n\n\n<p>Volunteers can use the volunteer app, which is currently deployed at: <a href=\"https://mysmile.vercel.app/\">https://mysmile.vercel.app/</a></p>\n\n\n\n<p>Admins can use the admin portal, which is currently deployed at: <a href=\"https://mysmile-admin.vercel.app/\">https://mysmile-admin.vercel.app/</a></p>\n\n\n\n<p><strong><em>Setting up Locally</em></strong></p>\n\n\n\n<p>This is mainly for development purposes (i.e. you, or a technical team of yours, wants to add/edit/delete features). If you don’t plan to code, you will NOT need to complete these items. However, we have created a Github account for the wakesmiles.dev@gmail.com account. This account will be needed to access Github, where the code is stored. Once logged into Github, collaborators can be added to modify the existing codebase. Please contact the admin, Sommer Wisher, for the login information.&nbsp;</p>\n\n\n\n<p>To view and edit the code, you will first need a development environment. We recommend installing Visual Studio Code (VSCode), which is one of the most popular platforms, if not the most popular for software projects. The following instructions will be provided for VSCode. Clone the Repository into Local development platform (for us, VSCode)</p>\n\n\n\n<ol>\n<li>Navigate to the GitHub link for the wakesmilesapp. Click on the green “<strong>Code</strong>” button and copy the HTTPS repo URL.</li>\n\n\n\n<li>Open VSCode. Use keyboard shortcut <strong>Ctrl + Shift + P</strong> (Windows) or <strong>Command + Shift + P</strong> (Mac) to open the Command Palette bar at the top.</li>\n\n\n\n<li>Type “<strong>Git: Clone</strong>” into the Command Palette bar to pull up the option, then paste the URL into the bar.</li>\n</ol>\n\n\n\n<p>We recommend installing the following VSCode extensions for a better development experience:</p>\n\n\n\n<ul>\n<li>In the left menu bar of VSCode, click on the Extensions icon (looks like a mini-tetris board of 4 blocks, with the top-right one detached from the other three).</li>\n\n\n\n<li>Search up and install/update the following extensions:</li>\n</ul>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td>Extension Name</td><td>Author</td><td>Version</td></tr><tr><td><em>GitHub Pull Requests and Issues</em></td><td>GitHub</td><td>V0.50.0 or higher</td></tr><tr><td><em>GitLens – Git supercharged</em></td><td>GitKraken</td><td>V12.2.2 or higher</td></tr><tr><td><em>Git Graph</em></td><td>mhutchie</td><td>V1.30.0 or higher</td></tr><tr><td><em>Prettier – Code Formatter</em></td><td>Prettier</td><td>V9.9.0 or higher</td></tr><tr><td><em>ES7 + React/Redux/React-Native snippets</em></td><td>dsznajder</td><td></td></tr><tr><td><em>Tailwind CSS IntelliSense</em></td><td>Tailwind Labs</td><td>V0.9.1 or higher</td></tr></tbody></table></figure>\n\n\n\n<ol start=\"3\">\n<li>Once <em>Tailwind CSS IntelliSense </em>is installed, go to the plugin’s settings\n<ol>\n<li>Search “<strong>includeLanguages</strong>”</li>\n\n\n\n<li>In the “Tailwind CSS: Include Languages” table that appears, add <strong>plaintext</strong> (item) and <strong>html</strong> (value)</li>\n</ol>\n</li>\n\n\n\n<li>Update VSCode Settings\n<ol>\n<li>Navigate File &gt; Preferences &gt; Settings</li>\n\n\n\n<li>Search “<strong>files.associations</strong>”\n<ol>\n<li>In the “Files: Associations” table that appears, add <strong>*.css</strong> (item) and <strong>tailwindcss</strong> (value)</li>\n</ol>\n</li>\n\n\n\n<li>Search “<strong>editor.quickSuggestions</strong>”\n<ol>\n<li>In the “Editor: Quick Suggestions” table that appears, make sure that the <strong>strings </strong>item has <strong>on </strong>as its value</li>\n</ol>\n</li>\n</ol>\n</li>\n\n\n\n<li>Set Up / Run Code\n<ol>\n<li>In the terminal, navigate into the root folder of the directory with the cd command<br>(ex: <strong>cd wakesmilesapp</strong>)</li>\n\n\n\n<li>Run <strong>npm install</strong></li>\n\n\n\n<li>To run code in the browser, run the command<strong> npm run dev </strong>in the terminal\n<ol>\n<li>To quit in the terminal, press&nbsp; <strong>Ctrl + C</strong> (Windows) or <strong>Command + C</strong> (Mac)</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n\n\n\n<p><strong><em>Technical Descriptions</em></strong></p>\n\n\n\n<p>Both the Wake Smiles Volunteer App and the Wake Smiles Admin Portal were developed with the React.js framework, which is the most popular framework for front-end (user-facing) interfaces. Because it is very well established, it has great documentation and compatibility with other platforms. To store the volunteer data, we used Supabase, which offers 500MB storage and 1GB of file storage. Essentially, React was used to build the UI while Supabase was used to manage data that the UI interacts with. Github was used to store and manage code.&nbsp;</p>\n\n\n\n<p>Here is a brief summary some of the technology used for these apps:</p>\n\n\n\n<ul>\n<li>React is a JavaScript library for building user interfaces. In this project, it is integrated with several other frontend libraries, such as Tailwind CSS (used to change appearance of some buttons and UI components) and Material React Table (used to generate the tables).</li>\n\n\n\n<li>Supabase is an open source Firebase alternative. It hosts data through the cloud, so Wake Smiles won’t need extra hardware for storage. We’re currently operating on the free tier during development, but upon launch we’ll need to upgrade to the Pro tier. The price of this is $25 per month, which was confirmed by Sommer Wisher during application development.\n<ul>\n<li>You will need to log into Supabase with the WakeSmiles GitHub account. This will let you view user profiles, documents, set up shifts, delete shifts, check shift enrollment, and more. We will create videos that will show you exactly how to do each of these items.&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Node.js is a runtime script built for JavaScript’s engine created to build scalable web applications. It allows us to manage libraries and run our code to test. In simple terms, it allows us to see what our code develops.&nbsp;</li>\n\n\n\n<li>VSCode is a code editor that lets us edit, manage, and update our code in a clean and simple manner. Many different code editors exist, and each has their perks. If you’re familiar with other code editors, feel free to use them. Just know that our initial directions are written for VSCode users.</li>\n\n\n\n<li>Git is an open-source library that lets us do version control on our code and share our code with each other. GitHub is a web-based, code hosting platform that enables users to collectively edit and manage code together.</li>\n\n\n\n<li>Vercel is a front-end platform for deploying React applications and has good compatibility with Supabase. By the time that hand-off occurs, we will be able to deploy our application via Vercel. Post-deployment, the MySmile app and the admin portal will be accessible to users through a weblink.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Project Summary Wake Smiles provides health services for under-resourced adults through better access to oral health. As their number of volunteers increases, serving the demand of the community and managing volunteers has grown increasingly inefficient. To solve this this predicament, Wake Smiles would like to integrate a volunteering-management platform to decrease time spent in clerical&hellip; <a class=\"more-link\" href=\"https://tarheels.live/sp23comp523teamf/\">Continue reading <span class=\"screen-reader-text\">Wake Smiles</span></a></p>\n",
+            "rendered": "<p>Handoff Plan: Our client will receive access to the following: How to Use Final Products Volunteers can use the volunteer app, which is currently deployed at: https://mysmile.vercel.app/ Admins can use the admin portal, which is currently deployed at: https://mysmile-admin.vercel.app/ Setting up Locally This is mainly for development purposes (i.e. you, or a technical team of&hellip; <a class=\"more-link\" href=\"https://tarheels.live/sp23comp523teamf/client-handoff-plan/\">Continue reading <span class=\"screen-reader-text\">Client Handoff Plan</span></a></p>\n",
             "protected": false
         },
-        "author": 10376,
+        "author": 5027,
         "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
@@ -34,7 +34,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/131"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/288"
                 }
             ],
             "collection": [
@@ -50,30 +50,30 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/10376"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=131"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=288"
                 }
             ],
             "version-history": [
                 {
-                    "count": 3,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/131/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/288/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 147,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/131/revisions/147"
+                    "id": 294,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/288/revisions/294"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=131"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=288"
                 }
             ],
             "curies": [
@@ -86,33 +86,33 @@
         }
     },
     {
-        "id": 102,
-        "date": "2023-01-30T20:56:20",
-        "date_gmt": "2023-01-31T01:56:20",
+        "id": 275,
+        "date": "2023-04-07T11:12:00",
+        "date_gmt": "2023-04-07T15:12:00",
         "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=102"
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=275"
         },
-        "modified": "2023-02-01T11:39:15",
-        "modified_gmt": "2023-02-01T16:39:15",
-        "slug": "user-story",
+        "modified": "2023-04-26T11:04:14",
+        "modified_gmt": "2023-04-26T15:04:14",
+        "slug": "code",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/deliverables/user-story/",
+        "link": "https://tarheels.live/sp23comp523teamf/code/",
         "title": {
-            "rendered": "User Story"
+            "rendered": "Code"
         },
         "content": {
-            "rendered": "\n<p class=\"has-extra-large-font-size\"><strong>Implemented User Stories<em> </em></strong></p>\n\n\n\n<p class=\"has-large-font-size\"><em><strong>Volunteer</strong></em></p>\n\n\n\n<ul>\n<li>As a non-clinical volunteer, I need a login page so that I can securely access my profile.</li>\n\n\n\n<li>As a non-clinical volunteer, I need my profile page to contain my basic information and HIPAA agreement so that the administrator knows that I have filled out all forms necessary to volunteer.</li>\n\n\n\n<li>As a non-clinical volunteer, I need my profile page to display that I have completed my orientation so that the administrator knows I’m well-equipped to begin as a volunteer.&nbsp;</li>\n\n\n\n<li>As a non-clinical volunteer, I need a dynamic page where I can sign-up for shifts according to slots that are open so that I can complete the necessary hours.</li>\n</ul>\n\n\n\n<p class=\"has-large-font-size\"><strong><em>Admin</em></strong></p>\n\n\n\n<ul>\n<li>As an administrator, I can add and modify volunteer shifts on the backend. </li>\n\n\n\n<li>As an administrator, you can view waiver files that are uploaded by volunteers in the backend. </li>\n</ul>\n\n\n\n<p class=\"has-extra-large-font-size\"><strong>Current User Stories</strong></p>\n\n\n\n<p class=\"has-large-font-size\"><strong><em>Volunteer</em></strong></p>\n\n\n\n<ul>\n<li>As a volunteer in general, the volunteer type should be selectable (Dentist, Hygienist, Dental Assistant,  Interpreter, Administrative, Intern)\n<ul>\n<li>As a Dentist/Hyg/Assistant volunteer I need to enter my license #, NPI #, etc.</li>\n\n\n\n<li>As a Dentist volunteer I need to be able to enter my scope of care.</li>\n\n\n\n<li>As a pre-dental volunteer I should only be able to see pre-dental schedule availability.</li>\n</ul>\n</li>\n\n\n\n<li>As a volunteer, I need a way to recover my account if I forget my password.</li>\n\n\n\n<li>As a volunteer, I would like to get an email when I have upcoming shifts and schedule updates </li>\n\n\n\n<li>As a volunteer, I need to be able to use dark mode in my browser.</li>\n</ul>\n\n\n\n<p class=\"has-large-font-size\"><strong><em>Admin</em></strong></p>\n\n\n\n<ul>\n<li>As an administrator, I need a login page so that I can securely access my profile.&nbsp;</li>\n\n\n\n<li>As an administrator, I need a page to open up volunteering shifts so that volunteers can sign up.&nbsp;</li>\n\n\n\n<li>As an administrator, I can easily input shift time and dates using a calendar view</li>\n\n\n\n<li>As an administrator, I need a dashboard where I can view profiles and check on each volunteer’s required documents and shifts.&nbsp;</li>\n\n\n\n<li>As an administrator, I need a copy-pasteable list of volunteer emails for each shift so that I can mass-email volunteers if there is a change in shift schedules.&nbsp;</li>\n\n\n\n<li>&nbsp;As an administrator, I can manually send out emails to volunteers for announcements about the shifts.</li>\n\n\n\n<li>As an administrator, I need to be able to see a volunteer&#8217;s total hours between a start and end date.</li>\n\n\n\n<li>As an administrator, I can view shift schedules in a filtered view (ascending order or name filtered) </li>\n</ul>\n",
+            "rendered": "\n<p><a href=\"https://github.com/wakesmiles/mysmile-admin\">https://github.com/wakesmiles/mysmile-admin</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Implemented User Stories Volunteer Admin Current User Stories Volunteer Admin</p>\n",
+            "rendered": "<p>https://github.com/wakesmiles/mysmile-admin</p>\n",
             "protected": false
         },
-        "author": 10376,
+        "author": 5027,
         "featured_media": 0,
-        "parent": 20,
-        "menu_order": 4,
+        "parent": 0,
+        "menu_order": 0,
         "comment_status": "closed",
         "ping_status": "closed",
         "template": "",
@@ -120,7 +120,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/102"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/275"
                 }
             ],
             "collection": [
@@ -136,25 +136,633 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/10376"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=102"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=275"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/275/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 306,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/275/revisions/306"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=275"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 273,
+        "date": "2023-04-07T11:11:38",
+        "date_gmt": "2023-04-07T15:11:38",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=273"
+        },
+        "modified": "2023-04-20T20:29:15",
+        "modified_gmt": "2023-04-21T00:29:15",
+        "slug": "developer-documentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/developer-documentation/",
+        "title": {
+            "rendered": "Developer Documentation"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"https://docs.google.com/document/d/16KJV-YgbxBIulwSDJbxJy_R0Jr7LqcobbQAJ_Uti3ak/edit?usp=sharing\">https://docs.google.com/document/d/16KJV-YgbxBIulwSDJbxJy_R0Jr7LqcobbQAJ_Uti3ak/edit?usp=sharing</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>https://docs.google.com/document/d/16KJV-YgbxBIulwSDJbxJy_R0Jr7LqcobbQAJ_Uti3ak/edit?usp=sharing</p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/273"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=273"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/273/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 301,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/273/revisions/301"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=273"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 271,
+        "date": "2023-04-07T11:11:21",
+        "date_gmt": "2023-04-07T15:11:21",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=271"
+        },
+        "modified": "2023-04-27T09:23:34",
+        "modified_gmt": "2023-04-27T13:23:34",
+        "slug": "admin-documentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/admin-documentation/",
+        "title": {
+            "rendered": "Admin Documentation"
+        },
+        "content": {
+            "rendered": "\n<p>For this semester, most of the work was done implementing the admin portal, which is essentially a new interface for the already-existing Supabase console. The link below provides documentation on how to use the new admin portal, as well as last semester&#8217;s documentation for how to use the Supabase console.</p>\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1Um27MsmFS_Nmrjn9ebP2f57PuxLern-fNlpt0cVNgQk/edit?usp=sharing\">https://docs.google.com/document/d/1Um27MsmFS_Nmrjn9ebP2f57PuxLern-fNlpt0cVNgQk/edit?usp=sharing</a></p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Demo Video:</strong></p>\n\n\n\n<p><a href=\"https://drive.google.com/file/d/1WFKIPGAUBZSjohcpVi24I1rp5C1DbPlp/view?usp=sharing\">https://drive.google.com/file/d/1WFKIPGAUBZSjohcpVi24I1rp5C1DbPlp/view?usp=sharing</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>For this semester, most of the work was done implementing the admin portal, which is essentially a new interface for the already-existing Supabase console. The link below provides documentation on how to use the new admin portal, as well as last semester&#8217;s documentation for how to use the Supabase console. https://docs.google.com/document/d/1Um27MsmFS_Nmrjn9ebP2f57PuxLern-fNlpt0cVNgQk/edit?usp=sharing Demo Video: https://drive.google.com/file/d/1WFKIPGAUBZSjohcpVi24I1rp5C1DbPlp/view?usp=sharing</p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/271"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=271"
                 }
             ],
             "version-history": [
                 {
                     "count": 4,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/102/revisions"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/271/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 149,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/102/revisions/149"
+                    "id": 311,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/271/revisions/311"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=271"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 268,
+        "date": "2023-04-07T11:10:41",
+        "date_gmt": "2023-04-07T15:10:41",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=268"
+        },
+        "modified": "2023-04-26T13:34:09",
+        "modified_gmt": "2023-04-26T17:34:09",
+        "slug": "user-documentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/user-documentation/",
+        "title": {
+            "rendered": "Volunteer Documentation"
+        },
+        "content": {
+            "rendered": "\n<p>Our team made a few UI changes, so most of the information on how to use remains the same as the documentation provided by the previous team:</p>\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1Vl8OtI-02Y27MOS3UdITkxMokoHJbsPH65nFnP3oAAs/edit?usp=sharing\">https://docs.google.com/document/d/1Vl8OtI-02Y27MOS3UdITkxMokoHJbsPH65nFnP3oAAs/edit?usp=sharing</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our team made a few UI changes, so most of the information on how to use remains the same as the documentation provided by the previous team: https://docs.google.com/document/d/1Vl8OtI-02Y27MOS3UdITkxMokoHJbsPH65nFnP3oAAs/edit?usp=sharing</p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/268"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=268"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/268/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 310,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/268/revisions/310"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=268"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 263,
+        "date": "2023-04-07T11:02:10",
+        "date_gmt": "2023-04-07T15:02:10",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=263"
+        },
+        "modified": "2023-04-09T11:26:41",
+        "modified_gmt": "2023-04-09T15:26:41",
+        "slug": "documentation-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/user-manual/documentation-plan/",
+        "title": {
+            "rendered": "Documentation Plan"
+        },
+        "content": {
+            "rendered": "\n<p>For each app we worked on this semester, there is one type of user (volunteer and admin) per app. The volunteers will continue to use the existing deployed volunteer portal while the admin will now have their own admin portal.</p>\n\n\n\n<p><strong>Access</strong></p>\n\n\n\n<p>The Admin portal will be deployed as a separate app, so a URL link to a deployed web app will be provided to the admin and the admin can access the portal just like how people can access any website.</p>\n\n\n\n<p><strong>Video</strong></p>\n\n\n\n<p>We plan to conduct a run-through of the administrator portal via Zoom. This will be recorded so that the client can view it after the meeting. This will let them ask any questions they may have and refer to the recording later if need be.</p>\n\n\n\n<p><strong>Manual</strong></p>\n\n\n\n<p>We will create a document (manual) that guides them on how to access their admin portal and some of the features that we’ve created. We also plan on using the landing page of the admin portal, or another page on the website to provide a quick guide on how to use it, so the admin will not have to open the provided manual frequently and can access the most important information immediately from the web app.</p>\n\n\n\n<p><strong>FAQs</strong></p>\n\n\n\n<p>There will also be an FAQ section of the manual that we create so that if there are new admins that need access, they can have their commonly asked questions answered. This FAQ will also likely be included on the landing page of the admin portal so the admin will not have to open the document when it comes to the most common questions they may have.</p>\n\n\n\n<p><strong>Developer Docs</strong></p>\n\n\n\n<p>Our client is a repeat client from last semester, so there is a possibility that the client would want to extend this project’s work with another COMP 523 team in a later semester. To prepare for this, we will clean up the code once all functionality is implemented and write up a readme doc on Github, as well as put comments in the codebase. Currently, a lot of the code is not optimized for performance and extendibility, so if we are unable to address those issues by the end of the semester, we will make a note of it in a separate doc that will be shared to future developers to get them up to speed on things that can immediately be worked on. In addition to pointing developers towards immediate fixes that can be made, these developer docs will also explain what each component in the code does at a high-level to avoid having to write length comments in the codebase.</p>\n\n\n\n<p><strong>Existing Docs</strong></p>\n\n\n\n<p>For the volunteer app, we only made performance and UI improvements, so the volunteers will access and use the app in the same way they are currently using it. The following information is the documentation for the volunteer app from last semester’s team (who created and deployed the volunteer app):</p>\n\n\n\n<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>\n\n\n\n<p><em>The following are items for them to have a well-informed user experience: </em></p>\n\n\n\n<p><strong><em>Access</em></strong></p>\n\n\n\n<p><em>The WakeSmiles web application will be linked on their own homepage, so there’s no need for a document that can help the volunteers access the webpage.</em></p>\n\n\n\n<p><strong><em>FAQs</em></strong></p>\n\n\n\n<p><em>We will post an FAQ on the WakeSmiles homepage so that if there’s any questions about how to set up their account and access items, we can answer them directly. For visual learners, we will have screenshots and arrows pointing to items that we’re referring to.&nbsp;</em></p>\n\n\n\n<p><em>After talking to our client, she requested a blurb with “Please note” statements for volunteers to note before entering the platform.</em></p>\n\n\n\n<p><strong><em>Video</em></strong></p>\n\n\n\n<p><em>We will also conduct a run-through with the client and the client’s intern and show them the volunteer end so that they’re able to answer any volunteer questions if need be.&nbsp;</em></p>\n\n\n\n<p><strong><em>Services Document</em></strong></p>\n\n\n\n<p><em>We will also leave word documentation of any services that we’ve used so that if there are any problems that arise after our semester is over, the administrators may be able to refer to it to fix the problem.&nbsp;</em></p>\n\n\n\n<p><em>After talking to our client, she requested for this document to only be visible to the administrators.</em></p>\n\n\n\n<p>For the admin portal, the following resources will be available to help the admin use the new portal, as well as enable future work on this project.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>For each app we worked on this semester, there is one type of user (volunteer and admin) per app. The volunteers will continue to use the existing deployed volunteer portal while the admin will now have their own admin portal. Access The Admin portal will be deployed as a separate app, so a URL link&hellip; <a class=\"more-link\" href=\"https://tarheels.live/sp23comp523teamf/user-manual/documentation-plan/\">Continue reading <span class=\"screen-reader-text\">Documentation Plan</span></a></p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 261,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/263"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=263"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/263/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 286,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/263/revisions/286"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/261"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=263"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 261,
+        "date": "2023-04-07T10:57:27",
+        "date_gmt": "2023-04-07T14:57:27",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=261"
+        },
+        "modified": "2023-04-26T11:07:37",
+        "modified_gmt": "2023-04-26T15:07:37",
+        "slug": "user-manual",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/user-manual/",
+        "title": {
+            "rendered": "User Manual"
+        },
+        "content": {
+            "rendered": "\n<p>View the Volunteer Documentation and Admin Documentation tabs.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>View the Volunteer Documentation and Admin Documentation tabs.</p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/261"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=261"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/261/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 309,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/261/revisions/309"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=261"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 255,
+        "date": "2023-04-05T22:30:40",
+        "date_gmt": "2023-04-06T02:30:40",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=255"
+        },
+        "modified": "2023-04-24T11:49:26",
+        "modified_gmt": "2023-04-24T15:49:26",
+        "slug": "presentations",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/presentations/",
+        "title": {
+            "rendered": "Presentations"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Midterm Presentation: </strong></p>\n\n\n\n<p><a href=\"https://www.canva.com/design/DAFbuI9dvZ4/mwe033sDTHTUR8wXjzEEWw/edit?utm_content=DAFbuI9dvZ4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton\">https://www.canva.com/design/DAFbuI9dvZ4/mwe033sDTHTUR8wXjzEEWw/edit?utm_content=DAFbuI9dvZ4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton</a></p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Tech Talk: </strong></p>\n\n\n\n<p><a href=\"https://www.canva.com/design/DAFe0hGr2-Q/y2mNHjYbjrBZS1WCDH9xIw/edit?utm_content=DAFe0hGr2-Q&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton\">https://www.canva.com/design/DAFe0hGr2-Q/y2mNHjYbjrBZS1WCDH9xIw/edit?utm_content=DAFe0hGr2-Q&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton</a></p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Final Presentation:</strong></p>\n\n\n\n<p><a href=\"https://www.canva.com/design/DAFgfaD2vow/Nwm5w7CQZW0-ri0r1FlC-g/edit?utm_content=DAFgfaD2vow&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton\">https://www.canva.com/design/DAFgfaD2vow/Nwm5w7CQZW0-ri0r1FlC-g/edit?utm_content=DAFgfaD2vow&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Midterm Presentation: https://www.canva.com/design/DAFbuI9dvZ4/mwe033sDTHTUR8wXjzEEWw/edit?utm_content=DAFbuI9dvZ4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton Tech Talk: https://www.canva.com/design/DAFe0hGr2-Q/y2mNHjYbjrBZS1WCDH9xIw/edit?utm_content=DAFe0hGr2-Q&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton Final Presentation: https://www.canva.com/design/DAFgfaD2vow/Nwm5w7CQZW0-ri0r1FlC-g/edit?utm_content=DAFgfaD2vow&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton</p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/255"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=255"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/255/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 304,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/255/revisions/304"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=255"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 245,
+        "date": "2023-04-02T22:39:26",
+        "date_gmt": "2023-04-03T02:39:26",
+        "guid": {
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=245"
+        },
+        "modified": "2023-04-02T23:58:58",
+        "modified_gmt": "2023-04-03T03:58:58",
+        "slug": "testing-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/sp23comp523teamf/deliverables/testing-plan/",
+        "title": {
+            "rendered": "Testing Plan"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Unit Testing Plan:</strong></p>\n\n\n\n<p>Ideally, we would use Jest for Javascript unit testing and Postman for testing API calls. It is a testing framework where we make automated unit tests on each of our components. Jest is widely used for Javascript projects and can be easily integrated so we can create a test file with unit tests for our code. Unit tests would include things like checking database retrieval data to ensure they are valid.&nbsp;</p>\n\n\n\n<p>However, most of the database has been tested by the previous team and their results have been documented. Furthermore, hundreds of volunteers are currently using the app, and we have not received any notices about major bugs. For this reason, we believe the infrastructure for our project has already been extensively tested and is currently being tested and we will most likely only use Jest if we encounter a major bug that we believe belongs to the database rather than frontend code.</p>\n\n\n\n<p>For the admin app, there is still work to do in using Postman to test post, update, and delete requests that are both valid and faulty to ensure we are accessing our database in a way that we would expect. For example, we will make a post request with incomplete fields to ensure that the database is not adding this entry unless it has all the information a regular entry within the database has. Another instance of how we can use Postman to test API calls is testing the update request and checking if our validation checks work to ensure the admin cannot update a working dataset with any fields that could break the functionality of the database.</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Integration and system testing (with UI):</strong></p>\n\n\n\n<p>Integration and system testing (with UI) is where we test groups of components together in conjunction to make sure features are working as they should. Ideally, we could use Jest to accomplish integration testing for our project as well because there are built-in tools like jsDOM which could emulate browser APIs and mocking tools for stimulating external APIs. We would use integration testing to check sequential processes. For example, for our existing deployed app, we are creating a better functionality on Wake Smiles’ volunteering and admin portals, and we would want to check the back-to-back functionality of clicking the login button and then clicking the “shifts” button on our navbar to ensure that they work in conjunction.&nbsp;</p>\n\n\n\n<p>Ideally, we would also use end-to-end or more in-depth integration tests to test the entire process of having a user input their credentials, click the login button, click “shifts” on the navbar, click the clock-in button, and then log out of their account. This would be one example we would implement a “use” case for integration testing/end-to-end testing because we are checking multiple functionalities from start to finish of what a volunteer would need to be able to do when using the platform.&nbsp;</p>\n\n\n\n<p>In practice, our project involves 2 apps that are separate, but work off the same database, so we do not expect one app will break the functionality of the other app itself, but one app could make changes to the database in a way that affect the ability of the other app to work as intended, so most of our integration testing would involve ensuring each app interacts with the database in the way that was intended, a lot of which will be covered by our unit tests.</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Description of types of end users:</strong></p>\n\n\n\n<p>There are two platforms that we are creating as part of our project &#8211; the volunteering platform and the admin platform. The volunteering platform is accessible to the public or specifically college volunteers, employees of WakeSmiles, dental hygienists, and dentists. On that platform, any user should be able to create an account, log in with their credentials, and navigate throughout the site by the navbar that has multiple tabs that take care of signing up for shifts, logging hours, forms, and other things. Users are volunteers that should be able to use the website to check available shifts occurring, sign up for preferred shifts, clock in and clock out of any current shift, and see a history of all previous shifts in their account. On the admin side, there is only one user (the individual who oversees the entire volunteering process at WakeSmiles). They can manage and edit any volunteer’s shifts at their discretion and there is only one individual who can access that platform.&nbsp;</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Performance and Reliability testing</strong>:</p>\n\n\n\n<p>If we had the time to incorporate automated performance testing in our project, we could use LoadView to do our testing. Using LoadView would be an ideal method for us because it can test web applications and utilizes real browsers so we could measure and see actual performance from a user’s perspective. We would script the user actions and set up a load test. Under our current time constraints, we are doing performance testing manually by physically logging in and checking performance as we click through the website. However, given time constraints, it seems unlikely we will test performance, especially on the admin app, where there is only one user.</p>\n\n\n\n<p></p>\n\n\n\n<p><strong>Acceptance Testing</strong>:</p>\n\n\n\n<p>For our project, acceptance testing would work if we shared the site we were planning to deploy with a few volunteers from Wake Smiles and set up tests consisting of functionality and performance and see if it worked according to the written and user criteria. If not, our website would go back to development and if it all worked out we would deploy it. In one way, we are already implementing this with our client. When we have check-in meetings, our client can approve or disapprove the features that she specified in the user stories because we show her the functionality of the feature she asked for. She is then able to ask us to change features according to her needs if they don’t work the way that she needs them to or she approves features and we can move on.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Unit Testing Plan: Ideally, we would use Jest for Javascript unit testing and Postman for testing API calls. It is a testing framework where we make automated unit tests on each of our components. Jest is widely used for Javascript projects and can be easily integrated so we can create a test file with unit&hellip; <a class=\"more-link\" href=\"https://tarheels.live/sp23comp523teamf/deliverables/testing-plan/\">Continue reading <span class=\"screen-reader-text\">Testing Plan</span></a></p>\n",
+            "protected": false
+        },
+        "author": 5027,
+        "featured_media": 0,
+        "parent": 20,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/245"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=245"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/245/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 249,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/245/revisions/249"
                 }
             ],
             "up": [
@@ -165,7 +773,7 @@
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=102"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=245"
                 }
             ],
             "curies": [
@@ -178,376 +786,32 @@
         }
     },
     {
-        "id": 78,
-        "date": "2023-01-30T20:43:35",
-        "date_gmt": "2023-01-31T01:43:35",
+        "id": 236,
+        "date": "2023-03-25T09:42:34",
+        "date_gmt": "2023-03-25T13:42:34",
         "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=78"
+            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=236"
         },
-        "modified": "2023-01-30T21:12:04",
-        "modified_gmt": "2023-01-31T02:12:04",
-        "slug": "milestones",
+        "modified": "2023-03-25T09:45:50",
+        "modified_gmt": "2023-03-25T13:45:50",
+        "slug": "apples-reflection",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/milestones/",
+        "link": "https://tarheels.live/sp23comp523teamf/assignments-2/apples-reflection/",
         "title": {
-            "rendered": "Milestones"
+            "rendered": "APPLES Reflection"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p>The Wake Smiles dental clinic aims to serve thousands of uninsured adults in Wake County who have little or no access to dental care by providing them with access to complementary care to bridge the divide between those with and without access to quality health care. The organization is the only clinic in Wake County that specifically targets this vulnerable population, and aims to accomplish this goal by utilizing a wide network of local volunteers.&nbsp;</p>\n\n\n\n<p>In order to utilize this resource, there is a need for a robust application that must be able to keep track of hundreds of volunteers while being easy for the volunteers to use and easy for the volunteers to use and reliable to ensure the organization provides crucial dental care to a vulnerable population. Our app enables Wake Smiles to effectively manage hundreds of volunteers by allowing anyone to easily register themselves as volunteers, submit paperwork and other files, sign up for shifts, and view upcoming shifts, as well as cancel and reschedule their own shifts. The dental clinic will be able to view all scheduled volunteers who are scheduled for a certain shift more easily and modify schedules all in one place. These features aim to make the management of volunteers more efficient, which will save time spent handling logistics and enable Wake Smiles to put more resources into providing quality dental care to those well below the federal poverty guideline.</p>\n\n\n\n<p>In the previous semester, another group worked to implement an app where volunteers could register themselves, upload paperwork, and sign up for shifts. For this semester, our team will improve the existing volunteer signup app in areas such as UI and performance. In addition, we will create another app specifically designed for the Wake Smiles administrators to more easily view all data, sort through data, and update data, as well as provide other tools such as mass email communication and more customized search options that are not provided directly by the Supabase console. As the Wake Smiles volunteering program grows in number of registrations and shifts, the new administrative app will enable the admin to better manage their extensive network of volunteers to provide better care for those with lower income.</p>\n\n\n\n<p>Providing dental care to all kinds of people, regardless of income has more to do than just strengthening teeth. A high risk of cardiovascular disease, stroke, diabetes, and many other prevalent diseases is frequently associated with poor dental health, which is expensive for the healthcare system as a whole. Most low-income adults rarely, if ever, visit the dentist; therefore, by making it possible for this population to receive dental examinations in an affordable and caring manner, we will be able to tap into the underutilized dental care system and lessen the burden on the overall healthcare system.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>The Wake Smiles dental clinic aims to serve thousands of uninsured adults in Wake County who have little or no access to dental care by providing them with access to complementary care to bridge the divide between those with and without access to quality health care. The organization is the only clinic in Wake County&hellip; <a class=\"more-link\" href=\"https://tarheels.live/sp23comp523teamf/assignments-2/apples-reflection/\">Continue reading <span class=\"screen-reader-text\">APPLES Reflection</span></a></p>\n",
             "protected": false
         },
-        "author": 13252,
+        "author": 5027,
         "featured_media": 0,
-        "parent": 0,
-        "menu_order": 3,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/78"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/13252"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=78"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/78/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 79,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/78/revisions/79"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=78"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 44,
-        "date": "2023-01-21T21:10:19",
-        "date_gmt": "2023-01-22T02:10:19",
-        "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=44"
-        },
-        "modified": "2023-01-30T21:13:14",
-        "modified_gmt": "2023-01-31T02:13:14",
-        "slug": "schedule",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/schedule/",
-        "title": {
-            "rendered": "Schedule"
-        },
-        "content": {
-            "rendered": "\n<p>Team Meetings:  Fridays 10am &#8211; 11am <br>Coach Meetings: Mondays 4:30pm &#8211; 5:00pm<br>Client Meetings:  TBD</p>\n\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Team Meetings: Fridays 10am &#8211; 11am Coach Meetings: Mondays 4:30pm &#8211; 5:00pmClient Meetings: TBD</p>\n",
-            "protected": false
-        },
-        "author": 13252,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 4,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/44"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/13252"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=44"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/44/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 100,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/44/revisions/100"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=44"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 33,
-        "date": "2023-01-21T20:49:49",
-        "date_gmt": "2023-01-22T01:49:49",
-        "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=33"
-        },
-        "modified": "2023-02-04T20:14:03",
-        "modified_gmt": "2023-02-05T01:14:03",
-        "slug": "meeting-journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/meeting-journal/",
-        "title": {
-            "rendered": "Meeting Journal"
-        },
-        "content": {
-            "rendered": "\n<p class=\"has-large-font-size\"><strong>2/3/23 &#8211; Team Meeting #3</strong></p>\n\n\n\n<ul>\n<li>Set up each team member&#8217;s individual developer environments</li>\n\n\n\n<li>Mapped frontend infrastructure for the existing codebase</li>\n\n\n\n<li>Identified important but quick fixes to get started on immediately\n<ul>\n<li>Change the font color of dark mode to something other than white</li>\n\n\n\n<li>Redesign the navbar to separate the logout component from the rest of the navbar components</li>\n</ul>\n</li>\n\n\n\n<li>Discussed features to be implemented\n<ul>\n<li>Create a UI interface for the admin to view and modify database information</li>\n\n\n\n<li>Set up automated emails to volunteers</li>\n\n\n\n<li>Host the application on a custom domain</li>\n</ul>\n</li>\n\n\n\n<li>Identified action items to do after the meeting\n<ul>\n<li>Contact the client for Supabase access</li>\n\n\n\n<li>Research 3rd party libraries to handle date picking as well as generating various new components</li>\n\n\n\n<li>Diagram the data model</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/31/23 &#8211; Client Meeting #1</strong></p>\n\n\n\n<ul style=\"line-height:1.5\">\n<li>Introduced ourselves and talked about the vision and mission of the product </li>\n\n\n\n<li>Confirmed currently implemented features of the projects and detailed user stories extending on existing features</li>\n\n\n\n<li>Requested first-hand and volunteer user feedback on the deployed website to improve website usability </li>\n\n\n\n<li>Discussed prioritizing specific features based on the client&#8217;s needs\n<ul>\n<li>admin login page/dashboard</li>\n\n\n\n<li>UI improvements for dark mode</li>\n\n\n\n<li>Login information recovery </li>\n\n\n\n<li>Mass email communication </li>\n\n\n\n<li>Extend the volunteer sign-up for a clinical audience</li>\n</ul>\n</li>\n\n\n\n<li>Outlined general communication expectations for the semester (bi-weekly meeting with additional meetings if needed) </li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/30/23 &#8211; Team meeting #2 </strong></p>\n\n\n\n<ul style=\"line-height:1.5\">\n<li>Brainstormed questions for clients \n<ul>\n<li>What features should we prioritize? (UI/admin features/email automation/etc) </li>\n\n\n\n<li>What would the admin page look like? (dashboard/drop-down menu/etc) What tasks should be completed with admin access?</li>\n\n\n\n<li>Is there a specific style guide for UI? (logos/color/font/etc)</li>\n\n\n\n<li>what differentiates this product from other volunteer managing applications? </li>\n\n\n\n<li>Are there additional features you want to add to improve the product?</li>\n</ul>\n</li>\n\n\n\n<li>Updated project site with current information </li>\n\n\n\n<li>Detailed team roles and responsibilities </li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/30/23 &#8211; Coach meeting #2</strong></p>\n\n\n\n<ul style=\"line-height:1.5\">\n<li>Discussed what changes we need to make to update the team site. (Project description, Journal, and Deliverables)</li>\n\n\n\n<li>Action items: \n<ul>\n<li>Brainstorm user stories questions for the client</li>\n\n\n\n<li>Update project site</li>\n</ul>\n</li>\n\n\n\n<li>Advice: \n<ul>\n<li>Begin identifying tech specs </li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p class=\"has-large-font-size\"><strong>1/21/23 &#8211; Team meeting #1 </strong></p>\n\n\n\n<ul style=\"line-height:1.5\">\n<li>Determined when to hold weekly meetings.</li>\n\n\n\n<li>Solidified general team rules</li>\n\n\n\n<li>Sent an email to the client to introduce ourselves and schedule a meeting </li>\n</ul>\n\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>2/3/23 &#8211; Team Meeting #3 1/31/23 &#8211; Client Meeting #1 1/30/23 &#8211; Team meeting #2 1/30/23 &#8211; Coach meeting #2 1/21/23 &#8211; Team meeting #1</p>\n",
-            "protected": false
-        },
-        "author": 13252,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 1,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/13252"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=33"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 11,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 155,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/33/revisions/155"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=33"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 20,
-        "date": "2023-01-16T21:20:17",
-        "date_gmt": "2023-01-17T02:20:17",
-        "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=20"
-        },
-        "modified": "2023-01-30T21:11:06",
-        "modified_gmt": "2023-01-31T02:11:06",
-        "slug": "deliverables",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/deliverables/",
-        "title": {
-            "rendered": "Formal Deliverables"
-        },
-        "content": {
-            "rendered": "\n<ul>\n<li>Team website ✅</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13252,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 2,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/20"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/13252"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=20"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/20/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 77,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/20/revisions/77"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=20"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 13,
-        "date": "2023-01-16T21:15:03",
-        "date_gmt": "2023-01-17T02:15:03",
-        "guid": {
-            "rendered": "https://tarheels.live/sp23comp523teamf/?page_id=13"
-        },
-        "modified": "2023-02-01T11:42:24",
-        "modified_gmt": "2023-02-01T16:42:24",
-        "slug": "about-the-team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/sp23comp523teamf/about-the-team/",
-        "title": {
-            "rendered": "About The Team"
-        },
-        "content": {
-            "rendered": "\n<p><strong>Project Lead</strong> &#8211; <strong>Alice Yu</strong>:  yuualice@live.unc.edu<br><strong>Frontend Lead/UI designer</strong> &#8211;<strong> Han Lim</strong>:  hansl@unc.edu<br><strong>Backend Lead</strong> &#8211; <strong>Arja Kaushal:</strong>  akaushal@live.unc.edu<br><strong>Fullstack Engineer/Client Manager</strong> &#8211; <strong>Adrian Bruno</strong>:  abruno@email.unc.edu</p>\n\n\n\n<h2>Team Rules </h2>\n\n\n\n<ul>\n<li>Communicate in a timely manner for text communications.</li>\n\n\n\n<li>Give a heads up for absence for meeting at least 24 hours in advance.</li>\n\n\n\n<li>Attend regular team, coach, and client meetings on time.</li>\n\n\n\n<li>Be clear about expectations for deliverables &#8212; Don’t say you can “finish” something until you get to the actual coding part.</li>\n\n\n\n<li>Ask for help early. Be timely about letting other group members know if you are struggling with your assigned work.</li>\n\n\n\n<li>Strive to meet deadlines for set deliverables.</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Project Lead &#8211; Alice Yu: yuualice@live.unc.eduFrontend Lead/UI designer &#8211; Han Lim: hansl@unc.eduBackend Lead &#8211; Arja Kaushal: akaushal@live.unc.eduFullstack Engineer/Client Manager &#8211; Adrian Bruno: abruno@email.unc.edu Team Rules</p>\n",
-            "protected": false
-        },
-        "author": 13252,
-        "featured_media": 0,
-        "parent": 0,
+        "parent": 201,
         "menu_order": 0,
         "comment_status": "closed",
         "ping_status": "closed",
@@ -556,7 +820,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/236"
                 }
             ],
             "collection": [
@@ -572,30 +836,36 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/13252"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/users/5027"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=13"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/comments?post=236"
                 }
             ],
             "version-history": [
                 {
-                    "count": 9,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/236/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 151,
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/13/revisions/151"
+                    "id": 240,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/236/revisions/240"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/pages/201"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=13"
+                    "href": "https://tarheels.live/sp23comp523teamf/wp-json/wp/v2/media?parent=236"
                 }
             ],
             "curies": [
