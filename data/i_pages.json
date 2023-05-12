@@ -1,198 +1,26 @@
 [
     {
-        "id": 189,
-        "date": "2023-02-06T16:18:28",
-        "date_gmt": "2023-02-06T21:18:28",
+        "id": 340,
+        "date": "2023-04-17T10:27:32",
+        "date_gmt": "2023-04-17T14:27:32",
         "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=189"
+            "rendered": "https://tarheels.live/teami523/?page_id=340"
         },
-        "modified": "2023-02-06T16:18:28",
-        "modified_gmt": "2023-02-06T21:18:28",
-        "slug": "d1-specifications",
+        "modified": "2023-04-23T20:42:39",
+        "modified_gmt": "2023-04-24T00:42:39",
+        "slug": "final-presentation",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/teami523/d1-specifications/",
+        "link": "https://tarheels.live/teami523/final-presentation/",
         "title": {
-            "rendered": "D1. Specifications"
+            "rendered": "FINAL PRESENTATION"
         },
         "content": {
-            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to interact with columns in a proper manner (checkboxes, buttons, text, etc)\n<ul>\n<li>So that I can input data efficiently</li>\n</ul>\n</li>\n\n\n\n<li>I want to view data from outside spreadsheets inside the application\n<ul>\n<li>So that I can easily interact with and save previous client information</li>\n</ul>\n</li>\n\n\n\n<li>I want to be able to view data statistics\n<ul>\n<li>So that I can learn more about the trends of the inputted data</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>As an evaluator of data</p>\n\n\n\n<ul>\n<li>I want to be able to export the listed data</li>\n\n\n\n<li>So that I can easily compile it into a shareable spreadsheet</li>\n</ul>\n\n\n\n<p>As a user of the application</p>\n\n\n\n<ul>\n<li>I want to be able to log in</li>\n\n\n\n<li>So that I can be placed in the appropriate view for the application (evaluator or provider)</li>\n</ul>\n\n\n\n<p>As a provider of data</p>\n\n\n\n<ul>\n<li>I want to be able to only view my inputted information</li>\n\n\n\n<li>So that my client information remains private</li>\n</ul>\n\n\n\n<h3>Functional Requirements</h3>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Map content entry types to column data</li>\n\n\n\n<li>Create formulas for each column</li>\n\n\n\n<li>Provide MongoDB with access to data input in the pre-existing application</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>Create export data feature to compile columns into spreadsheet for external use</li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<ul>\n<li>Code a user verification feature that maps users to the appropriate view (provider vs evaluator) and allows login</li>\n\n\n\n<li>Give each provider the ability to maintain private data without spilling on a public used interface</li>\n</ul>\n\n\n\n<h3>Non-Functional Requirements</h3>\n\n\n\n<p>Definite:</p>\n\n\n\n<ul>\n<li>Implement front end code to span MongoDB data input into the user interface</li>\n</ul>\n\n\n\n<p>Perhaps:</p>\n\n\n\n<ul>\n<li>Implement a data statistics feature on the user interface to view trends from the database</li>\n</ul>\n\n\n\n<p>Improbable:</p>\n\n\n\n<p>n/a</p>\n",
+            "rendered": "\n<p><a href=\"https://docs.google.com/presentation/d/1FLcMnVsa8BleJFmcgik3c9W_FXUo4dEH4lhpKG4aido/edit?usp=sharing\" data-type=\"URL\" data-id=\"https://docs.google.com/presentation/d/1FLcMnVsa8BleJFmcgik3c9W_FXUo4dEH4lhpKG4aido/edit?usp=sharing\">Presentation slides here:</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories As a provider of data As an evaluator of data As a user of the application As a&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13593,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/189"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13593"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=189"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/189/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 190,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/189/revisions/190"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=189"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 152,
-        "date": "2023-01-30T20:28:37",
-        "date_gmt": "2023-01-31T01:28:37",
-        "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=152"
-        },
-        "modified": "2023-02-06T00:37:49",
-        "modified_gmt": "2023-02-06T05:37:49",
-        "slug": "journal-2",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teami523/journal-2/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<h2>January 31st, 2023, Client Meeting:</h2>\n\n\n\n<ul>\n<li>Met with the client and discussed the past semester&#8217;s work, the goals of this semester, and possible future goals</li>\n\n\n\n<li>Gathered user stories from client</li>\n\n\n\n<li>Emailed previous semester&#8217;s students about project and database used (no response as of 2/6/23)</li>\n\n\n\n<li>Set means of communication as biweekly zoom meetings with messages via Microsoft Teams between meetings</li>\n</ul>\n\n\n\n<h2>January 30th, 2023:</h2>\n\n\n\n<ul>\n<li>Updated group website to be project-specific</li>\n\n\n\n<li>Contacted client and set up a meeting date (1/31 @ 3-4pm)</li>\n\n\n\n<li>Joined client Microsoft Teams for access of material</li>\n\n\n\n<li>Brainstormed questions for client for user stories before our first client meeting</li>\n</ul>\n\n\n\n<h2>January 20th, 2023:</h2>\n\n\n\n<ul>\n<li>Finalized project preferences</li>\n\n\n\n<li>Completed group website</li>\n</ul>\n\n\n\n<h2>January 13th, 2023:</h2>\n\n\n\n<ul>\n<li>Started group website</li>\n\n\n\n<li>Set expectations and rules</li>\n</ul>\n\n\n\n<h2>First Meeting: Getting to Know Each Other</h2>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>January 31st, 2023, Client Meeting: January 30th, 2023: January 20th, 2023: January 13th, 2023: First Meeting: Getting to Know Each&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 5701,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/5701"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=152"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 180,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/152/revisions/180"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=152"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 78,
-        "date": "2023-01-11T19:00:16",
-        "date_gmt": "2023-01-12T00:00:16",
-        "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=78"
-        },
-        "modified": "2023-01-30T19:19:18",
-        "modified_gmt": "2023-01-31T00:19:18",
-        "slug": "about",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teami523/",
-        "title": {
-            "rendered": "About"
-        },
-        "content": {
-            "rendered": "\n<h3>Our Mission</h3>\n\n\n\n<p>We look forward to creating our project in collaboration with Department of Psychiatry at UNC-Chapel Hill in hopes of giving us preparation for work experience outside at the job market!</p>\n\n\n\n<h3>Project Overview </h3>\n\n\n\n<p>Our ultimate goal is to create an online portal for behavioral health providers in the Department of Psychiatry at UNC-Chapel Hill to help them evaluate their team based on a fidelity scale. The data would help the Department of Psychiatry interpret employment data to find employment for people struggling with mental health disorders.&nbsp;</p>\n\n\n\n<p>Changing the current spreadsheet format with calculated data, the online portal would allow the evaluators to see the data in one spot and make calculations for ratings. The portal would further include a consensus spreadsheet for ratings. Overall, the web application would provide a data management process to support a user friendly data interpretation process.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Our Mission We look forward to creating our project in collaboration with Department of Psychiatry at UNC-Chapel Hill in hopes&#8230;</p>\n",
+            "rendered": "<p>Presentation slides here:</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -206,7 +34,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/340"
                 }
             ],
             "collection": [
@@ -228,282 +56,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=78"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 7,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 134,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/78/revisions/134"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=78"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 38,
-        "date": "2023-01-11T16:39:02",
-        "date_gmt": "2023-01-11T21:39:02",
-        "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=38"
-        },
-        "modified": "2023-02-06T16:19:50",
-        "modified_gmt": "2023-02-06T21:19:50",
-        "slug": "deliverables",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teami523/deliverables/",
-        "title": {
-            "rendered": "Deliverables"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13539,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=38"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 6,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 192,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/38/revisions/192"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=38"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 37,
-        "date": "2023-01-11T16:39:02",
-        "date_gmt": "2023-01-11T21:39:02",
-        "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=37"
-        },
-        "modified": "2023-01-30T21:54:59",
-        "modified_gmt": "2023-01-31T02:54:59",
-        "slug": "team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teami523/team/",
-        "title": {
-            "rendered": "Team Strategy Lineup"
-        },
-        "content": {
-            "rendered": "\n<h4 class=\"has-black-color has-light-gray-background-color has-text-color has-background\">Staff Roles:</h4>\n\n\n\n<ul>\n<li>Client Manager: Wid Alsadoon</li>\n\n\n\n<li>Project Manager: Janet Mbugua</li>\n\n\n\n<li>Tech Lead: Fariha Marzan</li>\n\n\n\n<li>Research Leader: Natalie Yuziuk</li>\n</ul>\n\n\n\n<h4 class=\"has-black-color has-light-gray-background-color has-text-color has-background\">Team Rules</h4>\n\n\n\n<ul>\n<li>Proper, effective communication</li>\n\n\n\n<li>Come to pre-planned group meetings (mostly) on time (5-10 min late exceptions)</li>\n\n\n\n<li>Respond to group messages within 24 hours</li>\n\n\n\n<li>Notify team in the event of work/deliverable delay</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Staff Roles: Team Rules</p>\n",
-            "protected": false
-        },
-        "author": 13539,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/37"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=37"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 7,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/37/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 141,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/37/revisions/141"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=37"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 36,
-        "date": "2023-01-11T16:39:02",
-        "date_gmt": "2023-01-11T21:39:02",
-        "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=36"
-        },
-        "modified": "2023-01-20T11:13:31",
-        "modified_gmt": "2023-01-20T16:13:31",
-        "slug": "journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teami523/journal/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<p><strong>January 20th, 2022:</strong></p>\n\n\n\n<ul>\n<li>Finalized project preferences</li>\n\n\n\n<li>Completed group website</li>\n</ul>\n\n\n\n<p><strong>January 13th, 2022:</strong></p>\n\n\n\n<ul>\n<li>Started group website</li>\n\n\n\n<li>Set expectations and rules</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>January 20th, 2022: January 13th, 2022:</p>\n",
-            "protected": false
-        },
-        "author": 13539,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/36"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=36"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=340"
                 }
             ],
             "version-history": [
                 {
                     "count": 2,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/36/revisions"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/340/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 103,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/36/revisions/103"
+                    "id": 352,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/340/revisions/352"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=36"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=340"
                 }
             ],
             "curies": [
@@ -516,27 +86,27 @@
         }
     },
     {
-        "id": 35,
-        "date": "2023-01-11T16:39:02",
-        "date_gmt": "2023-01-11T21:39:02",
+        "id": 320,
+        "date": "2023-04-03T17:17:26",
+        "date_gmt": "2023-04-03T21:17:26",
         "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=35"
+            "rendered": "https://tarheels.live/teami523/?page_id=320"
         },
-        "modified": "2023-02-05T22:18:43",
-        "modified_gmt": "2023-02-06T03:18:43",
-        "slug": "schedule",
+        "modified": "2023-04-16T14:48:14",
+        "modified_gmt": "2023-04-16T18:48:14",
+        "slug": "tech-talks",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/teami523/schedule/",
+        "link": "https://tarheels.live/teami523/tech-talks/",
         "title": {
-            "rendered": "Schedule"
+            "rendered": "Tech Talks"
         },
         "content": {
-            "rendered": "\n<figure class=\"wp-block-table aligncenter is-style-stripes has-small-font-size\"><table class=\"has-fixed-layout\"><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark style=\"background-color:#00d084\" class=\"has-inline-color\">Date</mark></td><td>Time</td><td class=\"has-text-align-center\" data-align=\"center\">Parties</td><td class=\"has-text-align-center\" data-align=\"center\">Objective</td><td>Important Notes</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">02/06/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\"></td><td></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/31/2023</td><td>03:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">Wid Natalie<br>Client</td><td class=\"has-text-align-center\" data-align=\"center\">Introductions, understanding what is required from the <br>student team for user stories</td><td></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/30/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\">Checking the status of client meetings and checking <br>if there are any residual questions</td><td></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">01/23/2023</td><td>05:00 PM</td><td class=\"has-text-align-center\" data-align=\"center\">TA<br>Wid Natalie<br>Fariha<br>Janet</td><td class=\"has-text-align-center\" data-align=\"center\">Understanding how to start the project </td><td></td></tr></tbody></table></figure>\n",
+            "rendered": "\n<p><a href=\"https://docs.google.com/presentation/d/14uWUVmwjUxh6IaH47Qfc9Rd_RK08KTCuclnKRMrQr6E/edit#slide=id.p\">Presentation</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Date Time Parties Objective Important Notes 02/06/2023 05:00 PM TAWid NatalieFarihaJanet 01/31/2023 03:00 PM Wid NatalieClient Introductions, understanding what is&#8230;</p>\n",
+            "rendered": "<p>Presentation</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -550,7 +120,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/320"
                 }
             ],
             "collection": [
@@ -572,24 +142,540 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=35"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=320"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/320/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 334,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/320/revisions/334"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=320"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 286,
+        "date": "2023-03-20T09:16:40",
+        "date_gmt": "2023-03-20T13:16:40",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=286"
+        },
+        "modified": "2023-05-05T02:34:56",
+        "modified_gmt": "2023-05-05T06:34:56",
+        "slug": "d5-code",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/d5-code/",
+        "title": {
+            "rendered": "D5. Code"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\">Hand-Off Plan</h2>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://github.com/WidAlsa0/COMP523I.git\" target=\"_blank\" rel=\"noreferrer noopener\">Link to Github</a></div>\n</div>\n\n\n\n<p></p>\n\n\n\n<p>Our project will be posted in a public GitHub repository, and the client and others involved will have access to clone the code. At the end of the semester, we can transfer the repo to the clients so they are able to add collaborators from their organization or for future semester that continue the project. At the current size the database exists as, it is sufficient enough to have it run and hold the database on a designated computer. If in the future, the database requires expansion, then it can be moved to cloud memory.</p>\n\n\n\n<p>The hosting will be left in the hands of the UNC Department of Psychiatry as they will know best for hosting and database pricing and hopefully can hand it off to the next group. We currently use a free Atlas Database Cluster under our own personal account for testing. The client will have a better idea of what suits them. (Technically Mongo would be hosted on AWS). If the database does get converted to cloud memory, this would also potentially incur charges for keeping online accessible.</p>\n\n\n\n<p>The program is stand-alone, existing on a host machine, deriving all its database functions from the provided repository. If the repository ownership is successfully handed over to the client, they can copy and paste the code into their own machine and run it on their own machine. This can be done with setting up an IDE, (preferably visual studio code), and following the instructions in the video below to set up the project. </p>\n\n\n\n<p><em>Insert team tutorial video on how to set up code here</em></p>\n\n\n\n<p>*Right now, there are no costs for the client. This could change with the type of hosting that is used for the project in the future. If the hosting is kept within the UNC domain, &#8216;tarheel.live&#8217;, most likely no costs will be incurred. However, in the event that a different environment is chosen to deploy the project please note that costs can and will likely be incurred to maintain the project.&nbsp;&nbsp;</p>\n\n\n\n<p>In our final meeting, we will assist in helping the client install the software for their survey on their own host machine to ensure a smooth transfer process and impart all the wisdom that comes with the application.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Psych-Assist Website Installation Tutorial\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/iQvGRk1ghj0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</div><figcaption class=\"wp-element-caption\">Here is an in-depth tutorial on how to install and utilize the Psych-Assist website:</figcaption></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Hand-Off Plan Our project will be posted in a public GitHub repository, and the client and others involved will have&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/286"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=286"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 10,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/286/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 364,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/286/revisions/364"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=286"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 285,
+        "date": "2023-03-20T09:16:40",
+        "date_gmt": "2023-03-20T13:16:40",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=285"
+        },
+        "modified": "2023-05-06T19:11:40",
+        "modified_gmt": "2023-05-06T23:11:40",
+        "slug": "d4-user-manual",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/d4-user-manual/",
+        "title": {
+            "rendered": "D4. User Manual"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\"><strong>User Documentation</strong></h2>\n\n\n\n<p>The UNC department of psychiatry will be the user for this application. They will be entering team data and client data into the forms to create a database with data from the psychiatry organizations of multiple counties from across the state. </p>\n\n\n\n<p>As a user, their job will be to:</p>\n\n\n\n<ul>\n<li>Input data about the team that they want to add to the data base</li>\n\n\n\n<li>Input contact information for the team</li>\n</ul>\n\n\n\n<p>This will allow the UNC psychiatry team to have a point of reference to use as they work with the team.</p>\n\n\n\n<p>Before using the application, the user should ensure that all of the information to be entered into the survey is collected. This includes team name, organization phone number, email, and patient information. The data will be inputted into the database once the survey is filled out and submitted.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Administrator Documentation</strong></h2>\n\n\n\n<p><em>As stated above, for the final documentation, a Google Document with a table of contents section will be the most beneficial. We can include a step by step description of how to install and use the application as an administrator</em>. *<em>Since this is a legacy project, most of the documentation seen below is repeated from last semester*</em></p>\n\n\n\n<p>In order to run and maintain the application and API, MongoDB, Express.js, Angular, Node.js, Mongoose, and Survey.js is necessary. For API testing, Insomnia is beneficial. Visual Studio Code is recommended as the IDE (although any works) and GitHub desktop is beneficial for easy code repository management.</p>\n\n\n\n<p>How to install (follow links below for required software downloads):</p>\n\n\n\n<p><a href=\"https://www.mongodb.com/\">MongoDB</a>&nbsp;(Sign in here)</p>\n\n\n\n<p><a href=\"https://www.mongodb.com/try/download/compass\">MongoDB Compass</a>&nbsp;(Local testing and a GUI application)</p>\n\n\n\n<p>To use software like MongoDB Compass:</p>\n\n\n\n<ul>\n<li>Open the MongoDB Compass application.</li>\n\n\n\n<li>Type in your URI in the New Connection box (mongodb://localhost:27017 for a local testing server) and Connect.</li>\n</ul>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"459\" src=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/04/image.png\" alt=\"\" class=\"wp-image-325\" srcset=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/04/image.png 1024w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/04/image-300x134.png 300w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/04/image-768x344.png 768w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/04/image-640x287.png 640w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><figcaption class=\"wp-element-caption\"><a href=\"https://insomnia.rest/download\">Insomnia</a><br><br><a href=\"https://code.visualstudio.com/download\">Visual Studio Code</a><br><br><a href=\"https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop\">GitHub Desktop</a><br><br>Once you have all the above software installed you can clone the code repository from GitHub into whatever environment you choose. Our suggestion is using GitHub Desktop to open the code file in Visual Studio Code.<br><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"842\" src=\"https://tarheels.live/comp523teamb2022/wp-content/uploads/sites/3390/2022/11/image-1024x842.png\" alt=\"\"><br>Once you have your code opened open a new terminal in VSCode. Terminal &gt; New Terminal.<br><br><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"93\" src=\"https://tarheels.live/comp523teamb2022/wp-content/uploads/sites/3390/2022/11/image-1-1024x93.png\" alt=\"\"><br>In your terminal follow the Node instructions below.<br><br><a href=\"https://nodejs.org/en/download/\">Node.js</a></figcaption></figure>\n\n\n\n<ul>\n<li>Express.js, Angular, Mongoose, Survey.js are all node libraries and can be installed using the npm install command in a terminal or command prompt.</li>\n\n\n\n<li>Run npm install &lt;node library&gt; for all of the above libraries in a terminal or command prompt while you are in the folder for the code library. For more information on npm click&nbsp;<a href=\"https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/\">here</a>.</li>\n</ul>\n\n\n\n<p>System Capabilities:</p>\n\n\n\n<ul>\n<li>Ability to open and fill out 5 unique surveys and store it into a MongoDB database through a RESTful API process.</li>\n\n\n\n<li>Ability to retrieve said data from the MongoDB database and display it to the user.</li>\n</ul>\n\n\n\n<p>System Incapabilities:</p>\n\n\n\n<ul>\n<li>Log-in system for the user.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Documentation The UNC department of psychiatry will be the user for this application. They will be entering team data&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/285"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=285"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/285/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 365,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/285/revisions/365"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=285"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 280,
+        "date": "2023-03-20T09:13:30",
+        "date_gmt": "2023-03-20T13:13:30",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=280"
+        },
+        "modified": "2023-04-03T12:06:17",
+        "modified_gmt": "2023-04-03T16:06:17",
+        "slug": "d3-test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/d3-test-plan/",
+        "title": {
+            "rendered": "D3. Test Plan"
+        },
+        "content": {
+            "rendered": "\n<p><em>Since this is a legacy project, most of the testing will be continued from the previous semester&#8217;s plan</em></p>\n\n\n\n<p><strong>Current testing being done:</strong></p>\n\n\n\n<p>Unit testing</p>\n\n\n\n<ul>\n<li>Testing connection to the MongoDB database</li>\n\n\n\n<li>JSON validation functions to make sure correct values are being sent and received</li>\n\n\n\n<li>Jest tests to validate our CRUD function logic with the database</li>\n\n\n\n<li>Insomnia calls to test API calls for expected return values</li>\n</ul>\n\n\n\n<p>Integration and system testing (with UI)</p>\n\n\n\n<ul>\n<li>Manual tests from the front end where we will complete the surveys and make sure that the data is being correctly passed to our database.</li>\n\n\n\n<li>The client will…\n<ul>\n<li>Click on a survey tab that will take the user to the respective survey</li>\n\n\n\n<li>Answer all of the shown questions and submit the form\n<ul>\n<li>Once the survey is completed and submitted the data should be pasted from the frontend to the API to the database</li>\n</ul>\n</li>\n\n\n\n<li>Click on survey results tab to display the inputted data</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>Descriptions of tools used</p>\n\n\n\n<ul>\n<li>Jest -&gt; JS code</li>\n\n\n\n<li>Insomnia -&gt; API calls</li>\n</ul>\n\n\n\n<p>Descriptions of types of end users</p>\n\n\n\n<ul>\n<li>Client – the client is the only end user who will fill out information on the behalf of their patients</li>\n</ul>\n\n\n\n<p>Acceptance testing</p>\n\n\n\n<ul>\n<li>Send the website to the client for any UI feedback or any other feedback they would like to give.</li>\n</ul>\n\n\n\n<p><strong>With no limit on time:</strong></p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-3\">\n<div class=\"wp-block-column is-layout-flow\" style=\"flex-basis:100%\">\n<p>Unit testing</p>\n</div>\n</div>\n\n\n\n<ul>\n<li>Stricter database error validation to make sure data is being correctly inserted</li>\n\n\n\n<li>Stricter JSON validation</li>\n\n\n\n<li>Security to prevent database access from being accessed by outside parties</li>\n</ul>\n\n\n\n<p>Usability testing performance reliability, etc. testing</p>\n\n\n\n<ul>\n<li>Stress tests to test to user capacity of the website (for when website is no longer on local host)</li>\n</ul>\n\n\n\n<p>Descriptions of tools used</p>\n\n\n\n<ul>\n<li>Jest for testing JS code</li>\n\n\n\n<li>Insomnia to test API calls</li>\n</ul>\n\n\n\n<p>Descriptions of types of end users</p>\n\n\n\n<ul>\n<li>Client – the client is the only end user who will fill out information on the behalf of their patients</li>\n</ul>\n\n\n\n<p>Acceptance testing</p>\n\n\n\n<ul>\n<li>Collect and correct a list of improvements and fixes from the client.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Since this is a legacy project, most of the testing will be continued from the previous semester&#8217;s plan Current testing&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/280"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=280"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/280/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 310,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/280/revisions/310"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=280"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 255,
+        "date": "2023-02-26T22:45:27",
+        "date_gmt": "2023-02-27T03:45:27",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=255"
+        },
+        "modified": "2023-03-20T19:01:33",
+        "modified_gmt": "2023-03-20T23:01:33",
+        "slug": "reflection-1",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/reflection-1/",
+        "title": {
+            "rendered": "Reflection 1"
+        },
+        "content": {
+            "rendered": "\n<p>The purpose of the creation of this survey portal is for the help of the facilitation of UNC Department of Psychiatry’s employee data. Although this is not a major facet of how the department will be operated in its day-to-day operations, it can prove to be an integral part of its database management system in the future to come. By having easy-to-access data at the access of the department, we are able to greatly reduce the times at which this information will be readily available, as well as get rid of any existing paper documentation for each employee, helping the conversion from paper to digital, and reducing the department’s carbon footprint altogether. The organization of the database will also avoid the loss of employee data in a paper file system, and maintain access to the data as simple and near instantaneous as can be. By the end of the completion of the project, the goal is to have the data entered by employees to be extracted and represented through a graphical format, so that is easier to process and analyze en masse, and make quantifiable observations of the department over a period of time. This will conducive to the workflow of the people who are employed at the UNC Department of Psychiatry, and in the future, could possibly be adopted by adjunct departments, imparting organization and efficiency to the current working systems as well.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>The purpose of the creation of this survey portal is for the help of the facilitation of UNC Department of&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/255"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=255"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/255/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 297,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/255/revisions/297"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=255"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 244,
+        "date": "2023-02-26T22:21:08",
+        "date_gmt": "2023-02-27T03:21:08",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=244"
+        },
+        "modified": "2023-02-26T22:21:08",
+        "modified_gmt": "2023-02-27T03:21:08",
+        "slug": "midterm",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/midterm/",
+        "title": {
+            "rendered": "Midterm"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"https://docs.google.com/presentation/d/15_5NSGLAdU6tf3XU45BAXm6PniSabUp9twB3Kap1ers/edit?usp=sharing\">https://docs.google.com/presentation/d/15_5NSGLAdU6tf3XU45BAXm6PniSabUp9twB3Kap1ers/edit?usp=sharing</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>https://docs.google.com/presentation/d/15_5NSGLAdU6tf3XU45BAXm6PniSabUp9twB3Kap1ers/edit?usp=sharing</p>\n",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/244"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=244"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/244/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 245,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/244/revisions/245"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=244"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 203,
+        "date": "2023-02-20T08:36:05",
+        "date_gmt": "2023-02-20T13:36:05",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=203"
+        },
+        "modified": "2023-03-06T17:11:44",
+        "modified_gmt": "2023-03-06T22:11:44",
+        "slug": "d2-design-document",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/d2-design-document/",
+        "title": {
+            "rendered": "D2. Design Document"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"576\" src=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/03/Architecture-Diagram-pdf-1024x576.jpg\" alt=\"\" class=\"wp-image-270\" /><figcaption class=\"wp-element-caption\"><strong>ARCHITECTURE DIAGRAM</strong></figcaption></figure>\n\n\n\n<div class=\"wp-block-file\"><object class=\"wp-block-file__embed\" data=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/03/Architecture-Diagram.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of Architecture Diagram.\"></object><a id=\"wp-block-file--media-690c87a0-3fcf-45e8-86ff-7127b0590682\" href=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/03/Architecture-Diagram.pdf\">Architecture Diagram</a><a href=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/03/Architecture-Diagram.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-690c87a0-3fcf-45e8-86ff-7127b0590682\">Download</a></div>\n\n\n\n<figure class=\"wp-block-image size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"960\" height=\"540\" src=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/02/COMP523I-Platform-Selection.jpg\" alt=\"\" class=\"wp-image-250\" srcset=\"https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/02/COMP523I-Platform-Selection.jpg 960w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/02/COMP523I-Platform-Selection-300x169.jpg 300w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/02/COMP523I-Platform-Selection-768x432.jpg 768w, https://tarheels.live/teami523/wp-content/uploads/sites/4045/2023/02/COMP523I-Platform-Selection-640x360.jpg 640w\" sizes=\"(max-width: 960px) 100vw, 960px\" /><figcaption class=\"wp-element-caption\"><strong>PLATFORM SELECTION</strong></figcaption></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/203"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=203"
                 }
             ],
             "version-history": [
                 {
                     "count": 7,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/203/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 174,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/35/revisions/174"
+                    "id": 272,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/203/revisions/272"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=35"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=203"
                 }
             ],
             "curies": [
@@ -602,27 +688,27 @@
         }
     },
     {
-        "id": 34,
-        "date": "2023-01-11T16:39:01",
-        "date_gmt": "2023-01-11T21:39:01",
+        "id": 199,
+        "date": "2023-02-15T09:32:16",
+        "date_gmt": "2023-02-15T14:32:16",
         "guid": {
-            "rendered": "https://tarheels.live/teami523/?page_id=34"
+            "rendered": "https://tarheels.live/teami523/?page_id=199"
         },
-        "modified": "2023-01-30T19:21:44",
-        "modified_gmt": "2023-01-31T00:21:44",
-        "slug": "contact",
+        "modified": "2023-02-20T11:47:59",
+        "modified_gmt": "2023-02-20T16:47:59",
+        "slug": "ethics-1",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/teami523/contact/",
+        "link": "https://tarheels.live/teami523/ethics-1/",
         "title": {
-            "rendered": "Contact"
+            "rendered": "Ethics 1:"
         },
         "content": {
-            "rendered": "\n<div class=\"is-layout-constrained wp-block-group alignwide\"><div class=\"wp-block-group__inner-container\">\n<div class=\"is-layout-flex wp-container-2 wp-block-columns\">\n<div class=\"is-layout-flow wp-block-column\">\n<p><a href=\"mailto:wid@live.unc.edu,nasyyu@live.unc.edu, mbuguaj@live.unc.edu, ridita@live.unc.edu\">Email the Team!</a></p>\n\n\n\n<p><strong>Wid Alsadoon:</strong> wid@mbuguaj</p>\n</div>\n</div>\n</div></div>\n\n\n\n<p></p>\n\n\n\n<p><strong>Fariha Marzan: </strong>ridita@live.unc.edu</p>\n\n\n\n<p><strong>Janet Mbugua: </strong>mbuguaj@live.unc.edu</p>\n\n\n\n<p><strong>Natalie Yuziuk:</strong> nasyyu@live.unc.edu</p>\n",
+            "rendered": "\n<p><strong><a href=\"https://www.orfonline.org/expert-speak/debating-the-ethics-of-deepfakes/\" data-type=\"URL\" data-id=\"https://www.orfonline.org/expert-speak/debating-the-ethics-of-deepfakes/\" target=\"_blank\" rel=\"noreferrer noopener\">Deep-fake copyright claims</a></strong></p>\n\n\n\n<p>Upon the creation of deep fake technology, there have been many ways in which it could be used in positive contexts, like expressionism, business usage, accessibility, and as an artistic medium. However in a lot of cases, they are being used in malicious ways, with the intent of slandering individuals, businesses, and the broader perspective of society as a whole, increasing the already growing distrust in media as it already is. This creates the concept of ‘factual relativism’, where “deep fakes can enable the least democratic and authoritarian leaders to thrive as they can leverage the ‘liar’s dividend’, where any inconvenient truth is quickly discounted as ‘fake news’”.</p>\n\n\n\n<p>Several ethical concerns arise upon the creation of deep fakes. First is the consent of having someone’s face used in a deep fake, despite the media they might be inserted in. Another ethical issue is synthetic resurrection, where individuals bear the right to control the commercial use of their own face in a deep fake. In some states, this right even extends beyond the afterlife as well. There isn’t much existing legislation pertaining to the usage of deep fake technology, and because of this, the scene currently on the creation and use of deep fakes remains very turbulent.</p>\n\n\n\n<p>In our opinion, this is not the fault of the software itself, since there are many things that it could be used for that are ethical, such as turning stunt actors into their Hollywood star counterparts. While the original software engineers may not have had bad intentions, we believe that the individuals who apply the AI in unethical ways, such as putting a Twitch streamer’s face into an adult video, are at fault.</p>\n\n\n\n<p><strong><a href=\"https://cdt.org/insights/alexa-is-law-enforcement-listening/\" data-type=\"URL\" data-id=\"https://cdt.org/insights/alexa-is-law-enforcement-listening/\" target=\"_blank\" rel=\"noreferrer noopener\">Sharing customer data with smart home devices</a></strong></p>\n\n\n\n<p>Amazon Echo privacy was put to the test one day in 2017 when in Bentonville, Arkansas, just where local law enforcement had given a warrant to Amazon to relinquish Amazon Echo recordings as evidence of a hot tub murder case.&nbsp;</p>\n\n\n\n<p>Amazon Echo is one of the newer listening voice assistant technologies that work by ‘always listening’ in the background to the current room in order to be activated through a pre-set wake word (like their name). Despite how intimidating the concept of ‘always listening’ devices may appear to be, their recording utilities are not activated until after the wake word is heard. Then any transcript or voice recordings are then taken and stored on Amazon’s online servers. This is done in the same manner as AI developing, recognizing the user’s speech patterns for a better grasp of the user’s voice, by teaching the device with a large enough data sample. Users also have access to look at and erase any recordings from their Echo as well.</p>\n\n\n\n<p>Concerning Amazon’s existing policy about the privacy of its customers, it is written that “it will provide information where appropriate to comply with the law,” yet with this current case, they released a public announcement that they do not “release customer data without a valid and binding legal demand properly served on us”.&nbsp;</p>\n\n\n\n<p>Despite the stipulations outlined in Amazon’s privacy policy, it still remains very vague as to what point Amazon will be willing to protect customer data. The police were able to admit the warrant and request access to said recordings, but despite the issuing of the legal document, they remained steadfast in not disclosing any data beyond account information. This story brings to light contentions on privacy policies on voice assistants not only for Amazon Alexa, but also for other variations of technology of this kind like Siri, Bixby, Cortana, and others of this likeness. Where can the line be drawn to giving away customer data? Had this been a supreme court case, would the company give the government easier access to the plaintiff’s data? If lines of revenue were threatened, would the company have submitted the warrants requests? Why do the Amazon servers hold on to customer recording data as long as they do, if it is only to teach the machine to recognize their users? Do they use the recordings as a way to find targeted ads from user to user, as speculated in recent media? While the software engineers did program the AI software to record and keep recording, with the intent of bettering the existing tech with the recordings, it is inherently up to the company what they do with said data, and they can act in whomever’s interest that best serves them, whether that is the government, the customer, or a third party buyer. And that is where the ethical dilemma arises. While many questions remain in the air, this leaves many customers and consumers alike wary and skeptical about purchasing a smart home of any kind.</p>\n\n\n\n<p><strong><a href=\"https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/\" data-type=\"URL\" data-id=\"https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/\" target=\"_blank\" rel=\"noreferrer noopener\">AI Art copyright claims:</a></strong></p>\n\n\n\n<p>Artificial Intelligence is typically created by teaching machines existing patterns through exposure to extremely large sets of data. Similarly to how you would expose an online AI bot to large sets of questions and answers, AI Art is created through the exposure of all kinds of existing art pieces and creative styles for the bot to learn and take after. Because of this, these bots are taking art styles and images from artists, creating art faster, without permission, much less attribution to the artists they have learned from, which brings to question the ethics concerning the creation of AI art.</p>\n\n\n\n<p>Since they take the art from artists online and use it to create new art or to impersonate a style. Along with Digital art bots using artist drawings without consent, people also worry that these bots will make the artist’s life harder since having a nice art piece generated from your prompt is just one click away, instead of having to commission an artist to draw it for you. Not only does this cross into copyright territory, but it can also prevent the artist from making a profit from their art. Outside of digital art, AI can also take the voices of artists and use their voices to make a song or sing a song that they have never sung before. With new artificial intelligence bots being created, the ethics become more questionable as to what should and shouldn’t be allowed. We think that this type of ethical dilemma is more difficult to pin on the software engineer or the software since the problem is basically copyright for a person’s intellectual and artistic content. Even Youtube struggles to decide what should count as stealing someone else’s content vs creating new content from someone else’s, with the rise of reaction videos and let’s plays.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Email the Team! Wid Alsadoon: wid@mbuguaj Fariha Marzan: ridita@live.unc.edu Janet Mbugua: mbuguaj@live.unc.edu Natalie Yuziuk: nasyyu@live.unc.edu</p>\n",
+            "rendered": "<p>Deep-fake copyright claims Upon the creation of deep fake technology, there have been many ways in which it could be&#8230;</p>\n",
             "protected": false
         },
         "author": 13539,
@@ -636,7 +722,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/199"
                 }
             ],
             "collection": [
@@ -658,24 +744,110 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=34"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=199"
                 }
             ],
             "version-history": [
                 {
-                    "count": 8,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34/revisions"
+                    "count": 5,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/199/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 137,
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/34/revisions/137"
+                    "id": 218,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/199/revisions/218"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=34"
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=199"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 196,
+        "date": "2023-02-15T09:30:28",
+        "date_gmt": "2023-02-15T14:30:28",
+        "guid": {
+            "rendered": "https://tarheels.live/teami523/?page_id=196"
+        },
+        "modified": "2023-04-17T10:28:52",
+        "modified_gmt": "2023-04-17T14:28:52",
+        "slug": "assignments",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teami523/assignments/",
+        "title": {
+            "rendered": "Assignments"
+        },
+        "content": {
+            "rendered": "\n<p><a href=\"https://tarheels.live/teami523/ethics-1/\" data-type=\"URL\" data-id=\"https://tarheels.live/teami523/ethics-1/\">ETHICS 1</a></p>\n\n\n\n<p><a href=\"https://tarheels.live/teami523/midterm/\">MIDTERM</a></p>\n\n\n\n<p><a href=\"https://tarheels.live/teami523/reflection-1/\" data-type=\"URL\" data-id=\"https://tarheels.live/teami523/reflection-1/\">REFLECTION 1</a></p>\n\n\n\n<p><a href=\"https://tarheels.live/teami523/tech-talks/\" data-type=\"URL\" data-id=\"https://tarheels.live/teami523/tech-talks/\">TECH TALKS</a></p>\n\n\n\n<p><a href=\"https://tarheels.live/teami523/final-presentation/\" data-type=\"URL\" data-id=\"https://tarheels.live/teami523/final-presentation/\">FINAL PRESENTATION</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>ETHICS 1 MIDTERM REFLECTION 1 TECH TALKS FINAL PRESENTATION</p>\n",
+            "protected": false
+        },
+        "author": 13539,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/196"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/users/13539"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/comments?post=196"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/196/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 345,
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/pages/196/revisions/345"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teami523/wp-json/wp/v2/media?parent=196"
                 }
             ],
             "curies": [
