@@ -1,13 +1,99 @@
 [
     {
+        "id": 189,
+        "date": "2023-03-07T08:24:35",
+        "date_gmt": "2023-03-07T13:24:35",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=189"
+        },
+        "modified": "2023-04-02T23:22:35",
+        "modified_gmt": "2023-04-03T03:22:35",
+        "slug": "assignments",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523sp23teamh/assignments/",
+        "title": {
+            "rendered": "Assignments"
+        },
+        "content": {
+            "rendered": "\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/03/Ethics-Assignment_new.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/03/Ethics-Assignment_new.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Ethics 1</a></p>\n\n\n\n<p><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/04/APPLES-Reflection-1.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/04/APPLES-Reflection-1.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">APPLES Reflection 1</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Ethics 1 APPLES Reflection 1</p>\n",
+            "protected": false
+        },
+        "author": 11713,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 4,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/189"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/users/11713"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/comments?post=189"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 7,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/189/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 222,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/189/revisions/222"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/media?parent=189"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 45,
         "date": "2023-01-24T14:12:56",
         "date_gmt": "2023-01-24T19:12:56",
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=45"
         },
-        "modified": "2023-01-31T11:18:58",
-        "modified_gmt": "2023-01-31T16:18:58",
+        "modified": "2023-05-06T16:08:42",
+        "modified_gmt": "2023-05-06T20:08:42",
         "slug": "related-links",
         "status": "publish",
         "type": "page",
@@ -16,17 +102,17 @@
             "rendered": "Related Links"
         },
         "content": {
-            "rendered": "\n<p><a href=\"https://tarheels.live/comp523teaml/\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523teaml/\">Prior Team&#8217;s Website</a></p>\n\n\n\n<p><a href=\"https://robotics.cs.unc.edu/C-space/index.html\" target=\"_blank\" rel=\"noreferrer noopener\">Configuration Space Visualization Example</a></p>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p><a href=\"https://github.com/zuntue/robotedu\" data-type=\"URL\" data-id=\"https://github.com/zuntue/robotedu\" target=\"_blank\" rel=\"noreferrer noopener\">Our GitHub Repository</a></p>\n\n\n\n<p><a href=\"https://tarheels.live/comp523teaml/\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523teaml/\">Prior Team&#8217;s Website</a></p>\n\n\n\n<p><a rel=\"noreferrer noopener\" href=\"https://robotics.cs.unc.edu/C-space/index.html\" target=\"_blank\">Configuration Space Visualization Example (Client&#8217;s Website)</a></p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Prior Team&#8217;s Website Configuration Space Visualization Example</p>\n",
+            "rendered": "<p>Our GitHub Repository Prior Team&#8217;s Website Configuration Space Visualization Example (Client&#8217;s Website)</p>\n",
             "protected": false
         },
         "author": 11713,
         "featured_media": 0,
         "parent": 0,
-        "menu_order": 0,
+        "menu_order": 5,
         "comment_status": "closed",
         "ping_status": "closed",
         "template": "",
@@ -61,14 +147,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/45/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 67,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/45/revisions/67"
+                    "id": 317,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/45/revisions/317"
                 }
             ],
             "wp:attachment": [
@@ -92,8 +178,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=43"
         },
-        "modified": "2023-01-24T14:09:08",
-        "modified_gmt": "2023-01-24T19:09:08",
+        "modified": "2023-03-07T15:49:58",
+        "modified_gmt": "2023-03-07T20:49:58",
         "slug": "journal",
         "status": "publish",
         "type": "page",
@@ -102,17 +188,17 @@
             "rendered": "Journal"
         },
         "content": {
-            "rendered": "\n<p><strong>Meeting 01/24</strong></p>\n\n\n\n<p>Today is our first coach meeting. </p>\n\n\n\n<p><strong>Meeting 01/23</strong></p>\n\n\n\n<p>After Dr. Stotts assigned us our project, we each chose a role within the team and e-mailed our client to set up a meeting. </p>\n\n\n\n<p><strong>Meeting 01/18</strong></p>\n\n\n\n<p>For our first team meeting, we agreed on a time to meet weekly and created a Discord server to communicate. We also made a list of our project preferences. After doing so, we worked a little bit on getting the website started.</p>\n\n\n\n<p></p>\n",
+            "rendered": "\n<p></p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Meeting 01/24 Today is our first coach meeting. Meeting 01/23 After Dr. Stotts assigned us our project, we each chose&#8230;</p>\n",
+            "rendered": "",
             "protected": false
         },
         "author": 11713,
         "featured_media": 0,
         "parent": 0,
-        "menu_order": 0,
+        "menu_order": 4,
         "comment_status": "closed",
         "ping_status": "closed",
         "template": "",
@@ -147,14 +233,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/43/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 44,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/43/revisions/44"
+                    "id": 201,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/43/revisions/201"
                 }
             ],
             "wp:attachment": [
@@ -270,8 +356,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=22"
         },
-        "modified": "2023-01-31T13:55:29",
-        "modified_gmt": "2023-01-31T18:55:29",
+        "modified": "2023-05-06T16:06:42",
+        "modified_gmt": "2023-05-06T20:06:42",
         "slug": "team",
         "status": "publish",
         "type": "page",
@@ -280,17 +366,17 @@
             "rendered": "Team"
         },
         "content": {
-            "rendered": "\n<div class=\"is-vertical is-layout-flex wp-container-2 wp-block-group\">\n<div class=\"is-vertical is-layout-flex wp-container-1 wp-block-group\">\n<p><strong>Harin Kim</strong></p>\n\n\n\n<p><em>Project Manager</em></p>\n\n\n\n<p>harinkim@live.unc.edu</p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-3 wp-block-group\">\n<p><strong>Alexandra Mossinghoff</strong></p>\n\n\n\n<p><em>Website Manager, Client Manger</em></p>\n\n\n\n<p>mossingh@live.unc.edu</p>\n</div>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-5 wp-block-group\">\n<div class=\"is-vertical is-layout-flex wp-container-4 wp-block-group\">\n<p><strong>Sarah Paschal</strong></p>\n\n\n\n<p><em>Frontend Lead</em></p>\n\n\n\n<p>sep0225@live.unc.edu</p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-6 wp-block-group\">\n<p><strong>Zuntue Pommerich</strong></p>\n\n\n\n<p><em>Backend Lead</em></p>\n\n\n\n<p>zuntue@live.unc.edu</p>\n</div>\n",
+            "rendered": "\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-2\">\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-1\">\n<p><strong>Harin Kim</strong></p>\n\n\n\n<p><em>Project Manager, Website Manager, Software Developer</em></p>\n\n\n\n<p>harinkim@live.unc.edu</p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-3\">\n<p><strong>Sarah Paschal</strong></p>\n\n\n\n<p><em>Website Manager<em>, Software Developer</em></em></p>\n\n\n\n<p>sep0225@live.unc.edu</p>\n</div>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-4\"></div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-5\">\n<p></p>\n\n\n\n<p><strong>Alexandra Mossinghoff</strong></p>\n\n\n\n<p><em>Client Manager, Software Developer</em></p>\n\n\n\n<p>mossingh@live.unc.edu</p>\n</div>\n\n\n\n<p></p>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-6\">\n<p><strong>Zuntue Pommerich</strong></p>\n\n\n\n<p><em>Software Developer</em></p>\n\n\n\n<p>zuntue@live.unc.edu</p>\n</div>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Harin Kim Project Manager harinkim@live.unc.edu Alexandra Mossinghoff Website Manager, Client Manger mossingh@live.unc.edu Sarah Paschal Frontend Lead sep0225@live.unc.edu Zuntue Pommerich Backend&#8230;</p>\n",
+            "rendered": "<p>Harin Kim Project Manager, Website Manager, Software Developer harinkim@live.unc.edu Sarah Paschal Website Manager, Software Developer sep0225@live.unc.edu Alexandra Mossinghoff Client Manager,&#8230;</p>\n",
             "protected": false
         },
         "author": 11713,
         "featured_media": 0,
         "parent": 0,
-        "menu_order": 0,
+        "menu_order": 1,
         "comment_status": "closed",
         "ping_status": "closed",
         "template": "",
@@ -325,14 +411,14 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 6,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/22/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 94,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/22/revisions/94"
+                    "id": 315,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/22/revisions/315"
                 }
             ],
             "wp:attachment": [
@@ -356,17 +442,17 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=18"
         },
-        "modified": "2023-01-31T13:12:43",
-        "modified_gmt": "2023-01-31T18:12:43",
+        "modified": "2023-03-07T08:23:33",
+        "modified_gmt": "2023-03-07T13:23:33",
         "slug": "meetings",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523sp23teamh/meetings/",
+        "link": "https://tarheels.live/comp523sp23teamh/team/meetings/",
         "title": {
-            "rendered": "Meetings"
+            "rendered": "Meeting Schedule"
         },
         "content": {
-            "rendered": "\n<h3>Weekly schedule:</h3>\n\n\n\n<ul>\n<li>Team meetings: Mondays, 10:00am</li>\n\n\n\n<li>Coach meetings: Tuesdays, 2:30pm</li>\n\n\n\n<li>Client meetings: Bi-weekly Wednesdays, 10:10am</li>\n</ul>\n",
+            "rendered": "\n<h3 class=\"wp-block-heading\">Weekly schedule:</h3>\n\n\n\n<ul>\n<li>Team meetings: Mondays, 10:00am</li>\n\n\n\n<li>Coach meetings: Tuesdays, 2:30pm</li>\n\n\n\n<li>Client meetings: Bi-weekly Wednesdays, 10:10am</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -375,7 +461,7 @@
         },
         "author": 217,
         "featured_media": 0,
-        "parent": 0,
+        "parent": 22,
         "menu_order": 0,
         "comment_status": "closed",
         "ping_status": "closed",
@@ -411,14 +497,20 @@
             ],
             "version-history": [
                 {
-                    "count": 6,
+                    "count": 7,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/18/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 69,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/18/revisions/69"
+                    "id": 188,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/18/revisions/188"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/22"
                 }
             ],
             "wp:attachment": [
@@ -442,8 +534,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523sp23teamh/?page_id=10"
         },
-        "modified": "2023-02-07T14:06:46",
-        "modified_gmt": "2023-02-07T19:06:46",
+        "modified": "2023-05-06T16:37:06",
+        "modified_gmt": "2023-05-06T20:37:06",
         "slug": "deliverables",
         "status": "publish",
         "type": "page",
@@ -452,17 +544,17 @@
             "rendered": "Deliverables"
         },
         "content": {
-            "rendered": "\n<div class=\"is-vertical is-layout-flex wp-container-7 wp-block-group\">\n<p><strong>D1: Specifications</strong></p>\n\n\n\n<p>User Story &amp; Requirements</p>\n\n\n\n<div class=\"wp-block-file\"><object class=\"wp-block-file__embed\" data=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements-1.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of User-Story_Requirements-1.\"></object><a id=\"wp-block-file--media-21b3f3cb-a736-4a4d-83dc-9e25688b1233\" href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements-1.pdf\">User-Story_Requirements-1</a><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements-1.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-21b3f3cb-a736-4a4d-83dc-9e25688b1233\">Download</a></div>\n</div>\n",
+            "rendered": "\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-8\">\n<p style=\"font-size:25px\"><strong>Milestones</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/Updated-Platform-Selection.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/Updated-Platform-Selection.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Platform Selection</a></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/updated-architecture-diagram.png\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/updated-architecture-diagram.png\" target=\"_blank\" rel=\"noreferrer noopener\">Architecture Diagram</a></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/Hand-Off-Plan.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/Hand-Off-Plan.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Client Hand-Off Plan</a></p>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-9\">\n<p style=\"font-size:25px\"><strong>Tech Talk</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://docs.google.com/presentation/d/1_N5KuJuv9B0fIyj6ZGE8Fc1IK1nUF9spkfxpRRohTtY/edit?usp=sharing\" data-type=\"URL\" data-id=\"https://docs.google.com/presentation/d/1_N5KuJuv9B0fIyj6ZGE8Fc1IK1nUF9spkfxpRRohTtY/edit?usp=sharing\" target=\"_blank\" rel=\"noreferrer noopener\">Canvas API</a></p>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-10\">\n<p style=\"font-size:25px\"><strong>Midterm Project Presentation</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://docs.google.com/presentation/d/1IN0AgJRzXf5CL2yCIBg5wIqRqj2j73R-6EYkwgsfubk/edit?usp=sharing\">Midterm Presentation Slides</a></p>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-12\">\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-11\">\n<p style=\"font-size:25px\"><strong>Final Project Presentation</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://docs.google.com/presentation/d/1tegZcGJoC_Ui9Pqxawy5bvo8A2ZEcYk7k5cXIVZSSCU/edit?usp=sharing\" data-type=\"URL\" data-id=\"https://docs.google.com/presentation/d/1tegZcGJoC_Ui9Pqxawy5bvo8A2ZEcYk7k5cXIVZSSCU/edit?usp=sharing\" target=\"_blank\" rel=\"noreferrer noopener\">Final Presentation Slides</a></p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-13\">\n<p style=\"font-size:25px\"><strong>D1: Specifications</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/02/User-Story_Requirements.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">User Story &amp; Requirements</a></p>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-15\">\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-14\">\n<p style=\"font-size:25px\"><strong>D2: Design Document</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/Design-Document.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/Design-Document.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Design Document</a></p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-17\">\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-16\">\n<p style=\"font-size:25px\"><strong>D3: Test Plan</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/04/Test-Plan.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/04/Test-Plan.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Test Plan</a></p>\n</div>\n</div>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-19\">\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-18\">\n<p style=\"font-size:25px\"><strong>D4: User Manual</strong></p>\n\n\n\n<p style=\"font-size:18px\"><a rel=\"noreferrer noopener\" href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/04/Documentation-Plan.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/04/Documentation-Plan.pdf\" target=\"_blank\">Documentation Plan</a></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/User-Manual.docx.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/User-Manual.docx.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">User Manual</a></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/Updated-Admin-Manual.pdf\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523sp23teamh/wp-content/uploads/sites/4041/2023/05/Updated-Admin-Manual.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Admin Manual</a></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://youtu.be/H3Z6LFRU3jY\" data-type=\"URL\" data-id=\"https://youtu.be/H3Z6LFRU3jY\" target=\"_blank\" rel=\"noreferrer noopener\">Client Hand-Off Video from previous team</a></p>\n\n\n\n<p style=\"font-size:18px\"><a href=\"https://youtu.be/0Jj2ZBHcrvQ\" data-type=\"URL\" data-id=\"https://youtu.be/0Jj2ZBHcrvQ\" target=\"_blank\" rel=\"noreferrer noopener\">Updated Client Hand-Off Video</a> </p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-21\">\n<p></p>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-20\">\n<p style=\"font-size:25px\"><strong>D5: Code</strong></p>\n\n\n\n<p><a href=\"https://github.com/zuntue/robotedu\" data-type=\"URL\" data-id=\"https://github.com/zuntue/robotedu\" target=\"_blank\" rel=\"noreferrer noopener\">GitHub Repository</a></p>\n</div>\n</div>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>D1: Specifications User Story &amp; Requirements</p>\n",
+            "rendered": "<p>Milestones Platform Selection Architecture Diagram Client Hand-Off Plan Tech Talk Canvas API Midterm Project Presentation Midterm Presentation Slides Final Project&#8230;</p>\n",
             "protected": false
         },
         "author": 217,
         "featured_media": 0,
         "parent": 0,
-        "menu_order": 0,
+        "menu_order": 3,
         "comment_status": "closed",
         "ping_status": "closed",
         "template": "",
@@ -497,14 +589,14 @@
             ],
             "version-history": [
                 {
-                    "count": 11,
+                    "count": 53,
                     "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 106,
-                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions/106"
+                    "id": 318,
+                    "href": "https://tarheels.live/comp523sp23teamh/wp-json/wp/v2/pages/10/revisions/318"
                 }
             ],
             "wp:attachment": [
