@@ -1,13 +1,805 @@
 [
     {
+        "id": 330,
+        "date": "2023-05-04T14:59:59",
+        "date_gmt": "2023-05-04T18:59:59",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=330"
+        },
+        "modified": "2023-05-05T21:18:01",
+        "modified_gmt": "2023-05-06T01:18:01",
+        "slug": "final-code-deliverable",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/final-code-deliverable/",
+        "title": {
+            "rendered": "Final Code Deliverable"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Our GitHub Repository:</strong></p>\n\n\n\n<ul>\n<li><a href=\"https://github.com/guisaez/comp523-volumetricCapture\">https://github.com/guisaez/comp523-volumetricCapture</a></li>\n\n\n\n<li>Video-Demo and Deployment: <a rel=\"noreferrer noopener\" href=\"https://www.youtube.com/watch?v=gfGXDlM2QeQ\" data-type=\"URL\" data-id=\"https://www.youtube.com/watch?v=gfGXDlM2QeQ\" target=\"_blank\">https://www.youtube.com/watch?v=gfGXDlM2QeQ</a></li>\n</ul>\n\n\n\n<p><strong>Instruction</strong>:</p>\n\n\n\n<ul>\n<li>This repository is public currently. You could clone this repository to your local machine.</li>\n\n\n\n<li>The folder structure, set-up procedure, and service documentation are well recorded in the above GitHub repository. Please make sure you read the <strong>README</strong> markdown and <strong>RunInDevelopmentEnv</strong> in the documentation folder first if you want to deploy our web application. </li>\n\n\n\n<li>For future developers working on the volumetric capture project, please make sure you carefully read the <strong>documentation</strong> folder. The markdown file in each corresponding folder clearly explains the scripts in each folder and presents the functionality details. </li>\n\n\n\n<li>If you want to preview our web application without deployment, here is the demo video we presented during the final presentation to give you a basic idea of our web application&#8217;s features: <a href=\"https://youtu.be/KuKGnVS9FxM\">https://youtu.be/KuKGnVS9FxM</a> .</li>\n\n\n\n<li>Please be aware that the model service takes a little bit long time to build and deploy. This is a normal situation since there are multiple machine-learning models included in our project.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our GitHub Repository: Instruction:</p>\n",
+            "protected": false
+        },
+        "author": 13688,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/330"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/13688"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=330"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/330/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 341,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/330/revisions/341"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=330"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 323,
+        "date": "2023-04-23T18:18:55",
+        "date_gmt": "2023-04-23T22:18:55",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=323"
+        },
+        "modified": "2023-05-04T15:06:13",
+        "modified_gmt": "2023-05-04T19:06:13",
+        "slug": "final-presentation",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/final-presentation/",
+        "title": {
+            "rendered": "Final Presentation"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-buttons is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://docs.google.com/presentation/d/1qHjYbRgH4nx0cRWFEsY0Qz_KLzD1XGTcJpilYymmmL4/edit?usp=sharing\">Google Slides PPT</a></div>\n\n\n\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\">Demo Mockup Video</a></div>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2157,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/323"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=323"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/323/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 333,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/323/revisions/333"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=323"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 316,
+        "date": "2023-04-17T06:01:24",
+        "date_gmt": "2023-04-17T10:01:24",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=316"
+        },
+        "modified": "2023-05-04T15:41:03",
+        "modified_gmt": "2023-05-04T19:41:03",
+        "slug": "hand-off-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/deliverables/hand-off-plan/",
+        "title": {
+            "rendered": "Hand-off Plan"
+        },
+        "content": {
+            "rendered": "\n<p><strong>User Notice:&nbsp;</strong></p>\n\n\n\n<ol>\n<li>Our group built up a website that is for users to run and download 3D models in the easiest interaction. In order to run and download the model from our website, the user needs to</li>\n</ol>\n\n\n\n<ul>\n<li>have an email address to sign up for your account</li>\n\n\n\n<li>have the zip file that contains scanned images from four different cameras</li>\n\n\n\n<li>have the extrinsic and intrinsic camera configuration files which are in yml format or have  configuration parameters</li>\n</ul>\n\n\n\n<ol start=\"2\">\n<li>Once the zip file and configuration files, or configuration parameters, are uploaded, the model is eligible to run. It will take some time to run the model, and the downloaded model will be kept in zip file format.</li>\n</ol>\n\n\n\n<p><strong>Client Notice:&nbsp;</strong></p>\n\n\n\n<ol>\n<li>Our client from UNC Blue Sky Innovations could access the following at the end of Spring 2023:</li>\n</ol>\n\n\n\n<ul>\n<li>Docker account\n<ul>\n<li>We have a team docker account for running applications in development mode. The credentials can be found in GitHub documentation.</li>\n</ul>\n</li>\n\n\n\n<li>Github\n<ul>\n<li>The repository includes all application code and necessary documentation.</li>\n</ul>\n</li>\n\n\n\n<li>Team G Website\n<ul>\n<li>Our team website includes content such as design document and test plans. You could view and learn the details of our project through the team website.</li>\n</ul>\n</li>\n\n\n\n<li>Deployed Application\n<ul>\n<li>We have deployment instructions in our repository. Please make sure to read carefully of the readme markdown file and <strong>RunInDevelopmentEnv</strong> file in the documentation folder. </li>\n</ul>\n</li>\n</ul>\n\n\n\n<ol start=\"2\">\n<li>Please read the documentation folder in our GitHub repository carefully. We have detailed documentation to explain the functionality of each folder inside our repository. This is the simplest way to help you understand the scripts.</li>\n</ol>\n\n\n\n<p><strong>Technical descriptions:</strong></p>\n\n\n\n<ol>\n<li>Team G developed the UI of our Volumetric Capture website with React and backend service with Node JS. Both of them have very detailed documentation online. The architecture diagram in our final presentation, which is under the tab of assignment-final presentation, on the Team G website. This diagram could lead you understand the tools we used for the project.</li>\n\n\n\n<li>The administrator and future project developer should install docker and kubernetes to build, update, deploy and manage the container.</li>\n\n\n\n<li>All the platform selection details could be found on the Team G website under deliverables.</li>\n</ol>\n\n\n\n<p><strong>Pre-delivery Checklist:</strong></p>\n\n\n\n<ol>\n<li>Follow the Test plan to check the functionalities.</li>\n\n\n\n<li>Check all the information on the website and make sure the users could use the web application easily.</li>\n\n\n\n<li>Review and update documentation.</li>\n\n\n\n<li>Merge all of the necessary changes to the GitHub main.</li>\n\n\n\n<li>Make sure the client understand the instruction and documentation in the GitHub Repository. </li>\n</ol>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Notice:&nbsp; Client Notice:&nbsp; Technical descriptions: Pre-delivery Checklist:</p>\n",
+            "protected": false
+        },
+        "author": 13688,
+        "featured_media": 0,
+        "parent": 22,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/316"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/13688"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=316"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/316/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 337,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/316/revisions/337"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=316"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 308,
+        "date": "2023-04-10T07:51:30",
+        "date_gmt": "2023-04-10T11:51:30",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=308"
+        },
+        "modified": "2023-04-10T07:51:30",
+        "modified_gmt": "2023-04-10T11:51:30",
+        "slug": "documentation-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/deliverables/documentation-plan/",
+        "title": {
+            "rendered": "Documentation Plan"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Overview</strong></p>\n\n\n\n<p>Volumetric Capture Project is an AI-based project by Sky Blue Innovation Lab. Volumetric Capture aims to turn the scanned human video into a 3D model. Team G is taking charge of building up the website application and model pipeline for the users to implement the model with the easiest interaction.</p>\n\n\n\n<p><strong>User Documentation</strong></p>\n\n\n\n<p>Our technology could be implemented in different fields, such as medical models and film production. The potential users are mostly experts in different fields, but they are not expected to understand the structure of the website. The users could access the following functionalities:</p>\n\n\n\n<ul>\n<li>Sign up, log in, and log out\n<ul>\n<li>&nbsp;Users are required to create an account to build up the project and download the model. Projects and uploaded files are saved in users’ personal accounts.</li>\n</ul>\n</li>\n\n\n\n<li>Manage project\n<ul>\n<li>After logging into the account, the users could manage their projects from their own main page. Users are able to create a new project, edit a project and delete a project by clicking the corresponding buttons on the main page. Projects are displayed as cards on the main page. Users could edit project descriptions, upload images, and adjust the parameter for the model when needed.&nbsp;&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li>Upload files and Insert parameter\n<ul>\n<li>Images are input for the model. Users should upload the zip files, intrinsic files, and extrinsic files before running the model. The intrinsic file and extrinsic files are in yml format. These inputs are required for running the model. The model could not be implemented if it lacks the required files.</li>\n</ul>\n</li>\n\n\n\n<li>Download model\n<ul>\n<li>After submitting the required files, users could return to the project management page and run the model by clicking the corresponding button. Model running could take up some time, and running time depends on the size of the uploaded files. Users should keep the window open and wait for the model to run in order to get the output model.</li>\n</ul>\n</li>\n\n\n\n<li>Project status\n<ul>\n<li>The user could see the project status on the project card. If the model has run and been downloaded, the status will be shown on the project card.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>Administrator Documentation</strong></p>\n\n\n\n<p>The administrators of our project are our Client and his lab, sky blue innovation. The administrators have permission to manage users and make changes to the website. The instruction details could be viewed in the documentation folder of our GitHub repository. Our team recommends the administrators carefully read the documentation and follow the instructions step by step. Following the documentation, the administrator could:&nbsp;</p>\n\n\n\n<ul>\n<li>Set up the environment</li>\n\n\n\n<li>Understand project structure&nbsp;</li>\n\n\n\n<li>Test authentication</li>\n\n\n\n<li>Run the application in development mode&nbsp;</li>\n</ul>\n\n\n\n<p>Our group will keep the instruction and project structure in the documentation folder and README file at the GitHub repository <a href=\"https://github.com/guisaez/comp523-volumetricCapture\">https://github.com/guisaez/comp523-volumetricCapture</a> . The documentation will be updated following the steps of our progress, and all of the documentation will be done when the project is finished at the end of Spring 2023.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Overview Volumetric Capture Project is an AI-based project by Sky Blue Innovation Lab. Volumetric Capture aims to turn the scanned&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13688,
+        "featured_media": 0,
+        "parent": 22,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/308"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/13688"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=308"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/308/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 311,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/308/revisions/311"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=308"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 294,
+        "date": "2023-04-02T14:01:51",
+        "date_gmt": "2023-04-02T18:01:51",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=294"
+        },
+        "modified": "2023-04-02T14:01:51",
+        "modified_gmt": "2023-04-02T18:01:51",
+        "slug": "tech-talk",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/tech-talk/",
+        "title": {
+            "rendered": "Tech Talk"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-buttons is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://docs.google.com/presentation/d/159UDobLwU7SrlpXdHHE3-fTk34BnAbyit2_6kQhTTt0/edit#slide=id.p\">Google Slides PPT</a></div>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2157,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/294"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=294"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/294/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 295,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/294/revisions/295"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=294"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 289,
+        "date": "2023-04-02T11:44:53",
+        "date_gmt": "2023-04-02T15:44:53",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=289"
+        },
+        "modified": "2023-04-02T14:19:15",
+        "modified_gmt": "2023-04-02T18:19:15",
+        "slug": "test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/deliverables/test-plan/",
+        "title": {
+            "rendered": "Test Plan"
+        },
+        "content": {
+            "rendered": "\n<p>As of today, the application is expected to have a primary user, which is our client. This application requires additional software to capture the necessary images to be provided to the model to create the 3D output model. However, we expect that this application will allow additional users to use this technology. This application&#8217;s functionality, user interface, and capabilities are expected to be simple and intuitive. Our goal is to allow users to generate the expected 3D model in simple steps and rely on our automation.</p>\n\n\n\n<ol>\n<li><span style=\"text-decoration: underline\">Testing if all the time we need is available:</span>\n<ul>\n<li>Test the application&#8217;s scalability once it is deployed into a cloud provider so that multiple users can create models simultaneously.</li>\n\n\n\n<li>Test for model creation optimization if the application is deployed into the cloud.</li>\n\n\n\n<li>Ensure previous renders are stored in the database and can be accessed in real-time.</li>\n\n\n\n<li>Test for users to be able to add additional information to their profiles, reset passwords, etc.</li>\n</ul>\n</li>\n\n\n\n<li><span style=\"text-decoration: underline\">What is being tested:</span>\n<ul>\n<li>Ensure the user can create a new account to access the main dashboard.</li>\n\n\n\n<li>Ensure that no user can access or create a model if it is not authenticated as a registered user.</li>\n\n\n\n<li>Ensure that the email and password provided during account creation are valid and meet the specified requirements.</li>\n\n\n\n<li>Ensure that the user can upload the input images and the configuration files for the model.</li>\n\n\n\n<li>Ensure that the model services create the required folders with the input images.&nbsp;</li>\n\n\n\n<li>Ensure that errors are handled correctly, such as:\n<ol>\n<li>NoAuthorizedError()</li>\n\n\n\n<li>InvalidCredentialError()</li>\n\n\n\n<li>BadRequestError()</li>\n\n\n\n<li>InternalServerError()</li>\n</ol>\n</li>\n\n\n\n<li>Ensure that the cleanup function is called in the model-creation service once it is done or in case it fails.</li>\n\n\n\n<li>Ensure that tests are performed automatically and run when a pull request into the main branch is created using GitHub.</li>\n</ul>\n</li>\n</ol>\n\n\n\n<p>Tools that will be used for testing:</p>\n\n\n\n<ul>\n<li><strong>Jest:</strong> Javascript test runner that easily integrates automated unit and component resting.</li>\n\n\n\n<li><strong>PyTest:</strong> Pytest is a Python testing framework that can be used to write various types of software tests, including unit tests, integration tests, end-to-end tests, and functional tests.&nbsp;</li>\n\n\n\n<li><strong>Postman:</strong> Postman is an API Platform for developers to design, build, test, and iterate their APIs.</li>\n\n\n\n<li>NextJS continuous development to test front-end components as they are being built in real-time.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>As of today, the application is expected to have a primary user, which is our client. This application requires additional&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 3104,
+        "featured_media": 0,
+        "parent": 22,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/289"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=289"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/289/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 298,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/289/revisions/298"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=289"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 278,
+        "date": "2023-03-26T13:18:33",
+        "date_gmt": "2023-03-26T17:18:33",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=278"
+        },
+        "modified": "2023-03-26T13:28:37",
+        "modified_gmt": "2023-03-26T17:28:37",
+        "slug": "apples-reflection",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/apples-reflection/",
+        "title": {
+            "rendered": "APPLES Reflection"
+        },
+        "content": {
+            "rendered": "\n<p>Our team is currently working with our client, Bhargav Bompalli, a computer vision engineer from UNC Blue Sky Innovations lab. The mission of UNC Blue Sky Innovations is to improve storytelling and education through technological innovations. The team aims to use technology to enhance human beings’ lives. Their projects include Artificial Intelligence, augmented virtual reality, and robots. So far, the research lab implemented its AR technologies in real life, such as engaging hospital patients in physical activities and immersive speed climbing for athletes.</p>\n\n\n\n<p>Bhargav Bompalli is currently working on volumetric capture at Blue Sky Innovations. The volumetric capture project uses deep learning models to process and manipulate videos of humans captured by cameras to create 3D models of humans. Three different machine learning models are used for this process, but our client must manually run each step one at a time, as well as manipulate the data so that the machine learning models produce the correct output. This provides an opening for human error and slows down the creation of the 3D model. The strict inputs required for these models and usage of the command line to run them makes the process difficult for those without programming experience. Our client has tasked us with creating software to automate this process that can be interacted with through a simple user interface.</p>\n\n\n\n<p>This technology merged the real-world environment and generated 3D models together, and this would be very likely how people interact with each other in the future. Volumetric capture could be applied in different fields, such as the medical, education, and entertainment industry. For instance, the biology professor could present a 3D body model in the class to bring students a better view of the human skeleton and organs. Even more, Sci-Fi directors could implement this technology into their film production. In the UNC community, we could use this technology in-class activities to give students a more interactive and immersive educational environment. Our target user group is large, and it could influence more people and give more surprising outcomes in the future.&nbsp;</p>\n\n\n\n<p>In this project, we can apply what we learned from school to real-world problems. We also practiced important communication skills as a group. We also learned that it is essential to consider the accessibility of technology for all users, including those without programming experience. So, We practiced how to make specific project documentation for users and future developers. Since our project is built based on several open-sourced projects, we also learned how to find and then use open-sourced packages and experienced the benefits of the open-source community and how we can contribute to it by sharing our code and knowledge with others. Furthermore, this project allows us to contribute to society by implementing technology that can enhance education, medical care, and entertainment. We may also make this project free to use, study, modify, and distribute your project for any purpose if possible to give back to the open-source community to make it stronger.&nbsp;</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our team is currently working with our client, Bhargav Bompalli, a computer vision engineer from UNC Blue Sky Innovations lab&#8230;.</p>\n",
+            "protected": false
+        },
+        "author": 13687,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/278"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/13687"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=278"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/278/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 310,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/278/revisions/310"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=278"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 264,
+        "date": "2023-02-26T12:55:41",
+        "date_gmt": "2023-02-26T17:55:41",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=264"
+        },
+        "modified": "2023-02-26T12:55:41",
+        "modified_gmt": "2023-02-26T17:55:41",
+        "slug": "midterm",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/midterm/",
+        "title": {
+            "rendered": "Midterm"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-buttons is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://docs.google.com/presentation/d/1raoPU3NGKldxtVBd55y65YZO_SvFjWjMW4b2clVK1O4/edit?usp=sharing\">Google Slides PPT</a></div>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 2157,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/264"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=264"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/264/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 265,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/264/revisions/265"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=264"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 204,
+        "date": "2023-02-12T13:50:13",
+        "date_gmt": "2023-02-12T18:50:13",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523groupg/?page_id=204"
+        },
+        "modified": "2023-02-24T19:23:33",
+        "modified_gmt": "2023-02-25T00:23:33",
+        "slug": "design-document",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523groupg/design-document/",
+        "title": {
+            "rendered": "Platform Selection"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Client requirements for the platform selection: None.</strong></p>\n\n\n\n<p><mark class=\"has-inline-color has-green-color\">*The platforms we chose are highlighted in the following table.</mark></p>\n\n\n\n<figure class=\"wp-block-table is-style-regular has-small-font-size\"><table class=\"has-fixed-layout\"><thead><tr><th class=\"has-text-align-center\" data-align=\"center\">Technologies</th><th class=\"has-text-align-left\" data-align=\"left\">Pros</th><th class=\"has-text-align-left\" data-align=\"left\">Cons</th></tr></thead><tbody><tr><td class=\"has-text-align-center\" data-align=\"center\">MongoDB</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Supports many programming languages (Java, Node.js, Python)<br>&#8211; Has good support for VS Code<br>&#8211; Cloud database that supports AWS and Google Cloud Platform<br>&#8211; Well documented</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Group members are more experienced in relational databases<br>&#8211; Free version storage is limited</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">MySQL</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Group members have relational database experience<br>&#8211; Well-documented website and Node.js module<br>&#8211; Offers cloud service with AWS and Oracle Cloud Infrastructure (OCI)</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Complexity establishing a cloud database connection<br>&#8211; Tables may end up storing duplicate data</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">Docker</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Containers are the go-to method for microservices.<br>&#8211; Will allow isolated application services such as authentication and model creation.<br>&#8211; Will allow services to operate consistently and more efficiently.</td><td class=\"has-text-align-left\" data-align=\"left\">Containers management, as well as service orchestration, can be difficult to implement.<br></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">Kubernetes</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; It delivers application load balancing and monitoring.<br>&#8211; Provides the ability to build, run and scale containerized applications.<br>&#8211; Adaptable, extensible, and cost-effective at the time of computing resources. </td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Steep learning curve.<br>&#8211; Might delay developing process as it requires more planning ahead of time.</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">Typescript over Javascript</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Typescript provides strict and structural typing that will make code management easier.<br>&#8211; Will allow us to define type annotations and avoid bugs when writing code. (Type inference)<br>&#8211; Will ensure our Javascript-generated code is correct and free of type bugs. <br>&#8211; Increased team performance since defined data structures and type annotations make it easier to understand code implementation.</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Working with other libraries and tools, such as MongoDB, can be a challenging typing system.<br></td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">Python</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; simple syntax<br>&#8211; lots of available packages online<br>&#8211; imperative and functional programming<br>&#8211; the machine learning part of the project is completed by python<br>so using python can have better consistency</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; not quite efficient</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">C++</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; more efficient on running time and memory</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; complicate syntax<br>&#8211; not lots of available packages online</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">GCP</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; lower price<br>&#8211; $300 credits for free trial<br>&#8211; highly integrated with Google-owned and other open-source projects <br>&#8211; TPU and Vertex AI available on GCP<br>&#8211; better for ML</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; not as popular as AWS</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">AWS</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; more popular over GCP<br>&#8211; 1-year free trial<br>&#8211; good integration with other amazon-owned services, API</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; higher price<br>&#8211; not as friendly to ML as GCP </td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">Relational Database</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; easily structured into categories<br>&#8211; consistent in input, meaning<br>&#8211; easy to navigate<br>&#8211; defined between data points</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; higher requirement for hardware<br>&#8211; dynamic changes affect all the tables<br>&#8211; Up-front schema definition</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">Non-relational Database</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; not confined to a structured group.<br>&#8211; perform functions for greater flexibility<br>&#8211; dynamic changes<br>&#8211; variant inputs</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Low reliability<br>&#8211; Manual query language<br>&#8211; hard to verify data integrity and consistency</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">React JS</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Rich Javascript Library.<br>&#8211; Easy to test, and developer contest and debug codes with the native tools help.<br>&#8211; Less coding and more functionality for dynamic applications.<br>&#8211; Run on server, and virtual DOM will be rendering to browser as a regular web page.<br></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Only cover VI layers<br>&#8211; React JS update so fast, so there is no up on time and proper documentation sometimes.<br>&#8211; Beside Javascript, The language used also include JSX. </td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">Node JS</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; People always use Node JS for building backend service, such as APIs like Web App.<br>&#8211; Easy for javascript programmers, because.<br>&#8211; It can handles requests and authentication from browser, make database calls.<br></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Reduces performance when handling computing tasks.<br>&#8211; the developers are forced to continually change the access code to match the compatibility with the frequent changes of Node.js API.</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\">Next JS</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; React users can handle Next JS easily.<br>&#8211; Popular than React JS and Node JS these days.<br>&#8211; Next.js was actually created to fill in some of the gaps left by React.&nbsp;<br>&#8211; reduces data security problems.<br>&#8211; The built-in fast refresh feature and CSS support.<br>&#8211; Next.js allows page constructors to be grouped as components and reused.&nbsp;</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Next.js is not very flexible when it comes to routing.&nbsp;</td></tr><tr><td class=\"has-text-align-center\" data-align=\"center\"><mark class=\"has-inline-color has-green-color\">Github</mark></td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Easy to remotely accessed by any authorized person.<br>&#8211; Built-in control and task management tools.<br>&#8211; Good for group cooperation and backup.<br>&#8211; Git repository hosting online.</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Because it is easy to access, there might be security/ intellectual property issue.<br>&#8211; Some features have to pay.</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-image alignwide size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"573\" src=\"https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-1024x573.png\" alt=\"\" class=\"wp-image-254\" srcset=\"https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-1024x573.png 1024w, https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-300x168.png 300w, https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-768x430.png 768w, https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-1536x860.png 1536w, https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-2048x1147.png 2048w, https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-1040x582.png 1040w, https://tarheels.live/comp523groupg/wp-content/uploads/sites/4075/2023/02/Screenshot-2023-02-24-at-12.52.57-PM-640x358.png 640w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Client requirements for the platform selection: None. *The platforms we chose are highlighted in the following table. Technologies Pros Cons&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 2157,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/204"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=204"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 24,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/204/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 261,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/204/revisions/261"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=204"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 153,
         "date": "2023-02-05T21:10:50",
         "date_gmt": "2023-02-06T02:10:50",
         "guid": {
             "rendered": "https://tarheels.live/comp523groupg/?page_id=153"
         },
-        "modified": "2023-02-05T21:24:28",
-        "modified_gmt": "2023-02-06T02:24:28",
+        "modified": "2023-02-12T13:35:08",
+        "modified_gmt": "2023-02-12T18:35:08",
         "slug": "ethics-1",
         "status": "publish",
         "type": "page",
@@ -16,11 +808,11 @@
             "rendered": "Ethics 1"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<h4 class=\"wp-block-heading\"><strong>Therac-25</strong> &#8211; <a href=\"https://en.wikipedia.org/wiki/Therac-25\">Source</a></h4>\n\n\n\n<p>In 1982 Atomic Energy of Canada Limited (AECL) created a computer-controlled radiation therapy machine called the Therac-25. The Therac-25 made use of concurrent programming to compute the radiation doses for its patients. However, there were race conditions that existed within the code that sometimes caused patients to receive doses up to hundreds of times greater than normal. These concurrent programming errors would result in death or serious injury, with at least six known accidents occurring between 1985 and 1987.</p>\n\n\n\n<p>Software which seriously injures or even kills its users is clearly unethical, but this issue stems from the lack of proper unit tests for the software. Software that physically interacts with humans should be thoroughly tested, especially if failure could lead to the death of a user. This problem lies mostly with the software engineers involved for overestimating the robustness of their code, or with the project manager for allowing the software to be used on people without thorough testing. Besides injuring its users, the Therac-25 software is also unethical because it diminished the trust people have for computer-controlled machines.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Biased Face AI &#8211; </strong> <a href=\"https://www.fastcompany.com/90354348/alexandria-ocasio-cortez-congress-face-recognition-hearing-ai-bias\">Source</a></h4>\n\n\n\n<p>Facial recognition systems trained and tuned to identify white males might return false positives or misidentify persons of color. According to a hearing at the House Oversight and Reform Committee, Buolamwini from MIT said AI face recognition algorithms were only mainly effective on white men. Buolamwini’s research at MIT also showed that Amazon’s face software Rekognition has particular difficulty identifying women and people of color. This could result in someone being unfairly labeled a criminal for life. </p>\n\n\n\n<p>There are many possible causes of biased face recognition. One possibility is that data with biased labels were used in training. Another possible reason is that the majority of the algorithm developers are white men. As AI plays a more and more important part in decision making, such bias can increase the inequality of gender and race. The social and economical disadvantages these inequalities bring will be used to train the AI and let the AI become increasingly biased. It is a vicious cycle. So, it is important to put the AI algorithms as well as companies who develop AI under regulation to ensure the AI becomes more neutral. It is also important to let the AI developers have more diverse backgrounds.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h4 class=\"wp-block-heading\"><strong>Data Misuse &#8211; </strong><a href=\"https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal\">Source</a></h4>\n\n\n\n<p>In 2018, Christopher Wylie revealed that his former company UK political consulting firm Cambridge Analytica acquired and used personal data from Facebook users. The data was originally collected for academic research. Cambridge Analytica misused up to 87 million facebook profiles. The data misuse and privacy issues triggered a series of online movements, such as the #DeleteFacebook trend on twitter. Facebook CEO Mark Zuckerberg apologized for the situation on CNN and decided to shift the company’s initial focus on data portability to locking down data. </p>\n\n\n\n<p>Data misuse is defined as using data in ways it was not intended for. Many technology companies are also accused of data misuse, such as Twitter and Google. Data misuse violates users’ privacy, which would cause legal issues, heavy fines, and a loss of customer trust in the long term. In order to prevent data misuse, the company should build clear data access requests, set up security policies, and implement identity and access management.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Therac-25 &#8211; Source In 1982 Atomic Energy of Canada Limited (AECL) created a computer-controlled radiation therapy machine called the Therac-25&#8230;.</p>\n",
             "protected": false
         },
         "author": 2157,
@@ -61,793 +853,19 @@
             ],
             "version-history": [
                 {
-                    "count": 9,
+                    "count": 11,
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/153/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 165,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/153/revisions/165"
+                    "id": 199,
+                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/153/revisions/199"
                 }
             ],
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=153"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 104,
-        "date": "2023-01-30T13:30:09",
-        "date_gmt": "2023-01-30T18:30:09",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=104"
-        },
-        "modified": "2023-02-05T21:09:37",
-        "modified_gmt": "2023-02-06T02:09:37",
-        "slug": "specifications",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/specifications/",
-        "title": {
-            "rendered": "Specifications"
-        },
-        "content": {
-            "rendered": "\n<p class=\"has-medium-font-size\"><strong>User Stories</strong></p>\n\n\n\n<p style=\"font-size:17px\">Authenticated User Front-End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As a user, I want to create an account by using my own personal email.</li>\n\n\n\n<li>As a user, I want to log in and log out of my account seemlessly. </li>\n\n\n\n<li>As a user, I want to be able to reset my password so that I am not at risk of losing my data in case I forget my password.</li>\n\n\n\n<li>As a user, I want to be able to change the email linked to my account as well as my username. </li>\n\n\n\n<li>As a user, I want a simple way to view all aspects of my project without requiring numerous clicks.</li>\n\n\n\n<li>As a user, I want to be able to delete projects I no longer need so that I can easily access relevant projects.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Authenticated User Back-End</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an authenticated user, I want to upload the video and get the images, scenes and models from the portal finally.</li>\n\n\n\n<li>As an authenticated user, I want the portal to automatically process the 3D model capture on the server without any additional operations from myself to reduce the chance of errors.</li>\n\n\n\n<li>As an authenticated user, I want to get the model as soon as possible so that I can begin using it for other applications.</li>\n\n\n\n<li>As an authenticated user, I want to be able to see the status of my projects while they are being processed by the server.</li>\n\n\n\n<li>As an authenticated user, I want to be able to download the model to my local machine.</li>\n</ol>\n\n\n\n<p style=\"font-size:17px\">Administrator</p>\n\n\n\n<ol style=\"font-size:15px\">\n<li>As an administrator, I want to be able to see and download all the videos, images, scenes, and models on the server from the portal.</li>\n\n\n\n<li>As an administrator, I want to be able to change the email, username and password once users have some login issues and are unable to reset those things by themselves.</li>\n\n\n\n<li>As an administrator, I want to be able to delete any videos, images, scenes, models and deactivate any account once the user violates the terms of use.</li>\n\n\n\n<li>As an administrator, I want to use the least resources possible to process and store users&#8217; project data.</li>\n</ol>\n\n\n\n<p class=\"has-medium-font-size\"><strong>Requirements</strong></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>User Stories Authenticated User Front-End Authenticated User Back-End Administrator Requirements</p>\n",
-            "protected": false
-        },
-        "author": 2157,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/2157"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=104"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 9,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 152,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/104/revisions/152"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=104"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 65,
-        "date": "2023-01-16T19:47:04",
-        "date_gmt": "2023-01-17T00:47:04",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=65"
-        },
-        "modified": "2023-01-23T12:09:30",
-        "modified_gmt": "2023-01-23T17:09:30",
-        "slug": "rules",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/rules/",
-        "title": {
-            "rendered": "Rules"
-        },
-        "content": {
-            "rendered": "\n<ol>\n<li>Be nice to one another and maintain a healthy team environment.</li>\n\n\n\n<li>Communication will be done primarily through GroupMe.</li>\n\n\n\n<li>If someone is unable to attend a team/coach/client meeting they must notify the team ASAP.</li>\n\n\n\n<li>Meetings will be done once a week for approximately 30 minutes.</li>\n\n\n\n<li>Code will be managed through GitHub.\n<ul>\n<li>Pull requests will be used to merge code and must be reviewed before merging</li>\n</ul>\n</li>\n</ol>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13687,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/65"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/13687"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=65"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/65/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 98,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/65/revisions/98"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=65"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 58,
-        "date": "2023-01-16T19:46:32",
-        "date_gmt": "2023-01-17T00:46:32",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=58"
-        },
-        "modified": "2023-02-05T20:51:17",
-        "modified_gmt": "2023-02-06T01:51:17",
-        "slug": "client",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/client/",
-        "title": {
-            "rendered": "Client"
-        },
-        "content": {
-            "rendered": "\n<p class=\"has-black-color has-text-color\"><strong>Bhargav Bompalli</strong> &#8211; Blue Sky Innovations &#8211; <a href=\"mailto:bompallb@email.unc.edu\">bompallb@email.unc.edu</a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Bhargav Bompalli &#8211; Blue Sky Innovations &#8211; bompallb@email.unc.edu</p>\n",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=58"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 2,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 149,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/58/revisions/149"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=58"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 57,
-        "date": "2023-01-16T19:46:32",
-        "date_gmt": "2023-01-17T00:46:32",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=57"
-        },
-        "modified": "2023-01-16T19:46:32",
-        "modified_gmt": "2023-01-17T00:46:32",
-        "slug": "contact",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/contact/",
-        "title": {
-            "rendered": "Contact"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/57"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=57"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/57/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 61,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/57/revisions/61"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=57"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 39,
-        "date": "2023-01-16T19:27:32",
-        "date_gmt": "2023-01-17T00:27:32",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=39"
-        },
-        "modified": "2023-02-03T16:51:09",
-        "modified_gmt": "2023-02-03T21:51:09",
-        "slug": "home",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/",
-        "title": {
-            "rendered": "Project Description"
-        },
-        "content": {
-            "rendered": "\n<p style=\"font-size:14px\">&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation Lab.&#8221; &#8211; Bhargav Bompalli, Blue Sky Innovations</p>\n\n\n\n<p>Volumetric Capture Processor, or VCP, creates 3D models of humans using Artificial Intelligence and Statistical Models. These 3D models are built from video and data sources and will be used for virtual, augmented reality, and Metaverse applications. </p>\n\n\n\n<p>Currently, these models are run one step at a time and require human intervention to complete the finalized 3D product. Our team&#8217;s goal is to continue developing the interface for automating this process, which will reduce the need for human intervention and the chance of errors. The automation of the entire application will increase user accessibility as well as the ability to deploy the service online. </p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>&#8220;This project will build the public-facing interface to a computer vision volumetric capture project being built by the Reese Innovation&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=39"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 7,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 122,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/39/revisions/122"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=39"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 25,
-        "date": "2023-01-16T19:25:57",
-        "date_gmt": "2023-01-17T00:25:57",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=25"
-        },
-        "modified": "2023-01-16T19:25:57",
-        "modified_gmt": "2023-01-17T00:25:57",
-        "slug": "resources",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/resources/",
-        "title": {
-            "rendered": "Resources"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/25"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=25"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/25/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 32,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/25/revisions/32"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=25"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 23,
-        "date": "2023-01-16T19:25:57",
-        "date_gmt": "2023-01-17T00:25:57",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=23"
-        },
-        "modified": "2023-02-03T17:13:10",
-        "modified_gmt": "2023-02-03T22:13:10",
-        "slug": "journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/journal/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<ul>\n<li><strong>Feb 3, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n\n\n\n\n\n\n\n\n<ul>\n<li>Updated the following items on the project website.\n<ol>\n<li>Team Member Roles</li>\n\n\n\n<li>Project Name and Description</li>\n\n\n\n<li>User Stories Deliverable</li>\n\n\n\n<li>Journal</li>\n</ol>\n</li>\n\n\n\n<li>Set Up Trello Account and Team Workspace</li>\n</ul>\n\n\n\n<ul>\n<li>Updated the following items on the project website.\n<ol>\n<li>Team Member Roles</li>\n\n\n\n<li>Project Name and Description</li>\n\n\n\n<li>User Stories Deliverable</li>\n\n\n\n<li>Journal</li>\n</ol>\n</li>\n\n\n\n<li>Set Up Trello Account and Team Workspace</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Review resources provided by the client.</li>\n\n\n\n<li>Inspect the code provided by the client and take notes to discuss in the next meeting.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Feb 1, 2023 &#8211; <mark class=\"has-inline-color has-blue-color\">Client Meeting</mark></strong>\n<ul>\n<li>The client walked us through an overview of the workflow pipeline for the project and how it will be used.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 30, 2023 &#8211; <mark style=\"color:#268b66\" class=\"has-inline-color\">Coach Meeting</mark></strong>\n<ul>\n<li>Discussed plan for the client meeting and first deliverable.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 24, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Created a google doc with questions to ask clients during meetings.</li>\n\n\n\n<li>Confirmed availability for the client meeting.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Meet with the client.</li>\n\n\n\n<li>Update the website with project info.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 23, 2023 &#8211; <mark style=\"color:#268b66\" class=\"has-inline-color\">Coach Meeting</mark></strong>\n<ul>\n<li>TO-DO\n<ul>\n<li>Look into Trello and git hooks for the project.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 20, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Made projects’ preference list.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Get the assigned project.</li>\n\n\n\n<li>Meet with Client.</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li><strong>Jan 16, 2023 &#8211; <mark class=\"has-inline-color has-red-color\">Team Meeting</mark></strong>\n<ul>\n<li>Agenda\n<ul>\n<li>Set up the website and edited content.</li>\n\n\n\n<li>Scheduled weekly team meetings.</li>\n</ul>\n</li>\n\n\n\n<li>TO-DO\n<ul>\n<li>Update the website.</li>\n\n\n\n<li>Decide on team project preference.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=23"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 15,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 135,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/23/revisions/135"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=23"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 22,
-        "date": "2023-01-16T19:25:57",
-        "date_gmt": "2023-01-17T00:25:57",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=22"
-        },
-        "modified": "2023-01-16T19:25:57",
-        "modified_gmt": "2023-01-17T00:25:57",
-        "slug": "deliverables",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/deliverables/",
-        "title": {
-            "rendered": "Deliverables"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=22"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 29,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/22/revisions/29"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=22"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 21,
-        "date": "2023-01-16T19:25:57",
-        "date_gmt": "2023-01-17T00:25:57",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523groupg/?page_id=21"
-        },
-        "modified": "2023-01-23T12:03:38",
-        "modified_gmt": "2023-01-23T17:03:38",
-        "slug": "meetings",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523groupg/meetings/",
-        "title": {
-            "rendered": "Meetings"
-        },
-        "content": {
-            "rendered": "\n<div class=\"is-layout-constrained wp-block-group\"><div class=\"wp-block-group__inner-container\">\n<p><strong>TEAM MEETINGS:</strong></p>\n\n\n\n<p>Every Monday or Wednesday from 10:00 A.M. &#8211; 10:30 A.M. </p>\n\n\n\n<p><strong>COACH MEETINGS:</strong></p>\n\n\n\n<p>Every Monday from 5:30 P.M. &#8211; 6:00 P.M.</p>\n\n\n\n<p><strong>CLIENT MEETINGS: TBD</strong></p>\n</div></div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>TEAM MEETINGS: Every Monday or Wednesday from 10:00 A.M. &#8211; 10:30 A.M. COACH MEETINGS: Every Monday from 5:30 P.M. &#8211;&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 3104,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/21"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/users/3104"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/comments?post=21"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 9,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/21/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 96,
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/pages/21/revisions/96"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523groupg/wp-json/wp/v2/media?parent=21"
                 }
             ],
             "curies": [
