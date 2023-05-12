@@ -1,5 +1,693 @@
 [
     {
+        "id": 223,
+        "date": "2023-04-16T12:05:56",
+        "date_gmt": "2023-04-16T16:05:56",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=223"
+        },
+        "modified": "2023-05-01T20:52:00",
+        "modified_gmt": "2023-05-02T00:52:00",
+        "slug": "d5-hand-off-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/d5-hand-off-plan/",
+        "title": {
+            "rendered": "D5 Hand-Off Plan"
+        },
+        "content": {
+            "rendered": "\n<h1 class=\"wp-block-heading\"><strong>Client Hand-off Document</strong></h1>\n\n\n\n<p>Project: Edible Campus (m)app&nbsp;</p>\n\n\n\n<p>Client: Kyle Parker</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Introduction</strong></h2>\n\n\n\n<p>This document outlines the steps required to set up, launch, and maintain the Edible Campus (m)app web application we have developed for you. The application is designed to display the locations of edible plants on the UNC-Chapel Hill campus. Users can interact with the map, add comments using Google reCAPTCHA for security, and find plant information.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Technical Overview</strong></h2>\n\n\n\n<p>The Edible Campus (m)app is built using Node.js, HTML, CSS, and JavaScript. It relies on the Leaflet.js library for map rendering, the Leaflet Routing Machine for navigation, and the ExcelJS library for handling Excel files. The application also uses Google reCAPTCHA to secure the comment submission system and the Mapbox API for map data.</p>\n\n\n\n<p>The application source code is hosted on GitHub at<a href=\"https://github.com/WeiKangda/COMP523EdibleCampus\"> https://github.com/WeiKangda/COMP523EdibleCampus</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Set Up and Deployment</strong></h2>\n\n\n\n<p>To set up and deploy the Edible Campus (m)app, follow these steps:</p>\n\n\n\n<p>1. Download the project repository from GitHub:<a href=\"https://github.com/WeiKangda/COMP523EdibleCampus\"> https://github.com/WeiKangda/COMP523EdibleCampus</a></p>\n\n\n\n<p>Run the following command:</p>\n\n\n\n<p>git clone https://github.com/WeiKangda/COMP523EdibleCampus.git</p>\n\n\n\n<p>2. Install Node.js on your local machine, if you haven&#8217;t already, by following the instructions at<a href=\"https://nodejs.org/en/download/\"> https://nodejs.org/en/download/</a></p>\n\n\n\n<p>3. Open a terminal or command prompt, navigate to the project directory (COMP523EdibleCampus), and run the following command to install the required dependencies:</p>\n\n\n\n<p>npm install express xlsx multer express-rate-limit axios</p>\n\n\n\n<p>4. Run the application with the following command:</p>\n\n\n\n<p>node app.js</p>\n\n\n\n<p>5. Open your browser and navigate to<a href=\"http://localhost:3000/\"> http://localhost:3000</a>.</p>\n\n\n\n<p>6. Choose a web hosting platform that supports Node.js applications, such as Heroku, AWS, or DigitalOcean. Create an account on the chosen platform and follow their documentation to set up a new project.</p>\n\n\n\n<p>7. Deploy the application to the hosting platform by following their specific deployment instructions. This typically involves linking your hosting account to the GitHub repository or uploading the files directly through the platform&#8217;s user interface.</p>\n\n\n\n<p>Follow the instructions in the following documents to deploy to Carolina Cloud:</p>\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1XMmFrcf3Ee5YmCSd8RQIpVsgkJhG7IFHZEoS0syAM-U/edit\">https://docs.google.com/document/d/1XMmFrcf3Ee5YmCSd8RQIpVsgkJhG7IFHZEoS0syAM-U/edit</a></p>\n\n\n\n<p>8. Configure the domain name for your application if desired. This step is optional but allows you to use a custom domain name for your application instead of the default domain provided by the hosting platform.</p>\n\n\n\n<p><strong>Content Modification</strong></p>\n\n\n\n<p>To modify the content displayed for each garden, navigate to the ./COMP523EdibleCampus/gardenContent directory and modify the Excel sheet called gardenContent.xlsx. Simply modify the corresponding sheet of the gardens to reflect changes.</p>\n\n\n\n<p>To add more features of the plant, add the new features in the Excel sheet first. However, in order to show the new features, ./COMP523/COMP523EdibleCampus/public/js/displayGardenContent.js also needs to be modified. We are planning to meet with our client to talk about all the plant features he wants to have and add those features for him. We are also planning to show him how to add new plants and features during our meeting. We will also record a video for our client’s future reference.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Maintenance and Costs</strong></h2>\n\n\n\n<p>As a Node.js application, the Edible Campus (m)app may require occasional updates to its dependencies and security patches. To update the application, modify the relevant files in the project directory and redeploy the application.</p>\n\n\n\n<p>You may also need to update the garden information and images periodically. To do this, update the relevant data in the Excel file and redeploy the application.</p>\n\n\n\n<p>The costs of running the application will depend on the hosting platform you choose. Review the pricing details for your chosen hosting platform to understand the costs involved, as they may vary based on factors such as bandwidth, storage, and computing resources.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Support</strong></h2>\n\n\n\n<p>If you encounter any issues or need assistance with the Edible Campus (m)app, please contact our support team at huhu8@email.unc.edu. We will be happy to help you resolve any issues and ensure the application runs smoothly.</p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Additional Resources</strong></h2>\n\n\n\n<p>Google reCAPTCHA Documentation:<a href=\"https://docs.google.com/document/d/1KQyQVfPCrYbR3sDGgltKUBp_-swKEJ_v8UtO2prn-C4/edit?usp=sharing\"> https://docs.google.com/document/d/1KQyQVfPCrYbR3sDGgltKUBp_-swKEJ_v8UtO2prn-C4/edit?usp=sharing</a></p>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Reference for Postimage</strong></h2>\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1c7RYiXriPJuYCGJTkClAGQrARLwYR7JMl0Q6SAnYRYs/edit?usp=sharing\">https://docs.google.com/document/d/1c7RYiXriPJuYCGJTkClAGQrARLwYR7JMl0Q6SAnYRYs/edit?usp=sharing</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Client Hand-off Document Project: Edible Campus (m)app&nbsp; Client: Kyle Parker Introduction This document outlines the steps required to set up,&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/223"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=223"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/223/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 249,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/223/revisions/249"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=223"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 212,
+        "date": "2023-04-07T15:22:21",
+        "date_gmt": "2023-04-07T19:22:21",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=212"
+        },
+        "modified": "2023-04-07T15:23:02",
+        "modified_gmt": "2023-04-07T19:23:02",
+        "slug": "d4-documentation-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/d4-documentation-plan/",
+        "title": {
+            "rendered": "D4 Documentation Plan"
+        },
+        "content": {
+            "rendered": "\n<p><strong>User Documentation</strong></p>\n\n\n\n<p>Who are our users?</p>\n\n\n\n<ul>\n<li>Users intended for the user documentation is for both the Edible Campus administrators and the public. The public includes any UNC staff, student, or visitor that is interested in how to utilize the website. There is slightly more documentation for the edible campus administrators as it tells them how to modify the data of the plants.&nbsp;&nbsp;</li>\n</ul>\n\n\n\n<p>User Types</p>\n\n\n\n<ul>\n<li>Public</li>\n\n\n\n<li>Edible Campus administrators</li>\n</ul>\n\n\n\n<p><strong>Public Documentation</strong></p>\n\n\n\n<ul>\n<li>manuals\n<ul>\n<li>We will be writing a user manual on how to navigate the website.</li>\n\n\n\n<li>This manual will include how to go through the website starting at the home page.</li>\n\n\n\n<li>The user manual will be a more specific FAQ.</li>\n\n\n\n<li>This manual will be included in our website.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>Edible Campus Coordinator Documentation</strong></p>\n\n\n\n<ul>\n<li>manuals\n<ul>\n<li>Same as above</li>\n</ul>\n</li>\n\n\n\n<li>help screens and help subsystems\n<ul>\n<li>There will be a help screen and help subsystem on the webpage. The webpage is only accessible by the edible campus director. This help page will give instructions on how to change the data for both the plant beds, plants, and the information of each plant.&nbsp;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>Admin Documentation</strong></p>\n\n\n\n<p>Who is our admin?</p>\n\n\n\n<ul>\n<li>The admin documentation is meant for people in IT working under Botanical Gardens or Edible Campus UNC. We will still be sending our documentation to Kyle Parker, the edible campus director, but in the future there will be people working under the IT department who will be maintaining, changing, and running the app.&nbsp;</li>\n</ul>\n\n\n\n<p>Documentation</p>\n\n\n\n<ul>\n<li>Admin manual\n<ul>\n<li>We will include an admin manual&nbsp;</li>\n\n\n\n<li>This will include the complete description of the project.&nbsp;</li>\n\n\n\n<li>This will include\n<ul>\n<li>Introduction to Edible Campus (M)app\n<ul>\n<li>Installations required prior to running the website</li>\n\n\n\n<li>Location/accessing the project</li>\n</ul>\n</li>\n\n\n\n<li>Code Maintenance documentation\n<ul>\n<li>Explaining how to run, debug, and test certain parts of the website</li>\n\n\n\n<li>Explanation on modifying and adding to the website</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n\n\n\n<li>RWADME files\n<ul>\n<li>We will be sending the GitHub repository of the website to the administrators. The repository will include README files for setting up the website.</li>\n\n\n\n<li>This will also contain a description of each file, how to run each portion of the website, and how to test for each file.</li>\n</ul>\n</li>\n\n\n\n<li>Code Comments\n<ul>\n<li>Code comments will be included throughout the project with the intention of giving a description of what each method or class is performing.</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>User Documentation Who are our users? User Types Public Documentation Edible Campus Coordinator Documentation Admin Documentation Who is our admin?&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/212"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=212"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/212/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 216,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/212/revisions/216"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=212"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 204,
+        "date": "2023-04-03T14:36:51",
+        "date_gmt": "2023-04-03T18:36:51",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=204"
+        },
+        "modified": "2023-04-03T14:38:38",
+        "modified_gmt": "2023-04-03T18:38:38",
+        "slug": "d3-test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/d3-test-plan/",
+        "title": {
+            "rendered": "D3 Test Plan"
+        },
+        "content": {
+            "rendered": "\n<p>What would we do if we had enough time?</p>\n\n\n\n<p>Unit Testing</p>\n\n\n\n<ul>\n<li>We would test for each function for both the front and back end of our project. These tests would include both user and edge test cases testing for individual classes and functions.&nbsp;</li>\n\n\n\n<li>For our front end, testing would include testing the buttons and polygons for each garden.&nbsp;</li>\n\n\n\n<li>For our back end, a use case would be testing for a specific item in a JSON file for a plant bed. An edge case would be if unrecognizable data is entered into the plant data.&nbsp;&nbsp;&nbsp;</li>\n</ul>\n\n\n\n<p>Integration, widget, and system testing (with UI)</p>\n\n\n\n<ul>\n<li>Our integration, widget, and system testing would test the functionality of the website collectively with the data themselves.&nbsp;</li>\n\n\n\n<li>For our front end, a use case test would be seeing plant information after clicking on a garden showing on the map.</li>\n\n\n\n<li>System testing for the backend would include testing whether the entire JSON page is being pulled and utilized through our user actions. This can include when the admin enters different data for the plants.</li>\n\n\n\n<li>Widget testing would be one of the main ways we test our code. Multiple interactive parts that cover UI are created through widgets. Each of these parts would have to be tested in order to test for functionality.&nbsp;</li>\n</ul>\n\n\n\n<p>Descriptions of Tools Used</p>\n\n\n\n<ul>\n<li>We will be testing using the Robot framework. All of these tests would be tested through visual studio code.</li>\n\n\n\n<li>For unit testing we would be using the Robot framework.</li>\n\n\n\n<li>For integration we would use the integration package in visual studio code</li>\n</ul>\n\n\n\n<p>Descriptions of Types of End Users</p>\n\n\n\n<ul>\n<li>Our primary users will be UNC students, teachers, and visitors who are on UNC campus for long durations of time. They would be able to open the website and click on each garden. They are then able to find the description of each plant in each garden.&nbsp;</li>\n\n\n\n<li>Our secondary user would be Kyle Parker or anyone who would be in charge of changing the plant data for different seasons. They would be able to access the data of our project and be able to change the plants and their data in each garden.&nbsp;</li>\n</ul>\n\n\n\n<p>Performance, Reliability, etc. Testing</p>\n\n\n\n<ul>\n<li>We would gather groups of students, teachers, and UNC staff in testing the website. Half the groups would be laptop or desktop users and the other half would be mobile-device users. We would test the initial loading steps for the start of the website, clicking on each garden, and going through each plant information in each garden. We would also test to see if using different browsers and having different versions of the browser could cause some issues.</li>\n\n\n\n<li>For the admin side, we would get the edible campus director Kyle Parker to enter into the admin page. We would then ask if he could first change the data of a plant. We would then ask if he could change the plant itself. These changes after being saved should show up on the website..</li>\n</ul>\n\n\n\n<p>Acceptance Testing</p>\n\n\n\n<ul>\n<li>We would meet up with edible campus director Kyle Parker and see if there were parts of our website that did not fit his initial requirements of the app.</li>\n</ul>\n\n\n\n<p>What will we actually do?</p>\n\n\n\n<p>Unit testing</p>\n\n\n\n<ul>\n<li>Testing each buttons and drop down menu on our website</li>\n\n\n\n<li>JSON validation functions to make sure correct values of data are being sent and received.</li>\n</ul>\n\n\n\n<p>Integration and system testing (with UI)&nbsp;</p>\n\n\n\n<ul>\n<li>Manual tests from the front end where we will complete the surveys and make sure that all UI are functioning as intended.</li>\n</ul>\n\n\n\n<p>Descriptions of tools used&nbsp;</p>\n\n\n\n<ul>\n<li>We will use the Robot framework for unit testing.</li>\n</ul>\n\n\n\n<p>Acceptance testing</p>\n\n\n\n<ul>\n<li>Send the website to our client, Kyle Parker, for any UI feedback or any other feedback he would like to give.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>What would we do if we had enough time? Unit Testing Integration, widget, and system testing (with UI) Descriptions of&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/204"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=204"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/204/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 208,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/204/revisions/208"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=204"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 191,
+        "date": "2023-03-27T12:07:26",
+        "date_gmt": "2023-03-27T16:07:26",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=191"
+        },
+        "modified": "2023-03-27T13:04:28",
+        "modified_gmt": "2023-03-27T17:04:28",
+        "slug": "apple-reflections",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/apple-reflections/",
+        "title": {
+            "rendered": "APPLE Reflections"
+        },
+        "content": {
+            "rendered": "\n<p>Our client, Kyle Parker, is a staff member for UNC’s Botanical Garden, the organization that is responsible for the Edible Campus Program at UNC. The Edible Campus Program runs several gardens across the UNC&#8217;s campus. Our client wants to build a website that hosts garden information, mainly where the beds are located and what plants are currently growing in those beds.</p>\n\n\n\n<p>&nbsp;Our project, Edible Campus m(app), will have a lasting impact on the UNC community in several significant ways. By making it easier for students to locate and learn about edible gardens on campus, our application will help to foster a deeper appreciation and understanding of local agriculture. This increased awareness of the campus&#8217;s edible landscapes can spark an interest in the broader subject of sustainable food production, potentially inspiring students to seek further education on the topic or even engage in local agricultural initiatives. Promoting healthier, more sustainable eating habits is another crucial aspect of our project&#8217;s potential impact. By providing information about the nutritional benefits of the plants in the edible gardens, we encourage students to incorporate these locally-sourced foods into their diets. Consuming fresh, locally-grown produce has health benefits for individuals and contributes to a more sustainable food system by reducing the environmental footprint associated with transporting food over long distances.</p>\n\n\n\n<p>To achieve our goals of increased food awareness, education, and sustainability, we must reach out to the community to make the Edible Campus m(app) readily accessible. Therefore, we will build an interactable website that allows users to access garden information across various devices. With awareness in mind, our aim is to reach as many students as possible to further increase recognition and appreciation for UNC’s Edible Campus Gardens</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our client, Kyle Parker, is a staff member for UNC’s Botanical Garden, the organization that is responsible for the Edible&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/191"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=191"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/191/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 198,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/191/revisions/198"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=191"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 150,
+        "date": "2023-02-21T22:26:44",
+        "date_gmt": "2023-02-22T03:26:44",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=150"
+        },
+        "modified": "2023-02-21T22:27:41",
+        "modified_gmt": "2023-02-22T03:27:41",
+        "slug": "d2-design-document",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/d2-design-document/",
+        "title": {
+            "rendered": "D2 Design Document"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-edible-campus-m-app wp-block-embed-edible-campus-m-app\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"6xv81ow8sU\"><a href=\"https://tarheels.live/teamj/platform-selection/\">Platform Selection</a></blockquote><iframe class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" title=\"&#8220;Platform Selection&#8221; &#8212; edible campus (m)app\" src=\"https://tarheels.live/teamj/platform-selection/embed/#?secret=DESQSRfccg#?secret=6xv81ow8sU\" data-secret=\"6xv81ow8sU\" width=\"600\" height=\"338\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe>\n</div></figure>\n\n\n\n<figure class=\"wp-block-embed is-type-wp-embed is-provider-edible-campus-m-app wp-block-embed-edible-campus-m-app\"><div class=\"wp-block-embed__wrapper\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"nOdiXisSGk\"><a href=\"https://tarheels.live/teamj/architecture-diagram/\">Architecture Diagram</a></blockquote><iframe class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" title=\"&#8220;Architecture Diagram&#8221; &#8212; edible campus (m)app\" src=\"https://tarheels.live/teamj/architecture-diagram/embed/#?secret=Sa54sgnzm5#?secret=nOdiXisSGk\" data-secret=\"nOdiXisSGk\" width=\"600\" height=\"338\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe>\n</div></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13969,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/150"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13969"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=150"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/150/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 152,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/150/revisions/152"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=150"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 137,
+        "date": "2023-02-15T11:54:27",
+        "date_gmt": "2023-02-15T16:54:27",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=137"
+        },
+        "modified": "2023-02-27T09:46:32",
+        "modified_gmt": "2023-02-27T14:46:32",
+        "slug": "architecture-diagram",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/architecture-diagram/",
+        "title": {
+            "rendered": "Architecture Diagram"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"478\" src=\"https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-1024x478.png\" alt=\"\" class=\"wp-image-175\" srcset=\"https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-1024x478.png 1024w, https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-300x140.png 300w, https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-768x358.png 768w, https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-1536x717.png 1536w, https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-1040x485.png 1040w, https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1-640x299.png 640w, https://tarheels.live/teamj/wp-content/uploads/sites/4044/2023/02/Screen-Shot-2023-02-27-at-9.44.44-AM-1.png 1834w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/137"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=137"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/137/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 176,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/137/revisions/176"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=137"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 136,
+        "date": "2023-02-15T11:54:27",
+        "date_gmt": "2023-02-15T16:54:27",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=136"
+        },
+        "modified": "2023-02-23T11:15:01",
+        "modified_gmt": "2023-02-23T16:15:01",
+        "slug": "ethics-assignment",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/ethics-assignment/",
+        "title": {
+            "rendered": "Ethics Assignment"
+        },
+        "content": {
+            "rendered": "\n<p><strong>Example 1 Developing NLP model by languages with different weights</strong></p>\n\n\n\n<p>Using different languages with different linguistic and cultural weights to train language models like ChatGpt raises ethical challenges related to fairness and accuracy. Language models heavily rely on training data to learn and generate responses, and the quality and quantity of the data can significantly impact the model&#8217;s performance. Suppose the training data is biased or unrepresentative of the target audience. In that case, it can lead to long-term systemic biases or failure to capture the nuances of different languages and cultures accurately. For instance, a model trained mainly on data from English-speaking countries may require assistance to produce accurate responses when given inputs in other languages. Additionally, suppose the data used to train the model contains sensitive or confidential information. In that case, concerns about data ownership and usage can arise, which can have severe ethical implications by violating privacy or data protection regulations.<br>Therefore, it is crucial to ensure that language models are trained with diverse and representative datasets that accurately reflect the linguistic and cultural diversity of the target audience. This will enable the model to produce appropriate and culturally sensitive responses and prevent the long-term existence of systemic biases. Additionally, it is important to protect the privacy and prevent bias by obtaining appropriate consent and using anonymous data wherever possible. This will ensure that language models are effective and ethical communication tools that do not unfairly disadvantage certain communities.</p>\n\n\n\n<p><strong>Example 2 Bias and discrimination with Facial recognition technology</strong></p>\n\n\n\n<p>Facial recognition technology has been criticized for its potential bias and discrimination. Studies have shown that this technology has higher error rates for people of color and women, leading to concerns about racial and gender bias. This bias may be caused by several factors, including the quality of training data, the algorithms used, and the contexts in which the technology is used.<br>One reason for bias in facial recognition technology is the lack of diversity in the datasets used to train the algorithms. For instance, if the training data primarily consists of images of white individuals, the algorithm may not accurately recognize the facial features of people with different skin tones or facial structures. This may lead to misidentification, wrongful arrests, and other negative outcomes for people who are already marginalized in society.<br>The potential for bias and discrimination in facial recognition technology is a serious ethical concern as it perpetuates systemic inequalities and causes harm to individuals and communities. Therefore, ensuring that the technology&#8217;s development and use are fair, transparent, and responsible is crucial. This may involve increasing the diversity of training data, developing more accurate algorithms, and implementing regulations to prevent the technology&#8217;s misuse.</p>\n\n\n\n<p><strong>Example 3 Weak cyber security and personally identifiable information (PII) protection</strong></p>\n\n\n\n<p>Weak cybersecurity and personally identifiable information (PII) protection refer to computer systems and network vulnerabilities that may allow unauthorized individuals to access sensitive data. PII is any information that can be used to identify a specific individual, such as name, address, date of birth, social security number, email address, phone number, or financial information.<br>Weak cybersecurity can lead to data breaches, seriously affecting individuals and organizations. Cybercriminals can use stolen PII for identity theft, fraud, or other illegal activities, causing financial losses and damaging personal and professional reputations. Additionally, weak cybersecurity can result in losing or damaging valuable data, including trade secrets, intellectual property, and confidential information.<br>Protecting PII and maintaining strong cybersecurity measures is crucial for ensuring sensitive information&#8217;s privacy, security, and integrity. This involves implementing technical safeguards such as firewalls, encryption, access, controls, and establishing policies and procedures for data protection and incident response. It is equally important to provide employees with cybersecurity best practices training and to regularly assess and update security measures to stay ahead of constantly evolving threats.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Example 1 Developing NLP model by languages with different weights Using different languages with different linguistic and cultural weights to&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/136"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=136"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/136/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 163,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/136/revisions/163"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=136"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 133,
+        "date": "2023-02-15T11:51:51",
+        "date_gmt": "2023-02-15T16:51:51",
+        "guid": {
+            "rendered": "https://tarheels.live/teamj/?page_id=133"
+        },
+        "modified": "2023-02-15T12:38:15",
+        "modified_gmt": "2023-02-15T17:38:15",
+        "slug": "platform-selection",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/teamj/platform-selection/",
+        "title": {
+            "rendered": "Platform Selection"
+        },
+        "content": {
+            "rendered": "\n<ul>\n<li>Web development programming languages\n<ul>\n<li>Python (if needed)</li>\n\n\n\n<li>HTML</li>\n\n\n\n<li>CSS</li>\n\n\n\n<li>Javascript</li>\n</ul>\n</li>\n\n\n\n<li>Web development libraries\n<ul>\n<li>TBD</li>\n</ul>\n</li>\n\n\n\n<li>Integrated Development Environments (IDE)\n<ul>\n<li>Visual Studio Code</li>\n</ul>\n</li>\n\n\n\n<li>Backend\n<ul>\n<li>UNC CloudApps</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>Chosen platforms, technologies, etc.</p>\n\n\n\n<ul>\n<li>C++, HTML, CSS, Javascript, Dart\n<ul>\n<li>These 4 programming languages will serve as our primary language in coding primarily the front end portion of our project. It will code the layout, interface, map, and the locations of each garden.</li>\n</ul>\n</li>\n\n\n\n<li>Visual Studio Code\n<ul>\n<li>Visual Studio Code will serve as an IDE in running and editing the program during development.</li>\n</ul>\n</li>\n\n\n\n<li>GitHub\n<ul>\n<li>GitHub will serve as the primary way in sending and receiving changes in codes for both the front and backend code.</li>\n</ul>\n</li>\n\n\n\n<li>Leaflet\n<ul>\n<li>Leaflet is an open-source JavaScript library for mobile-friendly interactive maps. We will use Leaflet to embed Open Street Map to our website. Open Street Map is completely free, which is an advantage compare to Google Map.</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Chosen platforms, technologies, etc.</p>\n",
+            "protected": false
+        },
+        "author": 13598,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/133"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13598"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=133"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/133/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 144,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/133/revisions/144"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=133"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 102,
         "date": "2023-01-31T18:07:20",
         "date_gmt": "2023-01-31T23:07:20",
@@ -16,7 +704,7 @@
             "rendered": "D1 Specifications"
         },
         "content": {
-            "rendered": "\n<h2><em><mark class=\"has-inline-color has-blue-color\">User Stories:</mark></em></h2>\n\n\n\n<ul>\n<li>As a student, I want to see the locations of edible plants and may give some comments.</li>\n\n\n\n<li>As a student, I want to click locations to see what plants are available.</li>\n</ul>\n\n\n\n<ul>\n<li>As an administrator, I want to share my work in the edible gardens.</li>\n\n\n\n<li>As an administrator, I want to change the plant database seasonally. Since I am not an expert in coding, I want to be able to easily update the plants.</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<h2><mark class=\"has-inline-color has-blue-color\"><em>Requirements</em>:</mark></h2>\n\n\n\n<p><strong>Functional Requirments:</strong></p>\n\n\n\n<ul>\n<li><strong>Definite:</strong>\n<ul>\n<li>If users open the website, they will be able to see all the the edible campus beds throughout campus.</li>\n\n\n\n<li>If users select individual beds, they will be able to see what is currently growing in those beds.</li>\n\n\n\n<li>If a user finishes viewing a plant bed, they will be able to close it.&nbsp;</li>\n\n\n\n<li>If users select individual plants, they will get more specific information such as the name of the plants.</li>\n\n\n\n<li>If individual beds changed, the admin will be able to edit and add new information easily without needing to modify the code base or database.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps:</strong>\n<ul>\n<li>If the user click on a plant, the website will pop up extra information for plants in the garden, like images of plants. </li>\n\n\n\n<li>User can search for specific plant with name and available plant will be marked on the map.</li>\n\n\n\n<li>Users not only see what is currently growing but also what is growing in different seasons</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable:</strong>\n<ul>\n<li>User can favorite plant beds.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p><strong><em>Non-functional Requirements:</em></strong></p>\n\n\n\n<ul>\n<li><strong>Definite:</strong>\n<ul>\n<li>The app is web-based and can be open on any type of devices, such as cell phone, tablet, and laptop.&nbsp;</li>\n\n\n\n<li>Simple interface that even non-technical users can navigate.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps:</strong>\n\n\n<ul>\n<li>A mobile version of the interactive map app.</li>\n</ul>\n\n\n\n<ul>\n<li>The plant beds are displayed with the background being the UNC Map.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable:</strong>\n<ul>\n<li>The app is available in offline mode.</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<h2 class=\"wp-block-heading\"><em><mark class=\"has-inline-color has-blue-color\">User Stories:</mark></em></h2>\n\n\n\n<ul>\n<li>As a student, I want to see the locations of edible plants and may give some comments.</li>\n\n\n\n<li>As a student, I want to click locations to see what plants are available.</li>\n</ul>\n\n\n\n<ul>\n<li>As an administrator, I want to share my work in the edible gardens.</li>\n\n\n\n<li>As an administrator, I want to change the plant database seasonally. Since I am not an expert in coding, I want to be able to easily update the plants.</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading\"><mark class=\"has-inline-color has-blue-color\"><em>Requirements</em>:</mark></h2>\n\n\n\n<p><strong>Functional Requirments:</strong></p>\n\n\n\n<ul>\n<li><strong>Definite:</strong>\n<ul>\n<li>If users open the website, they will be able to see all the the edible campus beds throughout campus.</li>\n\n\n\n<li>If users select individual beds, they will be able to see what is currently growing in those beds.</li>\n\n\n\n<li>If a user finishes viewing a plant bed, they will be able to close it.&nbsp;</li>\n\n\n\n<li>If users select individual plants, they will get more specific information such as the name of the plants.</li>\n\n\n\n<li>If individual beds changed, the admin will be able to edit and add new information easily without needing to modify the code base or database.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps:</strong>\n<ul>\n<li>If the user click on a plant, the website will pop up extra information for plants in the garden, like images of plants. </li>\n\n\n\n<li>User can search for specific plant with name and available plant will be marked on the map.</li>\n\n\n\n<li>Users not only see what is currently growing but also what is growing in different seasons</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable:</strong>\n<ul>\n<li>User can favorite plant beds.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p></p>\n\n\n\n<p><strong><em>Non-functional Requirements:</em></strong></p>\n\n\n\n<ul>\n<li><strong>Definite:</strong>\n<ul>\n<li>The app is web-based and can be open on any type of devices, such as cell phone, tablet, and laptop.&nbsp;</li>\n\n\n\n<li>Simple interface that even non-technical users can navigate.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Perhaps:</strong>\n\n\n<ul>\n<li>A mobile version of the interactive map app.</li>\n</ul>\n\n\n\n<ul>\n<li>The plant beds are displayed with the background being the UNC Map.</li>\n</ul>\n</li>\n\n\n\n<li><strong>Improbable:</strong>\n<ul>\n<li>The app is available in offline mode.</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -61,7 +749,7 @@
             ],
             "version-history": [
                 {
-                    "count": 9,
+                    "count": 8,
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/102/revisions"
                 }
             ],
@@ -102,7 +790,7 @@
             "rendered": "Edible Campus"
         },
         "content": {
-            "rendered": "\n<h5><em>In conjunctions with Edible Campus UNC, Edible Campus (m)app will be an app that displays a map of UNC and their edible gardens with interactive user features. It will help UNC students locate and learn about the edible plants near them.&nbsp;</em></h5>\n\n\n\n<p>Edible campus UNC is an organization that creates landscapes filled with fruits and vegetables with the motivation of bringing awareness to UNC’s vegetation and agriculture. The organization has been able to provide static maps with the locations of different vegetation landscapes, but they never were able to implement a working concurrent interactive map that not only displays the vegetation of the current season but also next season’s vegetation. There also comes the issue of displaying a map that is easily readable and viewable as most of the static maps were only viewable through the internet.</p>\n\n\n\n<p>Our web-based application, <em>Edible Campus m(app)</em>, has the intention of solving these issues by implementing a working interactive map through a web-based application. This working interactive map allows students and other users to be able to explore the different landscapes and their vegetation around the campus using just their phones. Students and other users are able to locate the nearest edible garden and the vegetation within it anywhere on campus. We think that it is especially important that they are able to view the app while they are commuting so that they may be able to quickly find the nearest garden and try/learn the plants near them.</p>\n\n\n\n<p>Our team will create a website that has clickable visualizations representing each edible garden in the UNC campus. Each clickable part will then display different plants within each garden. Each plant will also include clickable parts and links displaying nutritional facts about each plant. The map will can be edited by the admin. This map will be user-friendly, as the admin only needs to change the plants at each garden and the links /educational facts associated with them.</p>\n",
+            "rendered": "\n<h5 class=\"wp-block-heading\"><em>In conjunctions with Edible Campus UNC, Edible Campus (m)app will be an app that displays a map of UNC and their edible gardens with interactive user features. It will help UNC students locate and learn about the edible plants near them.&nbsp;</em></h5>\n\n\n\n<p>Edible campus UNC is an organization that creates landscapes filled with fruits and vegetables with the motivation of bringing awareness to UNC’s vegetation and agriculture. The organization has been able to provide static maps with the locations of different vegetation landscapes, but they never were able to implement a working concurrent interactive map that not only displays the vegetation of the current season but also next season’s vegetation. There also comes the issue of displaying a map that is easily readable and viewable as most of the static maps were only viewable through the internet.</p>\n\n\n\n<p>Our web-based application, <em>Edible Campus m(app)</em>, has the intention of solving these issues by implementing a working interactive map through a web-based application. This working interactive map allows students and other users to be able to explore the different landscapes and their vegetation around the campus using just their phones. Students and other users are able to locate the nearest edible garden and the vegetation within it anywhere on campus. We think that it is especially important that they are able to view the app while they are commuting so that they may be able to quickly find the nearest garden and try/learn the plants near them.</p>\n\n\n\n<p>Our team will create a website that has clickable visualizations representing each edible garden in the UNC campus. Each clickable part will then display different plants within each garden. Each plant will also include clickable parts and links displaying nutritional facts about each plant. The map will can be edited by the admin. This map will be user-friendly, as the admin only needs to change the plants at each garden and the links /educational facts associated with them.</p>\n",
             "protected": false
         },
         "excerpt": {
@@ -147,535 +835,19 @@
             ],
             "version-history": [
                 {
-                    "count": 4,
+                    "count": 5,
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/62/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 105,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/62/revisions/105"
+                    "id": 222,
+                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/62/revisions/222"
                 }
             ],
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=62"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 19,
-        "date": "2023-01-13T13:45:14",
-        "date_gmt": "2023-01-13T18:45:14",
-        "guid": {
-            "rendered": "https://tarheels.live/teamj/?page_id=19"
-        },
-        "modified": "2023-01-20T09:55:23",
-        "modified_gmt": "2023-01-20T14:55:23",
-        "slug": "links",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamj/links/",
-        "title": {
-            "rendered": "Links"
-        },
-        "content": {
-            "rendered": "\n<p>GroupMe:<a href=\"https://groupme.com/join_group/91385267/muxzzoPT\"> https://groupme.com/join_group/91385267/muxzzoPT</a></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>GroupMe: https://groupme.com/join_group/91385267/muxzzoPT</p>\n",
-            "protected": false
-        },
-        "author": 13592,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/19"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13592"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=19"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 3,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/19/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 69,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/19/revisions/69"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=19"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 18,
-        "date": "2023-01-13T13:45:14",
-        "date_gmt": "2023-01-13T18:45:14",
-        "guid": {
-            "rendered": "https://tarheels.live/teamj/?page_id=18"
-        },
-        "modified": "2023-02-07T08:35:03",
-        "modified_gmt": "2023-02-07T13:35:03",
-        "slug": "jouranl",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamj/jouranl/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<p>February 7st, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Coach\n<ul>\n<li>Meeting is scheduled for 8:00 am Tuesday two weeks later. Our team should work on The Demo, Ethics assignment, and Midterm Presentation. The content of the Midterm can be found on the course website &#8220;https://www.cs.unc.edu/~stotts/COMP523-s23/midTerm.html&#8221;.</li>\n\n\n\n<li>Coach checked the repository on GitHub.</li>\n\n\n\n<li>Coach addressed that the available links should be on the page of &#8220;Assignment&#8221; and &#8220;Deliverable.&#8221;</li>\n</ul>\n\n\n\n<ul>\n<li>Coach suggested the server should not be a problem since the project can run on the local machine.</li>\n\n\n\n<li>Coach also links Johns&#8217; video to demonstrate how to give a great tech talk.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>February 2nd, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Client\n<ul>\n<li>We discussed this project&#8217;s user story, and the client mentioned that we need to add a function to give feedback, such as online comments.</li>\n\n\n\n<li>The client also advised the website to keep the UNC color style consistent.</li>\n</ul>\n</li>\n\n\n\n<li>Team meeting\n<ul>\n<li>Ensure that we will revise the user story.</li>\n\n\n\n<li>Created a GitHub repository for this project.</li>\n\n\n\n<li>Kangda Wei suggested that we may finish a demo webpage to show to the client first. If possible, it could be done next week, and it can run on a local machine.</li>\n\n\n\n<li>Discussed some rules and habits for teamwork on GitHub.</li>\n\n\n\n<li>Dominic mentioned the potential problem of the host server. We assume the client will help solve this problem.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 31st, 2023:</p>\n\n\n\n<ul>\n<li>Meeting with Coach\n<ul>\n<li>Changed the meeting schedule to 8:00 am Tuesday next week.</li>\n\n\n\n<li>Coach addressed that every member should contribute ideas to the user story but not one member. All members must agree with the user story and know how to implement it with the Project.</li>\n\n\n\n<li>Coach suggested some websites to study the OSM (OpenStreetMap), such as leaflet (https://leafletjs.com/), OpenLayers ( https://openlayers.org/), JOSM (WIKI), or searching Google with keywords &#8220;OSM JavaScript&#8221; for the resource.</li>\n\n\n\n<li>Coach suggested developing a DEMO for the client, demonstrating how to edit OSM for his purpose.</li>\n\n\n\n<li>Ethan provided the draft of the user story based on the previous team&#8217;s work.</li>\n\n\n\n<li>Ethan established the project concept on the team&#8217;s website.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>January 27th 2023:</p>\n\n\n\n<ul>\n<li>First meeting with the client\n<ul>\n<li>&nbsp;Discussed the requirements for this Project</li>\n\n\n\n<li>Discussed the format of this Project as a Mobile Application or a webpage based on cloud service. We suggest using OpenStreetMap instead of Google Maps, according to the suggestion from Coach. The client accepts this suggestion.</li>\n\n\n\n<li>&nbsp;Simple, accessible, and responsive are advantages of the webpage, depending on resources and time consumption. It is better to develop a web service.</li>\n\n\n\n<li>&nbsp;The client mentioned that the previous team needed more communication. So, we will hold regular meetings with our client to discuss the process of the Project.</li>\n\n\n\n<li>&nbsp;The client addressed the admin&#8217;s need to edit the plant during a specific period, not the user.</li>\n</ul>\n</li>\n\n\n\n<li>Weekly team meeting discussion\n<ul>\n<li>Decided to spend the next week getting familiar with the code base left by the previous team, understanding and trying to use the resources used.</li>\n\n\n\n<li>&nbsp;Hu started to understand user stories and do the UI design.</li>\n\n\n\n<li>&nbsp;Ethan will start working on how to embed OpenStreetMap in web pages.</li>\n\n\n\n<li>&nbsp;Kangda started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Dominic started to research front-end and back-end development.</li>\n\n\n\n<li>&nbsp;Understand the technical background of each person: most of you are very familiar with Python, except Hu. All have some webpage development experience. But not enough experience in back-end development.</li>\n\n\n\n<li>&nbsp;If you develop a new cloud-based web service, use JavaScript, database, or NodeJs as development tools.</li>\n\n\n\n<li>&nbsp;For the next meeting with Coach, discuss this project&#8217;s direction for mobile application or web service. Technique details about the front and back end development. Searching for reliable, affordable cloud service.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p><strong>January 20th 2023</strong>:</p>\n\n\n\n<ul>\n<li>First meeting with Coach</li>\n\n\n\n<li>Discussed new tech/management apps\n<ul>\n<li>OpenStreetMap</li>\n\n\n\n<li>Githook</li>\n\n\n\n<li>Kanban</li>\n\n\n\n<li>Trello</li>\n</ul>\n</li>\n\n\n\n<li>First meeting with client scheduled:\n<ul>\n<li>Kyle Parker 1/27/23 4:00-5:00pm</li>\n</ul>\n</li>\n</ul>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-1 wp-block-group\">\n<p><strong>January 20th 2023</strong>: </p>\n\n\n\n<p>First meeting made, added team roles, rules, and communication</p>\n\n\n\n<p>Website created and preferences made: 5, 7, 6, 1, 23, 12 </p>\n</div>\n\n\n\n<p></p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>February 7st, 2023: February 2nd, 2023: January 31st, 2023: January 27th 2023: January 20th 2023: January 20th 2023: First meeting&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13592,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13592"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=18"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 14,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 121,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/18/revisions/121"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=18"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 17,
-        "date": "2023-01-13T13:45:14",
-        "date_gmt": "2023-01-13T18:45:14",
-        "guid": {
-            "rendered": "https://tarheels.live/teamj/?page_id=17"
-        },
-        "modified": "2023-01-13T13:45:14",
-        "modified_gmt": "2023-01-13T18:45:14",
-        "slug": "assignments",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamj/assignments/",
-        "title": {
-            "rendered": "Assignments"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13592,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/17"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13592"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=17"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/17/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 22,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/17/revisions/22"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=17"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 16,
-        "date": "2023-01-13T13:45:14",
-        "date_gmt": "2023-01-13T18:45:14",
-        "guid": {
-            "rendered": "https://tarheels.live/teamj/?page_id=16"
-        },
-        "modified": "2023-01-31T17:08:40",
-        "modified_gmt": "2023-01-31T22:08:40",
-        "slug": "deliverables",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamj/deliverables/",
-        "title": {
-            "rendered": "Deliverables"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 13592,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/16"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13592"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=16"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/16/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 21,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/16/revisions/21"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=16"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 14,
-        "date": "2023-01-13T13:45:14",
-        "date_gmt": "2023-01-13T18:45:14",
-        "guid": {
-            "rendered": "https://tarheels.live/teamj/?page_id=14"
-        },
-        "modified": "2023-01-20T09:55:10",
-        "modified_gmt": "2023-01-20T14:55:10",
-        "slug": "team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamj/team/",
-        "title": {
-            "rendered": "Team"
-        },
-        "content": {
-            "rendered": "\n<h2>Team Roles</h2>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-4 wp-block-group\">\n<div class=\"is-vertical is-layout-flex wp-container-3 wp-block-group\">\n<div class=\"is-vertical is-content-justification-left is-layout-flex wp-container-2 wp-block-group\">\n<p><strong>Communications Manager:</strong> Hu Guo</p>\n\n\n\n<p><strong>Technical/Development Lead:</strong> Kangda Wei</p>\n\n\n\n<p><strong>User Experience Design:</strong> Ethan Kompathoum</p>\n\n\n\n<p><strong>Project Manager:</strong> Dominic Osojnak</p>\n</div>\n</div>\n</div>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-5 wp-block-group\"></div>\n\n\n\n<p></p>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-7 wp-block-group\">\n<div class=\"is-vertical is-layout-flex wp-container-6 wp-block-group\">\n<h2>Team Rules</h2>\n\n\n\n<ul>\n<li>All team members will attend meetings</li>\n\n\n\n<li>Meeting recaps will be completed after the meeting</li>\n\n\n\n<li>Notify team members ASAP if you can’t attend a meeting</li>\n\n\n\n<li>Use text (GroupMe) as a primary means of communication</li>\n\n\n\n<li>Communicate if you’re worried about missing a deadline</li>\n</ul>\n\n\n\n<p>Coding Practices: </p>\n\n\n\n<ul>\n<li>Each pull request will be reviewed by at least one other team member</li>\n\n\n\n<li>Comment and explain your code, but code should be atomic, and naming should describe accurately what code does</li>\n</ul>\n</div>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Team Roles Communications Manager: Hu Guo Technical/Development Lead: Kangda Wei User Experience Design: Ethan Kompathoum Project Manager: Dominic Osojnak Team&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13592,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/14"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13592"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=14"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 12,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/14/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 67,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/14/revisions/67"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=14"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 2,
-        "date": "2023-01-11T15:12:33",
-        "date_gmt": "2023-01-11T15:12:33",
-        "guid": {
-            "rendered": "https://tarheels.live/teamj/?page_id=2"
-        },
-        "modified": "2023-02-08T19:35:33",
-        "modified_gmt": "2023-02-09T00:35:33",
-        "slug": "sample-page",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/teamj/sample-page/",
-        "title": {
-            "rendered": "Schedule"
-        },
-        "content": {
-            "rendered": "\n<div class=\"is-vertical is-layout-flex wp-container-10 wp-block-group\">\n<h2><strong>Schedule of Regular Meetings</strong></h2>\n\n\n\n<div class=\"is-vertical is-layout-flex wp-container-9 wp-block-group\">\n<p>Coach Meeting: Tuesday 8:00 – 8:30 AM</p>\n\n\n\n<p>Client Meeting: Friday 16:00 &#8211; 16:30 PM (Weekly or Biweekly)</p>\n\n\n\n<p>Team Meeting: Friday 16:30 – 17:00 AM </p>\n</div>\n</div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>Schedule of Regular Meetings Coach Meeting: Tuesday 8:00 – 8:30 AM Client Meeting: Friday 16:00 &#8211; 16:30 PM (Weekly or&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 13592,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/users/13592"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/comments?post=2"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 5,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/2/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 124,
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/pages/2/revisions/124"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/teamj/wp-json/wp/v2/media?parent=2"
                 }
             ],
             "curies": [
