@@ -1,13 +1,443 @@
 [
     {
+        "id": 365,
+        "date": "2023-03-17T06:26:31",
+        "date_gmt": "2023-03-17T10:26:31",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=365"
+        },
+        "modified": "2023-05-06T14:58:38",
+        "modified_gmt": "2023-05-06T18:58:38",
+        "slug": "hand-off-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/hand-off-plan/",
+        "title": {
+            "rendered": "Hand-off Plan"
+        },
+        "content": {
+            "rendered": "\n<h2 class=\"wp-block-heading\">Demo video</h2>\n\n\n\n<p>We have a full demo video available <a href=\"https://www.youtube.com/watch?v=ZhSg5xwzbmo\">here</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Description of application</h2>\n\n\n\n<p>Our project is a Python GUI desktop application (with a CLI component for advanced users) that runs cross-platform on Windows, macOS, and Linux. The source code is <a href=\"https://github.com/NIRALUser/NeuroRuler\">on GitHub</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Management/development</h2>\n\n\n\n<p>Our project is open sourced and licensed under the MIT License. We have transferred ownership of the repository to the client’s (Martin Styner’s) organization, <a href=\"https://github.com/NIRALUser\">NIRAL</a> (Neuro Image Research Analysis Laboratories). Our client and his associates have a strong developer background and can be well-trusted to manage the code base. We will also transfer ownership of the <a href=\"https://pypi.org/project/NeuroRuler/\">PyPI </a>and <a href=\"https://test.pypi.org/project/NeuroRuler/\">TestPyPI</a> packages.</p>\n\n\n\n<p>For future developers, we provide the link to our <a href=\"https://NeuroRuler.readthedocs.io/en/latest/\">documentation website</a> in the GitHub README. This site contains pages about <a href=\"https://neuroruler.readthedocs.io/en/latest/structure.html\">project structure</a>, <a href=\"https://neuroruler.readthedocs.io/en/latest/libraries.html\">libraries</a>, and automatically generated <a href=\"https://neuroruler.readthedocs.io/en/latest/modules.html\">source code documentation</a>.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Use (for any user)</h2>\n\n\n\n<p>Users must have Python 3.8+ and pip (Python’s package manager) installed in order to use NeuroRuler. This is a reasonable assumption, as the researchers using this tool most likely have Python installed for other scientific computing applications. NeuroRuler can be installed via pip using the following command:</p>\n\n\n\n<p class=\"has-text-align-center\"><code>pip install NeuroRuler</code></p>\n\n\n\n<p>NeuroRuler can also be installed from source, <a href=\"https://github.com/NIRALUser/NeuroRuler\">as described in the README</a>. After opening a Python terminal, the user uses the following commands:</p>\n\n\n\n<p class=\"has-text-align-center\"><code>from NeuroRuler.GUI import gui</code></p>\n\n\n\n<p class=\"has-text-align-center\"><code>gui()</code></p>\n\n\n\n<p>Then NeuroRuler’s GUI will run.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Use (for developers)</h2>\n\n\n\n<p>Developers should clone the repository locally to have access to the <code>gui.py</code> and <code>cli.py</code> scripts to test changes without having to upload to PyPI.</p>\n\n\n\n<p>Additionally, cloning would download <code>gui_config.json</code> and <code>cli_config.json</code> for configuration of settings.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Configuration</h2>\n\n\n\n<p>The JSON configuration files exist (and are used) in the package when downloaded from pip but aren&#8217;t easily modifiable since they&#8217;re in the actual package, not cwd.</p>\n\n\n\n<p>However, the user could download these files from GitHub into cwd. Then, when running the application from the Python terminal, the files would be detected and used.</p>\n\n\n\n<p>For more information, see <a href=\"https://github.com/NIRALUser/NeuroRuler/issues/76\">https://github.com/NIRALUser/NeuroRuler/issues/76</a>.</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Demo video We have a full demo video available here. Description of application Our project is a Python GUI desktop&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/365"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=365"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/365/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 513,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/365/revisions/513"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=365"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 360,
+        "date": "2023-03-17T06:18:00",
+        "date_gmt": "2023-03-17T10:18:00",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=360"
+        },
+        "modified": "2023-04-11T17:06:53",
+        "modified_gmt": "2023-04-11T21:06:53",
+        "slug": "d4-user-manual",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/d4-user-manual/",
+        "title": {
+            "rendered": "D4. User Manual"
+        },
+        "content": {
+            "rendered": "\n<h1 class=\"wp-block-heading\">Documentation plan</h1>\n\n\n\n<h2 class=\"wp-block-heading\">Users</h2>\n\n\n\n<ol>\n<li>Biomedical researchers without CLI experience who would mostly use the GUI</li>\n\n\n\n<li>Biomedical researchers with CLI experience who could use GUI or CLI</li>\n</ol>\n\n\n\n<h2 class=\"wp-block-heading\">Documentation for users</h2>\n\n\n\n<p>Both groups of users are provided setup information in our GitHub <a href=\"https://github.com/COMP523TeamD/HeadCircumferenceTool\">README</a>.</p>\n\n\n\n<p>Both groups of users will be provided information about how to use the GUI in the form of status tips and tool tips in the GUI. This will be our primary source of GUI documentation because it is easily accessible, and the user can choose which elements to learn more about without being bombarded with irrelevant information.</p>\n\n\n\n<figure class=\"wp-block-image\"><img decoding=\"async\" src=\"https://lh5.googleusercontent.com/BjMETcUDk1P5AnUw2S-AIV_ByA5Q-rgvU_1K0yLE_YQhCcuADrCFZK-KrZFRSHlEcy5X05Yarl_KCU2_UeZYGXxVXY2ZN_7c5_NZdomdHGRBT21ZR2BHyfeDb450Wom7OFq8B6Wd4O2frQAXzdZXwGs\" alt=\"\" /><figcaption class=\"wp-element-caption\">Status tip and tool tip for Reset button</figcaption></figure>\n\n\n\n<p>They will also be provided information about JSON setting configuration in our GitHub <a href=\"https://github.com/COMP523TeamD/HeadCircumferenceTool\">README</a> and in the JSON itself in the form of <a href=\"https://github.com/COMP523TeamD/HeadCircumferenceTool/blob/main/config.json\">comments</a>. Both are immediately obvious sources of information, and users won’t have to be informed of their existence.</p>\n\n\n\n<p>For people using CLI, we provide information about CLI options in our README.</p>\n\n\n\n<figure class=\"wp-block-image\"><img decoding=\"async\" src=\"https://lh3.googleusercontent.com/UIdeirq8Q0Kna5wD13rqCUaCaT9T75_uxx6bj3_x3Ljf7wVBH4g8DzB7U5n7E_BdCI1Z9_baHLbJ2wYP8EA1laarjB-Q3RK5ibyWrqL-c_XUAZcyGW7x96nBTA_SLrn0wQoJlfmsSt2PWrg9GSoJLMQ\" alt=\"\" /><figcaption class=\"wp-element-caption\">CLI information (what&#8217;s printed out when running with the <code>-h</code> CLI option) in README</figcaption></figure>\n\n\n\n<h1 class=\"wp-block-heading\">User documentation</h1>\n\n\n\n<p>As mentioned in the <a href=\"https://docs.google.com/document/d/1D6RKiKB89Xez1yuCctGpIa2oQTVpibHSVTom4e_mBIM/edit#heading=h.1tof241pbups\">Documentation Plan</a> section, both groups of users will be provided information about individual GUI elements in the form of status tips and tool tips in the GUI. This information will be the same for both groups.</p>\n\n\n\n<p>For users interacting with the CLI, we provide information about CLI options in the README, as shown above.</p>\n\n\n\n<h1 class=\"wp-block-heading\">Administrator documentation</h1>\n\n\n\n<p>Our program does not involve any setup, deployment, or maintenance of a system. It is a stand-alone cross-platform (Windows, macOS, Linux) application, so an administrator is not needed.</p>\n\n\n\n<p>The only setup requirement is installation of the Python dependencies via pip, which is described in our README.</p>\n\n\n\n<p>For future developers interested in the internals of the program, that information is automatically generated from code docstrings and deployed to our <a href=\"https://headcircumferencetool.readthedocs.io/en/latest/\">documentation site</a>. As time allows (i.e., this probably won’t happen), we could create a page describing which functions are called in which order for the contouring process.</p>\n\n\n\n<p>The automatically generated <a href=\"https://headcircumferencetool.readthedocs.io/en/latest/src.html\">source code documentation</a> provides a high-level overview of our program.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"385\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1024x385.png\" alt=\"\" class=\"wp-image-425\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1024x385.png 1024w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-300x113.png 300w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-768x289.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1040x391.png 1040w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-640x241.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image.png 1042w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><figcaption class=\"wp-element-caption\">A module and its functions</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"869\" height=\"1024\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1-869x1024.png\" alt=\"\" class=\"wp-image-426\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1-869x1024.png 869w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1-255x300.png 255w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1-768x905.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1-1040x1225.png 1040w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1-640x754.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/04/image-1.png 1280w\" sizes=\"(max-width: 869px) 100vw, 869px\" /><figcaption class=\"wp-element-caption\">Function signatures, docstrings, parameters, return values, and links to source code</figcaption></figure>\n\n\n\n<h1 class=\"wp-block-heading\">Links</h1>\n\n\n\n<p><a href=\"https://github.com/COMP523TeamD/HeadCircumferenceTool\">GitHub README</a></p>\n\n\n\n<p><a href=\"https://headcircumferencetool.readthedocs.io\">https://headcircumferencetool.readthedocs.io</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1D6RKiKB89Xez1yuCctGpIa2oQTVpibHSVTom4e_mBIM\">Google Doc</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Documentation plan Users Documentation for users Both groups of users are provided setup information in our GitHub README. Both groups&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/360"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=360"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 7,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/360/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 453,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/360/revisions/453"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=360"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 356,
+        "date": "2023-03-17T06:16:31",
+        "date_gmt": "2023-03-17T10:16:31",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=356"
+        },
+        "modified": "2023-04-12T17:27:03",
+        "modified_gmt": "2023-04-12T21:27:03",
+        "slug": "test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/test-plan/",
+        "title": {
+            "rendered": "D3. Test Plan"
+        },
+        "content": {
+            "rendered": "\n<h3 class=\"wp-block-heading\">Ideal Plan</h3>\n\n\n\n<h4 class=\"wp-block-heading\">Unit tests</h4>\n\n\n\n<ul>\n<li>Unit tests for each of our core algorithm functions (e.g., in imgproc.py, contour, select_largest_component, length_of_contour, length_of_contour_with_spacing)</li>\n\n\n\n<li>Unit tests for each helper function (e.g., in img_helpers.py)</li>\n\n\n\n<li>Unit tests for GUI using Squish GUI Tester or QTest</li>\n\n\n\n<li>Unit tests for CLI processing helper functions</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Integration testing</h4>\n\n\n\n<ul>\n<li>GUI + results (i.e., test that specific sequences of button presses produce correct output in the GUI) testing using Squish GUI Tester or QTest</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Tools used</h4>\n\n\n\n<ul>\n<li>Pytest</li>\n\n\n\n<li>Squish GUI Tester</li>\n\n\n\n<li>QTest</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Types of end users</h4>\n\n\n\n<ul>\n<li>Biomedical researchers without developer experience (i.e., would use GUI but not CLI)</li>\n\n\n\n<li>Biomedical researchers with developer experience (i.e., could use GUI and CLI)</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Performance testing</h4>\n\n\n\n<ul>\n<li>Use <a href=\"https://docs.python.org/3/library/profile.html\">cprofile</a> to investigate bottlenecks of program</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Acceptance testing</h4>\n\n\n\n<ul>\n<li>Give tool to the two types of users mentioned <a href=\"https://docs.google.com/document/d/14X9paYk2txAsJXq-uW0HBedC-4SmZwnl82TdsiRf4Ig/edit#heading=h.rk1eanxhkr8d\">above</a> and get their feedback</li>\n\n\n\n<li>Get feedback from clients Prof. Styner and Rachel Smith</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Actual Plan</h3>\n\n\n\n<ul>\n<li>We use pytest as our unit testing framework and integrate it with GitHub actions (CI) so that unit tests run on push and PR.</li>\n\n\n\n<li>Our performance tests will involve end-to-end tests comparing our head circumference algorithm’s final results to ground truth data computed by the old head circumference tool.\n<ul>\n<li>Our client has specified that for given input, the output of our tool doesn’t have to be exactly the same as the output of the old tool, but there should be a high correlation coefficient (R<sup>2</sup>).</li>\n\n\n\n<li>We have already compared with images where all pixel spacing values are 1, but we need to get data for images where the pixel spacing values are not all 1 and compare with that as well.</li>\n</ul>\n</li>\n\n\n\n<li>We will give our tool to our client for their direct feedback.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"https://docs.google.com/document/d/14X9paYk2txAsJXq-uW0HBedC-4SmZwnl82TdsiRf4Ig/edit?usp=share_link\">Google Doc</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Ideal Plan Unit tests Integration testing Tools used Types of end users Performance testing Acceptance testing Actual Plan Google Doc</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/356"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=356"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/356/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 455,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/356/revisions/455"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=356"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 350,
+        "date": "2023-03-17T06:13:14",
+        "date_gmt": "2023-03-17T10:13:14",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=350"
+        },
+        "modified": "2023-04-11T15:03:05",
+        "modified_gmt": "2023-04-11T19:03:05",
+        "slug": "apples-reflection",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/apples-reflection/",
+        "title": {
+            "rendered": "APPLES Reflection"
+        },
+        "content": {
+            "rendered": "\n<p>Our project, the Head Circumference Tool, is designed to support neuroscience researchers who are researching autism. For a younger sibling, an atypical head circumference compared to older siblings <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612537/\">has been identified</a> as an early predictor for autism. This is not fully understood and is an area of active research, which we hope to support via this tool.</p>\n\n\n\n<p>Head circumference <a href=\"https://www.youtube.com/watch?v=OyrI4PnjtbA\">can be measured manually</a> with a tape. However, this can be difficult to do, especially when the subject is a baby, and can lead to inaccurate measurements. The goal of our tool is to calculate these measurements using MRIs taken by the researchers for maximum accuracy.</p>\n\n\n\n<p>Although a prior Head Circumference Tool exists, our new version will further support this goal by leveraging modern Python libraries to achieve fast performance and precise accuracy. On our first meeting and in the project description, our client mentioned the need for an intuitive user interface for biomedical researchers without developer experience, a goal which we have achieved. On the other hand, a powerful command-line interface capable of batch processing several images at a time is also expected, which we are working on. Combined, these two interfaces will greatly enhance our users’ workflows.</p>\n\n\n\n<p>Autism is rarely diagnosed before the age of 3. However, early diagnosis is important since early intervention can result in better lifelong outcomes. By supporting this research, we hope our tool can help people with autism and their families.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"https://docs.google.com/document/d/13mVjr1Rjej5UL361g8o2bH5Wu_IshQFlMDwBlOwIhvo/edit?usp=share_link\" data-type=\"URL\" data-id=\"https://docs.google.com/document/d/13mVjr1Rjej5UL361g8o2bH5Wu_IshQFlMDwBlOwIhvo/edit?usp=share_link\">Google Doc</a></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Our project, the Head Circumference Tool, is designed to support neuroscience researchers who are researching autism. For a younger sibling,&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 2981,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/350"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=350"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 10,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/350/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 439,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/350/revisions/439"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=350"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 290,
+        "date": "2023-02-20T10:43:52",
+        "date_gmt": "2023-02-20T15:43:52",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamd/?page_id=290"
+        },
+        "modified": "2023-02-20T10:43:52",
+        "modified_gmt": "2023-02-20T15:43:52",
+        "slug": "architecture-diagram",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamd/architecture-diagram/",
+        "title": {
+            "rendered": "Architecture Diagram"
+        },
+        "content": {
+            "rendered": "\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"576\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-1024x576.png\" alt=\"\" class=\"wp-image-291\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-1024x576.png 1024w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-300x169.png 300w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-768x432.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-1536x864.png 1536w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-640x360.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram-1040x585.png 1040w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/COMP-523-Architecture-Diagram.png 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 3099,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/290"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/3099"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=290"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/290/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 292,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/290/revisions/292"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=290"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 209,
         "date": "2023-02-01T08:54:46",
         "date_gmt": "2023-02-01T13:54:46",
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=209"
         },
-        "modified": "2023-02-01T08:55:35",
-        "modified_gmt": "2023-02-01T13:55:35",
+        "modified": "2023-03-06T10:11:18",
+        "modified_gmt": "2023-03-06T15:11:18",
         "slug": "d2-design-document",
         "status": "publish",
         "type": "page",
@@ -16,11 +446,11 @@
             "rendered": "D2. Design Document"
         },
         "content": {
-            "rendered": "\n<p>TODO</p>\n",
+            "rendered": "\n<h2 class=\"wp-block-heading\"><a href=\"https://tarheels.live/comp523teamd/platform-selection/\">Platform Selection</a></h2>\n\n\n\n<ul>\n<li>Link in heading redirects to Platform Selection page.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-1024x575.png\" data-type=\"URL\" data-id=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-1024x575.png\">Architecture Diagram.png</a></h3>\n\n\n\n<ul>\n<li>Click link in heading for higher quality png.</li>\n</ul>\n\n\n\n<div class=\"wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center\"><figure class=\"wp-block-media-text__media\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"575\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-1024x575.png\" alt=\"\" class=\"wp-image-317 size-full\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-1024x575.png 1024w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-300x169.png 300w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-768x431.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram-640x360.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/Architecture-Diagram.png 1027w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n</div></div>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\"><a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards.pdf\">CRC cards.pdf</a></h3>\n\n\n\n<ul>\n<li>Click link in heading for higher quality pdf.</li>\n</ul>\n\n\n\n<div class=\"wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center\"><figure class=\"wp-block-media-text__media\"><img decoding=\"async\" loading=\"lazy\" width=\"777\" height=\"1024\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-777x1024.png\" alt=\"\" class=\"wp-image-304 size-full\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-777x1024.png 777w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-228x300.png 228w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-768x1012.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-640x844.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1.png 842w\" sizes=\"(max-width: 777px) 100vw, 777px\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n</div></div>\n\n\n\n<div class=\"wp-block-media-text is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img decoding=\"async\" loading=\"lazy\" width=\"636\" height=\"1024\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-636x1024.png\" alt=\"\" class=\"wp-image-305 size-full\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-636x1024.png 636w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-186x300.png 186w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-768x1237.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-640x1031.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2.png 842w\" sizes=\"(max-width: 636px) 100vw, 636px\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n</div></div>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>TODO</p>\n",
+            "rendered": "<p>Platform Selection Architecture Diagram.png CRC cards.pdf</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -61,14 +491,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 12,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/209/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 213,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/209/revisions/213"
+                    "id": 336,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/209/revisions/336"
                 }
             ],
             "wp:attachment": [
@@ -92,8 +522,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=202"
         },
-        "modified": "2023-02-08T20:16:05",
-        "modified_gmt": "2023-02-09T01:16:05",
+        "modified": "2023-04-11T15:03:43",
+        "modified_gmt": "2023-04-11T19:03:43",
         "slug": "ethics-1",
         "status": "publish",
         "type": "page",
@@ -102,11 +532,11 @@
             "rendered": "Ethics 1"
         },
         "content": {
-            "rendered": "\n<h3>Example 1: Facebook data breach</h3>\n\n\n\n<p>In the 2010’s, there was a data breach of up to 87 million Facebook users’ personal data. Specifically, a company called Cambridge Analytica (now bankrupt) gathered data from 270,000 survey respondents using an informed consent process through an app. However, Facebook’s software allowed Cambridge Analytica to gather data on respondents’ Facebook friends as well. The data were detailed enough that Cambridge Analytica was able to construct psychological profiles to determine which form of advertising would be most effective on specific people.</p>\n\n\n\n<p>This is all clearly unethical &#8211; in addition to breaching 87 million people’s data, the data were also used for nefarious purposes, such as political advertising. The magnitude of this breach was only possible because Facebook’s software allowed another company to gather data on survey respondents’ Facebook friends, which we see no logical reason for. It’s nearly impossible for this to have been caused by negligence, so the main problem is that the product behavior was too intrusive. But certainly the software engineers should have known that too much access was being granted, especially because limiting access/scope is a common practice in code. Though the problem should have been caught at the design level, it should have been caught at the implementation level also since there is always a review process for code, and access could have been easily revoked at any time. The problem here lies in software design and the software developers who chose to ignore it.</p>\n\n\n\n<p><a href=\"https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Example 2: Lyft employees spying</h3>\n\n\n\n<p>In this 2018 article, a former Lyft employee said that access to Lyft’s backend allowed employees to “see pretty much everything, including feedback, and yes, pick up and drop off coordinates.” When asked whether employees abuse this privilege, they replied “Hell yes. I definitely looked at my friends’ rider history.”</p>\n\n\n\n<p>This is unethical because the employee’s friends did not consent to location stalking by specific Lyft employees, especially friends, when using the app. Although working on the backend requires access to user data, software engineers shouldn’t be able to look up a specific person’s data by their name or any personally identifying attribute (in this case, any unique attribute that a friend would know). Certainly, it should be possible to anonymize data by associating names with id numbers but hiding the names from most SWE’s. Even if this would be impossible, then logs of lookups should be kept, and repeated searches should be investigated. Overall, this seems like a problem with software design and enforcement of rules.</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2018/01/25/lyft-god-view/\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Example 3: Uber app spying</h3>\n\n\n\n<p>This example differs from the previous in that this example is a systematic breach. Specifically, Uber tracks users’ locations after rides are over. As mentioned in the article, if a user gets out of the car and walks to a therapist’s office, then the app will know where the user has walked to. This is unethical since it’s an unnecessary privacy violation. Uber could arguably improve their service in gathering this data, but it mostly seems unnecessary, and there are a lot of ways the service could be improved without gathering this data.</p>\n\n\n\n<p>The user should be explicitly asked in the app whether the app should be allowed to gather this data. However, this setting is enabled by default, and the user is not asked. In this case, the obvious choice to protect user privacy is to disable the setting by default and ask the user if it should be enabled when the app is first downloaded. The problem here is the intentionally privacy-violating software behavior. Certain settings should always be opt-in instead of opt-out.</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2016/11/28/uber-background-location-data-collection/\">Source</a></p>\n",
+            "rendered": "\n<h3 class=\"wp-block-heading\">Example 1: ChatGPT</h3>\n\n\n\n<p>ChatGPT is a tool that we all know and love. On the user side, using it for homework or coding interviews is clearly unethical, but this discussion will focus on the developer side.</p>\n\n\n\n<p>ChatGPT is not advanced enough to be considered able to “think.” It has been trained on a large set of mostly correct data so can provide what appears to be thoughtful responses. However, it has no way of knowing whether the data it has been fed is true or not, and as such, it is capable of providing wrong answers.</p>\n\n\n\n<p>On startup, there is a small note that says that the information might be wrong. Realistically, few users actually read that note or think twice about it, and plenty of users don’t have enough knowledge about AI to know how and why ChatGPT would provide incorrect information. The website design is somewhat unethical because it doesn’t provide enough easily visible information about the limitations of the software, which is important information that all users should be made aware of. While ChatGPT’s function is not inherently ethical or unethical (which depends on how the user chooses to use it), the developers and managers have a responsibility to users to be upfront about its limitations rather than hiding them.</p>\n\n\n\n<p><a href=\"https://www.nytimes.com/2022/12/21/technology/personaltech/how-to-use-chatgpt-ethically.html\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Example 2: Facebook data breach</h3>\n\n\n\n<p>In the 2010’s, there was a data breach of up to 87 million Facebook users’ personal data. Specifically, a company called Cambridge Analytica (now bankrupt) gathered data from 270,000 survey respondents using an informed consent process through an app. However, Facebook’s software allowed Cambridge Analytica to gather data on respondents’ Facebook friends as well. The data were detailed enough that Cambridge Analytica was able to construct psychological profiles to determine which form of advertising would be most effective on specific people.</p>\n\n\n\n<p>This is all clearly unethical &#8211; in addition to breaching 87 million people’s data, the data were also used for nefarious purposes, such as political advertising. The magnitude of this breach was only possible because Facebook’s software allowed another company to gather data on survey respondents’ Facebook friends, which we see no logical reason for. It’s nearly impossible for this to have been caused by negligence, so the main problem is that the product behavior was too intrusive. But certainly the software engineers should have known that too much access was being granted, especially because limiting access/scope is a common practice in code. Though the problem should have been caught at the design level, it should have been caught at the implementation level also since there is always a review process for code, and access could have been easily revoked at any time. The problem here lies in software design and the software developers who chose to ignore an obvious problem.</p>\n\n\n\n<p><a href=\"https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Example 3: Lyft employees spying</h3>\n\n\n\n<p>In this 2018 article, a former Lyft employee said that access to Lyft’s backend allowed employees to “see pretty much everything, including feedback, and yes, pick up and drop off coordinates.” When asked whether employees abuse this privilege, they replied “Hell yes. I definitely looked at my friends’ rider history.”</p>\n\n\n\n<p>This is unethical because the employee’s friends did not consent to location stalking by specific Lyft employees, especially friends, when using the app. Although working on the backend requires access to user data, software engineers shouldn’t be able to look up a specific person’s data by their name or any personally identifying attribute (in this case, any unique attribute that a friend would know). Certainly, it should be possible to anonymize data by associating names with id numbers but hiding the names from most SWE’s. Even if this would be impossible, then logs of lookups should be kept, and repeated searches should be investigated. Overall, this seems like a problem with software design and enforcement of rules.</p>\n\n\n\n<p><a href=\"https://techcrunch.com/2018/01/25/lyft-god-view/\">Source</a></p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1wz6nLvHnmRORyl0OI4PyIzO4rX0sAwLacJkf7M-_0hg/edit?usp=share_link\">Google Doc</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Example 1: Facebook data breach In the 2010’s, there was a data breach of up to 87 million Facebook users’&#8230;</p>\n",
+            "rendered": "<p>Example 1: ChatGPT ChatGPT is a tool that we all know and love. On the user side, using it for&#8230;</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -147,14 +577,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 8,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 228,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions/228"
+                    "id": 441,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/202/revisions/441"
                 }
             ],
             "wp:attachment": [
@@ -178,8 +608,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=198"
         },
-        "modified": "2023-01-31T17:30:14",
-        "modified_gmt": "2023-01-31T22:30:14",
+        "modified": "2023-02-24T13:32:40",
+        "modified_gmt": "2023-02-24T18:32:40",
         "slug": "crc-cards",
         "status": "publish",
         "type": "page",
@@ -188,11 +618,11 @@
             "rendered": "CRC Cards"
         },
         "content": {
-            "rendered": "\n<p>TODO 3</p>\n\n\n\n<p>aaaaaabbb</p>\n\n\n\n<p>aljdsflksjflkdj</p>\n",
+            "rendered": "\n<p><a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards.pdf\">CRC_cards.pdf</a> (higher quality)</p>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img decoding=\"async\" loading=\"lazy\" width=\"777\" height=\"1024\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-777x1024.png\" alt=\"\" class=\"wp-image-304 size-full\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-777x1024.png 777w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-228x300.png 228w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-768x1012.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1-640x844.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_1.png 842w\" sizes=\"(max-width: 777px) 100vw, 777px\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n</div></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img decoding=\"async\" loading=\"lazy\" width=\"636\" height=\"1024\" src=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-636x1024.png\" alt=\"\" class=\"wp-image-305 size-full\" srcset=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-636x1024.png 636w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-186x300.png 186w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-768x1237.png 768w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2-640x1031.png 640w, https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/02/CRC_cards_2.png 842w\" sizes=\"(max-width: 636px) 100vw, 636px\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n</div></div>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>TODO 3 aaaaaabbb aljdsflksjflkdj</p>\n",
+            "rendered": "<p>CRC_cards.pdf (higher quality)</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -233,14 +663,14 @@
             ],
             "version-history": [
                 {
-                    "count": 3,
+                    "count": 9,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/198/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 201,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/198/revisions/201"
+                    "id": 309,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/198/revisions/309"
                 }
             ],
             "wp:attachment": [
@@ -264,8 +694,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamd/?page_id=137"
         },
-        "modified": "2023-02-06T11:05:44",
-        "modified_gmt": "2023-02-06T16:05:44",
+        "modified": "2023-04-11T15:04:07",
+        "modified_gmt": "2023-04-11T19:04:07",
         "slug": "platform-selection",
         "status": "publish",
         "type": "page",
@@ -274,11 +704,11 @@
             "rendered": "Platform Selection"
         },
         "content": {
-            "rendered": "\n<h3>Language: Python</h3>\n\n\n\n<ul>\n<li>Recommended by client</li>\n\n\n\n<li>Client recommended a variety of useful Python libraries</li>\n\n\n\n<li>Simple syntax</li>\n\n\n\n<li>Popular language</li>\n\n\n\n<li>Future maintainers will likely have experience with the language</li>\n\n\n\n<li>Team comfortable with language</li>\n</ul>\n\n\n\n<h4>Alternative: C++</h4>\n\n\n\n<ul>\n<li>More complicated syntax than Python</li>\n\n\n\n<li>Less popular than Python</li>\n\n\n\n<li>Future maintainers less likely to have experience</li>\n\n\n\n<li>Client recommended only Python libraries, would have to research C++ libraries for image processing &amp; GUI creation</li>\n\n\n\n<li>Team has less experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Image processing: <a href=\"https://simpleitk.org\">SimpleITK</a></h3>\n\n\n\n<ul>\n<li><a href=\"https://simpleitk.readthedocs.io/en/master/IO.html\">Supports NRRD &amp; NIfTI file formats</a></li>\n\n\n\n<li><a href=\"https://simpleitk.readthedocs.io/en/v2.2.0/\">Intuitive documentation</a></li>\n</ul>\n\n\n\n<h4>Alternatives: <a href=\"https://nipy.org/nibabel/\">NiBabel</a>, VTK</h4>\n\n\n\n<ul>\n<li>NiBabel: <a href=\"https://nipy.org/nibabel/reference/nibabel.html\">No support for NRRD file formats</a></li>\n\n\n\n<li>VTK: <a href=\"https://vtk.org/documentation/\">Documentation</a> hard to read</li>\n\n\n\n<li>VTK: Unclear which file formats are supported</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>GUI: pyQT</h3>\n\n\n\n<ul>\n<li>Recommended by client</li>\n\n\n\n<li><a href=\"https://www.askpython.com/python-modules/top-best-python-gui-libraries\">Popular visual framework</a></li>\n\n\n\n<li><a href=\"https://doc.qt.io/qt-6/qtdesigner-manual.html\">GUI editor QtDesigner</a></li>\n</ul>\n\n\n\n<h4>Alternative: Tkinter</h4>\n\n\n\n<ul>\n<li>Team does not have experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Input text file: JSON</h3>\n\n\n\n<ul>\n<li>Client preference</li>\n\n\n\n<li>Team has experience with JSON</li>\n</ul>\n\n\n\n<h4>Alternative: YAML</h4>\n\n\n\n<ul>\n<li>Not preferred by client</li>\n\n\n\n<li>Team has little experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>Output text file: TBD</h3>\n\n\n\n<h4>Alternatives: CSV, TSV</h4>\n",
+            "rendered": "\n<p>See our <a href=\"https://headcircumferencetool.readthedocs.io/en/latest/libraries.html\">documentation</a>.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Language: Python</h3>\n\n\n\n<ul>\n<li>Recommended by client</li>\n\n\n\n<li>Client recommended a variety of useful Python libraries</li>\n\n\n\n<li>Simple syntax</li>\n\n\n\n<li>Popular language</li>\n\n\n\n<li>Future maintainers will likely have experience with the language</li>\n\n\n\n<li>Team comfortable with language</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Alternative: C++</h4>\n\n\n\n<ul>\n<li>More complicated syntax than Python</li>\n\n\n\n<li>Less popular than Python</li>\n\n\n\n<li>Future maintainers less likely to have experience</li>\n\n\n\n<li>Client recommended only Python libraries, would have to research C++ libraries for image processing &amp; GUI creation</li>\n\n\n\n<li>Team has less experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Image processing: <a href=\"https://simpleitk.org\">SimpleITK</a> (<a href=\"https://github.com/SimpleITK/SimpleITK\">GitHub</a>)</h3>\n\n\n\n<ul>\n<li><a href=\"https://simpleitk.readthedocs.io/en/master/IO.html\">Supports NRRD &amp; NIfTI file formats</a></li>\n\n\n\n<li><a href=\"https://simpleitk.readthedocs.io/en/v2.2.0/\">Intuitive documentation</a></li>\n\n\n\n<li>8.4k commits, 680 stars</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Alternatives: <a href=\"https://nipy.org/nibabel/\">NiBabel</a> (<a href=\"https://github.com/nipy/nibabel\">GitHub</a>), <a href=\"https://vtk.org\">VTK</a> (<a href=\"https://github.com/Kitware/VTK\">GitHub</a>)</h4>\n\n\n\n<ul>\n<li>NiBabel\n<ul>\n<li><a href=\"https://nipy.org/nibabel/reference/nibabel.html\">No support for NRRD file formats</a></li>\n</ul>\n</li>\n\n\n\n<li>VTK\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul>\n<li><a href=\"https://vtk.org/documentation/\">Documentation</a> hard to read</li>\n</ul>\n\n\n\n<ul>\n<li>Unclear which file formats are supported</li>\n</ul>\n</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Image visualization: <a href=\"https://www.pyqtgraph.org\">PyQtGraph</a> (<a href=\"https://github.com/pyqtgraph/pyqtgraph\">GitHub</a>)</h3>\n\n\n\n<ul>\n<li>Recommended by coach</li>\n\n\n\n<li>Supports 3D images well</li>\n\n\n\n<li>Easily integrates into PyQT</li>\n\n\n\n<li>3.6k commits &amp; 3k stars, seems well-maintained</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Alternatives: <a href=\"https://pyopengl.sourceforge.net\">PyOpenGL</a> (<a href=\"https://github.com/mcfletch/pyopengl\">GitHub</a>), <a href=\"https://vtk.org\">VTK</a> (<a href=\"https://github.com/Kitware/VTK\">GitHub</a>)</h4>\n\n\n\n<ul>\n<li>PyOpenGL\n<ul>\n<li>Last commit to GitHub repo was 2/19/22, perhaps not well-maintained</li>\n\n\n\n<li>OpenGL is a very low-level interface, and this is just an export to that. We want to use something high-level and easy to use</li>\n</ul>\n</li>\n\n\n\n<li>VTK\n<ul>\n<li>See earlier comments on VTK</li>\n</ul>\n</li>\n\n\n\n<li>Both: may not be easy to integrate into PyQt</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">GUI: PyQt (<a href=\"https://github.com/pyqt\">GitHub organization</a>)</h3>\n\n\n\n<ul>\n<li>Recommended by client</li>\n\n\n\n<li>Python binding of cross-platform GUI toolkit <a href=\"https://www.qt.io\">Qt</a> (<a href=\"https://github.com/qt\">GitHub organization</a>)</li>\n\n\n\n<li><a href=\"https://www.askpython.com/python-modules/top-best-python-gui-libraries\">Popular visual framework</a></li>\n\n\n\n<li><a href=\"https://doc.qt.io/qt-6/qtdesigner-manual.html\">GUI-based editor QtDesigner</a>\n<ul>\n<li>Seems similar to JavaFX&#8217;s SceneBuilder</li>\n</ul>\n</li>\n\n\n\n<li><a href=\"https://github.com/pyqt/examples\">Tutorial repo pyqt/examples</a></li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Alternative: Tkinter</h4>\n\n\n\n<ul>\n<li>Team does not have experience</li>\n\n\n\n<li>Less advanced capabilities</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Input text file: <a href=\"https://docs.python.org/3/library/json.html\">JSON</a></h3>\n\n\n\n<ul>\n<li>Client preference</li>\n\n\n\n<li>Team has experience with JSON</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Alternative: YAML</h4>\n\n\n\n<ul>\n<li>Not preferred by client</li>\n\n\n\n<li>Team has less experience</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Output text file: CSV</h3>\n\n\n\n<ul>\n<li>Client preference</li>\n\n\n\n<li>Very simple, widely used format for tabular data</li>\n</ul>\n\n\n\n<h4 class=\"wp-block-heading\">Alternative: TSV</h4>\n\n\n\n<ul>\n<li>Effectively the same as CSV, but less widely used</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p><a href=\"https://docs.google.com/document/d/1W2ZUjk46-LcFCMki79CXKAF7umHTdpd4-QB0D-pDcuM/edit?usp=share_link\">Google Doc</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Language: Python Alternative: C++ Image processing: SimpleITK Alternatives: NiBabel, VTK GUI: pyQT Alternative: Tkinter Input text file: JSON Alternative: YAML&#8230;</p>\n",
+            "rendered": "<p>See our documentation. Language: Python Alternative: C++ Image processing: SimpleITK (GitHub) Alternatives: NiBabel (GitHub), VTK (GitHub) Image visualization: PyQtGraph (GitHub)&#8230;</p>\n",
             "protected": false
         },
         "author": 2981,
@@ -319,14 +749,14 @@
             ],
             "version-history": [
                 {
-                    "count": 8,
+                    "count": 26,
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/137/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 225,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/137/revisions/225"
+                    "id": 442,
+                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/137/revisions/442"
                 }
             ],
             "wp:attachment": [
@@ -360,7 +790,7 @@
             "rendered": "D1. Specifications"
         },
         "content": {
-            "rendered": "\n<h2>User Stories</h2>\n\n\n\n<ul>\n<li>As a biomedical user (student/researcher), I want to be able to use a &#8220;point-and-click&#8221; and simple GUI to update user settings and compute head circumference from a single, but occasionally multiple, MRI image(s) to assist with research.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to process a batch of images one after the other for convenience.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to update multiple user settings for convenience.</li>\n\n\n\n<li>As a future maintainer of this work, I want the tool to be documented, extensible, and open source so that it can be improved easily.</li>\n\n\n\n<li>As any type of user, I want the tool to output a text file with head circumference measurements to assist with research.</li>\n\n\n\n<li>As any type of user, I want the tool to output a log of user choices in an easily parsable format (i.e. JSON) so that I have a reproducible history of my work.</li>\n</ul>\n\n\n\n<h2>Requirements</h2>\n\n\n\n<h3>Functional</h3>\n\n\n\n<ul>\n<li>Definite\n<ul>\n<li>The application will correctly compute head circumference from an MRI image.</li>\n\n\n\n<li>The user can input MRI images in NRRD/NIfTI file formats using a file menu.</li>\n\n\n\n<li>The user can reorient/rotate the image.</li>\n\n\n\n<li>The user can process a batch of images using CLI.</li>\n\n\n\n<li>The user can interact with the GUI to perform the computation on a single image.</li>\n\n\n\n<li>In addition to modifying settings interactively via GUI, the user can load program settings from a JSON file.</li>\n\n\n\n<li>The program will output a text file with head circumference measurements.\n<ul>\n<li>The text file will be easily importable into a statistics tool (e.g. CSV or TSV format).</li>\n</ul>\n</li>\n\n\n\n<li>The program will output a log of user choices in an easily parsable format (e.g. JSON).</li>\n</ul>\n</li>\n\n\n\n<li>Perhaps\n<ul>\n<li>The user can use sliders to reorient/rotate the image.</li>\n\n\n\n<li>Slider rotations will be interactive (real-time rotation).</li>\n\n\n\n<li>The GUI will display an information panel containing information about user choices, name of file, image resolution, etc.</li>\n</ul>\n</li>\n\n\n\n<li>Improbable\n<ul>\n<li>The program will apply the Fourier transform for contour smoothing.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3>Non-functional</h3>\n\n\n\n<ul>\n<li>Definite\n<ul>\n<li>The project will be open source.</li>\n\n\n\n<li>The GUI will be easy to use for non-technical users.</li>\n\n\n\n<li>The program will provide users with specific test cases and expected results.</li>\n\n\n\n<li>There will be clear documentation for the program.</li>\n\n\n\n<li>The program will be maintainable and extensible.</li>\n</ul>\n</li>\n\n\n\n<li>Perhaps\n<ul>\n<li>There will be an executable file/package (e.g. .exe, .app) for running the program.</li>\n\n\n\n<li>There will be tutorials for using the program.</li>\n</ul>\n</li>\n\n\n\n<li>Improbable</li>\n</ul>\n",
+            "rendered": "\n<h2 class=\"wp-block-heading\">User Stories</h2>\n\n\n\n<ul>\n<li>As a biomedical user (student/researcher), I want to be able to use a &#8220;point-and-click&#8221; and simple GUI to update user settings and compute head circumference from a single, but occasionally multiple, MRI image(s) to assist with research.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to process a batch of images one after the other for convenience.</li>\n\n\n\n<li>As a user with developer experience, I want to be able to use the command line to update multiple user settings for convenience.</li>\n\n\n\n<li>As a future maintainer of this work, I want the tool to be documented, extensible, and open source so that it can be improved easily.</li>\n\n\n\n<li>As any type of user, I want the tool to output a text file with head circumference measurements to assist with research.</li>\n\n\n\n<li>As any type of user, I want the tool to output a log of user choices in an easily parsable format (i.e. JSON) so that I have a reproducible history of my work.</li>\n</ul>\n\n\n\n<h2 class=\"wp-block-heading\">Requirements</h2>\n\n\n\n<h3 class=\"wp-block-heading\">Functional</h3>\n\n\n\n<ul>\n<li>Definite\n<ul>\n<li>The application will correctly compute head circumference from an MRI image.</li>\n\n\n\n<li>The user can input MRI images in NRRD/NIfTI file formats using a file menu.</li>\n\n\n\n<li>The user can reorient/rotate the image.</li>\n\n\n\n<li>The user can process a batch of images using CLI.</li>\n\n\n\n<li>The user can interact with the GUI to perform the computation on a single image.</li>\n\n\n\n<li>In addition to modifying settings interactively via GUI, the user can load program settings from a JSON file.</li>\n\n\n\n<li>The program will output a text file with head circumference measurements.\n<ul>\n<li>The text file will be easily importable into a statistics tool (e.g. CSV or TSV format).</li>\n</ul>\n</li>\n\n\n\n<li>The program will output a log of user choices in an easily parsable format (e.g. JSON).</li>\n</ul>\n</li>\n\n\n\n<li>Perhaps\n<ul>\n<li>The user can use sliders to reorient/rotate the image.</li>\n\n\n\n<li>Slider rotations will be interactive (real-time rotation).</li>\n\n\n\n<li>The GUI will display an information panel containing information about user choices, name of file, image resolution, etc.</li>\n</ul>\n</li>\n\n\n\n<li>Improbable\n<ul>\n<li>The program will apply the Fourier transform for contour smoothing.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Non-functional</h3>\n\n\n\n<ul>\n<li>Definite\n<ul>\n<li>The project will be open source.</li>\n\n\n\n<li>The GUI will be easy to use for non-technical users.</li>\n\n\n\n<li>The program will provide users with specific test cases and expected results.</li>\n\n\n\n<li>There will be clear documentation for the program.</li>\n\n\n\n<li>The program will be maintainable and extensible.</li>\n</ul>\n</li>\n\n\n\n<li>Perhaps\n<ul>\n<li>There will be an executable file/package (e.g. .exe, .app) for running the program.</li>\n\n\n\n<li>There will be tutorials for using the program.</li>\n</ul>\n</li>\n\n\n\n<li>Improbable</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -418,436 +848,6 @@
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=133"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 52,
-        "date": "2023-01-13T13:38:36",
-        "date_gmt": "2023-01-13T18:38:36",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamd/?page_id=52"
-        },
-        "modified": "2023-01-29T20:48:49",
-        "modified_gmt": "2023-01-30T01:48:49",
-        "slug": "team-rules",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamd/team-rules/",
-        "title": {
-            "rendered": "Team rules"
-        },
-        "content": {
-            "rendered": "\n<ol>\n<li>Treat each other with respect.</li>\n\n\n\n<li>Communicate in a timely manner.\n<ul>\n<li>Discord and Zoom for async/sync team communication</li>\n\n\n\n<li>Zoom, Slack, and email for client communication</li>\n\n\n\n<li>Perhaps other platforms (maybe Trello) as needs are more clearly defined</li>\n</ul>\n</li>\n\n\n\n<li>Meet roughly once per week for 15-30 min.\n<ul>\n<li>We will decide between M/W (whichever will be more productive/convenient) on a weekly basis.</li>\n</ul>\n</li>\n\n\n\n<li>If one of us will be late to or can&#8217;t attend a team meeting, then we&#8217;ll notify the team as soon as possible.</li>\n\n\n\n<li>We&#8217;re all expected to attend all client and coach meetings. If extenuating circumstances come up, then we&#8217;ll try to notify the team ASAP and provide the information that would have been shared at the meeting.</li>\n\n\n\n<li>Follow code standards. If borrowing code, cite the source. Run autoformatters.</li>\n\n\n\n<li>Try to have feature branches instead of pushing directly to the main branch (at least as things are more developed).</li>\n</ol>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 2981,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=52"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 8,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 166,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/52/revisions/166"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=52"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 50,
-        "date": "2023-01-13T13:35:09",
-        "date_gmt": "2023-01-13T18:35:09",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamd/?page_id=50"
-        },
-        "modified": "2023-01-27T23:17:24",
-        "modified_gmt": "2023-01-28T04:17:24",
-        "slug": "schedule",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamd/schedule/",
-        "title": {
-            "rendered": "Schedule"
-        },
-        "content": {
-            "rendered": "\n<ul>\n<li>Client meetings: Wednesdays 10:15 am, usually Zoom</li>\n\n\n\n<li>Coach meetings: Tuesdays 4:00 pm, Zoom</li>\n\n\n\n<li>Team meetings: Mondays or Wednesdays, in-person</li>\n</ul>\n\n\n\n\n<!-- iframe plugin v.4.5 wordpress.org/plugins/iframe/ -->\n<iframe src=\"https://calendar.google.com/calendar/embed?src=4c3965fbeb7ce26c36c8d3aac16a097ab79580a83b564211aead71b7b82617c8%40group.calendar.google.com&#038;ctz=America%2FNew_York\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" 0=\"scrolling=&quot;no”\" scrolling=\"yes\" class=\"iframe-class\"></iframe>\n\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 2981,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=50"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 132,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/50/revisions/132"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=50"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 37,
-        "date": "2023-01-13T12:33:00",
-        "date_gmt": "2023-01-13T17:33:00",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamd/?page_id=37"
-        },
-        "modified": "2023-02-06T09:13:15",
-        "modified_gmt": "2023-02-06T14:13:15",
-        "slug": "journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamd/journal/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<h3>2/8/23 (Client Zoom)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>2/7/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>TODO</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>2/1/23 (Client Zoom)</h3>\n\n\n\n<ul>\n<li>Prof. Styner inspected our user stories and requirements in <a href=\"https://tarheels.live/comp523teamd/specifications\">D1. Specifications</a>.</li>\n\n\n\n<li>He provided some feedback on the existing specs and suggested some new ones.</li>\n\n\n\n<li>The Specifications page has been updated.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/31/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Louie checked over our user stories, project concept, and requirements (WIP).</li>\n\n\n\n<li>We need to clarify the meaning of &#8220;point-and-click GUI&#8221;.</li>\n\n\n\n<li>We need to make sure our user stories are &#8220;atomic,&#8221; meaning there shouldn&#8217;t be a user story that can be split into smaller user stories.</li>\n\n\n\n<li>We asked for some advice about how to distribute work among the team.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/30/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>Discussed potential project technologies.</li>\n\n\n\n<li>Made progress on <a href=\"https://tarheels.live/comp523teamd/specifications/\">D1. Specifications</a> deliverable.</li>\n\n\n\n<li>Prepared for this week&#8217;s coach and client meeting.</li>\n\n\n\n<li>Wrote <a href=\"https://tarheels.live/comp523teamd/\">concept</a> statement for website.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/27/23 (Client in-person)</h3>\n\n\n\n<ul>\n<li>Met <a href=\"https://www.med.unc.edu/psych/directory/martin-styner/\">Professor Styner</a>!</li>\n\n\n\n<li>Prof. Styner introduced the Head Circumference Tool project.</li>\n\n\n\n<li>Recurring client meetings will be Wednesdays ~10:15 am (after class) over Zoom.\n<ul>\n<li>We may also meet in Prof. Styner&#8217;s lab in the med school sometimes.</li>\n</ul>\n</li>\n\n\n\n<li>We will communicate with Prof. Styner primarily over Slack.</li>\n\n\n\n<li>Did a team-building <em>exercise</em>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Team Discord)</h3>\n\n\n\n<ul>\n<li>Spontaneous Discord meeting, reviewed this week&#8217;s tasks.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/24/23 (Coach Zoom)</h3>\n\n\n\n<ul>\n<li>Met COMP523 coach Louie Lu.</li>\n\n\n\n<li>Louie went over the stuff due this week.</li>\n\n\n\n<li>Also went over <a href=\"https://hackmd.io/@vy0m6Zc7Q0WJ0aMT6NdBzw/S1_Egm3js\">dev environment</a>: Git, code style, kanban &amp; scrum, etc.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/20/23 (Team async discussion)</h3>\n\n\n\n<ul>\n<li>Swapped 2 preferences after very long discussion.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/18/23 (Team Zoom)</h3>\n\n\n\n<ul>\n<li>Created a document with our opinions on every project.</li>\n\n\n\n<li>Discussed our preferences. Finished selecting 6 projects from the repository.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/11/23 (Team in-person)</h3>\n\n\n\n<ul>\n<li>First team meeting!</li>\n\n\n\n<li>Created website.</li>\n\n\n\n<li>Discussed team roles, rules, and meeting times.\n<ul>\n<li>Design Lead presented a convincing argument for her role.</li>\n</ul>\n</li>\n\n\n\n<li>Made some <a href=\"https://tarheels.live/comp523teamd/wp-content/uploads/sites/4043/2023/01/COMP523-TeamD-cropped.png\">art</a>.</li>\n</ul>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3>1/9/23</h3>\n\n\n\n<ul>\n<li>Team established.</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>2/8/23 (Client Zoom) 2/7/23 (Coach Zoom) 2/1/23 (Client Zoom) 1/31/23 (Coach Zoom) 1/30/23 (Team in-person) 1/27/23 (Client in-person) 1/24/23 (Team&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 2981,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=37"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 35,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 222,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/37/revisions/222"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=37"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 28,
-        "date": "2023-01-13T12:17:33",
-        "date_gmt": "2023-01-13T17:17:33",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamd/?page_id=28"
-        },
-        "modified": "2023-01-30T20:01:42",
-        "modified_gmt": "2023-01-31T01:01:42",
-        "slug": "homepage",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamd/",
-        "title": {
-            "rendered": "Our project"
-        },
-        "content": {
-            "rendered": "\n<blockquote class=\"wp-block-quote\">\n<p></p>\n<cite>A program that allows you to calculate head circumference from MRI data.</cite></blockquote>\n\n\n\n<p>The measurement of head circumference is an important part of biomedical research; in particular, such data can be applied to studies that attempt to predict ASD early. In the past, however, researchers measured head circumference by hand with tape rulers, which was inaccurate and imprecise. A previous tool instead computed head circumference more systematically from MRI images, but the tool no longer runs correctly. Our aim is to fix and improve the Head Circumference Tool.</p>\n\n\n\n<p>Our users are primarily biomedical researchers or students who require a “point-and-click,” simple GUI interface. They will be able to modify settings, choose one 3D image at a time to work on, rotate its orientation, and compute its head circumference. A few users will have developer experience and will instead interface with the tool through the command line to process a batch of images at a time.</p>\n\n\n\n<p>By using our tool, users will receive output that contains a text file with head circumference measurements and a log of user choices in an easily parsable format (i.e. JSON). Thus, users will have a chance to copy or adjust a single measurement by modifying the choices and parameters they inputted.</p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>A program that allows you to calculate head circumference from MRI data. The measurement of head circumference is an important&#8230;</p>\n",
-            "protected": false
-        },
-        "author": 2981,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/2981"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=28"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 12,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 189,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/28/revisions/189"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=28"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 7,
-        "date": "2023-01-11T10:13:30",
-        "date_gmt": "2023-01-11T15:13:30",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamd/?page_id=7"
-        },
-        "modified": "2023-01-27T21:35:46",
-        "modified_gmt": "2023-01-28T02:35:46",
-        "slug": "team",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamd/team/",
-        "title": {
-            "rendered": "Contact"
-        },
-        "content": {
-            "rendered": "\n<div class=\"is-layout-flex wp-block-buttons\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:u1643364@cs.unc.edu,hankhe@ad.unc.edu,madiali@ad.unc.edu,jesse@cs.unc.edu\">Email all</a></div>\n</div>\n\n\n\n<ul>\n<li>Eric Schneider (Tech Lead) (<a href=\"mailto:u1643364@live.unc.edu\">u1643364@live.unc.edu</a> or <a href=\"mailto:u1643364@cs.unc.edu\">u1643364@cs.unc.edu</a>)</li>\n\n\n\n<li>Peifeng He (Tech Lead) (<a href=\"mailto:hankhe@ad.unc.edu\">hankhe@ad.unc.edu</a>)</li>\n\n\n\n<li>Madison Lester (Design Lead) (<a href=\"mailto:madiali@ad.unc.edu\">madiali@ad.unc.edu</a>)</li>\n\n\n\n<li>Jesse Wei (Client Manager) (<a href=\"mailto:jesse@cs.unc.edu\" data-type=\"mailto\" data-id=\"mailto:jesse@cs.unc.edu\">jesse@cs.unc.edu</a>)</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 1369,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/7"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/users/1369"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/comments?post=7"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 11,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/7/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 121,
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/pages/7/revisions/121"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamd/wp-json/wp/v2/media?parent=7"
                 }
             ],
             "curies": [
