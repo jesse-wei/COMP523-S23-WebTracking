@@ -1,5 +1,177 @@
 [
     {
+        "id": 257,
+        "date": "2023-04-26T22:14:27",
+        "date_gmt": "2023-04-27T02:14:27",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamb2023/?page_id=257"
+        },
+        "modified": "2023-05-03T13:28:35",
+        "modified_gmt": "2023-05-03T17:28:35",
+        "slug": "set-up-instructions",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamb2023/set-up-instructions/",
+        "title": {
+            "rendered": "Installation &amp; Environment Set-up"
+        },
+        "content": {
+            "rendered": "\n<h6 class=\"wp-block-heading\"><strong>Installation:</strong></h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li>Required Installations prior to running app\n<ul>\n<li>VS Code or other IDE\n<ul>\n<li>Navigate to this link <a href=\"https://code.visualstudio.com/download\">https://code.visualstudio.com/download</a> for VScode installation. Click on one of the download links depending on what Operating System the user is on.</li>\n</ul>\n</li>\n\n\n\n<li>NPM and NodeJS\n<ul>\n<li>Navigate to <a href=\"https://nodejs.org/en/download\">https://nodejs.org/en/download</a> and download the right installer for your operating system.</li>\n</ul>\n</li>\n\n\n\n<li>React Native&nbsp;\n<ul>\n<li>Navigate to <a href=\"https://reactnative.dev/docs/environment-setup\">https://reactnative.dev/docs/environment-setup</a> and follow the environment set-up and getting started tutorials.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6 class=\"has-small-font-size wp-block-heading\"><strong>Set up:</strong></h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li>Clone the Repository into Local development platform (for us, VSCode):\n\n\n\n\n\n\n\n\n<ul class=\"has-small-font-size\">\n<li>After installation, navigate to the <a href=\"https://github.com/rebeccarozansky/SafeEats\">GitHub repository</a> then, click on the green Code button followed by download ZIP.</li>\n\n\n\n<li>Extract the zip file using your favorite extractor. We recommend WinRAR or 7Zip.</li>\n</ul>\n\n\n\n<ul class=\"has-small-font-size\">\n<li>Open VSCode. Use keyboard shortcut&nbsp;<strong>Ctrl + Shift + P</strong>&nbsp;(Windows) or&nbsp;<strong>Command + Shift + P</strong>&nbsp;(Mac) to open the Command Palette bar at the top.</li>\n\n\n\n<li>Type “<strong>Git: Clone</strong>” into the Command Palette bar to pull up the option, then paste the URL into the bar.</li>\n</ul>\n</li>\n</ul>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/1.png\" alt=\"\" class=\"wp-image-249\" width=\"230\" height=\"210\" srcset=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/1.png 335w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/1-300x274.png 300w\" sizes=\"(max-width: 230px) 100vw, 230px\" /></figure></div>\n\n\n<ul class=\"has-small-font-size\">\n<li>Setting up your environment:\n<ul>\n<li>Launch VS Code.</li>\n\n\n\n<li>In the top bar, go to File &gt; Open Folder, then find the folder that was produced from the extraction earlier.</li>\n\n\n\n<li>In the top bar, go to Terminal &gt; New Terminal. A terminal should appear at the bottom part of the screen as shown.</li>\n\n\n\n<li>In the terminal, type in “npm install” without the quotes. This might take a while.</li>\n</ul>\n</li>\n</ul>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"529\" height=\"310\" src=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/2.png\" alt=\"\" class=\"wp-image-251\" srcset=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/2.png 529w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/2-300x176.png 300w\" sizes=\"(max-width: 529px) 100vw, 529px\" /></figure></div>\n\n\n<ul class=\"has-small-font-size\">\n<li>Launching Prerequisites:\n\n\n\n\n\n\n\n\n<ul>\n<li>iOS Simulator:\n<ul>\n<li>You will need a MacOS device in order to run it for iOS.</li>\n\n\n\n<li>Go to the Apple Store and download xCode.&nbsp;</li>\n\n\n\n<li>Launch xCode, then go to the top bar and click on Xcode &gt; Preferences.</li>\n\n\n\n<li>A new screen will pop up. Click on Components and then download one of the simulators.</li>\n</ul>\n</li>\n</ul>\n\n\n\n<ul>\n<li>Android and iOS devices:\n<ul>\n<li>Download Expo Go on the Google Play Store or Apple Store</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-full\"><img decoding=\"async\" loading=\"lazy\" width=\"558\" height=\"370\" src=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/3.png\" alt=\"\" class=\"wp-image-252\" srcset=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/3.png 558w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/04/3-300x199.png 300w\" sizes=\"(max-width: 558px) 100vw, 558px\" /></figure></div>\n\n\n<ul class=\"has-small-font-size\">\n<li>Launching the app:\n<ul class=\"has-small-font-size\">\n<li>First, create a file under the &#8216;config&#8217; folder called firebase.js and copy and paste the following code snippet into the file</li>\n</ul>\n</li>\n</ul>\n\n\n\n<pre class=\"wp-block-code\"><code>// Import the functions you need from the SDKs you need\nimport { initializeApp } from \"firebase/app\";\nimport { getAnalytics } from \"firebase/analytics\";\nimport { getAuth } from \"firebase/auth\";\nimport { getDatabase } from 'firebase/database';\n\n// TODO: Add SDKs for Firebase products that you want to use\n// https://firebase.google.com/docs/web/setup#available-libraries\n\n// Your web app's Firebase configuration\n// For Firebase JS SDK v7.20.0 and later, measurementId is optional\nconst firebaseConfig = {\n  apiKey: \"AIzaSyBmS4jgjGrVqWPB42U49KCQefk4XPZXNVw\",\n  authDomain: \"safeeats-95af3.firebaseapp.com\",\n  projectId: \"safeeats-95af3\",\n  storageBucket: \"safeeats-95af3.appspot.com\",\n  messagingSenderId: \"810418533490\",\n  appId: \"1:810418533490:web:31c42d61014b906434feeb\",\n  measurementId: \"G-G0ZSFZEZMD\",\n  databaseURL: \"https://safeeats-95af3-default-rtdb.firebaseio.com/\"\n\n};\n\n// Initialize Firebase\nconst app = initializeApp(firebaseConfig);\nconst auth = getAuth(app);\nconst analytics = getAnalytics(app);\nconst db = getDatabase(app);\n\nexport { app, auth, db};</code></pre>\n\n\n\n<ul class=\"has-small-font-size\">\n<li>Your screen should now look like this</li>\n</ul>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"780\" src=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM-1024x780.png\" alt=\"\" class=\"wp-image-268\" srcset=\"https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM-1024x780.png 1024w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM-300x228.png 300w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM-768x585.png 768w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM-1536x1169.png 1536w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM-1200x914.png 1200w, https://tarheels.live/comp523teamb2023/wp-content/uploads/sites/4039/2023/05/Screenshot-2023-05-03-at-1.27.48-PM.png 1668w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<ul class=\"has-small-font-size\">\n<li>Go to the terminal and type “npm run start”</li>\n\n\n\n<li>From there you can scan the QR code to run the app on your phone.</li>\n\n\n\n<li>You can also press i to run the app on the iOS simulator</li>\n</ul>\n\n\n\n<h6 class=\"wp-block-heading\"><strong>Technical Descriptions:&nbsp;</strong></h6>\n\n\n\n<p class=\"has-small-font-size\">The SafeEats App was developed with the React-Native JavaScript framework. We chose React Native because it’s open source, has great documentation, and has great compatibility with other applications. To store the menu data, we use Firebase which offers powerful, simple, and cost-effective object storage. They work together to provide users with the ability to login, search menus near the user, and store profile preferences. Github was used to store and manage code.</p>\n\n\n\n<ul class=\"has-small-font-size\">\n<li>React-Native offers the ability to create native apps for iOS and Android platforms with a single codebase, resulting in reduced development time and cost.</li>\n\n\n\n<li>Firebase is a platform developed by Google that provides various services and tools for building and managing mobile and web applications. It offers features such as backend services, cloud storage, real-time database, authentication, hosting, analytics, and more.&nbsp;</li>\n\n\n\n<li>VSCode is a code editor that lets us edit, manage, and update our code in a clean and simple manner. Many different code editors exist, and each has their perks. If you’re familiar with other code editors, feel free to use them. Just know that our initial directions are written for VSCode users.</li>\n\n\n\n<li>Git is an open-source library that lets us do version control on our code and share our code with each other. GitHub is a web-based, code hosting platform that enables users to collectively edit and manage code together.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Installation: Set up: Technical Descriptions:&nbsp; The SafeEats App was developed with the React-Native JavaScript framework. We chose React Native because it’s open source, has great documentation, and has great compatibility with other applications. To store the menu data, we use Firebase which offers powerful, simple, and cost-effective object storage. They work together to provide users [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 5908,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/257"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/users/5908"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/comments?post=257"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/257/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 269,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/257/revisions/269"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/media?parent=257"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 178,
+        "date": "2023-02-16T21:12:36",
+        "date_gmt": "2023-02-17T02:12:36",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teamb2023/?page_id=178"
+        },
+        "modified": "2023-02-16T22:29:43",
+        "modified_gmt": "2023-02-17T03:29:43",
+        "slug": "platform-selection",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teamb2023/platform-selection/",
+        "title": {
+            "rendered": "Platform Selection"
+        },
+        "content": {
+            "rendered": "\n<h6 class=\"wp-block-heading\">Platform Components</h6>\n\n\n\n<p class=\"has-small-font-size\">The system being developed is a web app using JavaScript as the primary programming language and the JavaScript augmentation framework React-native for the front-end. The back-end is built using Firebase, a Platform as a Service (PaaS), which provides a range of backend services such as a real-time database, authentication, and cloud storage. The system is not graphing/charting data or processing images or video at this time. The application is being developed specifically for Android and iOS operating systems.</p>\n\n\n\n<h6 class=\"wp-block-heading\">Client Requirements</h6>\n\n\n\n<p class=\"has-small-font-size\">The client has given the development team complete freedom to choose a platform and select the component technologies that best fit their needs for the web application. This approach enables the team to choose the most appropriate components for each aspect of the system, such as the front-end frameworks, back-end services, and databases, based on factors such as performance, scalability, and ease of use. By removing any restrictions or limitations on the choice of platform and components, the team can create a customized solution that is optimized for the unique needs of the project, which can result in a more efficient and effective development process and a higher quality end product.</p>\n\n\n\n<h6 class=\"wp-block-heading\">Documentation</h6>\n\n\n\n<p class=\"has-small-font-size\">The process of choosing a platform was done in two phases: first producing a list of alternatives, and then making the selection. The reason for the two-step process is to assure that we are considering the broadest alternatives.</p>\n\n\n\n<figure class=\"wp-block-table alignwide is-style-regular has-small-font-size\"><table><thead><tr><th>Technologies</th><th>Pros</th><th class=\"has-text-align-left\" data-align=\"left\">Cons</th></tr></thead><tbody><tr><td>JavaScript*</td><td>&#8211; Wide adoption and availability<br>&#8211; Rich ecosystem of frameworks and libraries<br>&#8211; Fast and responsive user interfaces<br>&#8211; Server-side rendering<br>&#8211; Cross-platform development<br>&#8211; Team is experienced in using the language</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Debugging challenges<br>&#8211; Performance issues<br>&#8211; Complexity</td></tr><tr><td>React Native*</td><td>&#8211; Cross-platform development<br>&#8211; Native performance<br>&#8211; Easy and familiar</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Limited third-party libraries<br>&#8211; Platform-specific requirements</td></tr><tr><td>Firebase*</td><td>&#8211; Easy to use, has a lot of accessible documentation<br>&#8211; Base services are free<br>&#8211; Provides a realtime database as well as user authentication</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Limited control in the application, no customizability with the provided services<br>&#8211; Very limited query capabilities compared to other alternatives<br>&#8211; Is not free once the application begins to scale up</td></tr><tr><td>VueJS</td><td>&#8211; High Performance<br>&#8211; Relatively easy to learn<br>&#8211; Flexible/versatile<br>&#8211; Lightweight</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Limited ecosystem<br>&#8211; Limited tooling<br>&#8211; Limited adoption<br>&#8211; Component complexity</td></tr><tr><td>AngularJS</td><td>&#8211; Integrates well with other technologies<br>&#8211; Allows for dependency injection<br>&#8211; Has two-way data binding which allows for dynamic and responsive systems</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Steep learning curve<br>&#8211; Performance issues since it requires manipulating the DOM<br>&#8211; Limited compatibility with other systems</td></tr><tr><td>React Bootstrap</td><td>&#8211; Integrates easily with react<br>&#8211; Quick and easy to use<br>&#8211; Easily customizable</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Limited compatibility depending on the mobile application being built<br>&#8211; Does not function well in extremely complex mobile applications<br>&#8211; Isn’t optimized for large applications</td></tr><tr><td>Express</td><td>&#8211; Extremely popular and vast documentation available<br>&#8211; Lightweight and flexible<br>&#8211; Great integration with already available NodeJs modules</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Extremely steep learning curve<br>&#8211; Doesn’t have great built in security features<br>&#8211; Limited functionality for very complex applications</td></tr><tr><td>GraphQL</td><td>&#8211; Strong typed schema<br>&#8211; Efficient queries compared to other query language APIs<br>&#8211; Simplified data fetching</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Increased complexity: Using GraphQL can introduce additional complexity to the application &#8211; &#8211; Bad learning curve</td></tr><tr><td>Post SQL</td><td>&#8211; Allows for a relational data model<br>&#8211; Allows application to have constraints, triggers, and transactions which protects the data integrity and consistency of the application<br>&#8211; Scales very well</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Requires a lot of resources (disk space and memory) to operate well<br>&#8211; Doesn’t scale well horizontally<br>&#8211; Does not migrate well</td></tr><tr><td>MongoDB</td><td>&#8211; Allows for a flexible data model<br>&#8211; Can horizontally scale very easily<br>&#8211; Data is stored in a JSON-like format which is easy to parse and manipulate</td><td class=\"has-text-align-left\" data-align=\"left\">&#8211; Unlike Post SQL, mongo does not have great relational data capabilities<br>&#8211; Queries are complex<br>&#8211; Requires a lot of resources to operate well</td></tr></tbody></table><figcaption class=\"wp-element-caption\">* denotes chosen platforms</figcaption></figure>\n\n\n\n<h6 class=\"wp-block-heading\"></h6>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Platform Components The system being developed is a web app using JavaScript as the primary programming language and the JavaScript augmentation framework React-native for the front-end. The back-end is built using Firebase, a Platform as a Service (PaaS), which provides a range of backend services such as a real-time database, authentication, and cloud storage. The [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 5908,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/178"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/users/5908"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/comments?post=178"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/178/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 191,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/178/revisions/191"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/media?parent=178"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
         "id": 2,
         "date": "2023-01-11T13:56:07",
         "date_gmt": "2023-01-11T13:56:07",
@@ -258,8 +430,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamb2023/?page_id=78"
         },
-        "modified": "2023-01-11T09:46:05",
-        "modified_gmt": "2023-01-11T14:46:05",
+        "modified": "2023-04-25T07:56:53",
+        "modified_gmt": "2023-04-25T11:56:53",
         "slug": "design-rationale-design-decisions",
         "status": "publish",
         "type": "page",
@@ -268,7 +440,7 @@
             "rendered": "Design Rationale: Design Decisions"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<ul>\n<li><strong>Nearby Restaurant API:</strong> choosing between Google, Yelp, and Bing required considering factors such as features, cost, reliability, and ease of use. Google’s API first came to mind but we quickly dismissed the idea because of the cost factor. Yelp&#8217;s API, on the other hand, is free but allows a limited number of API calls per day. We settled on Bing’s API because it provided us with everything we needed at no cost. Accessing the Bing API also had the least amount of security issues, Yelp required us to use CORS authentication.</li>\n\n\n\n<li><strong>Organization: </strong>conflicts with our organization of restaurants and menu items &#8211; due to time limitations, we chose a faster way of storing this data in the form of a JSON file and manually inputting the data instead of automatically populating it. There was no consistent API that had restaurant menus that wasn’t also free, therefore manually gathering menu data was our last option.</li>\n\n\n\n<li><strong>Cloud Storage: </strong>we use Firebase realtime database to store the state of users in our database. This option was not the fastest, however, it’s the cheapest when scaling across many users.</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -313,14 +485,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 2,
                     "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/78/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 86,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/78/revisions/86"
+                    "id": 248,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/78/revisions/248"
                 }
             ],
             "wp:attachment": [
@@ -516,8 +688,8 @@
         "guid": {
             "rendered": "https://tarheels.live/comp523teamb2023/?page_id=75"
         },
-        "modified": "2023-01-11T09:46:05",
-        "modified_gmt": "2023-01-11T14:46:05",
+        "modified": "2023-02-28T19:08:58",
+        "modified_gmt": "2023-03-01T00:08:58",
         "slug": "architecture",
         "status": "publish",
         "type": "page",
@@ -526,7 +698,7 @@
             "rendered": "Architecture"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p><img decoding=\"async\" style=\"width: 6px\" src=\"https://lh6.googleusercontent.com/ZluTfd1KoNasfmXOciNOm7A6aNpdFaxdDW9c8FrZw6riWxw7bOnERKf6egEY8c9ZMibmOzAbb4hLHocuO_0OqyjjHqvtljmDE32vU4AGcTf2j5JHkCxTXlahBwD1VwouI_eCAtMSrszEt2Rvu_q_SgN1Fg=s2048\"><img decoding=\"async\" style=\"width: 99999999px\" src=\"https://lh5.googleusercontent.com/DrUq3nzAzl1LC5gDgNeoxe7kJxGmj1kjcTu8UAK42Ig_xqfEdwScIGNf15QIFHSn1yUCwA7jh52w2IqlNKIm6Eldjok1CoVBrJt3Jq_CsnQ40jJ8q9hoP42GlZK79qcYARTHa-OY0-L-cb0pwCwiVP09GA=s2048\"></p>\n",
             "protected": false
         },
         "excerpt": {
@@ -571,14 +743,14 @@
             ],
             "version-history": [
                 {
-                    "count": 1,
+                    "count": 3,
                     "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/75/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 83,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/75/revisions/83"
+                    "id": 208,
+                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/75/revisions/208"
                 }
             ],
             "wp:attachment": [
@@ -612,7 +784,7 @@
             "rendered": "Requirements"
         },
         "content": {
-            "rendered": "\n<blockquote class=\"wp-block-quote\">\n<p class=\"has-small-font-size\">Definite: requirements we will definitely have functioning by the end oof the semester </p>\n\n\n\n<p class=\"has-small-font-size\">Perhaps: requirements we may have time to get to, but will not prioritize until category “definite” is done </p>\n\n\n\n<p class=\"has-small-font-size\">Improbable: requirements identified by the client that we most likely won’t have time to meet this semester</p>\n</blockquote>\n\n\n\n<h6>Functional Requirements:</h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li><em>Definite</em>:\n<ul>\n<li>Application must allow user to search restaurants by name and genre of food</li>\n\n\n\n<li>Application must allow users to create profiles and input specific allergies</li>\n\n\n\n<li>Application must have a filter or sort function by proximity and price range</li>\n\n\n\n<li>Application must have links to online ordering systems</li>\n\n\n\n<li>Application must have a database of all existing profiles&nbsp;</li>\n\n\n\n<li>Application must contain a tab where customers can view/access their profile&nbsp;</li>\n\n\n\n<li>Application must have a database of the partnered restaurant menus</li>\n\n\n\n<li>Application contains a section for contacting restaurant/chains themselves in case of doubt (support service)&nbsp;</li>\n\n\n\n<li>Application must be able to function with cellular data and wifi</li>\n\n\n\n<li>Application must be a mobile app</li>\n</ul>\n</li>\n\n\n\n<li><em>Perhaps</em>:\n<ul>\n<li>Application must have two separate checkpoints to ensure allergies are correctly entered&nbsp;</li>\n\n\n\n<li>Application must have accurate and updated menus</li>\n</ul>\n</li>\n\n\n\n<li><em>Improbable</em>:\n<ul>\n<li>Adding an extra category of profiles specifically for restaurant owners</li>\n\n\n\n<li>Application must have notes or severe warnings for any foods that may contain cross-contaminated ingredients</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6>Non Functional Requirements:</h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li><em>Definite</em>:\n<ul>\n<li>Application must have a friendly user interface</li>\n</ul>\n</li>\n\n\n\n<li><em>Perhaps</em>:\n<ul>\n<li>Application must have a clearly defined terms/conditions</li>\n\n\n\n<li>Application must be compatible with iOS and Android devices&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li><em>Improbable</em>:\n<ul>\n<li>Application must be able to work in airplane mode</li>\n</ul>\n</li>\n</ul>\n",
+            "rendered": "\n<blockquote class=\"wp-block-quote\">\n<p class=\"has-small-font-size\">Definite: requirements we will definitely have functioning by the end oof the semester </p>\n\n\n\n<p class=\"has-small-font-size\">Perhaps: requirements we may have time to get to, but will not prioritize until category “definite” is done </p>\n\n\n\n<p class=\"has-small-font-size\">Improbable: requirements identified by the client that we most likely won’t have time to meet this semester</p>\n</blockquote>\n\n\n\n<h6 class=\"wp-block-heading\">Functional Requirements:</h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li><em>Definite</em>:\n<ul>\n<li>Application must allow user to search restaurants by name and genre of food</li>\n\n\n\n<li>Application must allow users to create profiles and input specific allergies</li>\n\n\n\n<li>Application must have a filter or sort function by proximity and price range</li>\n\n\n\n<li>Application must have links to online ordering systems</li>\n\n\n\n<li>Application must have a database of all existing profiles&nbsp;</li>\n\n\n\n<li>Application must contain a tab where customers can view/access their profile&nbsp;</li>\n\n\n\n<li>Application must have a database of the partnered restaurant menus</li>\n\n\n\n<li>Application contains a section for contacting restaurant/chains themselves in case of doubt (support service)&nbsp;</li>\n\n\n\n<li>Application must be able to function with cellular data and wifi</li>\n\n\n\n<li>Application must be a mobile app</li>\n</ul>\n</li>\n\n\n\n<li><em>Perhaps</em>:\n<ul>\n<li>Application must have two separate checkpoints to ensure allergies are correctly entered&nbsp;</li>\n\n\n\n<li>Application must have accurate and updated menus</li>\n</ul>\n</li>\n\n\n\n<li><em>Improbable</em>:\n<ul>\n<li>Adding an extra category of profiles specifically for restaurant owners</li>\n\n\n\n<li>Application must have notes or severe warnings for any foods that may contain cross-contaminated ingredients</li>\n</ul>\n</li>\n</ul>\n\n\n\n<h6 class=\"wp-block-heading\">Non Functional Requirements:</h6>\n\n\n\n<ul class=\"has-small-font-size\">\n<li><em>Definite</em>:\n<ul>\n<li>Application must have a friendly user interface</li>\n</ul>\n</li>\n\n\n\n<li><em>Perhaps</em>:\n<ul>\n<li>Application must have a clearly defined terms/conditions</li>\n\n\n\n<li>Application must be compatible with iOS and Android devices&nbsp;</li>\n</ul>\n</li>\n\n\n\n<li><em>Improbable</em>:\n<ul>\n<li>Application must be able to work in airplane mode</li>\n</ul>\n</li>\n</ul>\n",
             "protected": false
         },
         "excerpt": {
@@ -670,178 +842,6 @@
             "wp:attachment": [
                 {
                     "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/media?parent=74"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 73,
-        "date": "2023-01-11T09:46:05",
-        "date_gmt": "2023-01-11T14:46:05",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamb2023/?page_id=73"
-        },
-        "modified": "2023-01-31T08:57:49",
-        "modified_gmt": "2023-01-31T13:57:49",
-        "slug": "user-stories",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamb2023/user-stories/",
-        "title": {
-            "rendered": "User Stories"
-        },
-        "content": {
-            "rendered": "\n<h6>People with food allergies:</h6>\n\n\n\n<ul>\n<li>As a person with a food allergy, I want to be able to access food options that are specific to me so that I can eat in a safe and easy way.</li>\n\n\n\n<li>As a person with a food allergy, I want to know where the accessible food options are in proximity to my location.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to sort my allergy-friendly food options by lowest price.</li>\n\n\n\n<li>As a person with a food allergy, I want to be able to create a profile to save my allergies so I can see food that is specific to me every time I open the app.</li>\n\n\n\n<li>As a person with a food allergy, I want to be given ordering options from other existing online ordering systems (DoorDash, UberEats, Grubhub, etc.) so that I can order the food recommended to me.</li>\n</ul>\n\n\n\n<h6>Administrator:</h6>\n\n\n\n<ul>\n<li>As an administrator, I want to make sure I am accessing accurate menu data from restaurants.</li>\n\n\n\n<li>As an administrator, I want to interact with existing online ordering systems or programs (DoorDash, UberEats, Grubhub, etc.) so that customers can order the food that is recommended to them.</li>\n\n\n\n<li>As an administrator, I want to have a dashboard of restaurants that are available on our application.</li>\n\n\n\n<li>As an administrator, I want to have a dashboard of existing profiles and the allergies associated with each profile.&nbsp;</li>\n</ul>\n\n\n\n<h6>Restaurant Vendors</h6>\n\n\n\n<ul>\n<li>As a restaurant vendor, I want to increase my client base by making my menu accessible to people with food allergies.&nbsp;</li>\n\n\n\n<li>As a restaurant vendor, I want to provide the most up-to-date menus to the application so that there is no miscommunication between me and my customers.</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>People with food allergies: Administrator: Restaurant Vendors</p>\n",
-            "protected": false
-        },
-        "author": 5908,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/73"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/users/5908"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/comments?post=73"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 4,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/73/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 146,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/73/revisions/146"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/media?parent=73"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 59,
-        "date": "2023-01-11T09:35:20",
-        "date_gmt": "2023-01-11T14:35:20",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teamb2023/?page_id=59"
-        },
-        "modified": "2023-01-11T09:35:20",
-        "modified_gmt": "2023-01-11T14:35:20",
-        "slug": "final",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teamb2023/final/",
-        "title": {
-            "rendered": "Final"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 5908,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/59"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/users/5908"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/comments?post=59"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 1,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/59/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 65,
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/pages/59/revisions/65"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teamb2023/wp-json/wp/v2/media?parent=59"
                 }
             ],
             "curies": [
