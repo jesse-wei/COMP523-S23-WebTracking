@@ -1,26 +1,26 @@
 [
     {
-        "id": 108,
-        "date": "2023-02-06T09:06:28",
-        "date_gmt": "2023-02-06T14:06:28",
+        "id": 258,
+        "date": "2023-04-30T19:12:28",
+        "date_gmt": "2023-04-30T23:12:28",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=108"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=258"
         },
-        "modified": "2023-02-06T09:06:28",
-        "modified_gmt": "2023-02-06T14:06:28",
-        "slug": "ethics-1",
+        "modified": "2023-05-02T12:23:04",
+        "modified_gmt": "2023-05-02T16:23:04",
+        "slug": "download-code",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/ethics-1/",
+        "link": "https://tarheels.live/comp523teame2023/download-code/",
         "title": {
-            "rendered": "Ethics 1"
+            "rendered": "Download Code"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p><a href=\"https://github.com/AndrewByerle/JustInTime\">JustInTime Repo</a></p>\n\n\n\n<p>Navigate to the green “code” button &gt; download zip</p>\n\n\n\n<p>See video in D5.Handoff Plan</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>JustInTime Repo Navigate to the green “code” button &gt; download zip See video in D5.Handoff Plan</p>\n",
             "protected": false
         },
         "author": 2816,
@@ -34,7 +34,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/108"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/258"
                 }
             ],
             "collection": [
@@ -56,24 +56,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=108"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=258"
                 }
             ],
             "version-history": [
                 {
-                    "count": 1,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/108/revisions"
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/258/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 110,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/108/revisions/110"
+                    "id": 267,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/258/revisions/267"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=108"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=258"
                 }
             ],
             "curies": [
@@ -86,30 +86,30 @@
         }
     },
     {
-        "id": 86,
-        "date": "2023-02-01T15:54:13",
-        "date_gmt": "2023-02-01T20:54:13",
+        "id": 240,
+        "date": "2023-04-24T08:41:26",
+        "date_gmt": "2023-04-24T12:41:26",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=86"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=240"
         },
-        "modified": "2023-02-06T08:58:49",
-        "modified_gmt": "2023-02-06T13:58:49",
-        "slug": "d1",
+        "modified": "2023-04-24T08:42:16",
+        "modified_gmt": "2023-04-24T12:42:16",
+        "slug": "final-presentation",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/d1/",
+        "link": "https://tarheels.live/comp523teame2023/final-presentation/",
         "title": {
-            "rendered": "D1 &#8211; Specifications"
+            "rendered": "Final Presentation"
         },
         "content": {
-            "rendered": "\n<p><strong>User Stories</strong></p>\n\n\n\n<p>As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. </p>\n\n\n\n<p>I want to be able to receive push notifications from my mobile device in real time when announcements are sent out.</p>\n\n\n\n<p>As an administrator of the Just in Time App</p>\n\n\n\n<p>I want to be able to easily create and send notifications to users</p>\n\n\n\n<p>So that they are informed about policy changes and other important information.</p>\n\n\n\n<p>As an administrator of the Just in Time App&nbsp;</p>\n\n\n\n<p>I want to attach video media to the notifications I send to users</p>\n\n\n\n<p>So that I can help UNC nurses learn about policy updates and other important information through visual media.</p>\n",
+            "rendered": "\n<p>Link to final presentation: https://docs.google.com/presentation/d/1Uo_-C6TZaqOdub3MMmTElC8dZcg6S4PZAYemTbu5AYA/edit#slide=id.p</p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>User Stories As a user of the Just In Time App I will be able to easily view updates from the UNC Center for Nursing Excellence and decide which category of resources receive notifications from. I want to be able to receive push notifications from my mobile device in real time when announcements are sent&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/d1/\">Continue reading <span class=\"screen-reader-text\">D1 &#8211; Specifications</span></a></p>\n",
+            "rendered": "<p>Link to final presentation: https://docs.google.com/presentation/d/1Uo_-C6TZaqOdub3MMmTElC8dZcg6S4PZAYemTbu5AYA/edit#slide=id.p</p>\n",
             "protected": false
         },
-        "author": 2816,
+        "author": 5713,
         "featured_media": 0,
         "parent": 0,
         "menu_order": 0,
@@ -120,7 +120,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/240"
                 }
             ],
             "collection": [
@@ -136,30 +136,30 @@
             "author": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/2816"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/5713"
                 }
             ],
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=86"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=240"
                 }
             ],
             "version-history": [
                 {
-                    "count": 4,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/240/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 97,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/86/revisions/97"
+                    "id": 245,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/240/revisions/245"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=86"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=240"
                 }
             ],
             "curies": [
@@ -172,27 +172,27 @@
         }
     },
     {
-        "id": 52,
-        "date": "2023-01-30T09:12:33",
-        "date_gmt": "2023-01-30T14:12:33",
+        "id": 236,
+        "date": "2023-04-14T11:35:52",
+        "date_gmt": "2023-04-14T15:35:52",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=52"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=236"
         },
-        "modified": "2023-02-06T16:20:39",
-        "modified_gmt": "2023-02-06T21:20:39",
-        "slug": "home",
+        "modified": "2023-04-30T18:59:50",
+        "modified_gmt": "2023-04-30T22:59:50",
+        "slug": "handoff-plan",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/",
+        "link": "https://tarheels.live/comp523teame2023/handoff-plan/",
         "title": {
-            "rendered": "Home"
+            "rendered": "Handoff Plan"
         },
         "content": {
-            "rendered": "\n<h1>About the App</h1>\n\n\n\n<p>Just In Time Application for UNC Nursing Staff and UNC Center for Nursing Excellence</p>\n\n\n\n<p>This is a mobile app where users (nurses) can receive useful information updates such as policy changes, new resources, and other information that is necessary for them to perform their job. Administrators can use the admin portal to add new posts to send to the nurse users.</p>\n",
+            "rendered": "\n<h2 class=\"wp-block-heading\">Handoff Plan</h2>\n\n\n\n<p>The admin app is already deployed (from last year’ project) on Firebase, so we need to update our changes and let the client know how to run it locally by clicking on the link to the website with login credentials. For the JustInTimeMobile App, instructions for deploying will be found in the readme. Our clients will also need to sign up for an Apple Developer account in order to send push notifications via the admin app to IOS devices running the mobile app. We’ve let them know of this already but this detail will be made clear in our documentation and handoff plan.</p>\n\n\n\n<h6 class=\"wp-block-heading\">Download Code</h6>\n\n\n\n<p><a href=\"https://github.com/AndrewByerle/JustInTime\">Code Rep</a>o</p>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"JustInTimeDemo IOS\" width=\"750\" height=\"563\" src=\"https://www.youtube.com/embed/aMU1VXcq7aU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</div></figure>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>About the App Just In Time Application for UNC Nursing Staff and UNC Center for Nursing Excellence This is a mobile app where users (nurses) can receive useful information updates such as policy changes, new resources, and other information that is necessary for them to perform their job. Administrators can use the admin portal to&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/\">Continue reading <span class=\"screen-reader-text\">Home</span></a></p>\n",
+            "rendered": "<p>Handoff Plan The admin app is already deployed (from last year’ project) on Firebase, so we need to update our changes and let the client know how to run it locally by clicking on the link to the website with login credentials. For the JustInTimeMobile App, instructions for deploying will be found in the readme.&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/handoff-plan/\">Continue reading <span class=\"screen-reader-text\">Handoff Plan</span></a></p>\n",
             "protected": false
         },
         "author": 13679,
@@ -206,7 +206,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/236"
                 }
             ],
             "collection": [
@@ -228,24 +228,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=52"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=236"
                 }
             ],
             "version-history": [
                 {
-                    "count": 10,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions"
+                    "count": 7,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/236/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 165,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/52/revisions/165"
+                    "id": 254,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/236/revisions/254"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=52"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=236"
                 }
             ],
             "curies": [
@@ -258,27 +258,27 @@
         }
     },
     {
-        "id": 47,
-        "date": "2023-01-30T09:05:53",
-        "date_gmt": "2023-01-30T14:05:53",
+        "id": 228,
+        "date": "2023-04-14T11:26:36",
+        "date_gmt": "2023-04-14T15:26:36",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=47"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=228"
         },
-        "modified": "2023-02-06T09:45:57",
-        "modified_gmt": "2023-02-06T14:45:57",
-        "slug": "deliverables",
+        "modified": "2023-04-14T11:28:25",
+        "modified_gmt": "2023-04-14T15:28:25",
+        "slug": "documentation-plan",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/deliverables/",
+        "link": "https://tarheels.live/comp523teame2023/documentation-plan/",
         "title": {
-            "rendered": "Deliverables"
+            "rendered": "Documentation Plan"
         },
         "content": {
-            "rendered": "\n<h1>Deliverables</h1>\n\n\n\n<h3><a href=\"https://tarheels.live/comp523teame2023/d1/\" data-type=\"page\" data-id=\"86\">D1 &#8211; Specifications</a></h3>\n\n\n\n<p>User stories and formal requirements for Just in Time.</p>\n",
+            "rendered": "\n<h1 class=\"wp-block-heading\">Documentation Plan</h1>\n\n\n\n<p>User Types:</p>\n\n\n\n<ul>\n<li>Developer</li>\n\n\n\n<li>End user\n<ul>\n<li>Nurse</li>\n\n\n\n<li>Administrator</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>Since our project involves legacy code, documentation for this semester will involve adding to the read me files on how to use the admin portal and mobile app given the changes that we made. We will also include a video covering setup and running the applications for developers in the future that take on this project.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Deliverables D1 &#8211; Specifications User stories and formal requirements for Just in Time.</p>\n",
+            "rendered": "<p>Documentation Plan User Types: Since our project involves legacy code, documentation for this semester will involve adding to the read me files on how to use the admin portal and mobile app given the changes that we made. We will also include a video covering setup and running the applications for developers in the future&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/documentation-plan/\">Continue reading <span class=\"screen-reader-text\">Documentation Plan</span></a></p>\n",
             "protected": false
         },
         "author": 13679,
@@ -292,7 +292,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/47"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/228"
                 }
             ],
             "collection": [
@@ -314,24 +314,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=47"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=228"
                 }
             ],
             "version-history": [
                 {
-                    "count": 5,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/47/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/228/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 156,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/47/revisions/156"
+                    "id": 232,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/228/revisions/232"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=47"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=228"
                 }
             ],
             "curies": [
@@ -344,27 +344,113 @@
         }
     },
     {
-        "id": 32,
-        "date": "2023-01-20T11:54:59",
-        "date_gmt": "2023-01-20T16:54:59",
+        "id": 224,
+        "date": "2023-04-03T09:06:34",
+        "date_gmt": "2023-04-03T13:06:34",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=32"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=224"
         },
-        "modified": "2023-01-20T12:04:47",
-        "modified_gmt": "2023-01-20T17:04:47",
-        "slug": "contact",
+        "modified": "2023-04-03T09:06:34",
+        "modified_gmt": "2023-04-03T13:06:34",
+        "slug": "tech-talk-push-notifications",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/contact/",
+        "link": "https://tarheels.live/comp523teame2023/tech-talk-push-notifications/",
         "title": {
-            "rendered": "Contact"
+            "rendered": "Tech Talk: Push Notifications"
         },
         "content": {
-            "rendered": "\n<p><a href=\"mailto:mcbare@email.unc.edu,andran@live.unc.edu,\tbromal23@live.unc.edu,tpgarris@live.unc.edu\">Mail the group</a></p>\n\n\n\n<p>Matthew Bare &#8211; <a href=\"mailto:mcbare@email.unc.edu\">mcbare@email.unc.edu</a><br>Andrew Byerle &#8211; <a href=\"mailto:andran@live.unc.edu\">andran@live.unc.edu</a><br>Brendan O&#8217;Malley &#8211; <a href=\"mailto:bromal23@live.unc.edu\">bromal23@live.unc.edu</a><br>Garrison Parrish &#8211; <a href=\"mailto:tpgarris@live.unc.edu\">tpgarris@live.unc.edu</a></p>\n",
+            "rendered": "\n<p>Link to presentation: https://docs.google.com/presentation/d/1h3tw_XHOIXkSCBN5EMxySAn6zr_co-UzWXvQuMNXMxM/edit#slide=id.p</p>\n\n\n\n<p></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>Mail the group Matthew Bare &#8211; mcbare@email.unc.eduAndrew Byerle &#8211; andran@live.unc.eduBrendan O&#8217;Malley &#8211; bromal23@live.unc.eduGarrison Parrish &#8211; tpgarris@live.unc.edu</p>\n",
+            "rendered": "<p>Link to presentation: https://docs.google.com/presentation/d/1h3tw_XHOIXkSCBN5EMxySAn6zr_co-UzWXvQuMNXMxM/edit#slide=id.p</p>\n",
+            "protected": false
+        },
+        "author": 5713,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/224"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/5713"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=224"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/224/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 226,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/224/revisions/226"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=224"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 217,
+        "date": "2023-03-31T12:04:13",
+        "date_gmt": "2023-03-31T16:04:13",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=217"
+        },
+        "modified": "2023-03-31T12:07:08",
+        "modified_gmt": "2023-03-31T16:07:08",
+        "slug": "test-plan",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teame2023/test-plan/",
+        "title": {
+            "rendered": "D3 &#8211; Test Plan"
+        },
+        "content": {
+            "rendered": "\n<p>What we would do if we had all the time we needed:</p>\n\n\n\n<ul>\n<li>Notification Testing\n<ul>\n<li>Notifications are tricky because they occur outside of the app. This would involve further investigation and looking into testing that works for notifications specifically. Right now, the easiest way to test if the notification feature is by using the application as intended, that is, sending a message from the admin portal and as a result a notification is sent to the mobile device.</li>\n</ul>\n</li>\n\n\n\n<li>Testing Embedded Videos\n<ul>\n<li>We are using iFrames from the Web View library and it is difficult to control the content in the iFrame itself inside of the Web View. If there are additional elements as a result of browsing in the iFrame link, such as a login page, it is harder to test this.&nbsp;</li>\n</ul>\n</li>\n</ul>\n\n\n\n<p>What we are actually going to do:</p>\n\n\n\n<ul>\n<li>Unit Testing\n<ul>\n<li>Using the Jest testing framework to check that each page of the app is displaying as expected.</li>\n</ul>\n</li>\n\n\n\n<li>Integration and System Testing\n<ul>\n<li>We will have unit tests for individual components that are related to the user interface and the flow of the application. For example, testing that a back button renders and appears on the app and the related time and date loads correctly. As for the tools used, we are using Jest and npm version 9.5.0 and node version 18.15.0. To run our test scripts, use the command “npm test – –watchAll”. This test script is used for testing both the mobile app and the admin portal components. We used the Expo mobile app on our physical devices to test features on our app without having to deploy it to the App Store or the Google Play Store.&nbsp;</li>\n\n\n\n<li>End users are intended to have iOS and Android operating systems and for admin portal desktop testing, we are using Google Chrome.</li>\n</ul>\n</li>\n\n\n\n<li>Performance and Reliability\n<ul>\n<li>More test features are needed to test more complex interactions in the app. This could also include testing that the app is formatted correctly on different devices, accounting for different proportions and screen sizes.</li>\n</ul>\n</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>What we would do if we had all the time we needed: What we are actually going to do:</p>\n",
             "protected": false
         },
         "author": 13679,
@@ -378,7 +464,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/32"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/217"
                 }
             ],
             "collection": [
@@ -400,24 +486,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=32"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=217"
                 }
             ],
             "version-history": [
                 {
-                    "count": 4,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/32/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/217/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 40,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/32/revisions/40"
+                    "id": 221,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/217/revisions/221"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=32"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=217"
                 }
             ],
             "curies": [
@@ -430,113 +516,27 @@
         }
     },
     {
-        "id": 2,
-        "date": "2023-01-16T23:04:18",
-        "date_gmt": "2023-01-16T23:04:18",
+        "id": 207,
+        "date": "2023-03-24T11:24:36",
+        "date_gmt": "2023-03-24T15:24:36",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=2"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=207"
         },
-        "modified": "2023-02-06T09:53:51",
-        "modified_gmt": "2023-02-06T14:53:51",
-        "slug": "sample-page",
+        "modified": "2023-03-24T11:26:40",
+        "modified_gmt": "2023-03-24T15:26:40",
+        "slug": "apples-reflection-1",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/sample-page/",
+        "link": "https://tarheels.live/comp523teame2023/apples-reflection-1/",
         "title": {
-            "rendered": "About Us"
+            "rendered": "APPLES Reflection 1"
         },
         "content": {
-            "rendered": "\n<h1>About Us</h1>\n\n\n\n<ul>\n<li>Brendan O&#8217;Malley </li>\n\n\n\n<li>Andrew Byerle</li>\n\n\n\n<li>Matthew Bare</li>\n\n\n\n<li>Garrison Parish</li>\n</ul>\n\n\n\n<h2>Team Rules</h2>\n\n\n\n<ul>\n<li>Treat others the way you want to be treated</li>\n\n\n\n<li>Communication will be clear amongst all group members</li>\n\n\n\n<li>Everyone will work hard to do equal work for the project</li>\n\n\n\n<li>There will always be a heads up in the event that one group member cannot meet a deadline</li>\n\n\n\n<li>We will meet once a week to go over progress outside of our coach&#8217;s meeting</li>\n\n\n\n<li>We will keep the client&#8217;s time in mind and respond in an appropriate manner</li>\n</ul>\n",
+            "rendered": "\n<p>Our application, called Just In Time, is a project for the UNC Nursing Staff and UNC Center for Nursing Excellence. The team has been regularly meeting with our client, Ashley Kellish, and other members of the UNC Nursing Staff to provide updates regarding progress of the application. Overall, the application serves as a way for nurses to communicate updates with each other. It is imperative that the nurses use a form of instant communication as they are always out and moving and rarely will have time for organized meetings.</p>\n\n\n\n<p>The need that we are meeting with the JustInTime application is a quick, clear, and centralized communication hub via notifications for UNC nurses. Previously, there has not been a customized system for UNC Nursing staff to receive information updates besides traditional methods like email and broad purpose business applications. The JustInTime application meets this need by providing an admin interface for messages to be sent from and a mobile app that alerts Nurses on their mobile phones.</p>\n\n\n\n<p>In the world of healthcare it is particularly important for care providers to receive certain information on time. For instance, policy updates or updates to best practices for nursing should be quickly and clearly communicated. Giving admins the ability to send out instant notifications and letting users customize their feed allows UNC Nursing to send out information much quicker than existing methods like email or staff meetings.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "<p>About Us Team Rules</p>\n",
-            "protected": false
-        },
-        "author": 2816,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "open",
-        "template": "",
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/types/page"
-                }
-            ],
-            "author": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/2816"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=2"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 9,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions"
-                }
-            ],
-            "predecessor-version": [
-                {
-                    "id": 163,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/2/revisions/163"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=2"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https://api.w.org/{rel}",
-                    "templated": true
-                }
-            ]
-        }
-    },
-    {
-        "id": 7,
-        "date": "2023-01-16T18:21:49",
-        "date_gmt": "2023-01-16T23:21:49",
-        "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=7"
-        },
-        "modified": "2023-02-02T09:02:39",
-        "modified_gmt": "2023-02-02T14:02:39",
-        "slug": "journal",
-        "status": "publish",
-        "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/journal/",
-        "title": {
-            "rendered": "Journal"
-        },
-        "content": {
-            "rendered": "\n<p>January 30th</p>\n\n\n\n<ul>\n<li>Team met with client for the first time to discuss initial wants for the product</li>\n</ul>\n\n\n\n<p>January 27th</p>\n\n\n\n<ul>\n<li>Team met to decide questions to ask our client in our initial meeting</li>\n</ul>\n\n\n\n<p>January 26th</p>\n\n\n\n<ul>\n<li>Team met with Coach for first Coach&#8217;s meeting and discussed what to expect in the next few months</li>\n</ul>\n\n\n\n<p>January 20th</p>\n\n\n\n<ul>\n<li>Team met to decide rankings for project proposals</li>\n</ul>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>January 30th January 27th January 26th January 20th</p>\n",
+            "rendered": "<p>Our application, called Just In Time, is a project for the UNC Nursing Staff and UNC Center for Nursing Excellence. The team has been regularly meeting with our client, Ashley Kellish, and other members of the UNC Nursing Staff to provide updates regarding progress of the application. Overall, the application serves as a way for&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/apples-reflection-1/\">Continue reading <span class=\"screen-reader-text\">APPLES Reflection 1</span></a></p>\n",
             "protected": false
         },
         "author": 2816,
@@ -550,7 +550,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/7"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/207"
                 }
             ],
             "collection": [
@@ -572,24 +572,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=7"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=207"
                 }
             ],
             "version-history": [
                 {
-                    "count": 6,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/7/revisions"
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/207/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 91,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/7/revisions/91"
+                    "id": 212,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/207/revisions/212"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=7"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=207"
                 }
             ],
             "curies": [
@@ -602,27 +602,27 @@
         }
     },
     {
-        "id": 6,
-        "date": "2023-01-16T18:21:49",
-        "date_gmt": "2023-01-16T23:21:49",
+        "id": 194,
+        "date": "2023-02-24T12:30:46",
+        "date_gmt": "2023-02-24T17:30:46",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=6"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=194"
         },
-        "modified": "2023-01-16T18:21:49",
-        "modified_gmt": "2023-01-16T23:21:49",
-        "slug": "assignments",
+        "modified": "2023-02-26T20:06:55",
+        "modified_gmt": "2023-02-27T01:06:55",
+        "slug": "midterm-1",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/assignments/",
+        "link": "https://tarheels.live/comp523teame2023/midterm-1/",
         "title": {
-            "rendered": "Assignments"
+            "rendered": "Midterm 1"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p>Link to Midterm Presentation: <a href=\"https://docs.google.com/presentation/d/1HXt6Aghio7AuUzdspUo5IW-TiYMuwNb6mABfLUvify0/edit#slide=id.g21148234365_0_16\">https://docs.google.com/presentation/d/1HXt6Aghio7AuUzdspUo5IW-TiYMuwNb6mABfLUvify0/edit#slide=id.g21148234365_0_16</a></p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Link to Midterm Presentation: https://docs.google.com/presentation/d/1HXt6Aghio7AuUzdspUo5IW-TiYMuwNb6mABfLUvify0/edit#slide=id.g21148234365_0_16</p>\n",
             "protected": false
         },
         "author": 2816,
@@ -636,7 +636,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/6"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/194"
                 }
             ],
             "collection": [
@@ -658,24 +658,110 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=6"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=194"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/194/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 200,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/194/revisions/200"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=194"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 189,
+        "date": "2023-02-24T12:20:10",
+        "date_gmt": "2023-02-24T17:20:10",
+        "guid": {
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=189"
+        },
+        "modified": "2023-02-24T12:20:10",
+        "modified_gmt": "2023-02-24T17:20:10",
+        "slug": "architecture-diagram",
+        "status": "publish",
+        "type": "page",
+        "link": "https://tarheels.live/comp523teame2023/architecture-diagram/",
+        "title": {
+            "rendered": "Architecture Diagram"
+        },
+        "content": {
+            "rendered": "\n<p> </p>\n\n\n\n<p><img decoding=\"async\" loading=\"lazy\" src=\"https://lh4.googleusercontent.com/JQ4ky7kSN2qxgGSCPhEwfr2mRCzIYVHvpucu0reKOzyJHYyAiMTewRWLEmGcWb11tQJo0wt22bCSvk81XvdJhVviYk53I8uL6HilQHJYa6klXMiFPna9vh7SwkxvvPJf77CXl3wOQ8Iy_dKiRSGgCbc\" width=\"624\" height=\"351\"></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p> </p>\n",
+            "protected": false
+        },
+        "author": 2816,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/189"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/types/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/users/2816"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=189"
                 }
             ],
             "version-history": [
                 {
                     "count": 1,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/6/revisions"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/189/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 14,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/6/revisions/14"
+                    "id": 191,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/189/revisions/191"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=6"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=189"
                 }
             ],
             "curies": [
@@ -688,27 +774,27 @@
         }
     },
     {
-        "id": 5,
-        "date": "2023-01-16T18:21:49",
-        "date_gmt": "2023-01-16T23:21:49",
+        "id": 179,
+        "date": "2023-02-17T11:13:18",
+        "date_gmt": "2023-02-17T16:13:18",
         "guid": {
-            "rendered": "https://tarheels.live/comp523teame2023/?page_id=5"
+            "rendered": "https://tarheels.live/comp523teame2023/?page_id=179"
         },
-        "modified": "2023-01-16T18:21:49",
-        "modified_gmt": "2023-01-16T23:21:49",
-        "slug": "schedule",
+        "modified": "2023-02-17T11:30:30",
+        "modified_gmt": "2023-02-17T16:30:30",
+        "slug": "platform-selection",
         "status": "publish",
         "type": "page",
-        "link": "https://tarheels.live/comp523teame2023/schedule/",
+        "link": "https://tarheels.live/comp523teame2023/platform-selection/",
         "title": {
-            "rendered": "Schedule"
+            "rendered": "Platform Selection"
         },
         "content": {
-            "rendered": "",
+            "rendered": "\n<p></p>\n\n\n\n<p>Front End: React Native for the mobile app, React for the admin app.</p>\n\n\n\n<p>Back End: Firebase</p>\n\n\n\n<p>Languages: HTML, CSS, JavaScript</p>\n\n\n\n<p>Database: Firebase RealTime Database</p>\n\n\n\n<p>Libraries: Expo go. Used for real device testing, running ios and android simulators.</p>\n\n\n\n<p>Hosting: Firebase Hosting</p>\n\n\n\n<p>We are using the React Native Firebase tech stack because our project is a legacy codebase and these decisions were made by the group before us.</p>\n",
             "protected": false
         },
         "excerpt": {
-            "rendered": "",
+            "rendered": "<p>Front End: React Native for the mobile app, React for the admin app. Back End: Firebase Languages: HTML, CSS, JavaScript Database: Firebase RealTime Database Libraries: Expo go. Used for real device testing, running ios and android simulators. Hosting: Firebase Hosting We are using the React Native Firebase tech stack because our project is a legacy&hellip; <a class=\"more-link\" href=\"https://tarheels.live/comp523teame2023/platform-selection/\">Continue reading <span class=\"screen-reader-text\">Platform Selection</span></a></p>\n",
             "protected": false
         },
         "author": 2816,
@@ -722,7 +808,7 @@
         "_links": {
             "self": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/5"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/179"
                 }
             ],
             "collection": [
@@ -744,24 +830,24 @@
             "replies": [
                 {
                     "embeddable": true,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=5"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/comments?post=179"
                 }
             ],
             "version-history": [
                 {
-                    "count": 1,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/5/revisions"
+                    "count": 3,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/179/revisions"
                 }
             ],
             "predecessor-version": [
                 {
-                    "id": 12,
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/5/revisions/12"
+                    "id": 188,
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/pages/179/revisions/188"
                 }
             ],
             "wp:attachment": [
                 {
-                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=5"
+                    "href": "https://tarheels.live/comp523teame2023/wp-json/wp/v2/media?parent=179"
                 }
             ],
             "curies": [
